@@ -1,0 +1,48 @@
+{
+  "id": "3316",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Blora",
+    "en": "Blora",
+    "slug": "blora-3316"
+  },
+  "code": {
+    "id": "3316",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 269
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.97",
+    "lon": "111.415"
+  },
+  "metadata": {},
+  "source": {}
+}

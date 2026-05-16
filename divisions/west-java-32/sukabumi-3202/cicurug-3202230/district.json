@@ -1,0 +1,56 @@
+{
+  "id": "3202230",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cicurug",
+    "en": "Cicurug",
+    "slug": "cicurug-3202230"
+  },
+  "code": {
+    "id": "3202230",
+    "iso": null
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.765",
+    "lon": "106.8"
+  },
+  "metadata": {},
+  "source": {}
+}

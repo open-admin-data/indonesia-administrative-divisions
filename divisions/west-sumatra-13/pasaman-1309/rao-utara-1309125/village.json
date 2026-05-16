@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1309125001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Nopan",
+      "en": "Koto Nopan",
+      "slug": "koto-nopan-1309125001"
+    },
+    "code": {
+      "id": "1309125001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309125",
+      "level": 3,
+      "name": {
+        "local": "Rao Utara",
+        "en": "Rao Utara",
+        "slug": "rao-utara-1309125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309125",
+        "level": 3,
+        "name": {
+          "local": "Rao Utara",
+          "en": "Rao Utara",
+          "slug": "rao-utara-1309125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26357"
+    ],
+    "geo": {
+      "lat": "0.798",
+      "lon": "99.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309125002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Rajo",
+      "en": "Koto Rajo",
+      "slug": "koto-rajo-1309125002"
+    },
+    "code": {
+      "id": "1309125002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309125",
+      "level": 3,
+      "name": {
+        "local": "Rao Utara",
+        "en": "Rao Utara",
+        "slug": "rao-utara-1309125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309125",
+        "level": 3,
+        "name": {
+          "local": "Rao Utara",
+          "en": "Rao Utara",
+          "slug": "rao-utara-1309125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26357"
+    ],
+    "geo": {
+      "lat": "0.686",
+      "lon": "100.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309125003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Languang",
+      "en": "Languang",
+      "slug": "languang-1309125003"
+    },
+    "code": {
+      "id": "1309125003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309125",
+      "level": 3,
+      "name": {
+        "local": "Rao Utara",
+        "en": "Rao Utara",
+        "slug": "rao-utara-1309125"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309125",
+        "level": 3,
+        "name": {
+          "local": "Rao Utara",
+          "en": "Rao Utara",
+          "slug": "rao-utara-1309125"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26357"
+    ],
+    "geo": {
+      "lat": "0.62",
+      "lon": "100.047"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

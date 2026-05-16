@@ -1,0 +1,56 @@
+{
+  "id": "3573030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Klojen",
+    "en": "Klojen",
+    "slug": "klojen-3573030"
+  },
+  "code": {
+    "id": "3573030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3573",
+    "level": 2,
+    "name": {
+      "local": "Kota Malang",
+      "en": "Malang",
+      "slug": "malang-3573"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3573",
+      "level": 2,
+      "name": {
+        "local": "Kota Malang",
+        "en": "Malang",
+        "slug": "malang-3573"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.975",
+    "lon": "112.626"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1701",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bengkulu Selatan",
+    "en": "Bengkulu Selatan",
+    "slug": "bengkulu-selatan-1701"
+  },
+  "code": {
+    "id": "1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 159
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.44",
+    "lon": "102.895"
+  },
+  "metadata": {},
+  "source": {}
+}

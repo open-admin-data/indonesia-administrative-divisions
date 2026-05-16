@@ -1,0 +1,56 @@
+{
+  "id": "3322050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pabelan",
+    "en": "Pabelan",
+    "slug": "pabelan-3322050"
+  },
+  "code": {
+    "id": "3322050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3322",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Semarang",
+      "en": "Semarang",
+      "slug": "semarang-3322"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3322",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Semarang",
+        "en": "Semarang",
+        "slug": "semarang-3322"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.302",
+    "lon": "110.541"
+  },
+  "metadata": {},
+  "source": {}
+}

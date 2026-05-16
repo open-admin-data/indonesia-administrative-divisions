@@ -1,0 +1,56 @@
+{
+  "id": "1106010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Linge",
+    "en": "Linge",
+    "slug": "linge-1106010"
+  },
+  "code": {
+    "id": "1106010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tengah",
+      "en": "Aceh Tengah",
+      "slug": "aceh-tengah-1106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.363",
+    "lon": "97.074"
+  },
+  "metadata": {},
+  "source": {}
+}

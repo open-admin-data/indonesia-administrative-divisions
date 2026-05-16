@@ -1,0 +1,56 @@
+{
+  "id": "9403140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kemtuk",
+    "en": "Kemtuk",
+    "slug": "kemtuk-9403140"
+  },
+  "code": {
+    "id": "9403140",
+    "iso": null
+  },
+  "parent": {
+    "id": "9403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jayapura",
+      "en": "Jayapura",
+      "slug": "jayapura-9403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jayapura",
+        "en": "Jayapura",
+        "slug": "jayapura-9403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.663",
+    "lon": "140.437"
+  },
+  "metadata": {},
+  "source": {}
+}

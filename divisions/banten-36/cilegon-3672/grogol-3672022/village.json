@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3672022008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Grogol",
+      "en": "Grogol",
+      "slug": "grogol-3672022008"
+    },
+    "code": {
+      "id": "3672022008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3672022",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3672022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3672",
+        "level": 2,
+        "name": {
+          "local": "Kota Cilegon",
+          "en": "Cilegon",
+          "slug": "cilegon-3672"
+        }
+      },
+      {
+        "id": "3672022",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3672022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42436"
+    ],
+    "geo": {
+      "lat": "-5.972",
+      "lon": "106.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3672022007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kotasari",
+      "en": "Kotasari",
+      "slug": "kotasari-3672022007"
+    },
+    "code": {
+      "id": "3672022007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3672022",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3672022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3672",
+        "level": 2,
+        "name": {
+          "local": "Kota Cilegon",
+          "en": "Cilegon",
+          "slug": "cilegon-3672"
+        }
+      },
+      {
+        "id": "3672022",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3672022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42436"
+    ],
+    "geo": {
+      "lat": "-5.995",
+      "lon": "106.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3672022009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rawa Arum",
+      "en": "Rawa Arum",
+      "slug": "rawa-arum-3672022009"
+    },
+    "code": {
+      "id": "3672022009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3672022",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3672022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3672",
+        "level": 2,
+        "name": {
+          "local": "Kota Cilegon",
+          "en": "Cilegon",
+          "slug": "cilegon-3672"
+        }
+      },
+      {
+        "id": "3672022",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3672022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42436"
+    ],
+    "geo": {
+      "lat": "-5.982",
+      "lon": "106.011"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

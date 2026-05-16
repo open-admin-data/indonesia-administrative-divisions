@@ -1,0 +1,56 @@
+{
+  "id": "1307062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Pua",
+    "en": "Sungai Pua",
+    "slug": "sungai-pua-1307062"
+  },
+  "code": {
+    "id": "1307062",
+    "iso": null
+  },
+  "parent": {
+    "id": "1307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Agam",
+      "en": "Agam",
+      "slug": "agam-1307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Agam",
+        "en": "Agam",
+        "slug": "agam-1307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.362",
+    "lon": "100.402"
+  },
+  "metadata": {},
+  "source": {}
+}

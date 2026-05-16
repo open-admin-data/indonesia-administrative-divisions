@@ -1,0 +1,56 @@
+{
+  "id": "1704071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Padang Guci Hilir",
+    "en": "Padang Guci Hilir",
+    "slug": "padang-guci-hilir-1704071"
+  },
+  "code": {
+    "id": "1704071",
+    "iso": null
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kaur",
+      "en": "Kaur",
+      "slug": "kaur-1704"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaur",
+        "en": "Kaur",
+        "slug": "kaur-1704"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.492",
+    "lon": "103.141"
+  },
+  "metadata": {},
+  "source": {}
+}

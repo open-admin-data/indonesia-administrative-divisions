@@ -1,0 +1,56 @@
+{
+  "id": "1401050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuantan Hilir",
+    "en": "Kuantan Hilir",
+    "slug": "kuantan-hilir-1401050"
+  },
+  "code": {
+    "id": "1401050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kuantan Singingi",
+      "en": "Kuantan Singingi",
+      "slug": "kuantan-singingi-1401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.41",
+    "lon": "101.779"
+  },
+  "metadata": {},
+  "source": {}
+}

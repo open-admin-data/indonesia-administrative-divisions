@@ -1,0 +1,48 @@
+{
+  "id": "1801",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lampung Barat",
+    "en": "Lampung Barat",
+    "slug": "lampung-barat-1801"
+  },
+  "code": {
+    "id": "1801",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 136
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.718",
+    "lon": "105.585"
+  },
+  "metadata": {},
+  "source": {}
+}

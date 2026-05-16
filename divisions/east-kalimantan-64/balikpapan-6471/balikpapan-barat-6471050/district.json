@@ -1,0 +1,56 @@
+{
+  "id": "6471050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Balikpapan Barat",
+    "en": "Balikpapan Barat",
+    "slug": "balikpapan-barat-6471050"
+  },
+  "code": {
+    "id": "6471050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6471",
+    "level": 2,
+    "name": {
+      "local": "Kota Balikpapan",
+      "en": "Balikpapan",
+      "slug": "balikpapan-6471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6471",
+      "level": 2,
+      "name": {
+        "local": "Kota Balikpapan",
+        "en": "Balikpapan",
+        "slug": "balikpapan-6471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.141",
+    "lon": "116.804"
+  },
+  "metadata": {},
+  "source": {}
+}

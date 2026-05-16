@@ -1,0 +1,522 @@
+[
+  {
+    "id": "7103110008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kawaluso",
+      "en": "Kawaluso",
+      "slug": "kawaluso-7103110008"
+    },
+    "code": {
+      "id": "7103110008",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "4.167",
+      "lon": "125.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103110001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kendahe Dua",
+      "en": "Kendahe Dua",
+      "slug": "kendahe-dua-7103110001"
+    },
+    "code": {
+      "id": "7103110001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "3.666",
+      "lon": "125.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103110002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kendahe Satu",
+      "en": "Kendahe Satu",
+      "slug": "kendahe-satu-7103110002"
+    },
+    "code": {
+      "id": "7103110002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "3.691",
+      "lon": "125.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103110007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lipaeng",
+      "en": "Lipaeng",
+      "slug": "lipaeng-7103110007"
+    },
+    "code": {
+      "id": "7103110007",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "3.822",
+      "lon": "125.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103110006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mohongsawang",
+      "en": "Mohongsawang",
+      "slug": "mohongsawang-7103110006"
+    },
+    "code": {
+      "id": "7103110006",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "3.725",
+      "lon": "125.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103110005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pempalaraeng",
+      "en": "Pempalaraeng",
+      "slug": "pempalaraeng-7103110005"
+    },
+    "code": {
+      "id": "7103110005",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "3.724",
+      "lon": "125.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103110003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talawid",
+      "en": "Talawid",
+      "slug": "talawid-7103110003"
+    },
+    "code": {
+      "id": "7103110003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "3.706",
+      "lon": "125.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103110004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tarianglama",
+      "en": "Tarianglama",
+      "slug": "tarianglama-7103110004"
+    },
+    "code": {
+      "id": "7103110004",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103110",
+      "level": 3,
+      "name": {
+        "local": "Kendahe",
+        "en": "Kendahe",
+        "slug": "kendahe-7103110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103110",
+        "level": 3,
+        "name": {
+          "local": "Kendahe",
+          "en": "Kendahe",
+          "slug": "kendahe-7103110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95852"
+    ],
+    "geo": {
+      "lat": "3.714",
+      "lon": "125.426"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

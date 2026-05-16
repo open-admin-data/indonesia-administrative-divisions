@@ -1,0 +1,56 @@
+{
+  "id": "1109151",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Grong Grong",
+    "en": "Grong Grong",
+    "slug": "grong-grong-1109151"
+  },
+  "code": {
+    "id": "1109151",
+    "iso": null
+  },
+  "parent": {
+    "id": "1109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie",
+      "en": "Pidie",
+      "slug": "pidie-1109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie",
+        "en": "Pidie",
+        "slug": "pidie-1109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.374",
+    "lon": "95.902"
+  },
+  "metadata": {},
+  "source": {}
+}

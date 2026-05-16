@@ -1,0 +1,48 @@
+{
+  "id": "3214",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Purwakarta",
+    "en": "Purwakarta",
+    "slug": "purwakarta-3214"
+  },
+  "code": {
+    "id": "3214",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 186
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.556",
+    "lon": "107.441"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3514050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lumbang",
+    "en": "Lumbang",
+    "slug": "lumbang-3514050"
+  },
+  "code": {
+    "id": "3514050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3514",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pasuruan",
+      "en": "Pasuruan",
+      "slug": "pasuruan-3514"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3514",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pasuruan",
+        "en": "Pasuruan",
+        "slug": "pasuruan-3514"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.831",
+    "lon": "112.991"
+  },
+  "metadata": {},
+  "source": {}
+}

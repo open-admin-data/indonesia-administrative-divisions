@@ -1,0 +1,56 @@
+{
+  "id": "1808052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rawajitu Selatan",
+    "en": "Rawajitu Selatan",
+    "slug": "rawajitu-selatan-1808052"
+  },
+  "code": {
+    "id": "1808052",
+    "iso": null
+  },
+  "parent": {
+    "id": "1808",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulangbawang",
+      "en": "Tulangbawang",
+      "slug": "tulangbawang-1808"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1808",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulangbawang",
+        "en": "Tulangbawang",
+        "slug": "tulangbawang-1808"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.244",
+    "lon": "105.714"
+  },
+  "metadata": {},
+  "source": {}
+}

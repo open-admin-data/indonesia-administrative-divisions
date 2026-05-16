@@ -1,0 +1,56 @@
+{
+  "id": "3520110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maospati",
+    "en": "Maospati",
+    "slug": "maospati-3520110"
+  },
+  "code": {
+    "id": "3520110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3520",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Magetan",
+      "en": "Magetan",
+      "slug": "magetan-3520"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.6",
+    "lon": "111.444"
+  },
+  "metadata": {},
+  "source": {}
+}

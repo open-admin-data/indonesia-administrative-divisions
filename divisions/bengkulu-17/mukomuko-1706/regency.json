@@ -1,0 +1,48 @@
+{
+  "id": "1706",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mukomuko",
+    "en": "Mukomuko",
+    "slug": "mukomuko-1706"
+  },
+  "code": {
+    "id": "1706",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 152
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.553",
+    "lon": "101.104"
+  },
+  "metadata": {},
+  "source": {}
+}

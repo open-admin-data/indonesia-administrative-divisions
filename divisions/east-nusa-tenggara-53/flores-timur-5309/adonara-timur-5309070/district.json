@@ -1,0 +1,56 @@
+{
+  "id": "5309070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Adonara Timur",
+    "en": "Adonara Timur",
+    "slug": "adonara-timur-5309070"
+  },
+  "code": {
+    "id": "5309070",
+    "iso": null
+  },
+  "parent": {
+    "id": "5309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Flores Timur",
+      "en": "Flores Timur",
+      "slug": "flores-timur-5309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Flores Timur",
+        "en": "Flores Timur",
+        "slug": "flores-timur-5309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.353",
+    "lon": "123.175"
+  },
+  "metadata": {},
+  "source": {}
+}

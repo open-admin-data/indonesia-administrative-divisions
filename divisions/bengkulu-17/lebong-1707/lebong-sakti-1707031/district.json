@@ -1,0 +1,56 @@
+{
+  "id": "1707031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lebong Sakti",
+    "en": "Lebong Sakti",
+    "slug": "lebong-sakti-1707031"
+  },
+  "code": {
+    "id": "1707031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1707",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lebong",
+      "en": "Lebong",
+      "slug": "lebong-1707"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.114",
+    "lon": "102.28"
+  },
+  "metadata": {},
+  "source": {}
+}

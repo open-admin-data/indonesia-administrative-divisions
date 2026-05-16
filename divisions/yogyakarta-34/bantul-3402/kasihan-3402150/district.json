@@ -1,0 +1,56 @@
+{
+  "id": "3402150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kasihan",
+    "en": "Kasihan",
+    "slug": "kasihan-3402150"
+  },
+  "code": {
+    "id": "3402150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bantul",
+      "en": "Bantul",
+      "slug": "bantul-3402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.815",
+    "lon": "110.317"
+  },
+  "metadata": {},
+  "source": {}
+}

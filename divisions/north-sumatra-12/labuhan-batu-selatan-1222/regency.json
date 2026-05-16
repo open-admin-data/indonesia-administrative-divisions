@@ -1,0 +1,48 @@
+{
+  "id": "1222",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Labuhan Batu Selatan",
+    "en": "Labuhan Batu Selatan",
+    "slug": "labuhan-batu-selatan-1222"
+  },
+  "code": {
+    "id": "1222",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Utara",
+      "en": "North Sumatra",
+      "slug": "north-sumatra-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.868",
+    "lon": "100.041"
+  },
+  "metadata": {},
+  "source": {}
+}

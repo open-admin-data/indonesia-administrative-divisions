@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "3302140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ajibarang",
+      "en": "Ajibarang",
+      "slug": "ajibarang-3302140"
+    },
+    "code": {
+      "id": "3302140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.424",
+      "lon": "109.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyumas",
+      "en": "Banyumas",
+      "slug": "banyumas-3302110"
+    },
+    "code": {
+      "id": "3302110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.529",
+      "lon": "109.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baturraden",
+      "en": "Baturraden",
+      "slug": "baturraden-3302200"
+    },
+    "code": {
+      "id": "3302200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.323",
+      "lon": "109.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cilongok",
+      "en": "Cilongok",
+      "slug": "cilongok-3302170"
+    },
+    "code": {
+      "id": "3302170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.373",
+      "lon": "109.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gumelar",
+      "en": "Gumelar",
+      "slug": "gumelar-3302150"
+    },
+    "code": {
+      "id": "3302150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.396",
+      "lon": "108.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jatilawang",
+      "en": "Jatilawang",
+      "slug": "jatilawang-3302030"
+    },
+    "code": {
+      "id": "3302030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.54",
+      "lon": "109.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalibagor",
+      "en": "Kalibagor",
+      "slug": "kalibagor-3302100"
+    },
+    "code": {
+      "id": "3302100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.486",
+      "lon": "109.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karanglewas",
+      "en": "Karanglewas",
+      "slug": "karanglewas-3302180"
+    },
+    "code": {
+      "id": "3302180",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.39",
+      "lon": "109.188"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kebasen",
+      "en": "Kebasen",
+      "slug": "kebasen-3302050"
+    },
+    "code": {
+      "id": "3302050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.542",
+      "lon": "109.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedung Banteng",
+      "en": "Kedung Banteng",
+      "slug": "kedung-banteng-3302190"
+    },
+    "code": {
+      "id": "3302190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.332",
+      "lon": "109.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kembaran",
+      "en": "Kembaran",
+      "slug": "kembaran-3302220"
+    },
+    "code": {
+      "id": "3302220",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.415",
+      "lon": "109.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kemranjen",
+      "en": "Kemranjen",
+      "slug": "kemranjen-3302060"
+    },
+    "code": {
+      "id": "3302060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.591",
+      "lon": "109.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lumbir",
+      "en": "Lumbir",
+      "slug": "lumbir-3302010"
+    },
+    "code": {
+      "id": "3302010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.457",
+      "lon": "108.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Patikraja",
+      "en": "Patikraja",
+      "slug": "patikraja-3302120"
+    },
+    "code": {
+      "id": "3302120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.471",
+      "lon": "109.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pekuncen",
+      "en": "Pekuncen",
+      "slug": "pekuncen-3302160"
+    },
+    "code": {
+      "id": "3302160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.34",
+      "lon": "109.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwojati",
+      "en": "Purwojati",
+      "slug": "purwojati-3302130"
+    },
+    "code": {
+      "id": "3302130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.489",
+      "lon": "109.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302720",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwokerto Barat",
+      "en": "Purwokerto Barat",
+      "slug": "purwokerto-barat-3302720"
+    },
+    "code": {
+      "id": "3302720",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.423",
+      "lon": "109.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302710",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwokerto Selatan",
+      "en": "Purwokerto Selatan",
+      "slug": "purwokerto-selatan-3302710"
+    },
+    "code": {
+      "id": "3302710",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.453",
+      "lon": "109.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302730",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwokerto Timur",
+      "en": "Purwokerto Timur",
+      "slug": "purwokerto-timur-3302730"
+    },
+    "code": {
+      "id": "3302730",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.422",
+      "lon": "109.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302740",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwokerto Utara",
+      "en": "Purwokerto Utara",
+      "slug": "purwokerto-utara-3302740"
+    },
+    "code": {
+      "id": "3302740",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.4",
+      "lon": "109.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rawalo",
+      "en": "Rawalo",
+      "slug": "rawalo-3302040"
+    },
+    "code": {
+      "id": "3302040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.531",
+      "lon": "109.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302230",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sokaraja",
+      "en": "Sokaraja",
+      "slug": "sokaraja-3302230"
+    },
+    "code": {
+      "id": "3302230",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.451",
+      "lon": "109.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Somagede",
+      "en": "Somagede",
+      "slug": "somagede-3302090"
+    },
+    "code": {
+      "id": "3302090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.518",
+      "lon": "109.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumbang",
+      "en": "Sumbang",
+      "slug": "sumbang-3302210"
+    },
+    "code": {
+      "id": "3302210",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.324",
+      "lon": "109.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumpiuh",
+      "en": "Sumpiuh",
+      "slug": "sumpiuh-3302070"
+    },
+    "code": {
+      "id": "3302070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.601",
+      "lon": "109.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambak",
+      "en": "Tambak",
+      "slug": "tambak-3302080"
+    },
+    "code": {
+      "id": "3302080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.593",
+      "lon": "109.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3302020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wangon",
+      "en": "Wangon",
+      "slug": "wangon-3302020"
+    },
+    "code": {
+      "id": "3302020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyumas",
+          "en": "Banyumas",
+          "slug": "banyumas-3302"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.513",
+      "lon": "109.047"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

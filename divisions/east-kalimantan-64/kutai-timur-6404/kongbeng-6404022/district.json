@@ -1,0 +1,56 @@
+{
+  "id": "6404022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kongbeng",
+    "en": "Kongbeng",
+    "slug": "kongbeng-6404022"
+  },
+  "code": {
+    "id": "6404022",
+    "iso": null
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Timur",
+      "en": "Kutai Timur",
+      "slug": "kutai-timur-6404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Timur",
+        "en": "Kutai Timur",
+        "slug": "kutai-timur-6404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.293",
+    "lon": "117.07"
+  },
+  "metadata": {},
+  "source": {}
+}

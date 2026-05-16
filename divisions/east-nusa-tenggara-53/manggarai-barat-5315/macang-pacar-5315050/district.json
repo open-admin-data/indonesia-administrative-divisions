@@ -1,0 +1,56 @@
+{
+  "id": "5315050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Macang Pacar",
+    "en": "Macang Pacar",
+    "slug": "macang-pacar-5315050"
+  },
+  "code": {
+    "id": "5315050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5315",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Barat",
+      "en": "Manggarai Barat",
+      "slug": "manggarai-barat-5315"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Barat",
+        "en": "Manggarai Barat",
+        "slug": "manggarai-barat-5315"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.425",
+    "lon": "120.207"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "7407",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Wakatobi",
+    "en": "Wakatobi",
+    "slug": "wakatobi-7407"
+  },
+  "code": {
+    "id": "7407",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi",
+      "slug": "southeast-sulawesi-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 99
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.328",
+    "lon": "23.539"
+  },
+  "metadata": {},
+  "source": {}
+}

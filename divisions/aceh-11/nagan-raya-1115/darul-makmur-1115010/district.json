@@ -1,0 +1,56 @@
+{
+  "id": "1115010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Darul Makmur",
+    "en": "Darul Makmur",
+    "slug": "darul-makmur-1115010"
+  },
+  "code": {
+    "id": "1115010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1115",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nagan Raya",
+      "en": "Nagan Raya",
+      "slug": "nagan-raya-1115"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1115",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nagan Raya",
+        "en": "Nagan Raya",
+        "slug": "nagan-raya-1115"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.954",
+    "lon": "96.574"
+  },
+  "metadata": {},
+  "source": {}
+}

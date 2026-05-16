@@ -1,0 +1,56 @@
+{
+  "id": "1703071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batik Nau",
+    "en": "Batik Nau",
+    "slug": "batik-nau-1703071"
+  },
+  "code": {
+    "id": "1703071",
+    "iso": null
+  },
+  "parent": {
+    "id": "1703",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Utara",
+      "en": "Bengkulu Utara",
+      "slug": "bengkulu-utara-1703"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Utara",
+        "en": "Bengkulu Utara",
+        "slug": "bengkulu-utara-1703"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.385",
+    "lon": "102.009"
+  },
+  "metadata": {},
+  "source": {}
+}

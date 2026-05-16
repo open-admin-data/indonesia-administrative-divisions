@@ -1,0 +1,56 @@
+{
+  "id": "6402051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bentian Besar",
+    "en": "Bentian Besar",
+    "slug": "bentian-besar-6402051"
+  },
+  "code": {
+    "id": "6402051",
+    "iso": null
+  },
+  "parent": {
+    "id": "6402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Barat",
+      "en": "Kutai Barat",
+      "slug": "kutai-barat-6402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Barat",
+        "en": "Kutai Barat",
+        "slug": "kutai-barat-6402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.878",
+    "lon": "115.705"
+  },
+  "metadata": {},
+  "source": {}
+}

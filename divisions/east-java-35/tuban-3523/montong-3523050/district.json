@@ -1,0 +1,56 @@
+{
+  "id": "3523050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Montong",
+    "en": "Montong",
+    "slug": "montong-3523050"
+  },
+  "code": {
+    "id": "3523050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3523",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tuban",
+      "en": "Tuban",
+      "slug": "tuban-3523"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3523",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tuban",
+        "en": "Tuban",
+        "slug": "tuban-3523"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.974",
+    "lon": "111.884"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "3218030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cigugur",
+      "en": "Cigugur",
+      "slug": "cigugur-3218030"
+    },
+    "code": {
+      "id": "3218030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.618",
+      "lon": "108.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cijulang",
+      "en": "Cijulang",
+      "slug": "cijulang-3218020"
+    },
+    "code": {
+      "id": "3218020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.721",
+      "lon": "108.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cimerak",
+      "en": "Cimerak",
+      "slug": "cimerak-3218010"
+    },
+    "code": {
+      "id": "3218010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.744",
+      "lon": "108.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalipucang",
+      "en": "Kalipucang",
+      "slug": "kalipucang-3218080"
+    },
+    "code": {
+      "id": "3218080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.631",
+      "lon": "108.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langkaplancar",
+      "en": "Langkaplancar",
+      "slug": "langkaplancar-3218040"
+    },
+    "code": {
+      "id": "3218040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.559",
+      "lon": "108.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mangunjaya",
+      "en": "Mangunjaya",
+      "slug": "mangunjaya-3218100"
+    },
+    "code": {
+      "id": "3218100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.489",
+      "lon": "108.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padaherang",
+      "en": "Padaherang",
+      "slug": "padaherang-3218090"
+    },
+    "code": {
+      "id": "3218090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.546",
+      "lon": "108.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangandaran",
+      "en": "Pangandaran",
+      "slug": "pangandaran-3218070"
+    },
+    "code": {
+      "id": "3218070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.655",
+      "lon": "108.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Parigi",
+      "en": "Parigi",
+      "slug": "parigi-3218050"
+    },
+    "code": {
+      "id": "3218050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.639",
+      "lon": "108.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3218060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sidamulih",
+      "en": "Sidamulih",
+      "slug": "sidamulih-3218060"
+    },
+    "code": {
+      "id": "3218060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3218",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pangandaran",
+          "en": "Pangandaran",
+          "slug": "pangandaran-3218"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.62",
+      "lon": "108.587"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

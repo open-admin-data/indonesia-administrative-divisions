@@ -1,0 +1,56 @@
+{
+  "id": "3175040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Koja",
+    "en": "Koja",
+    "slug": "koja-3175040"
+  },
+  "code": {
+    "id": "3175040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3175",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Utara",
+      "en": "Jakarta Utara",
+      "slug": "jakarta-utara-3175"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3175",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Utara",
+        "en": "Jakarta Utara",
+        "slug": "jakarta-utara-3175"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.121",
+    "lon": "106.906"
+  },
+  "metadata": {},
+  "source": {}
+}

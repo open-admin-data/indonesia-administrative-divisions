@@ -1,0 +1,782 @@
+[
+  {
+    "id": "7205100020",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Amal",
+      "en": "Amal",
+      "slug": "amal-7205100020"
+    },
+    "code": {
+      "id": "7205100020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.55",
+      "lon": "119.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dalaka",
+      "en": "Dalaka",
+      "slug": "dalaka-7205100001"
+    },
+    "code": {
+      "id": "7205100001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.65",
+      "lon": "119.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100021",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kavaya",
+      "en": "Kavaya",
+      "slug": "kavaya-7205100021"
+    },
+    "code": {
+      "id": "7205100021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.571",
+      "lon": "119.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kumbasa",
+      "en": "Kumbasa",
+      "slug": "kumbasa-7205100018"
+    },
+    "code": {
+      "id": "7205100018",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.598",
+      "lon": "119.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lero",
+      "en": "Lero",
+      "slug": "lero-7205100002"
+    },
+    "code": {
+      "id": "7205100002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.616",
+      "lon": "119.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lero Tatari",
+      "en": "Lero Tatari",
+      "slug": "lero-tatari-7205100016"
+    },
+    "code": {
+      "id": "7205100016",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.641",
+      "lon": "119.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marana",
+      "en": "Marana",
+      "slug": "marana-7205100007"
+    },
+    "code": {
+      "id": "7205100007",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.567",
+      "lon": "119.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Masaingi",
+      "en": "Masaingi",
+      "slug": "masaingi-7205100006"
+    },
+    "code": {
+      "id": "7205100006",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.585",
+      "lon": "119.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumari",
+      "en": "Sumari",
+      "slug": "sumari-7205100004"
+    },
+    "code": {
+      "id": "7205100004",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.589",
+      "lon": "119.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Taripa",
+      "en": "Taripa",
+      "slug": "taripa-7205100005"
+    },
+    "code": {
+      "id": "7205100005",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.567",
+      "lon": "119.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Toaya",
+      "en": "Toaya",
+      "slug": "toaya-7205100003"
+    },
+    "code": {
+      "id": "7205100003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.592",
+      "lon": "119.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Toaya Vunta",
+      "en": "Toaya Vunta",
+      "slug": "toaya-vunta-7205100017"
+    },
+    "code": {
+      "id": "7205100017",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205100",
+      "level": 3,
+      "name": {
+        "local": "Sindue",
+        "en": "Sindue",
+        "slug": "sindue-7205100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      },
+      {
+        "id": "7205100",
+        "level": 3,
+        "name": {
+          "local": "Sindue",
+          "en": "Sindue",
+          "slug": "sindue-7205100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94353"
+    ],
+    "geo": {
+      "lat": "-0.606",
+      "lon": "119.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

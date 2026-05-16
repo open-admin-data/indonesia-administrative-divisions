@@ -1,0 +1,392 @@
+[
+  {
+    "id": "3572010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Blitar",
+      "en": "Blitar",
+      "slug": "blitar-3572010004"
+    },
+    "code": {
+      "id": "3572010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572010",
+      "level": 3,
+      "name": {
+        "local": "Sukorejo",
+        "en": "Sukorejo",
+        "slug": "sukorejo-3572010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      },
+      {
+        "id": "3572010",
+        "level": 3,
+        "name": {
+          "local": "Sukorejo",
+          "en": "Sukorejo",
+          "slug": "sukorejo-3572010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66121"
+    ],
+    "geo": {
+      "lat": "-8.105",
+      "lon": "112.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3572010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangsari",
+      "en": "Karangsari",
+      "slug": "karangsari-3572010002"
+    },
+    "code": {
+      "id": "3572010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572010",
+      "level": 3,
+      "name": {
+        "local": "Sukorejo",
+        "en": "Sukorejo",
+        "slug": "sukorejo-3572010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      },
+      {
+        "id": "3572010",
+        "level": 3,
+        "name": {
+          "local": "Sukorejo",
+          "en": "Sukorejo",
+          "slug": "sukorejo-3572010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66121"
+    ],
+    "geo": {
+      "lat": "-8.112",
+      "lon": "112.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3572010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakunden",
+      "en": "Pakunden",
+      "slug": "pakunden-3572010006"
+    },
+    "code": {
+      "id": "3572010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572010",
+      "level": 3,
+      "name": {
+        "local": "Sukorejo",
+        "en": "Sukorejo",
+        "slug": "sukorejo-3572010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      },
+      {
+        "id": "3572010",
+        "level": 3,
+        "name": {
+          "local": "Sukorejo",
+          "en": "Sukorejo",
+          "slug": "sukorejo-3572010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66121"
+    ],
+    "geo": {
+      "lat": "-8.094",
+      "lon": "112.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3572010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukorejo",
+      "en": "Sukorejo",
+      "slug": "sukorejo-3572010005"
+    },
+    "code": {
+      "id": "3572010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572010",
+      "level": 3,
+      "name": {
+        "local": "Sukorejo",
+        "en": "Sukorejo",
+        "slug": "sukorejo-3572010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      },
+      {
+        "id": "3572010",
+        "level": 3,
+        "name": {
+          "local": "Sukorejo",
+          "en": "Sukorejo",
+          "slug": "sukorejo-3572010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66121"
+    ],
+    "geo": {
+      "lat": "-8.096",
+      "lon": "112.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3572010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjungsari",
+      "en": "Tanjungsari",
+      "slug": "tanjungsari-3572010007"
+    },
+    "code": {
+      "id": "3572010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572010",
+      "level": 3,
+      "name": {
+        "local": "Sukorejo",
+        "en": "Sukorejo",
+        "slug": "sukorejo-3572010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      },
+      {
+        "id": "3572010",
+        "level": 3,
+        "name": {
+          "local": "Sukorejo",
+          "en": "Sukorejo",
+          "slug": "sukorejo-3572010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66121"
+    ],
+    "geo": {
+      "lat": "-8.084",
+      "lon": "112.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3572010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Turi",
+      "en": "Turi",
+      "slug": "turi-3572010003"
+    },
+    "code": {
+      "id": "3572010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572010",
+      "level": 3,
+      "name": {
+        "local": "Sukorejo",
+        "en": "Sukorejo",
+        "slug": "sukorejo-3572010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      },
+      {
+        "id": "3572010",
+        "level": 3,
+        "name": {
+          "local": "Sukorejo",
+          "en": "Sukorejo",
+          "slug": "sukorejo-3572010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66121"
+    ],
+    "geo": {
+      "lat": "-8.107",
+      "lon": "112.154"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

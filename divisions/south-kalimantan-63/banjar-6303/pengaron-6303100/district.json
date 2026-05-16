@@ -1,0 +1,56 @@
+{
+  "id": "6303100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pengaron",
+    "en": "Pengaron",
+    "slug": "pengaron-6303100"
+  },
+  "code": {
+    "id": "6303100",
+    "iso": null
+  },
+  "parent": {
+    "id": "6303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banjar",
+      "en": "Banjar",
+      "slug": "banjar-6303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banjar",
+        "en": "Banjar",
+        "slug": "banjar-6303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.302",
+    "lon": "115.163"
+  },
+  "metadata": {},
+  "source": {}
+}

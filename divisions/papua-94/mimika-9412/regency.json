@@ -1,0 +1,48 @@
+{
+  "id": "9412",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mimika",
+    "en": "Mimika",
+    "slug": "mimika-9412"
+  },
+  "code": {
+    "id": "9412",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 145
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.455",
+    "lon": "137.136"
+  },
+  "metadata": {},
+  "source": {}
+}

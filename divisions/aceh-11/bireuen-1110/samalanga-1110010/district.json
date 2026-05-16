@@ -1,0 +1,56 @@
+{
+  "id": "1110010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samalanga",
+    "en": "Samalanga",
+    "slug": "samalanga-1110010"
+  },
+  "code": {
+    "id": "1110010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bireuen",
+      "en": "Bireuen",
+      "slug": "bireuen-1110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.081",
+    "lon": "96.358"
+  },
+  "metadata": {},
+  "source": {}
+}

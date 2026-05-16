@@ -1,0 +1,56 @@
+{
+  "id": "3571020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Kediri",
+    "en": "Kota Kediri",
+    "slug": "kota-kediri-3571020"
+  },
+  "code": {
+    "id": "3571020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3571",
+    "level": 2,
+    "name": {
+      "local": "Kota Kediri",
+      "en": "Kediri",
+      "slug": "kediri-3571"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3571",
+      "level": 2,
+      "name": {
+        "local": "Kota Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3571"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.829",
+    "lon": "112.019"
+  },
+  "metadata": {},
+  "source": {}
+}

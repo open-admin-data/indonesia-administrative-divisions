@@ -1,0 +1,56 @@
+{
+  "id": "3527040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Camplong",
+    "en": "Camplong",
+    "slug": "camplong-3527040"
+  },
+  "code": {
+    "id": "3527040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3527",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sampang",
+      "en": "Sampang",
+      "slug": "sampang-3527"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.184",
+    "lon": "113.331"
+  },
+  "metadata": {},
+  "source": {}
+}

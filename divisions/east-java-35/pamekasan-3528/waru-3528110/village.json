@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3528110002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bajur",
+      "en": "Bajur",
+      "slug": "bajur-3528110002"
+    },
+    "code": {
+      "id": "3528110002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-7.007",
+      "lon": "113.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ragang",
+      "en": "Ragang",
+      "slug": "ragang-3528110003"
+    },
+    "code": {
+      "id": "3528110003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.99",
+      "lon": "113.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sana Laok",
+      "en": "Sana Laok",
+      "slug": "sana-laok-3528110008"
+    },
+    "code": {
+      "id": "3528110008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.977",
+      "lon": "113.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumber Waru",
+      "en": "Sumber Waru",
+      "slug": "sumber-waru-3528110001"
+    },
+    "code": {
+      "id": "3528110001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-7.009",
+      "lon": "113.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tampojung Guwa",
+      "en": "Tampojung Guwa",
+      "slug": "tampojung-guwa-3528110006"
+    },
+    "code": {
+      "id": "3528110006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.996",
+      "lon": "113.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tampojung Pregi",
+      "en": "Tampojung Pregi",
+      "slug": "tampojung-pregi-3528110007"
+    },
+    "code": {
+      "id": "3528110007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.987",
+      "lon": "113.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tampojung Tengah",
+      "en": "Tampojung Tengah",
+      "slug": "tampojung-tengah-3528110005"
+    },
+    "code": {
+      "id": "3528110005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.981",
+      "lon": "113.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tampojung Tenggina",
+      "en": "Tampojung Tenggina",
+      "slug": "tampojung-tenggina-3528110004"
+    },
+    "code": {
+      "id": "3528110004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.995",
+      "lon": "113.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tegangser Laok",
+      "en": "Tegangser Laok",
+      "slug": "tegangser-laok-3528110012"
+    },
+    "code": {
+      "id": "3528110012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.938",
+      "lon": "113.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tlontoares",
+      "en": "Tlontoares",
+      "slug": "tlontoares-3528110011"
+    },
+    "code": {
+      "id": "3528110011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.93",
+      "lon": "113.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waru Barat",
+      "en": "Waru Barat",
+      "slug": "waru-barat-3528110010"
+    },
+    "code": {
+      "id": "3528110010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.95",
+      "lon": "113.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3528110009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waru Timur",
+      "en": "Waru Timur",
+      "slug": "waru-timur-3528110009"
+    },
+    "code": {
+      "id": "3528110009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3528110",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-3528110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3528",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pamekasan",
+          "en": "Pamekasan",
+          "slug": "pamekasan-3528"
+        }
+      },
+      {
+        "id": "3528110",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-3528110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69353"
+    ],
+    "geo": {
+      "lat": "-6.961",
+      "lon": "113.57"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

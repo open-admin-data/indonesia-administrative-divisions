@@ -1,0 +1,56 @@
+{
+  "id": "3671031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karawaci",
+    "en": "Karawaci",
+    "slug": "karawaci-3671031"
+  },
+  "code": {
+    "id": "3671031",
+    "iso": null
+  },
+  "parent": {
+    "id": "3671",
+    "level": 2,
+    "name": {
+      "local": "Kota Tangerang",
+      "en": "Tangerang",
+      "slug": "tangerang-3671"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3671",
+      "level": 2,
+      "name": {
+        "local": "Kota Tangerang",
+        "en": "Tangerang",
+        "slug": "tangerang-3671"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.183",
+    "lon": "106.618"
+  },
+  "metadata": {},
+  "source": {}
+}

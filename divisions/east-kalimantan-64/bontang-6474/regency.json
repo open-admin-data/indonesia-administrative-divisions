@@ -1,0 +1,48 @@
+{
+  "id": "6474",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Bontang",
+    "en": "Bontang",
+    "slug": "bontang-6474"
+  },
+  "code": {
+    "id": "6474",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Timur",
+      "en": "East Kalimantan",
+      "slug": "east-kalimantan-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 3,
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.07",
+    "lon": "117.444"
+  },
+  "metadata": {},
+  "source": {}
+}

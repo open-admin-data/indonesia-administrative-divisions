@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1410050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merbau",
+      "en": "Merbau",
+      "slug": "merbau-1410050"
+    },
+    "code": {
+      "id": "1410050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.081",
+      "lon": "102.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Merbau",
+      "en": "Pulau Merbau",
+      "slug": "pulau-merbau-1410051"
+    },
+    "code": {
+      "id": "1410051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.037",
+      "lon": "102.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rangsang",
+      "en": "Rangsang",
+      "slug": "rangsang-1410030"
+    },
+    "code": {
+      "id": "1410030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "103.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rangsang Barat",
+      "en": "Rangsang Barat",
+      "slug": "rangsang-barat-1410040"
+    },
+    "code": {
+      "id": "1410040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.074",
+      "lon": "102.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rangsang Pesisir",
+      "en": "Rangsang Pesisir",
+      "slug": "rangsang-pesisir-1410031"
+    },
+    "code": {
+      "id": "1410031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.067",
+      "lon": "102.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tasik Putri Puyu",
+      "en": "Tasik Putri Puyu",
+      "slug": "tasik-putri-puyu-1410052"
+    },
+    "code": {
+      "id": "1410052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.248",
+      "lon": "102.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tebing Tinggi",
+      "en": "Tebing Tinggi",
+      "slug": "tebing-tinggi-1410020"
+    },
+    "code": {
+      "id": "1410020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.983",
+      "lon": "102.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tebing Tinggi Barat",
+      "en": "Tebing Tinggi Barat",
+      "slug": "tebing-tinggi-barat-1410010"
+    },
+    "code": {
+      "id": "1410010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.885",
+      "lon": "102.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1410021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tebing Tinggi Timur",
+      "en": "Tebing Tinggi Timur",
+      "slug": "tebing-tinggi-timur-1410021"
+    },
+    "code": {
+      "id": "1410021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Meranti",
+          "en": "Kepulauan Meranti",
+          "slug": "kepulauan-meranti-1410"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.829",
+      "lon": "102.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

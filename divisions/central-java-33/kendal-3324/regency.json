@@ -1,0 +1,48 @@
+{
+  "id": "3324",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kendal",
+    "en": "Kendal",
+    "slug": "kendal-3324"
+  },
+  "code": {
+    "id": "3324",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 20,
+    "village": 276
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.923",
+    "lon": "110.204"
+  },
+  "metadata": {},
+  "source": {}
+}

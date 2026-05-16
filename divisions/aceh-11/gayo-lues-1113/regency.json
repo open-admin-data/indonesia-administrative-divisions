@@ -1,0 +1,48 @@
+{
+  "id": "1113",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gayo Lues",
+    "en": "Gayo Lues",
+    "slug": "gayo-lues-1113"
+  },
+  "code": {
+    "id": "1113",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 145
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.993",
+    "lon": "97.325"
+  },
+  "metadata": {},
+  "source": {}
+}

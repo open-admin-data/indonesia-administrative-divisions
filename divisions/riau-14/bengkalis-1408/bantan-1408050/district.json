@@ -1,0 +1,56 @@
+{
+  "id": "1408050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bantan",
+    "en": "Bantan",
+    "slug": "bantan-1408050"
+  },
+  "code": {
+    "id": "1408050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkalis",
+      "en": "Bengkalis",
+      "slug": "bengkalis-1408"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.449",
+    "lon": "102.307"
+  },
+  "metadata": {},
+  "source": {}
+}

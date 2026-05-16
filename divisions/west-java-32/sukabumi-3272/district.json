@@ -1,0 +1,394 @@
+[
+  {
+    "id": "3272010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baros",
+      "en": "Baros",
+      "slug": "baros-3272010"
+    },
+    "code": {
+      "id": "3272010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.957",
+      "lon": "106.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibeureum",
+      "en": "Cibeureum",
+      "slug": "cibeureum-3272012"
+    },
+    "code": {
+      "id": "3272012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.939",
+      "lon": "106.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikole",
+      "en": "Cikole",
+      "slug": "cikole-3272050"
+    },
+    "code": {
+      "id": "3272050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.915",
+      "lon": "106.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Citamiang",
+      "en": "Citamiang",
+      "slug": "citamiang-3272020"
+    },
+    "code": {
+      "id": "3272020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.938",
+      "lon": "106.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunung Puyuh",
+      "en": "Gunung Puyuh",
+      "slug": "gunung-puyuh-3272040"
+    },
+    "code": {
+      "id": "3272040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.906",
+      "lon": "106.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembursitu",
+      "en": "Lembursitu",
+      "slug": "lembursitu-3272011"
+    },
+    "code": {
+      "id": "3272011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.962",
+      "lon": "106.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Warudoyong",
+      "en": "Warudoyong",
+      "slug": "warudoyong-3272030"
+    },
+    "code": {
+      "id": "3272030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.932",
+      "lon": "106.914"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

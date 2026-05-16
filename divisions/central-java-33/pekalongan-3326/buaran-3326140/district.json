@@ -1,0 +1,56 @@
+{
+  "id": "3326140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buaran",
+    "en": "Buaran",
+    "slug": "buaran-3326140"
+  },
+  "code": {
+    "id": "3326140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pekalongan",
+      "en": "Pekalongan",
+      "slug": "pekalongan-3326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pekalongan",
+        "en": "Pekalongan",
+        "slug": "pekalongan-3326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.939",
+    "lon": "109.659"
+  },
+  "metadata": {},
+  "source": {}
+}

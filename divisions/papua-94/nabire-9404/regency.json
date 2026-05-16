@@ -1,0 +1,48 @@
+{
+  "id": "9404",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Nabire",
+    "en": "Nabire",
+    "slug": "nabire-9404"
+  },
+  "code": {
+    "id": "9404",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 83
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.456",
+    "lon": "136.854"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "7173010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Jawa",
+      "en": "Kampung Jawa",
+      "slug": "kampung-jawa-7173010005"
+    },
+    "code": {
+      "id": "7173010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.294",
+      "lon": "124.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lahendong",
+      "en": "Lahendong",
+      "slug": "lahendong-7173010003"
+    },
+    "code": {
+      "id": "7173010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.276",
+      "lon": "124.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lansot",
+      "en": "Lansot",
+      "slug": "lansot-7173010007"
+    },
+    "code": {
+      "id": "7173010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.306",
+      "lon": "124.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pangolombian",
+      "en": "Pangolombian",
+      "slug": "pangolombian-7173010002"
+    },
+    "code": {
+      "id": "7173010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.276",
+      "lon": "124.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pinaras",
+      "en": "Pinaras",
+      "slug": "pinaras-7173010004"
+    },
+    "code": {
+      "id": "7173010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.293",
+      "lon": "124.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tondangow",
+      "en": "Tondangow",
+      "slug": "tondangow-7173010001"
+    },
+    "code": {
+      "id": "7173010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.262",
+      "lon": "124.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tumatangtang",
+      "en": "Tumatangtang",
+      "slug": "tumatangtang-7173010006"
+    },
+    "code": {
+      "id": "7173010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.291",
+      "lon": "124.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tumatangtang Satu",
+      "en": "Tumatangtang Satu",
+      "slug": "tumatangtang-satu-7173010012"
+    },
+    "code": {
+      "id": "7173010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.291",
+      "lon": "124.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Uluindano",
+      "en": "Uluindano",
+      "slug": "uluindano-7173010008"
+    },
+    "code": {
+      "id": "7173010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.3",
+      "lon": "124.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Walian",
+      "en": "Walian",
+      "slug": "walian-7173010009"
+    },
+    "code": {
+      "id": "7173010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.297",
+      "lon": "124.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Walian Dua",
+      "en": "Walian Dua",
+      "slug": "walian-dua-7173010011"
+    },
+    "code": {
+      "id": "7173010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.299",
+      "lon": "124.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Walian Satu",
+      "en": "Walian Satu",
+      "slug": "walian-satu-7173010010"
+    },
+    "code": {
+      "id": "7173010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173010",
+      "level": 3,
+      "name": {
+        "local": "Tomohon Selatan",
+        "en": "Tomohon Selatan",
+        "slug": "tomohon-selatan-7173010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      },
+      {
+        "id": "7173010",
+        "level": 3,
+        "name": {
+          "local": "Tomohon Selatan",
+          "en": "Tomohon Selatan",
+          "slug": "tomohon-selatan-7173010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95431"
+    ],
+    "geo": {
+      "lat": "1.297",
+      "lon": "124.836"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

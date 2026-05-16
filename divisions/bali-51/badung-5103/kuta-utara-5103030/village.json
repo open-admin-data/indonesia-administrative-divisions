@@ -1,0 +1,392 @@
+[
+  {
+    "id": "5103030005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Canggu",
+      "en": "Canggu",
+      "slug": "canggu-5103030005"
+    },
+    "code": {
+      "id": "5103030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103030",
+      "level": 3,
+      "name": {
+        "local": "Kuta Utara",
+        "en": "Kuta Utara",
+        "slug": "kuta-utara-5103030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      },
+      {
+        "id": "5103030",
+        "level": 3,
+        "name": {
+          "local": "Kuta Utara",
+          "en": "Kuta Utara",
+          "slug": "kuta-utara-5103030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80365"
+    ],
+    "geo": {
+      "lat": "-8.648",
+      "lon": "115.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103030006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dalung",
+      "en": "Dalung",
+      "slug": "dalung-5103030006"
+    },
+    "code": {
+      "id": "5103030006",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103030",
+      "level": 3,
+      "name": {
+        "local": "Kuta Utara",
+        "en": "Kuta Utara",
+        "slug": "kuta-utara-5103030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      },
+      {
+        "id": "5103030",
+        "level": 3,
+        "name": {
+          "local": "Kuta Utara",
+          "en": "Kuta Utara",
+          "slug": "kuta-utara-5103030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80365"
+    ],
+    "geo": {
+      "lat": "-8.66",
+      "lon": "115.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kerobokan",
+      "en": "Kerobokan",
+      "slug": "kerobokan-5103030002"
+    },
+    "code": {
+      "id": "5103030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103030",
+      "level": 3,
+      "name": {
+        "local": "Kuta Utara",
+        "en": "Kuta Utara",
+        "slug": "kuta-utara-5103030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      },
+      {
+        "id": "5103030",
+        "level": 3,
+        "name": {
+          "local": "Kuta Utara",
+          "en": "Kuta Utara",
+          "slug": "kuta-utara-5103030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80365"
+    ],
+    "geo": {
+      "lat": "-8.651",
+      "lon": "115.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kerobokan Kaja",
+      "en": "Kerobokan Kaja",
+      "slug": "kerobokan-kaja-5103030003"
+    },
+    "code": {
+      "id": "5103030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103030",
+      "level": 3,
+      "name": {
+        "local": "Kuta Utara",
+        "en": "Kuta Utara",
+        "slug": "kuta-utara-5103030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      },
+      {
+        "id": "5103030",
+        "level": 3,
+        "name": {
+          "local": "Kuta Utara",
+          "en": "Kuta Utara",
+          "slug": "kuta-utara-5103030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80365"
+    ],
+    "geo": {
+      "lat": "-8.64",
+      "lon": "115.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kerobokan Kelod",
+      "en": "Kerobokan Kelod",
+      "slug": "kerobokan-kelod-5103030001"
+    },
+    "code": {
+      "id": "5103030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103030",
+      "level": 3,
+      "name": {
+        "local": "Kuta Utara",
+        "en": "Kuta Utara",
+        "slug": "kuta-utara-5103030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      },
+      {
+        "id": "5103030",
+        "level": 3,
+        "name": {
+          "local": "Kuta Utara",
+          "en": "Kuta Utara",
+          "slug": "kuta-utara-5103030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80365"
+    ],
+    "geo": {
+      "lat": "-8.672",
+      "lon": "115.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tibubeneng",
+      "en": "Tibubeneng",
+      "slug": "tibubeneng-5103030004"
+    },
+    "code": {
+      "id": "5103030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103030",
+      "level": 3,
+      "name": {
+        "local": "Kuta Utara",
+        "en": "Kuta Utara",
+        "slug": "kuta-utara-5103030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      },
+      {
+        "id": "5103030",
+        "level": 3,
+        "name": {
+          "local": "Kuta Utara",
+          "en": "Kuta Utara",
+          "slug": "kuta-utara-5103030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80365"
+    ],
+    "geo": {
+      "lat": "-8.647",
+      "lon": "115.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

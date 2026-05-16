@@ -1,0 +1,56 @@
+{
+  "id": "5103050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Abiansemal",
+    "en": "Abiansemal",
+    "slug": "abiansemal-5103050"
+  },
+  "code": {
+    "id": "5103050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Badung",
+      "en": "Badung",
+      "slug": "badung-5103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.529",
+    "lon": "115.222"
+  },
+  "metadata": {},
+  "source": {}
+}

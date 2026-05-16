@@ -1,0 +1,562 @@
+[
+  {
+    "id": "9171024",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Klaurung",
+      "en": "Klaurung",
+      "slug": "klaurung-9171024"
+    },
+    "code": {
+      "id": "9171024",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.932",
+      "lon": "131.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maladum Mes",
+      "en": "Maladum Mes",
+      "slug": "maladum-mes-9171012"
+    },
+    "code": {
+      "id": "9171012",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.806",
+      "lon": "131.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171025",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malaimsimsa",
+      "en": "Malaimsimsa",
+      "slug": "malaimsimsa-9171025"
+    },
+    "code": {
+      "id": "9171025",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.882",
+      "lon": "131.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sorong",
+      "en": "Sorong",
+      "slug": "sorong-9171022"
+    },
+    "code": {
+      "id": "9171022",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.873",
+      "lon": "131.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sorong Barat",
+      "en": "Sorong Barat",
+      "slug": "sorong-barat-9171010"
+    },
+    "code": {
+      "id": "9171010",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.826",
+      "lon": "131.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sorong Kepulauan",
+      "en": "Sorong Kepulauan",
+      "slug": "sorong-kepulauan-9171011"
+    },
+    "code": {
+      "id": "9171011",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.885",
+      "lon": "131.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171026",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sorong Kota",
+      "en": "Sorong Kota",
+      "slug": "sorong-kota-9171026"
+    },
+    "code": {
+      "id": "9171026",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.876",
+      "lon": "131.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sorong Manoi",
+      "en": "Sorong Manoi",
+      "slug": "sorong-manoi-9171023"
+    },
+    "code": {
+      "id": "9171023",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.894",
+      "lon": "131.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sorong Timur",
+      "en": "Sorong Timur",
+      "slug": "sorong-timur-9171020"
+    },
+    "code": {
+      "id": "9171020",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.89",
+      "lon": "131.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9171021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sorong Utara",
+      "en": "Sorong Utara",
+      "slug": "sorong-utara-9171021"
+    },
+    "code": {
+      "id": "9171021",
+      "iso": null
+    },
+    "parent": {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9171",
+        "level": 2,
+        "name": {
+          "local": "Kota Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.852",
+      "lon": "131.343"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

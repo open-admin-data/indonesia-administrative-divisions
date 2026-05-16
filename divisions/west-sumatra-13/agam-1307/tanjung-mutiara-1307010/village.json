@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1307010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tiku Limo Jorong",
+      "en": "Tiku Limo Jorong",
+      "slug": "tiku-limo-jorong-1307010003"
+    },
+    "code": {
+      "id": "1307010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307010",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Mutiara",
+        "en": "Tanjung Mutiara",
+        "slug": "tanjung-mutiara-1307010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307010",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Mutiara",
+          "en": "Tanjung Mutiara",
+          "slug": "tanjung-mutiara-1307010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26473"
+    ],
+    "geo": {
+      "lat": "-0.24",
+      "lon": "99.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tiku Selatan",
+      "en": "Tiku Selatan",
+      "slug": "tiku-selatan-1307010001"
+    },
+    "code": {
+      "id": "1307010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307010",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Mutiara",
+        "en": "Tanjung Mutiara",
+        "slug": "tanjung-mutiara-1307010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307010",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Mutiara",
+          "en": "Tanjung Mutiara",
+          "slug": "tanjung-mutiara-1307010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26473"
+    ],
+    "geo": {
+      "lat": "-0.397",
+      "lon": "99.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tiku Utara",
+      "en": "Tiku Utara",
+      "slug": "tiku-utara-1307010002"
+    },
+    "code": {
+      "id": "1307010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307010",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Mutiara",
+        "en": "Tanjung Mutiara",
+        "slug": "tanjung-mutiara-1307010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307010",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Mutiara",
+          "en": "Tanjung Mutiara",
+          "slug": "tanjung-mutiara-1307010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26473"
+    ],
+    "geo": {
+      "lat": "-0.36",
+      "lon": "99.935"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

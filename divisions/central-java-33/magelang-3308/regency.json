@@ -1,0 +1,48 @@
+{
+  "id": "3308",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Magelang",
+    "en": "Magelang",
+    "slug": "magelang-3308"
+  },
+  "code": {
+    "id": "3308",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 354
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.597",
+    "lon": "110.224"
+  },
+  "metadata": {},
+  "source": {}
+}

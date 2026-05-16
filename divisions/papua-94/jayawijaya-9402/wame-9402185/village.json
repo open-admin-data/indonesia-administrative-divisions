@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9402185001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dogoname",
+      "en": "Dogoname",
+      "slug": "dogoname-9402185001"
+    },
+    "code": {
+      "id": "9402185001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9402185",
+      "level": 3,
+      "name": {
+        "local": "Wame",
+        "en": "Wame",
+        "slug": "wame-9402185"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jayawijaya",
+          "en": "Jayawijaya",
+          "slug": "jayawijaya-9402"
+        }
+      },
+      {
+        "id": "9402185",
+        "level": 3,
+        "name": {
+          "local": "Wame",
+          "en": "Wame",
+          "slug": "wame-9402185"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99536"
+    ],
+    "geo": {
+      "lat": "-3.946",
+      "lon": "138.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9402185003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dumapaga",
+      "en": "Dumapaga",
+      "slug": "dumapaga-9402185003"
+    },
+    "code": {
+      "id": "9402185003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9402185",
+      "level": 3,
+      "name": {
+        "local": "Wame",
+        "en": "Wame",
+        "slug": "wame-9402185"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jayawijaya",
+          "en": "Jayawijaya",
+          "slug": "jayawijaya-9402"
+        }
+      },
+      {
+        "id": "9402185",
+        "level": 3,
+        "name": {
+          "local": "Wame",
+          "en": "Wame",
+          "slug": "wame-9402185"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99536"
+    ],
+    "geo": {
+      "lat": "-4.069",
+      "lon": "139.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9402185002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Yanenggame",
+      "en": "Yanenggame",
+      "slug": "yanenggame-9402185002"
+    },
+    "code": {
+      "id": "9402185002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9402185",
+      "level": 3,
+      "name": {
+        "local": "Wame",
+        "en": "Wame",
+        "slug": "wame-9402185"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jayawijaya",
+          "en": "Jayawijaya",
+          "slug": "jayawijaya-9402"
+        }
+      },
+      {
+        "id": "9402185",
+        "level": 3,
+        "name": {
+          "local": "Wame",
+          "en": "Wame",
+          "slug": "wame-9402185"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99536"
+    ],
+    "geo": {
+      "lat": "-4.069",
+      "lon": "139.011"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

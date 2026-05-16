@@ -1,0 +1,56 @@
+{
+  "id": "7471014",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wua-wua",
+    "en": "Wua-wua",
+    "slug": "wua-wua-7471014"
+  },
+  "code": {
+    "id": "7471014",
+    "iso": null
+  },
+  "parent": {
+    "id": "7471",
+    "level": 2,
+    "name": {
+      "local": "Kota Kendari",
+      "en": "Kendari",
+      "slug": "kendari-7471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7471",
+      "level": 2,
+      "name": {
+        "local": "Kota Kendari",
+        "en": "Kendari",
+        "slug": "kendari-7471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.995",
+    "lon": "122.491"
+  },
+  "metadata": {},
+  "source": {}
+}

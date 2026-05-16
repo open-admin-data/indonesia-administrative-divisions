@@ -1,0 +1,56 @@
+{
+  "id": "6102042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Betung",
+    "en": "Sungai Betung",
+    "slug": "sungai-betung-6102042"
+  },
+  "code": {
+    "id": "6102042",
+    "iso": null
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkayang",
+      "en": "Bengkayang",
+      "slug": "bengkayang-6102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.815",
+    "lon": "109.38"
+  },
+  "metadata": {},
+  "source": {}
+}

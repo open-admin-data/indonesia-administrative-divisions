@@ -1,0 +1,56 @@
+{
+  "id": "7212080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Soyo Jaya",
+    "en": "Soyo Jaya",
+    "slug": "soyo-jaya-7212080"
+  },
+  "code": {
+    "id": "7212080",
+    "iso": null
+  },
+  "parent": {
+    "id": "7212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Morowali Utara",
+      "en": "Morowali Utara",
+      "slug": "morowali-utara-7212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Morowali Utara",
+        "en": "Morowali Utara",
+        "slug": "morowali-utara-7212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.678",
+    "lon": "121.258"
+  },
+  "metadata": {},
+  "source": {}
+}

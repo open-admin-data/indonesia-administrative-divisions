@@ -1,0 +1,48 @@
+{
+  "id": "1705",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Seluma",
+    "en": "Seluma",
+    "slug": "seluma-1705"
+  },
+  "code": {
+    "id": "1705",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 202
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.078",
+    "lon": "102.556"
+  },
+  "metadata": {},
+  "source": {}
+}

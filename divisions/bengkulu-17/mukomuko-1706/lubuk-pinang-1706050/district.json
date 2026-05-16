@@ -1,0 +1,56 @@
+{
+  "id": "1706050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lubuk Pinang",
+    "en": "Lubuk Pinang",
+    "slug": "lubuk-pinang-1706050"
+  },
+  "code": {
+    "id": "1706050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mukomuko",
+      "en": "Mukomuko",
+      "slug": "mukomuko-1706"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.422",
+    "lon": "101.151"
+  },
+  "metadata": {},
+  "source": {}
+}

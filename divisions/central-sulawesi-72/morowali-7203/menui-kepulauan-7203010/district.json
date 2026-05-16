@@ -1,0 +1,56 @@
+{
+  "id": "7203010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Menui Kepulauan",
+    "en": "Menui Kepulauan",
+    "slug": "menui-kepulauan-7203010"
+  },
+  "code": {
+    "id": "7203010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Morowali",
+      "en": "Morowali",
+      "slug": "morowali-7203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Morowali",
+        "en": "Morowali",
+        "slug": "morowali-7203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.402",
+    "lon": "122.739"
+  },
+  "metadata": {},
+  "source": {}
+}

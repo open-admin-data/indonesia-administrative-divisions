@@ -1,0 +1,450 @@
+[
+  {
+    "id": "1572040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hamparan Rawang",
+      "en": "Hamparan Rawang",
+      "slug": "hamparan-rawang-1572040"
+    },
+    "code": {
+      "id": "1572040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.047",
+      "lon": "101.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koto Baru",
+      "en": "Koto Baru",
+      "slug": "koto-baru-1572051"
+    },
+    "code": {
+      "id": "1572051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.035",
+      "lon": "101.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kumun Debai",
+      "en": "Kumun Debai",
+      "slug": "kumun-debai-1572020"
+    },
+    "code": {
+      "id": "1572020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.166",
+      "lon": "101.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pesisir Bukit",
+      "en": "Pesisir Bukit",
+      "slug": "pesisir-bukit-1572050"
+    },
+    "code": {
+      "id": "1572050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.045",
+      "lon": "101.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pondok Tinggi",
+      "en": "Pondok Tinggi",
+      "slug": "pondok-tinggi-1572031"
+    },
+    "code": {
+      "id": "1572031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.113",
+      "lon": "101.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Bungkal",
+      "en": "Sungai Bungkal",
+      "slug": "sungai-bungkal-1572032"
+    },
+    "code": {
+      "id": "1572032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.062",
+      "lon": "101.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Penuh",
+      "en": "Sungai Penuh",
+      "slug": "sungai-penuh-1572030"
+    },
+    "code": {
+      "id": "1572030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.063",
+      "lon": "101.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Kampung",
+      "en": "Tanah Kampung",
+      "slug": "tanah-kampung-1572010"
+    },
+    "code": {
+      "id": "1572010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1572",
+        "level": 2,
+        "name": {
+          "local": "Kota Sungai Penuh",
+          "en": "Sungai Penuh",
+          "slug": "sungai-penuh-1572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.077",
+      "lon": "101.439"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

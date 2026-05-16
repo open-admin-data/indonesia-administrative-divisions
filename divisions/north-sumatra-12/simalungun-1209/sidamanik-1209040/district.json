@@ -1,0 +1,56 @@
+{
+  "id": "1209040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sidamanik",
+    "en": "Sidamanik",
+    "slug": "sidamanik-1209040"
+  },
+  "code": {
+    "id": "1209040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Simalungun",
+      "en": "Simalungun",
+      "slug": "simalungun-1209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simalungun",
+        "en": "Simalungun",
+        "slug": "simalungun-1209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.841",
+    "lon": "98.952"
+  },
+  "metadata": {},
+  "source": {}
+}

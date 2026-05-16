@@ -1,0 +1,56 @@
+{
+  "id": "1501082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siulak Mukai",
+    "en": "Siulak Mukai",
+    "slug": "siulak-mukai-1501082"
+  },
+  "code": {
+    "id": "1501082",
+    "iso": null
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kerinci",
+      "en": "Kerinci",
+      "slug": "kerinci-1501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kerinci",
+        "en": "Kerinci",
+        "slug": "kerinci-1501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.852",
+    "lon": "101.455"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "3274",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Cirebon",
+    "en": "Cirebon",
+    "slug": "cirebon-3274"
+  },
+  "code": {
+    "id": "3274",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.707",
+    "lon": "108.558"
+  },
+  "metadata": {},
+  "source": {}
+}

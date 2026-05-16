@@ -1,0 +1,56 @@
+{
+  "id": "3401020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wates",
+    "en": "Wates",
+    "slug": "wates-3401020"
+  },
+  "code": {
+    "id": "3401020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kulon Progo",
+      "en": "Kulon Progo",
+      "slug": "kulon-progo-3401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kulon Progo",
+        "en": "Kulon Progo",
+        "slug": "kulon-progo-3401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.886",
+    "lon": "110.127"
+  },
+  "metadata": {},
+  "source": {}
+}

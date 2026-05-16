@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1215020001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aek Godang",
+      "en": "Aek Godang",
+      "slug": "aek-godang-1215020001"
+    },
+    "code": {
+      "id": "1215020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.111",
+      "lon": "98.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batu Nagodang Siatas",
+      "en": "Batu Nagodang Siatas",
+      "slug": "batu-nagodang-siatas-1215020015"
+    },
+    "code": {
+      "id": "1215020015",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.174",
+      "lon": "98.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Julu",
+      "en": "Huta Julu",
+      "slug": "huta-julu-1215020011"
+    },
+    "code": {
+      "id": "1215020011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.145",
+      "lon": "98.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Janji Nagodang",
+      "en": "Janji Nagodang",
+      "slug": "janji-nagodang-1215020003"
+    },
+    "code": {
+      "id": "1215020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.092",
+      "lon": "98.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Onan Ganjang",
+      "en": "Onan Ganjang",
+      "slug": "onan-ganjang-1215020013"
+    },
+    "code": {
+      "id": "1215020013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.152",
+      "lon": "98.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Parbotihan",
+      "en": "Parbotihan",
+      "slug": "parbotihan-1215020014"
+    },
+    "code": {
+      "id": "1215020014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.145",
+      "lon": "98.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Parnapa",
+      "en": "Parnapa",
+      "slug": "parnapa-1215020017"
+    },
+    "code": {
+      "id": "1215020017",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.194",
+      "lon": "98.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sampetua",
+      "en": "Sampetua",
+      "slug": "sampetua-1215020016"
+    },
+    "code": {
+      "id": "1215020016",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.167",
+      "lon": "98.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sanggaran Ii",
+      "en": "Sanggaran Ii",
+      "slug": "sanggaran-ii-1215020002"
+    },
+    "code": {
+      "id": "1215020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.033",
+      "lon": "98.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020020",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sibuluan",
+      "en": "Sibuluan",
+      "slug": "sibuluan-1215020020"
+    },
+    "code": {
+      "id": "1215020020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.211",
+      "lon": "98.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020021",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sigalogo",
+      "en": "Sigalogo",
+      "slug": "sigalogo-1215020021"
+    },
+    "code": {
+      "id": "1215020021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.215",
+      "lon": "98.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215020012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sihikkit",
+      "en": "Sihikkit",
+      "slug": "sihikkit-1215020012"
+    },
+    "code": {
+      "id": "1215020012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1215020",
+      "level": 3,
+      "name": {
+        "local": "Onan Ganjang",
+        "en": "Onan Ganjang",
+        "slug": "onan-ganjang-1215020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1215",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Humbang Hasundutan",
+          "en": "Humbang Hasundutan",
+          "slug": "humbang-hasundutan-1215"
+        }
+      },
+      {
+        "id": "1215020",
+        "level": 3,
+        "name": {
+          "local": "Onan Ganjang",
+          "en": "Onan Ganjang",
+          "slug": "onan-ganjang-1215020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22454"
+    ],
+    "geo": {
+      "lat": "2.164",
+      "lon": "98.655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

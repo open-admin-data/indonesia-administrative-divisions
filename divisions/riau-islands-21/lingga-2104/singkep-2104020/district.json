@@ -1,0 +1,56 @@
+{
+  "id": "2104020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Singkep",
+    "en": "Singkep",
+    "slug": "singkep-2104020"
+  },
+  "code": {
+    "id": "2104020",
+    "iso": null
+  },
+  "parent": {
+    "id": "2104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lingga",
+      "en": "Lingga",
+      "slug": "lingga-2104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.557",
+    "lon": "104.543"
+  },
+  "metadata": {},
+  "source": {}
+}

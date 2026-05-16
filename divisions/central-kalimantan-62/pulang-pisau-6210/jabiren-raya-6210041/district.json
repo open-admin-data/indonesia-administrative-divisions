@@ -1,0 +1,56 @@
+{
+  "id": "6210041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jabiren Raya",
+    "en": "Jabiren Raya",
+    "slug": "jabiren-raya-6210041"
+  },
+  "code": {
+    "id": "6210041",
+    "iso": null
+  },
+  "parent": {
+    "id": "6210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pulang Pisau",
+      "en": "Pulang Pisau",
+      "slug": "pulang-pisau-6210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pulang Pisau",
+        "en": "Pulang Pisau",
+        "slug": "pulang-pisau-6210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.437",
+    "lon": "114.18"
+  },
+  "metadata": {},
+  "source": {}
+}

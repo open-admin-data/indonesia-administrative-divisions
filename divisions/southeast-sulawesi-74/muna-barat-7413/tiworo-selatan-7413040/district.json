@@ -1,0 +1,56 @@
+{
+  "id": "7413040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tiworo Selatan",
+    "en": "Tiworo Selatan",
+    "slug": "tiworo-selatan-7413040"
+  },
+  "code": {
+    "id": "7413040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7413",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Muna Barat",
+      "en": "Muna Barat",
+      "slug": "muna-barat-7413"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7413",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Muna Barat",
+        "en": "Muna Barat",
+        "slug": "muna-barat-7413"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.757",
+    "lon": "122.331"
+  },
+  "metadata": {},
+  "source": {}
+}

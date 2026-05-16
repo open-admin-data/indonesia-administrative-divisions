@@ -1,0 +1,48 @@
+{
+  "id": "9112",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pegunungan Arfak",
+    "en": "Pegunungan Arfak",
+    "slug": "pegunungan-arfak-9112"
+  },
+  "code": {
+    "id": "9112",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 153
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.155",
+    "lon": "133.714"
+  },
+  "metadata": {},
+  "source": {}
+}

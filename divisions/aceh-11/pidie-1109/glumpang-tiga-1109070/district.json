@@ -1,0 +1,56 @@
+{
+  "id": "1109070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Glumpang Tiga",
+    "en": "Glumpang Tiga",
+    "slug": "glumpang-tiga-1109070"
+  },
+  "code": {
+    "id": "1109070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie",
+      "en": "Pidie",
+      "slug": "pidie-1109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie",
+        "en": "Pidie",
+        "slug": "pidie-1109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.209",
+    "lon": "96.027"
+  },
+  "metadata": {},
+  "source": {}
+}

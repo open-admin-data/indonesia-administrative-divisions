@@ -1,0 +1,56 @@
+{
+  "id": "1110100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ganda Pura",
+    "en": "Ganda Pura",
+    "slug": "ganda-pura-1110100"
+  },
+  "code": {
+    "id": "1110100",
+    "iso": null
+  },
+  "parent": {
+    "id": "1110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bireuen",
+      "en": "Bireuen",
+      "slug": "bireuen-1110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.229",
+    "lon": "96.882"
+  },
+  "metadata": {},
+  "source": {}
+}

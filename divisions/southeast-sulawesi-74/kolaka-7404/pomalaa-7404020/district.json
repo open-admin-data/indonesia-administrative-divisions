@@ -1,0 +1,56 @@
+{
+  "id": "7404020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pomalaa",
+    "en": "Pomalaa",
+    "slug": "pomalaa-7404020"
+  },
+  "code": {
+    "id": "7404020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kolaka",
+      "en": "Kolaka",
+      "slug": "kolaka-7404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kolaka",
+        "en": "Kolaka",
+        "slug": "kolaka-7404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.225",
+    "lon": "121.65"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3325081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banyuputih",
+    "en": "Banyuputih",
+    "slug": "banyuputih-3325081"
+  },
+  "code": {
+    "id": "3325081",
+    "iso": null
+  },
+  "parent": {
+    "id": "3325",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Batang",
+      "en": "Batang",
+      "slug": "batang-3325"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.958",
+    "lon": "109.947"
+  },
+  "metadata": {},
+  "source": {}
+}

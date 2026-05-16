@@ -1,0 +1,56 @@
+{
+  "id": "3316140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngawen",
+    "en": "Ngawen",
+    "slug": "ngawen-3316140"
+  },
+  "code": {
+    "id": "3316140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3316",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Blora",
+      "en": "Blora",
+      "slug": "blora-3316"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.033",
+    "lon": "111.287"
+  },
+  "metadata": {},
+  "source": {}
+}

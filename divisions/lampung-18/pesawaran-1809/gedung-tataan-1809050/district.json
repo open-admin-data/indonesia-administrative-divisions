@@ -1,0 +1,56 @@
+{
+  "id": "1809050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gedung Tataan",
+    "en": "Gedung Tataan",
+    "slug": "gedung-tataan-1809050"
+  },
+  "code": {
+    "id": "1809050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1809",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pesawaran",
+      "en": "Pesawaran",
+      "slug": "pesawaran-1809"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.396",
+    "lon": "105.125"
+  },
+  "metadata": {},
+  "source": {}
+}

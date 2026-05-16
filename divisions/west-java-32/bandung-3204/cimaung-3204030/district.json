@@ -1,0 +1,56 @@
+{
+  "id": "3204030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cimaung",
+    "en": "Cimaung",
+    "slug": "cimaung-3204030"
+  },
+  "code": {
+    "id": "3204030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.109",
+    "lon": "107.578"
+  },
+  "metadata": {},
+  "source": {}
+}

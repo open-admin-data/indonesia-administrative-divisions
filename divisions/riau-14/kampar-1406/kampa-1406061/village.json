@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1406061006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Deli Makmur",
+      "en": "Deli Makmur",
+      "slug": "deli-makmur-1406061006"
+    },
+    "code": {
+      "id": "1406061006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.502",
+      "lon": "101.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampar",
+      "en": "Kampar",
+      "slug": "kampar-1406061002"
+    },
+    "code": {
+      "id": "1406061002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.304",
+      "lon": "101.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Perambahan",
+      "en": "Koto Perambahan",
+      "slug": "koto-perambahan-1406061003"
+    },
+    "code": {
+      "id": "1406061003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.28",
+      "lon": "101.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Birandang",
+      "en": "Pulau Birandang",
+      "slug": "pulau-birandang-1406061004"
+    },
+    "code": {
+      "id": "1406061004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.414",
+      "lon": "101.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Rambai",
+      "en": "Pulau Rambai",
+      "slug": "pulau-rambai-1406061001"
+    },
+    "code": {
+      "id": "1406061001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.28",
+      "lon": "101.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sawah Baru",
+      "en": "Sawah Baru",
+      "slug": "sawah-baru-1406061009"
+    },
+    "code": {
+      "id": "1406061009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.317",
+      "lon": "101.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Putih",
+      "en": "Sungai Putih",
+      "slug": "sungai-putih-1406061005"
+    },
+    "code": {
+      "id": "1406061005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.476",
+      "lon": "101.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Tarap",
+      "en": "Sungai Tarap",
+      "slug": "sungai-tarap-1406061007"
+    },
+    "code": {
+      "id": "1406061007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.357",
+      "lon": "101.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1406061008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Bungo",
+      "en": "Tanjung Bungo",
+      "slug": "tanjung-bungo-1406061008"
+    },
+    "code": {
+      "id": "1406061008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1406061",
+      "level": 3,
+      "name": {
+        "local": "Kampa",
+        "en": "Kampa",
+        "slug": "kampa-1406061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1406",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kampar",
+          "en": "Kampar",
+          "slug": "kampar-1406"
+        }
+      },
+      {
+        "id": "1406061",
+        "level": 3,
+        "name": {
+          "local": "Kampa",
+          "en": "Kampa",
+          "slug": "kampa-1406061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28457"
+    ],
+    "geo": {
+      "lat": "0.317",
+      "lon": "101.213"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

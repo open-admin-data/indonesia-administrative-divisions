@@ -1,0 +1,56 @@
+{
+  "id": "1407060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kepenuhan",
+    "en": "Kepenuhan",
+    "slug": "kepenuhan-1407060"
+  },
+  "code": {
+    "id": "1407060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1407",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rokan Hulu",
+      "en": "Rokan Hulu",
+      "slug": "rokan-hulu-1407"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rokan Hulu",
+        "en": "Rokan Hulu",
+        "slug": "rokan-hulu-1407"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.136",
+    "lon": "100.62"
+  },
+  "metadata": {},
+  "source": {}
+}

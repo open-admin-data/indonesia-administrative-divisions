@@ -1,0 +1,327 @@
+[
+  {
+    "id": "5307051005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alila Timur",
+      "en": "Alila Timur",
+      "slug": "alila-timur-5307051005"
+    },
+    "code": {
+      "id": "5307051005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5307051",
+      "level": 3,
+      "name": {
+        "local": "Kabola",
+        "en": "Kabola",
+        "slug": "kabola-5307051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Alor",
+          "en": "Alor",
+          "slug": "alor-5307"
+        }
+      },
+      {
+        "id": "5307051",
+        "level": 3,
+        "name": {
+          "local": "Kabola",
+          "en": "Kabola",
+          "slug": "kabola-5307051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85852"
+    ],
+    "geo": {
+      "lat": "-8.138",
+      "lon": "124.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5307051003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kabola",
+      "en": "Kabola",
+      "slug": "kabola-5307051003"
+    },
+    "code": {
+      "id": "5307051003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5307051",
+      "level": 3,
+      "name": {
+        "local": "Kabola",
+        "en": "Kabola",
+        "slug": "kabola-5307051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Alor",
+          "en": "Alor",
+          "slug": "alor-5307"
+        }
+      },
+      {
+        "id": "5307051",
+        "level": 3,
+        "name": {
+          "local": "Kabola",
+          "en": "Kabola",
+          "slug": "kabola-5307051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85852"
+    ],
+    "geo": {
+      "lat": "-8.152",
+      "lon": "124.564"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5307051002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kopidil",
+      "en": "Kopidil",
+      "slug": "kopidil-5307051002"
+    },
+    "code": {
+      "id": "5307051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5307051",
+      "level": 3,
+      "name": {
+        "local": "Kabola",
+        "en": "Kabola",
+        "slug": "kabola-5307051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Alor",
+          "en": "Alor",
+          "slug": "alor-5307"
+        }
+      },
+      {
+        "id": "5307051",
+        "level": 3,
+        "name": {
+          "local": "Kabola",
+          "en": "Kabola",
+          "slug": "kabola-5307051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85852"
+    ],
+    "geo": {
+      "lat": "-8.185",
+      "lon": "124.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5307051001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lawahing",
+      "en": "Lawahing",
+      "slug": "lawahing-5307051001"
+    },
+    "code": {
+      "id": "5307051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5307051",
+      "level": 3,
+      "name": {
+        "local": "Kabola",
+        "en": "Kabola",
+        "slug": "kabola-5307051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Alor",
+          "en": "Alor",
+          "slug": "alor-5307"
+        }
+      },
+      {
+        "id": "5307051",
+        "level": 3,
+        "name": {
+          "local": "Kabola",
+          "en": "Kabola",
+          "slug": "kabola-5307051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85852"
+    ],
+    "geo": {
+      "lat": "-8.169",
+      "lon": "124.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5307051004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pante Deera",
+      "en": "Pante Deera",
+      "slug": "pante-deera-5307051004"
+    },
+    "code": {
+      "id": "5307051004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5307051",
+      "level": 3,
+      "name": {
+        "local": "Kabola",
+        "en": "Kabola",
+        "slug": "kabola-5307051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Alor",
+          "en": "Alor",
+          "slug": "alor-5307"
+        }
+      },
+      {
+        "id": "5307051",
+        "level": 3,
+        "name": {
+          "local": "Kabola",
+          "en": "Kabola",
+          "slug": "kabola-5307051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85852"
+    ],
+    "geo": {
+      "lat": "-8.135",
+      "lon": "124.572"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

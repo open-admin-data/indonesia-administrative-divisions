@@ -1,0 +1,48 @@
+{
+  "id": "2102",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bintan",
+    "en": "Bintan",
+    "slug": "bintan-2102"
+  },
+  "code": {
+    "id": "2102",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "Kepulauan Riau",
+      "en": "Riau Islands",
+      "slug": "riau-islands-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 48
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.033",
+    "lon": "103.376"
+  },
+  "metadata": {},
+  "source": {}
+}

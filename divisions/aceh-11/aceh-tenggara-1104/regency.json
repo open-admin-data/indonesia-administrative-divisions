@@ -1,0 +1,48 @@
+{
+  "id": "1104",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Aceh Tenggara",
+    "en": "Aceh Tenggara",
+    "slug": "aceh-tenggara-1104"
+  },
+  "code": {
+    "id": "1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 385
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.622",
+    "lon": "96.846"
+  },
+  "metadata": {},
+  "source": {}
+}

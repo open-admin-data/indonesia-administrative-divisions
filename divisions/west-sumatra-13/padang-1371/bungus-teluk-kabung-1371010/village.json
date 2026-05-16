@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1371010017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bungus Barat",
+      "en": "Bungus Barat",
+      "slug": "bungus-barat-1371010017"
+    },
+    "code": {
+      "id": "1371010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "1371010",
+      "level": 3,
+      "name": {
+        "local": "Bungus Teluk Kabung",
+        "en": "Bungus Teluk Kabung",
+        "slug": "bungus-teluk-kabung-1371010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1371",
+        "level": 2,
+        "name": {
+          "local": "Kota Padang",
+          "en": "Padang",
+          "slug": "padang-1371"
+        }
+      },
+      {
+        "id": "1371010",
+        "level": 3,
+        "name": {
+          "local": "Bungus Teluk Kabung",
+          "en": "Bungus Teluk Kabung",
+          "slug": "bungus-teluk-kabung-1371010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25241"
+    ],
+    "geo": {
+      "lat": "-1.02",
+      "lon": "100.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1371010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bungus Selatan",
+      "en": "Bungus Selatan",
+      "slug": "bungus-selatan-1371010007"
+    },
+    "code": {
+      "id": "1371010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1371010",
+      "level": 3,
+      "name": {
+        "local": "Bungus Teluk Kabung",
+        "en": "Bungus Teluk Kabung",
+        "slug": "bungus-teluk-kabung-1371010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1371",
+        "level": 2,
+        "name": {
+          "local": "Kota Padang",
+          "en": "Padang",
+          "slug": "padang-1371"
+        }
+      },
+      {
+        "id": "1371010",
+        "level": 3,
+        "name": {
+          "local": "Bungus Teluk Kabung",
+          "en": "Bungus Teluk Kabung",
+          "slug": "bungus-teluk-kabung-1371010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25241"
+    ],
+    "geo": {
+      "lat": "-1.034",
+      "lon": "100.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1371010016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bungus Timur",
+      "en": "Bungus Timur",
+      "slug": "bungus-timur-1371010016"
+    },
+    "code": {
+      "id": "1371010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "1371010",
+      "level": 3,
+      "name": {
+        "local": "Bungus Teluk Kabung",
+        "en": "Bungus Teluk Kabung",
+        "slug": "bungus-teluk-kabung-1371010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1371",
+        "level": 2,
+        "name": {
+          "local": "Kota Padang",
+          "en": "Padang",
+          "slug": "padang-1371"
+        }
+      },
+      {
+        "id": "1371010",
+        "level": 3,
+        "name": {
+          "local": "Bungus Teluk Kabung",
+          "en": "Bungus Teluk Kabung",
+          "slug": "bungus-teluk-kabung-1371010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25241"
+    ],
+    "geo": {
+      "lat": "-1.013",
+      "lon": "100.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1371010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Kabung Selatan",
+      "en": "Teluk Kabung Selatan",
+      "slug": "teluk-kabung-selatan-1371010001"
+    },
+    "code": {
+      "id": "1371010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1371010",
+      "level": 3,
+      "name": {
+        "local": "Bungus Teluk Kabung",
+        "en": "Bungus Teluk Kabung",
+        "slug": "bungus-teluk-kabung-1371010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1371",
+        "level": 2,
+        "name": {
+          "local": "Kota Padang",
+          "en": "Padang",
+          "slug": "padang-1371"
+        }
+      },
+      {
+        "id": "1371010",
+        "level": 3,
+        "name": {
+          "local": "Bungus Teluk Kabung",
+          "en": "Bungus Teluk Kabung",
+          "slug": "bungus-teluk-kabung-1371010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25241"
+    ],
+    "geo": {
+      "lat": "-1.034",
+      "lon": "100.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1371010014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Kabung Tengah",
+      "en": "Teluk Kabung Tengah",
+      "slug": "teluk-kabung-tengah-1371010014"
+    },
+    "code": {
+      "id": "1371010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1371010",
+      "level": 3,
+      "name": {
+        "local": "Bungus Teluk Kabung",
+        "en": "Bungus Teluk Kabung",
+        "slug": "bungus-teluk-kabung-1371010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1371",
+        "level": 2,
+        "name": {
+          "local": "Kota Padang",
+          "en": "Padang",
+          "slug": "padang-1371"
+        }
+      },
+      {
+        "id": "1371010",
+        "level": 3,
+        "name": {
+          "local": "Bungus Teluk Kabung",
+          "en": "Bungus Teluk Kabung",
+          "slug": "bungus-teluk-kabung-1371010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25241"
+    ],
+    "geo": {
+      "lat": "-1.084",
+      "lon": "100.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1371010015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Kabung Utara",
+      "en": "Teluk Kabung Utara",
+      "slug": "teluk-kabung-utara-1371010015"
+    },
+    "code": {
+      "id": "1371010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "1371010",
+      "level": 3,
+      "name": {
+        "local": "Bungus Teluk Kabung",
+        "en": "Bungus Teluk Kabung",
+        "slug": "bungus-teluk-kabung-1371010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1371",
+        "level": 2,
+        "name": {
+          "local": "Kota Padang",
+          "en": "Padang",
+          "slug": "padang-1371"
+        }
+      },
+      {
+        "id": "1371010",
+        "level": 3,
+        "name": {
+          "local": "Bungus Teluk Kabung",
+          "en": "Bungus Teluk Kabung",
+          "slug": "bungus-teluk-kabung-1371010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25241"
+    ],
+    "geo": {
+      "lat": "-1.046",
+      "lon": "100.434"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

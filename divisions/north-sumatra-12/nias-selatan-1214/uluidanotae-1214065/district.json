@@ -1,0 +1,56 @@
+{
+  "id": "1214065",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uluidanotae",
+    "en": "Uluidanotae",
+    "slug": "uluidanotae-1214065"
+  },
+  "code": {
+    "id": "1214065",
+    "iso": null
+  },
+  "parent": {
+    "id": "1214",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nias Selatan",
+      "en": "Nias Selatan",
+      "slug": "nias-selatan-1214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias Selatan",
+        "en": "Nias Selatan",
+        "slug": "nias-selatan-1214"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.909",
+    "lon": "97.769"
+  },
+  "metadata": {},
+  "source": {}
+}

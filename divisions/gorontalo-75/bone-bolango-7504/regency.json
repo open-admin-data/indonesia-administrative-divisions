@@ -1,0 +1,48 @@
+{
+  "id": "7504",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bone Bolango",
+    "en": "Bone Bolango",
+    "slug": "bone-bolango-7504"
+  },
+  "code": {
+    "id": "7504",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 163
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.706",
+    "lon": "121.72"
+  },
+  "metadata": {},
+  "source": {}
+}

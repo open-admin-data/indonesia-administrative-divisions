@@ -1,0 +1,56 @@
+{
+  "id": "3173020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Menteng",
+    "en": "Menteng",
+    "slug": "menteng-3173020"
+  },
+  "code": {
+    "id": "3173020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3173",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Pusat",
+      "en": "Jakarta Pusat",
+      "slug": "jakarta-pusat-3173"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.195",
+    "lon": "106.838"
+  },
+  "metadata": {},
+  "source": {}
+}

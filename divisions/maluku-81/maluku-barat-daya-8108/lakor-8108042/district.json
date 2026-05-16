@@ -1,0 +1,56 @@
+{
+  "id": "8108042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lakor",
+    "en": "Lakor",
+    "slug": "lakor-8108042"
+  },
+  "code": {
+    "id": "8108042",
+    "iso": null
+  },
+  "parent": {
+    "id": "8108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Barat Daya",
+      "en": "Maluku Barat Daya",
+      "slug": "maluku-barat-daya-8108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Barat Daya",
+        "en": "Maluku Barat Daya",
+        "slug": "maluku-barat-daya-8108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.234",
+    "lon": "128.244"
+  },
+  "metadata": {},
+  "source": {}
+}

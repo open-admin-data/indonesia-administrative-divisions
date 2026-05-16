@@ -1,0 +1,48 @@
+{
+  "id": "7503",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pohuwato",
+    "en": "Pohuwato",
+    "slug": "pohuwato-7503"
+  },
+  "code": {
+    "id": "7503",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 13,
+    "village": 104
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.557",
+    "lon": "123.144"
+  },
+  "metadata": {},
+  "source": {}
+}

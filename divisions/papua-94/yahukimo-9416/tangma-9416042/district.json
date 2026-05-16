@@ -1,0 +1,56 @@
+{
+  "id": "9416042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tangma",
+    "en": "Tangma",
+    "slug": "tangma-9416042"
+  },
+  "code": {
+    "id": "9416042",
+    "iso": null
+  },
+  "parent": {
+    "id": "9416",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Yahukimo",
+      "en": "Yahukimo",
+      "slug": "yahukimo-9416"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9416",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Yahukimo",
+        "en": "Yahukimo",
+        "slug": "yahukimo-9416"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.265",
+    "lon": "138.988"
+  },
+  "metadata": {},
+  "source": {}
+}

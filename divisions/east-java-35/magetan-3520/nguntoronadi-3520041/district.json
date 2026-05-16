@@ -1,0 +1,56 @@
+{
+  "id": "3520041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nguntoronadi",
+    "en": "Nguntoronadi",
+    "slug": "nguntoronadi-3520041"
+  },
+  "code": {
+    "id": "3520041",
+    "iso": null
+  },
+  "parent": {
+    "id": "3520",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Magetan",
+      "en": "Magetan",
+      "slug": "magetan-3520"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.712",
+    "lon": "111.451"
+  },
+  "metadata": {},
+  "source": {}
+}

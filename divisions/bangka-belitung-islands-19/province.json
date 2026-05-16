@@ -1,0 +1,31 @@
+{
+  "id": "19",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kepulauan Bangka Belitung",
+    "en": "Bangka Belitung Islands",
+    "slug": "bangka-belitung-islands-19"
+  },
+  "code": {
+    "id": "19",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 7,
+    "village": 366,
+    "district": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.153",
+    "lon": "106.158"
+  },
+  "metadata": {},
+  "source": {}
+}

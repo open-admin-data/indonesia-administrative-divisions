@@ -1,0 +1,48 @@
+{
+  "id": "7104",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kepulauan Talaud",
+    "en": "Kepulauan Talaud",
+    "slug": "kepulauan-talaud-7104"
+  },
+  "code": {
+    "id": "7104",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Utara",
+      "en": "North Sulawesi",
+      "slug": "north-sulawesi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 145
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.006",
+    "lon": "126.682"
+  },
+  "metadata": {},
+  "source": {}
+}

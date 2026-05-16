@@ -1,0 +1,56 @@
+{
+  "id": "3319040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Undaan",
+    "en": "Undaan",
+    "slug": "undaan-3319040"
+  },
+  "code": {
+    "id": "3319040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3319",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kudus",
+      "en": "Kudus",
+      "slug": "kudus-3319"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.917",
+    "lon": "110.827"
+  },
+  "metadata": {},
+  "source": {}
+}

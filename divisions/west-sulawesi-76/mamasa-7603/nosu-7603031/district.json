@@ -1,0 +1,56 @@
+{
+  "id": "7603031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nosu",
+    "en": "Nosu",
+    "slug": "nosu-7603031"
+  },
+  "code": {
+    "id": "7603031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamasa",
+      "en": "Mamasa",
+      "slug": "mamasa-7603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.123",
+    "lon": "119.483"
+  },
+  "metadata": {},
+  "source": {}
+}

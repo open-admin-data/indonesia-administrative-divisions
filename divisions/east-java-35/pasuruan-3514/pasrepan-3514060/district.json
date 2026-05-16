@@ -1,0 +1,56 @@
+{
+  "id": "3514060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasrepan",
+    "en": "Pasrepan",
+    "slug": "pasrepan-3514060"
+  },
+  "code": {
+    "id": "3514060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3514",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pasuruan",
+      "en": "Pasuruan",
+      "slug": "pasuruan-3514"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3514",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pasuruan",
+        "en": "Pasuruan",
+        "slug": "pasuruan-3514"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.78",
+    "lon": "112.863"
+  },
+  "metadata": {},
+  "source": {}
+}

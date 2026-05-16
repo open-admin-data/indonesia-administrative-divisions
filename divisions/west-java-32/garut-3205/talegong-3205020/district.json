@@ -1,0 +1,56 @@
+{
+  "id": "3205020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Talegong",
+    "en": "Talegong",
+    "slug": "talegong-3205020"
+  },
+  "code": {
+    "id": "3205020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Garut",
+      "en": "Garut",
+      "slug": "garut-3205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.3",
+    "lon": "107.533"
+  },
+  "metadata": {},
+  "source": {}
+}

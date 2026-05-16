@@ -1,0 +1,48 @@
+{
+  "id": "7314",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sidenreng Rappang",
+    "en": "Sidenreng Rappang",
+    "slug": "sidenreng-rappang-7314"
+  },
+  "code": {
+    "id": "7314",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.933",
+    "lon": "119.769"
+  },
+  "metadata": {},
+  "source": {}
+}

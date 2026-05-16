@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1303140001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muaro Pingai",
+      "en": "Muaro Pingai",
+      "slug": "muaro-pingai-1303140001"
+    },
+    "code": {
+      "id": "1303140001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303140",
+      "level": 3,
+      "name": {
+        "local": "Junjung Sirih",
+        "en": "Junjung Sirih",
+        "slug": "junjung-sirih-1303140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303140",
+        "level": 3,
+        "name": {
+          "local": "Junjung Sirih",
+          "en": "Junjung Sirih",
+          "slug": "junjung-sirih-1303140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27389"
+    ],
+    "geo": {
+      "lat": "-0.689",
+      "lon": "100.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303140002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paninggahan",
+      "en": "Paninggahan",
+      "slug": "paninggahan-1303140002"
+    },
+    "code": {
+      "id": "1303140002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303140",
+      "level": 3,
+      "name": {
+        "local": "Junjung Sirih",
+        "en": "Junjung Sirih",
+        "slug": "junjung-sirih-1303140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303140",
+        "level": 3,
+        "name": {
+          "local": "Junjung Sirih",
+          "en": "Junjung Sirih",
+          "slug": "junjung-sirih-1303140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27389"
+    ],
+    "geo": {
+      "lat": "-0.675",
+      "lon": "100.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

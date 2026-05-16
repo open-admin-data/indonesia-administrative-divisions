@@ -1,0 +1,587 @@
+[
+  {
+    "id": "3209231008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Guwa Kidul",
+      "en": "Guwa Kidul",
+      "slug": "guwa-kidul-3209231008"
+    },
+    "code": {
+      "id": "3209231008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.563",
+      "lon": "108.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Guwa Lor",
+      "en": "Guwa Lor",
+      "slug": "guwa-lor-3209231009"
+    },
+    "code": {
+      "id": "3209231009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.569",
+      "lon": "108.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalideres",
+      "en": "Kalideres",
+      "slug": "kalideres-3209231001"
+    },
+    "code": {
+      "id": "3209231001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.613",
+      "lon": "108.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kaliwedi Kidul",
+      "en": "Kaliwedi Kidul",
+      "slug": "kaliwedi-kidul-3209231004"
+    },
+    "code": {
+      "id": "3209231004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.604",
+      "lon": "108.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kaliwedi Lor",
+      "en": "Kaliwedi Lor",
+      "slug": "kaliwedi-lor-3209231005"
+    },
+    "code": {
+      "id": "3209231005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.589",
+      "lon": "108.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Prajawinangun Kulon",
+      "en": "Prajawinangun Kulon",
+      "slug": "prajawinangun-kulon-3209231003"
+    },
+    "code": {
+      "id": "3209231003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.597",
+      "lon": "108.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Prajawinangun Wetan",
+      "en": "Prajawinangun Wetan",
+      "slug": "prajawinangun-wetan-3209231002"
+    },
+    "code": {
+      "id": "3209231002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.599",
+      "lon": "108.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ujungsemi",
+      "en": "Ujungsemi",
+      "slug": "ujungsemi-3209231006"
+    },
+    "code": {
+      "id": "3209231006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.588",
+      "lon": "108.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3209231007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wargabinangun",
+      "en": "Wargabinangun",
+      "slug": "wargabinangun-3209231007"
+    },
+    "code": {
+      "id": "3209231007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3209231",
+      "level": 3,
+      "name": {
+        "local": "Kaliwedi",
+        "en": "Kaliwedi",
+        "slug": "kaliwedi-3209231"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3209"
+        }
+      },
+      {
+        "id": "3209231",
+        "level": 3,
+        "name": {
+          "local": "Kaliwedi",
+          "en": "Kaliwedi",
+          "slug": "kaliwedi-3209231"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45665"
+    ],
+    "geo": {
+      "lat": "-6.578",
+      "lon": "108.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

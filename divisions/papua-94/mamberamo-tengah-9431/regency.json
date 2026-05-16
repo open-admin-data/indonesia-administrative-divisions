@@ -1,0 +1,48 @@
+{
+  "id": "9431",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mamberamo Tengah",
+    "en": "Mamberamo Tengah",
+    "slug": "mamberamo-tengah-9431"
+  },
+  "code": {
+    "id": "9431",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.375",
+    "lon": "138.319"
+  },
+  "metadata": {},
+  "source": {}
+}

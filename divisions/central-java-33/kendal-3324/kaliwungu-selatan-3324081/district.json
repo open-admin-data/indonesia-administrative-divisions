@@ -1,0 +1,56 @@
+{
+  "id": "3324081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaliwungu Selatan",
+    "en": "Kaliwungu Selatan",
+    "slug": "kaliwungu-selatan-3324081"
+  },
+  "code": {
+    "id": "3324081",
+    "iso": null
+  },
+  "parent": {
+    "id": "3324",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kendal",
+      "en": "Kendal",
+      "slug": "kendal-3324"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3324",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kendal",
+        "en": "Kendal",
+        "slug": "kendal-3324"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7",
+    "lon": "110.24"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "3525",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gresik",
+    "en": "Gresik",
+    "slug": "gresik-3525"
+  },
+  "code": {
+    "id": "3525",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 332
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.171",
+    "lon": "112.6"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1402043",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lubuk Batu Jaya",
+    "en": "Lubuk Batu Jaya",
+    "slug": "lubuk-batu-jaya-1402043"
+  },
+  "code": {
+    "id": "1402043",
+    "iso": null
+  },
+  "parent": {
+    "id": "1402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indragiri Hulu",
+      "en": "Indragiri Hulu",
+      "slug": "indragiri-hulu-1402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indragiri Hulu",
+        "en": "Indragiri Hulu",
+        "slug": "indragiri-hulu-1402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.341",
+    "lon": "102.112"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1509021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bathin Ii Babeko",
+    "en": "Bathin Ii Babeko",
+    "slug": "bathin-ii-babeko-1509021"
+  },
+  "code": {
+    "id": "1509021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1509",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bungo",
+      "en": "Bungo",
+      "slug": "bungo-1509"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.516",
+    "lon": "102.235"
+  },
+  "metadata": {},
+  "source": {}
+}

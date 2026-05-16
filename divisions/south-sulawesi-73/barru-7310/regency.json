@@ -1,0 +1,48 @@
+{
+  "id": "7310",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Barru",
+    "en": "Barru",
+    "slug": "barru-7310"
+  },
+  "code": {
+    "id": "7310",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.846",
+    "lon": "119.56"
+  },
+  "metadata": {},
+  "source": {}
+}

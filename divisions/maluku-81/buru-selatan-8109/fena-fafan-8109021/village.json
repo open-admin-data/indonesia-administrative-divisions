@@ -1,0 +1,652 @@
+[
+  {
+    "id": "8109021008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batu Karang",
+      "en": "Batu Karang",
+      "slug": "batu-karang-8109021008"
+    },
+    "code": {
+      "id": "8109021008",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.727",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Fakal",
+      "en": "Fakal",
+      "slug": "fakal-8109021004"
+    },
+    "code": {
+      "id": "8109021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.616",
+      "lon": "126.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mngeswaen",
+      "en": "Mngeswaen",
+      "slug": "mngeswaen-8109021001"
+    },
+    "code": {
+      "id": "8109021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.727",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nusarua",
+      "en": "Nusarua",
+      "slug": "nusarua-8109021005"
+    },
+    "code": {
+      "id": "8109021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.681",
+      "lon": "126.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Siwatlahin",
+      "en": "Siwatlahin",
+      "slug": "siwatlahin-8109021011"
+    },
+    "code": {
+      "id": "8109021011",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.727",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Trukat",
+      "en": "Trukat",
+      "slug": "trukat-8109021009"
+    },
+    "code": {
+      "id": "8109021009",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.727",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waeeken",
+      "en": "Waeeken",
+      "slug": "waeeken-8109021010"
+    },
+    "code": {
+      "id": "8109021010",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.727",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waekatin",
+      "en": "Waekatin",
+      "slug": "waekatin-8109021007"
+    },
+    "code": {
+      "id": "8109021007",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.727",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waelo",
+      "en": "Waelo",
+      "slug": "waelo-8109021003"
+    },
+    "code": {
+      "id": "8109021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.476",
+      "lon": "126.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8109021002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waeraman",
+      "en": "Waeraman",
+      "slug": "waeraman-8109021002"
+    },
+    "code": {
+      "id": "8109021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "8109021",
+      "level": 3,
+      "name": {
+        "local": "Fena Fafan",
+        "en": "Fena Fafan",
+        "slug": "fena-fafan-8109021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8109",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru Selatan",
+          "en": "Buru Selatan",
+          "slug": "buru-selatan-8109"
+        }
+      },
+      {
+        "id": "8109021",
+        "level": 3,
+        "name": {
+          "local": "Fena Fafan",
+          "en": "Fena Fafan",
+          "slug": "fena-fafan-8109021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97351"
+    ],
+    "geo": {
+      "lat": "-3.727",
+      "lon": "126.696"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

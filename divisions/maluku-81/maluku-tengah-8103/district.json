@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "8103050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amahai",
+      "en": "Amahai",
+      "slug": "amahai-8103050"
+    },
+    "code": {
+      "id": "8103050",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.226",
+      "lon": "129.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banda",
+      "en": "Banda",
+      "slug": "banda-8103010"
+    },
+    "code": {
+      "id": "8103010",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.55",
+      "lon": "129.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Masohi",
+      "en": "Kota Masohi",
+      "slug": "kota-masohi-8103051"
+    },
+    "code": {
+      "id": "8103051",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.304",
+      "lon": "128.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leihitu",
+      "en": "Leihitu",
+      "slug": "leihitu-8103110"
+    },
+    "code": {
+      "id": "8103110",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.61",
+      "lon": "128.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leihitu Barat",
+      "en": "Leihitu Barat",
+      "slug": "leihitu-barat-8103111"
+    },
+    "code": {
+      "id": "8103111",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.717",
+      "lon": "128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nusalaut",
+      "en": "Nusalaut",
+      "slug": "nusalaut-8103081"
+    },
+    "code": {
+      "id": "8103081",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.667",
+      "lon": "128.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "P. Haruku",
+      "en": "P. Haruku",
+      "slug": "p-haruku-8103090"
+    },
+    "code": {
+      "id": "8103090",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.573",
+      "lon": "128.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Salahutu",
+      "en": "Salahutu",
+      "slug": "salahutu-8103100"
+    },
+    "code": {
+      "id": "8103100",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.564",
+      "lon": "128.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saparua",
+      "en": "Saparua",
+      "slug": "saparua-8103080"
+    },
+    "code": {
+      "id": "8103080",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.576",
+      "lon": "128.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saparua Timur",
+      "en": "Saparua Timur",
+      "slug": "saparua-timur-8103082"
+    },
+    "code": {
+      "id": "8103082",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.478",
+      "lon": "128.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seram Utara",
+      "en": "Seram Utara",
+      "slug": "seram-utara-8103140"
+    },
+    "code": {
+      "id": "8103140",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.995",
+      "lon": "129.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103141",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seram Utara Barat",
+      "en": "Seram Utara Barat",
+      "slug": "seram-utara-barat-8103141"
+    },
+    "code": {
+      "id": "8103141",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.885",
+      "lon": "128.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103142",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seram Utara Timur Kobi",
+      "en": "Seram Utara Timur Kobi",
+      "slug": "seram-utara-timur-kobi-8103142"
+    },
+    "code": {
+      "id": "8103142",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.007",
+      "lon": "129.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103143",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seram Utara Timur Seti",
+      "en": "Seram Utara Timur Seti",
+      "slug": "seram-utara-timur-seti-8103143"
+    },
+    "code": {
+      "id": "8103143",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.061",
+      "lon": "129.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tehoru",
+      "en": "Tehoru",
+      "slug": "tehoru-8103040"
+    },
+    "code": {
+      "id": "8103040",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.323",
+      "lon": "129.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Elpaputih",
+      "en": "Teluk Elpaputih",
+      "slug": "teluk-elpaputih-8103052"
+    },
+    "code": {
+      "id": "8103052",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.136",
+      "lon": "128.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Telutih",
+      "en": "Telutih",
+      "slug": "telutih-8103041"
+    },
+    "code": {
+      "id": "8103041",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.26",
+      "lon": "129.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8103060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teon Nila Serua",
+      "en": "Teon Nila Serua",
+      "slug": "teon-nila-serua-8103060"
+    },
+    "code": {
+      "id": "8103060",
+      "iso": null
+    },
+    "parent": {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maluku Tengah",
+          "en": "Maluku Tengah",
+          "slug": "maluku-tengah-8103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.208",
+      "lon": "129.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

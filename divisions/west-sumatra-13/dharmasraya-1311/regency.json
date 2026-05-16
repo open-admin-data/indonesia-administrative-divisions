@@ -1,0 +1,48 @@
+{
+  "id": "1311",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Dharmasraya",
+    "en": "Dharmasraya",
+    "slug": "dharmasraya-1311"
+  },
+  "code": {
+    "id": "1311",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.556",
+    "lon": "101.24"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1904010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Koba",
+    "en": "Koba",
+    "slug": "koba-1904010"
+  },
+  "code": {
+    "id": "1904010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1904",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Tengah",
+      "en": "Bangka Tengah",
+      "slug": "bangka-tengah-1904"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1904",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Tengah",
+        "en": "Bangka Tengah",
+        "slug": "bangka-tengah-1904"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.417",
+    "lon": "106.333"
+  },
+  "metadata": {},
+  "source": {}
+}

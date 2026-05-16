@@ -1,0 +1,912 @@
+[
+  {
+    "id": "3671031003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bojongjaya",
+      "en": "Bojongjaya",
+      "slug": "bojongjaya-3671031003"
+    },
+    "code": {
+      "id": "3671031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.2",
+      "lon": "106.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cimone",
+      "en": "Cimone",
+      "slug": "cimone-3671031006"
+    },
+    "code": {
+      "id": "3671031006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.187",
+      "lon": "106.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cimone Jaya",
+      "en": "Cimone Jaya",
+      "slug": "cimone-jaya-3671031005"
+    },
+    "code": {
+      "id": "3671031005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.19",
+      "lon": "106.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karawaci",
+      "en": "Karawaci",
+      "slug": "karawaci-3671031004"
+    },
+    "code": {
+      "id": "3671031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "106.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karawaci Baru",
+      "en": "Karawaci Baru",
+      "slug": "karawaci-baru-3671031001"
+    },
+    "code": {
+      "id": "3671031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.2",
+      "lon": "106.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koangjaya",
+      "en": "Koangjaya",
+      "slug": "koangjaya-3671031012"
+    },
+    "code": {
+      "id": "3671031012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.159",
+      "lon": "106.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Margasari",
+      "en": "Margasari",
+      "slug": "margasari-3671031008"
+    },
+    "code": {
+      "id": "3671031008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.177",
+      "lon": "106.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nambojaya",
+      "en": "Nambojaya",
+      "slug": "nambojaya-3671031016"
+    },
+    "code": {
+      "id": "3671031016",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.163",
+      "lon": "106.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nusajaya",
+      "en": "Nusajaya",
+      "slug": "nusajaya-3671031002"
+    },
+    "code": {
+      "id": "3671031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.2",
+      "lon": "106.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pabuaran",
+      "en": "Pabuaran",
+      "slug": "pabuaran-3671031009"
+    },
+    "code": {
+      "id": "3671031009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.182",
+      "lon": "106.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pabuaran Tumpeng",
+      "en": "Pabuaran Tumpeng",
+      "slug": "pabuaran-tumpeng-3671031015"
+    },
+    "code": {
+      "id": "3671031015",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.169",
+      "lon": "106.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasarbaru",
+      "en": "Pasarbaru",
+      "slug": "pasarbaru-3671031013"
+    },
+    "code": {
+      "id": "3671031013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.166",
+      "lon": "106.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukajadi",
+      "en": "Sukajadi",
+      "slug": "sukajadi-3671031010"
+    },
+    "code": {
+      "id": "3671031010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.182",
+      "lon": "106.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671031014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumur Pacing",
+      "en": "Sumur Pacing",
+      "slug": "sumur-pacing-3671031014"
+    },
+    "code": {
+      "id": "3671031014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3671031",
+      "level": 3,
+      "name": {
+        "local": "Karawaci",
+        "en": "Karawaci",
+        "slug": "karawaci-3671031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3671",
+        "level": 2,
+        "name": {
+          "local": "Kota Tangerang",
+          "en": "Tangerang",
+          "slug": "tangerang-3671"
+        }
+      },
+      {
+        "id": "3671031",
+        "level": 3,
+        "name": {
+          "local": "Karawaci",
+          "en": "Karawaci",
+          "slug": "karawaci-3671031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "15112"
+    ],
+    "geo": {
+      "lat": "-6.176",
+      "lon": "106.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

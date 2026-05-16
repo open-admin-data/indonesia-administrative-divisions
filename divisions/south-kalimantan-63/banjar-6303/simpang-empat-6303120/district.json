@@ -1,0 +1,56 @@
+{
+  "id": "6303120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Empat",
+    "en": "Simpang Empat",
+    "slug": "simpang-empat-6303120"
+  },
+  "code": {
+    "id": "6303120",
+    "iso": null
+  },
+  "parent": {
+    "id": "6303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banjar",
+      "en": "Banjar",
+      "slug": "banjar-6303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banjar",
+        "en": "Banjar",
+        "slug": "banjar-6303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.17",
+    "lon": "114.947"
+  },
+  "metadata": {},
+  "source": {}
+}

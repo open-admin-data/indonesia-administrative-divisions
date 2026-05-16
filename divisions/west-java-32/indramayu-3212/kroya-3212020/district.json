@@ -1,0 +1,56 @@
+{
+  "id": "3212020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kroya",
+    "en": "Kroya",
+    "slug": "kroya-3212020"
+  },
+  "code": {
+    "id": "3212020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indramayu",
+      "en": "Indramayu",
+      "slug": "indramayu-3212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indramayu",
+        "en": "Indramayu",
+        "slug": "indramayu-3212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.5",
+    "lon": "108.041"
+  },
+  "metadata": {},
+  "source": {}
+}

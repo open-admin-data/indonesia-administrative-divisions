@@ -1,0 +1,56 @@
+{
+  "id": "1222040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Silangkitang",
+    "en": "Silangkitang",
+    "slug": "silangkitang-1222040"
+  },
+  "code": {
+    "id": "1222040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1222",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Labuhan Batu Selatan",
+      "en": "Labuhan Batu Selatan",
+      "slug": "labuhan-batu-selatan-1222"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.875",
+    "lon": "99.937"
+  },
+  "metadata": {},
+  "source": {}
+}

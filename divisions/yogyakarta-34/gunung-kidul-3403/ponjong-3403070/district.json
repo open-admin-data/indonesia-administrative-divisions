@@ -1,0 +1,56 @@
+{
+  "id": "3403070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ponjong",
+    "en": "Ponjong",
+    "slug": "ponjong-3403070"
+  },
+  "code": {
+    "id": "3403070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gunung Kidul",
+      "en": "Gunung Kidul",
+      "slug": "gunung-kidul-3403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gunung Kidul",
+        "en": "Gunung Kidul",
+        "slug": "gunung-kidul-3403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.97",
+    "lon": "110.724"
+  },
+  "metadata": {},
+  "source": {}
+}

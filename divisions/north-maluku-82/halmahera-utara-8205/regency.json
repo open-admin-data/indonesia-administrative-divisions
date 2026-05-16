@@ -1,0 +1,48 @@
+{
+  "id": "8205",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Halmahera Utara",
+    "en": "Halmahera Utara",
+    "slug": "halmahera-utara-8205"
+  },
+  "code": {
+    "id": "8205",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Maluku Utara",
+      "en": "North Maluku",
+      "slug": "north-maluku-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 191
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.007",
+    "lon": "125.964"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6405040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Derawan",
+    "en": "Pulau Derawan",
+    "slug": "pulau-derawan-6405040"
+  },
+  "code": {
+    "id": "6405040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Berau",
+      "en": "Berau",
+      "slug": "berau-6405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Berau",
+        "en": "Berau",
+        "slug": "berau-6405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.229",
+    "lon": "118.054"
+  },
+  "metadata": {},
+  "source": {}
+}

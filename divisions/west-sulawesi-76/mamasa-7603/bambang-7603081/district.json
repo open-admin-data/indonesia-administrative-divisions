@@ -1,0 +1,56 @@
+{
+  "id": "7603081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bambang",
+    "en": "Bambang",
+    "slug": "bambang-7603081"
+  },
+  "code": {
+    "id": "7603081",
+    "iso": null
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamasa",
+      "en": "Mamasa",
+      "slug": "mamasa-7603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.913",
+    "lon": "119.26"
+  },
+  "metadata": {},
+  "source": {}
+}

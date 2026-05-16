@@ -1,0 +1,56 @@
+{
+  "id": "1803120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Palas",
+    "en": "Palas",
+    "slug": "palas-1803120"
+  },
+  "code": {
+    "id": "1803120",
+    "iso": null
+  },
+  "parent": {
+    "id": "1803",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Selatan",
+      "en": "Lampung Selatan",
+      "slug": "lampung-selatan-1803"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.628",
+    "lon": "105.667"
+  },
+  "metadata": {},
+  "source": {}
+}

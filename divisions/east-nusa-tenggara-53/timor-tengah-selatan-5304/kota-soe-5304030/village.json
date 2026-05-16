@@ -1,0 +1,782 @@
+[
+  {
+    "id": "5304030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cendana",
+      "en": "Cendana",
+      "slug": "cendana-5304030001"
+    },
+    "code": {
+      "id": "5304030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.873",
+      "lon": "124.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Baru",
+      "en": "Kampung Baru",
+      "slug": "kampung-baru-5304030008"
+    },
+    "code": {
+      "id": "5304030008",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.86",
+      "lon": "124.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Siri",
+      "en": "Karang Siri",
+      "slug": "karang-siri-5304030009"
+    },
+    "code": {
+      "id": "5304030009",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.849",
+      "lon": "124.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kobekamusa",
+      "en": "Kobekamusa",
+      "slug": "kobekamusa-5304030004"
+    },
+    "code": {
+      "id": "5304030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.869",
+      "lon": "124.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kota Baru",
+      "en": "Kota Baru",
+      "slug": "kota-baru-5304030011"
+    },
+    "code": {
+      "id": "5304030011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.857",
+      "lon": "124.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuatae",
+      "en": "Kuatae",
+      "slug": "kuatae-5304030012"
+    },
+    "code": {
+      "id": "5304030012",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.88",
+      "lon": "124.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Noemeto",
+      "en": "Noemeto",
+      "slug": "noemeto-5304030013"
+    },
+    "code": {
+      "id": "5304030013",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.875",
+      "lon": "124.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nonohonis",
+      "en": "Nonohonis",
+      "slug": "nonohonis-5304030010"
+    },
+    "code": {
+      "id": "5304030010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.845",
+      "lon": "124.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Oebesa",
+      "en": "Oebesa",
+      "slug": "oebesa-5304030003"
+    },
+    "code": {
+      "id": "5304030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.874",
+      "lon": "124.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Oekefan",
+      "en": "Oekefan",
+      "slug": "oekefan-5304030006"
+    },
+    "code": {
+      "id": "5304030006",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.855",
+      "lon": "124.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "So'e",
+      "en": "So'e",
+      "slug": "soe-5304030002"
+    },
+    "code": {
+      "id": "5304030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.866",
+      "lon": "124.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5304030007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Taubneno",
+      "en": "Taubneno",
+      "slug": "taubneno-5304030007"
+    },
+    "code": {
+      "id": "5304030007",
+      "iso": null
+    },
+    "parent": {
+      "id": "5304030",
+      "level": 3,
+      "name": {
+        "local": "Kota Soe",
+        "en": "Kota Soe",
+        "slug": "kota-soe-5304030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Selatan",
+          "en": "Timor Tengah Selatan",
+          "slug": "timor-tengah-selatan-5304"
+        }
+      },
+      {
+        "id": "5304030",
+        "level": 3,
+        "name": {
+          "local": "Kota Soe",
+          "en": "Kota Soe",
+          "slug": "kota-soe-5304030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85511"
+    ],
+    "geo": {
+      "lat": "-9.862",
+      "lon": "124.285"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

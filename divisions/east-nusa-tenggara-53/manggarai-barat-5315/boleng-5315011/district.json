@@ -1,0 +1,56 @@
+{
+  "id": "5315011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Boleng",
+    "en": "Boleng",
+    "slug": "boleng-5315011"
+  },
+  "code": {
+    "id": "5315011",
+    "iso": null
+  },
+  "parent": {
+    "id": "5315",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Barat",
+      "en": "Manggarai Barat",
+      "slug": "manggarai-barat-5315"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Barat",
+        "en": "Manggarai Barat",
+        "slug": "manggarai-barat-5315"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.45",
+    "lon": "120.041"
+  },
+  "metadata": {},
+  "source": {}
+}

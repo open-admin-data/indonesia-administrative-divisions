@@ -1,0 +1,56 @@
+{
+  "id": "1805131",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Surabaya",
+    "en": "Bandar Surabaya",
+    "slug": "bandar-surabaya-1805131"
+  },
+  "code": {
+    "id": "1805131",
+    "iso": null
+  },
+  "parent": {
+    "id": "1805",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Tengah",
+      "en": "Lampung Tengah",
+      "slug": "lampung-tengah-1805"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Tengah",
+        "en": "Lampung Tengah",
+        "slug": "lampung-tengah-1805"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.694",
+    "lon": "105.751"
+  },
+  "metadata": {},
+  "source": {}
+}

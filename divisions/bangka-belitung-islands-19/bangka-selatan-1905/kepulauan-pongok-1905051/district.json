@@ -1,0 +1,56 @@
+{
+  "id": "1905051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kepulauan Pongok",
+    "en": "Kepulauan Pongok",
+    "slug": "kepulauan-pongok-1905051"
+  },
+  "code": {
+    "id": "1905051",
+    "iso": null
+  },
+  "parent": {
+    "id": "1905",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Selatan",
+      "en": "Bangka Selatan",
+      "slug": "bangka-selatan-1905"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Selatan",
+        "en": "Bangka Selatan",
+        "slug": "bangka-selatan-1905"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.866",
+    "lon": "107.054"
+  },
+  "metadata": {},
+  "source": {}
+}

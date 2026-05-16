@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3511010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gambangan",
+      "en": "Gambangan",
+      "slug": "gambangan-3511010005"
+    },
+    "code": {
+      "id": "3511010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.038",
+      "lon": "113.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunungsari",
+      "en": "Gunungsari",
+      "slug": "gunungsari-3511010012"
+    },
+    "code": {
+      "id": "3511010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.01",
+      "lon": "113.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Maesan",
+      "en": "Maesan",
+      "slug": "maesan-3511010004"
+    },
+    "code": {
+      "id": "3511010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.025",
+      "lon": "113.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakuniran",
+      "en": "Pakuniran",
+      "slug": "pakuniran-3511010011"
+    },
+    "code": {
+      "id": "3511010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.013",
+      "lon": "113.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Penanggungan",
+      "en": "Penanggungan",
+      "slug": "penanggungan-3511010010"
+    },
+    "code": {
+      "id": "3511010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.02",
+      "lon": "113.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pujerbaru",
+      "en": "Pujerbaru",
+      "slug": "pujerbaru-3511010002"
+    },
+    "code": {
+      "id": "3511010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.035",
+      "lon": "113.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sucolor",
+      "en": "Sucolor",
+      "slug": "sucolor-3511010001"
+    },
+    "code": {
+      "id": "3511010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.003",
+      "lon": "113.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suger Lor",
+      "en": "Suger Lor",
+      "slug": "suger-lor-3511010006"
+    },
+    "code": {
+      "id": "3511010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.043",
+      "lon": "113.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumberanyar",
+      "en": "Sumberanyar",
+      "slug": "sumberanyar-3511010009"
+    },
+    "code": {
+      "id": "3511010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.017",
+      "lon": "113.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumberpakem",
+      "en": "Sumberpakem",
+      "slug": "sumberpakem-3511010007"
+    },
+    "code": {
+      "id": "3511010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.047",
+      "lon": "113.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumbersari",
+      "en": "Sumbersari",
+      "slug": "sumbersari-3511010008"
+    },
+    "code": {
+      "id": "3511010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.033",
+      "lon": "113.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3511010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanahwulan",
+      "en": "Tanahwulan",
+      "slug": "tanahwulan-3511010003"
+    },
+    "code": {
+      "id": "3511010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3511010",
+      "level": 3,
+      "name": {
+        "local": "Maesan",
+        "en": "Maesan",
+        "slug": "maesan-3511010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3511",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bondowoso",
+          "en": "Bondowoso",
+          "slug": "bondowoso-3511"
+        }
+      },
+      {
+        "id": "3511010",
+        "level": 3,
+        "name": {
+          "local": "Maesan",
+          "en": "Maesan",
+          "slug": "maesan-3511010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68264"
+    ],
+    "geo": {
+      "lat": "-8.004",
+      "lon": "113.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

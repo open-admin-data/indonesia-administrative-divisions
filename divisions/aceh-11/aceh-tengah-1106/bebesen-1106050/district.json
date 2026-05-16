@@ -1,0 +1,56 @@
+{
+  "id": "1106050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bebesen",
+    "en": "Bebesen",
+    "slug": "bebesen-1106050"
+  },
+  "code": {
+    "id": "1106050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tengah",
+      "en": "Aceh Tengah",
+      "slug": "aceh-tengah-1106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.638",
+    "lon": "96.813"
+  },
+  "metadata": {},
+  "source": {}
+}

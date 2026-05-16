@@ -1,0 +1,912 @@
+[
+  {
+    "id": "6403090009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baru",
+      "en": "Baru",
+      "slug": "baru-6403090009"
+    },
+    "code": {
+      "id": "6403090009",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.399",
+      "lon": "116.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bendang Raya",
+      "en": "Bendang Raya",
+      "slug": "bendang-raya-6403090014"
+    },
+    "code": {
+      "id": "6403090014",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.37",
+      "lon": "116.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Biru",
+      "en": "Bukit Biru",
+      "slug": "bukit-biru-6403090002"
+    },
+    "code": {
+      "id": "6403090002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.466",
+      "lon": "116.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jahab",
+      "en": "Jahab",
+      "slug": "jahab-6403090001"
+    },
+    "code": {
+      "id": "6403090001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.477",
+      "lon": "116.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Loa Ipuh",
+      "en": "Loa Ipuh",
+      "slug": "loa-ipuh-6403090005"
+    },
+    "code": {
+      "id": "6403090005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.422",
+      "lon": "116.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Loa Ipuh Darat",
+      "en": "Loa Ipuh Darat",
+      "slug": "loa-ipuh-darat-6403090013"
+    },
+    "code": {
+      "id": "6403090013",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.444",
+      "lon": "116.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Loa Tebu",
+      "en": "Loa Tebu",
+      "slug": "loa-tebu-6403090011"
+    },
+    "code": {
+      "id": "6403090011",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.342",
+      "lon": "117.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Maluhu",
+      "en": "Maluhu",
+      "slug": "maluhu-6403090006"
+    },
+    "code": {
+      "id": "6403090006",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.412",
+      "lon": "116.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mangkurawang",
+      "en": "Mangkurawang",
+      "slug": "mangkurawang-6403090010"
+    },
+    "code": {
+      "id": "6403090010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.376",
+      "lon": "116.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Melayu",
+      "en": "Melayu",
+      "slug": "melayu-6403090004"
+    },
+    "code": {
+      "id": "6403090004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.437",
+      "lon": "116.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panji",
+      "en": "Panji",
+      "slug": "panji-6403090007"
+    },
+    "code": {
+      "id": "6403090007",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.408",
+      "lon": "116.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rapak Lambur",
+      "en": "Rapak Lambur",
+      "slug": "rapak-lambur-6403090012"
+    },
+    "code": {
+      "id": "6403090012",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.355",
+      "lon": "116.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukarame",
+      "en": "Sukarame",
+      "slug": "sukarame-6403090008"
+    },
+    "code": {
+      "id": "6403090008",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.404",
+      "lon": "116.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403090003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Timbau",
+      "en": "Timbau",
+      "slug": "timbau-6403090003"
+    },
+    "code": {
+      "id": "6403090003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403090",
+      "level": 3,
+      "name": {
+        "local": "Tenggarong",
+        "en": "Tenggarong",
+        "slug": "tenggarong-6403090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403090",
+        "level": 3,
+        "name": {
+          "local": "Tenggarong",
+          "en": "Tenggarong",
+          "slug": "tenggarong-6403090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75511"
+    ],
+    "geo": {
+      "lat": "-0.439",
+      "lon": "116.991"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

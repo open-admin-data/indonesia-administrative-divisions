@@ -1,0 +1,48 @@
+{
+  "id": "1811",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mesuji",
+    "en": "Mesuji",
+    "slug": "mesuji-1811"
+  },
+  "code": {
+    "id": "1811",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 105
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.873",
+    "lon": "105.428"
+  },
+  "metadata": {},
+  "source": {}
+}

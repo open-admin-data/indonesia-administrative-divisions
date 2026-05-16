@@ -1,0 +1,56 @@
+{
+  "id": "3505080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kanigoro",
+    "en": "Kanigoro",
+    "slug": "kanigoro-3505080"
+  },
+  "code": {
+    "id": "3505080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Blitar",
+      "en": "Blitar",
+      "slug": "blitar-3505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3505"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.122",
+    "lon": "112.202"
+  },
+  "metadata": {},
+  "source": {}
+}

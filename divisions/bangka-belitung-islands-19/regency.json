@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1901",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bangka",
+      "en": "Bangka",
+      "slug": "bangka-1901"
+    },
+    "code": {
+      "id": "1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 78
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.887",
+      "lon": "106.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1903",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bangka Barat",
+      "en": "Bangka Barat",
+      "slug": "bangka-barat-1903"
+    },
+    "code": {
+      "id": "1903",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.02",
+      "lon": "106.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1905",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bangka Selatan",
+      "en": "Bangka Selatan",
+      "slug": "bangka-selatan-1905"
+    },
+    "code": {
+      "id": "1905",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 49
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.059",
+      "lon": "105.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1904",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bangka Tengah",
+      "en": "Bangka Tengah",
+      "slug": "bangka-tengah-1904"
+    },
+    "code": {
+      "id": "1904",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.515",
+      "lon": "106.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1902",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Belitung",
+      "en": "Belitung",
+      "slug": "belitung-1902"
+    },
+    "code": {
+      "id": "1902",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.742",
+      "lon": "107.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Belitung Timur",
+      "en": "Belitung Timur",
+      "slug": "belitung-timur-1906"
+    },
+    "code": {
+      "id": "1906",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.883",
+      "lon": "108.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1971",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Pangkal Pinang",
+      "en": "Pangkal Pinang",
+      "slug": "pangkal-pinang-1971"
+    },
+    "code": {
+      "id": "1971",
+      "iso": null
+    },
+    "parent": {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.141",
+      "lon": "106.116"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

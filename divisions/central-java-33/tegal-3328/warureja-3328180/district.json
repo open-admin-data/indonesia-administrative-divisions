@@ -1,0 +1,56 @@
+{
+  "id": "3328180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Warureja",
+    "en": "Warureja",
+    "slug": "warureja-3328180"
+  },
+  "code": {
+    "id": "3328180",
+    "iso": null
+  },
+  "parent": {
+    "id": "3328",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tegal",
+      "en": "Tegal",
+      "slug": "tegal-3328"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3328",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tegal",
+        "en": "Tegal",
+        "slug": "tegal-3328"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.925",
+    "lon": "109.319"
+  },
+  "metadata": {},
+  "source": {}
+}

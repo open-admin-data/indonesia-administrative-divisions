@@ -1,0 +1,56 @@
+{
+  "id": "1906031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Damar",
+    "en": "Damar",
+    "slug": "damar-1906031"
+  },
+  "code": {
+    "id": "1906031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1906",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belitung Timur",
+      "en": "Belitung Timur",
+      "slug": "belitung-timur-1906"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belitung Timur",
+        "en": "Belitung Timur",
+        "slug": "belitung-timur-1906"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.742",
+    "lon": "108.201"
+  },
+  "metadata": {},
+  "source": {}
+}

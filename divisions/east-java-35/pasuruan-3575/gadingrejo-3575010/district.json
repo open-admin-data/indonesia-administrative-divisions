@@ -1,0 +1,56 @@
+{
+  "id": "3575010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gadingrejo",
+    "en": "Gadingrejo",
+    "slug": "gadingrejo-3575010"
+  },
+  "code": {
+    "id": "3575010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3575",
+    "level": 2,
+    "name": {
+      "local": "Kota Pasuruan",
+      "en": "Pasuruan",
+      "slug": "pasuruan-3575"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3575",
+      "level": 2,
+      "name": {
+        "local": "Kota Pasuruan",
+        "en": "Pasuruan",
+        "slug": "pasuruan-3575"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.642",
+    "lon": "112.889"
+  },
+  "metadata": {},
+  "source": {}
+}

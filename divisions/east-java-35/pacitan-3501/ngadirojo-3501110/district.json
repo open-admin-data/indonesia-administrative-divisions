@@ -1,0 +1,56 @@
+{
+  "id": "3501110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngadirojo",
+    "en": "Ngadirojo",
+    "slug": "ngadirojo-3501110"
+  },
+  "code": {
+    "id": "3501110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pacitan",
+      "en": "Pacitan",
+      "slug": "pacitan-3501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pacitan",
+        "en": "Pacitan",
+        "slug": "pacitan-3501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.231",
+    "lon": "111.296"
+  },
+  "metadata": {},
+  "source": {}
+}

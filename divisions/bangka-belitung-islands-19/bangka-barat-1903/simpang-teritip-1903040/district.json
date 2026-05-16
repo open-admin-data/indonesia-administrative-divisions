@@ -1,0 +1,56 @@
+{
+  "id": "1903040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Teritip",
+    "en": "Simpang Teritip",
+    "slug": "simpang-teritip-1903040"
+  },
+  "code": {
+    "id": "1903040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Barat",
+      "en": "Bangka Barat",
+      "slug": "bangka-barat-1903"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Barat",
+        "en": "Bangka Barat",
+        "slug": "bangka-barat-1903"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.948",
+    "lon": "105.398"
+  },
+  "metadata": {},
+  "source": {}
+}

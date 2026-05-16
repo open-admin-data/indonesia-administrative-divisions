@@ -1,0 +1,56 @@
+{
+  "id": "1406013",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Sahilan",
+    "en": "Gunung Sahilan",
+    "slug": "gunung-sahilan-1406013"
+  },
+  "code": {
+    "id": "1406013",
+    "iso": null
+  },
+  "parent": {
+    "id": "1406",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kampar",
+      "en": "Kampar",
+      "slug": "kampar-1406"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kampar",
+        "en": "Kampar",
+        "slug": "kampar-1406"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.035",
+    "lon": "101.324"
+  },
+  "metadata": {},
+  "source": {}
+}

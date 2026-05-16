@@ -1,0 +1,56 @@
+{
+  "id": "3206151",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karangjaya",
+    "en": "Karangjaya",
+    "slug": "karangjaya-3206151"
+  },
+  "code": {
+    "id": "3206151",
+    "iso": null
+  },
+  "parent": {
+    "id": "3206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tasikmalaya",
+      "en": "Tasikmalaya",
+      "slug": "tasikmalaya-3206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tasikmalaya",
+        "en": "Tasikmalaya",
+        "slug": "tasikmalaya-3206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.456",
+    "lon": "108.395"
+  },
+  "metadata": {},
+  "source": {}
+}

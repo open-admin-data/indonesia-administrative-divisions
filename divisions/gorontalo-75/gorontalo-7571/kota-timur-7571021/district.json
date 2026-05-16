@@ -1,0 +1,56 @@
+{
+  "id": "7571021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Timur",
+    "en": "Kota Timur",
+    "slug": "kota-timur-7571021"
+  },
+  "code": {
+    "id": "7571021",
+    "iso": null
+  },
+  "parent": {
+    "id": "7571",
+    "level": 2,
+    "name": {
+      "local": "Kota Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7571"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.543",
+    "lon": "123.072"
+  },
+  "metadata": {},
+  "source": {}
+}

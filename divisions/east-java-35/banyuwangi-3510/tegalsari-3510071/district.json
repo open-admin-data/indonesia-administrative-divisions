@@ -1,0 +1,56 @@
+{
+  "id": "3510071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tegalsari",
+    "en": "Tegalsari",
+    "slug": "tegalsari-3510071"
+  },
+  "code": {
+    "id": "3510071",
+    "iso": null
+  },
+  "parent": {
+    "id": "3510",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banyuwangi",
+      "en": "Banyuwangi",
+      "slug": "banyuwangi-3510"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3510",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyuwangi",
+        "en": "Banyuwangi",
+        "slug": "banyuwangi-3510"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.414",
+    "lon": "114.133"
+  },
+  "metadata": {},
+  "source": {}
+}

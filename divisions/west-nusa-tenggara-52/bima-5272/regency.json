@@ -1,0 +1,48 @@
+{
+  "id": "5272",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Bima",
+    "en": "Bima",
+    "slug": "bima-5272"
+  },
+  "code": {
+    "id": "5272",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Barat",
+      "en": "West Nusa Tenggara",
+      "slug": "west-nusa-tenggara-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.462",
+    "lon": "118.749"
+  },
+  "metadata": {},
+  "source": {}
+}

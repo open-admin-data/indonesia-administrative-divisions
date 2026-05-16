@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1377010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pariaman Selatan",
+      "en": "Pariaman Selatan",
+      "slug": "pariaman-selatan-1377010"
+    },
+    "code": {
+      "id": "1377010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1377",
+      "level": 2,
+      "name": {
+        "local": "Kota Pariaman",
+        "en": "Pariaman",
+        "slug": "pariaman-1377"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1377",
+        "level": 2,
+        "name": {
+          "local": "Kota Pariaman",
+          "en": "Pariaman",
+          "slug": "pariaman-1377"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.639",
+      "lon": "100.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1377020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pariaman Tengah",
+      "en": "Pariaman Tengah",
+      "slug": "pariaman-tengah-1377020"
+    },
+    "code": {
+      "id": "1377020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1377",
+      "level": 2,
+      "name": {
+        "local": "Kota Pariaman",
+        "en": "Pariaman",
+        "slug": "pariaman-1377"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1377",
+        "level": 2,
+        "name": {
+          "local": "Kota Pariaman",
+          "en": "Pariaman",
+          "slug": "pariaman-1377"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.633",
+      "lon": "100.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1377021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pariaman Timur",
+      "en": "Pariaman Timur",
+      "slug": "pariaman-timur-1377021"
+    },
+    "code": {
+      "id": "1377021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1377",
+      "level": 2,
+      "name": {
+        "local": "Kota Pariaman",
+        "en": "Pariaman",
+        "slug": "pariaman-1377"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1377",
+        "level": 2,
+        "name": {
+          "local": "Kota Pariaman",
+          "en": "Pariaman",
+          "slug": "pariaman-1377"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.604",
+      "lon": "100.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1377030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pariaman Utara",
+      "en": "Pariaman Utara",
+      "slug": "pariaman-utara-1377030"
+    },
+    "code": {
+      "id": "1377030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1377",
+      "level": 2,
+      "name": {
+        "local": "Kota Pariaman",
+        "en": "Pariaman",
+        "slug": "pariaman-1377"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1377",
+        "level": 2,
+        "name": {
+          "local": "Kota Pariaman",
+          "en": "Pariaman",
+          "slug": "pariaman-1377"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.579",
+      "lon": "100.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

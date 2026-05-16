@@ -1,0 +1,56 @@
+{
+  "id": "3513170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pajarakan",
+    "en": "Pajarakan",
+    "slug": "pajarakan-3513170"
+  },
+  "code": {
+    "id": "3513170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3513",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Probolinggo",
+      "en": "Probolinggo",
+      "slug": "probolinggo-3513"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3513",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Probolinggo",
+        "en": "Probolinggo",
+        "slug": "probolinggo-3513"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.78",
+    "lon": "113.371"
+  },
+  "metadata": {},
+  "source": {}
+}

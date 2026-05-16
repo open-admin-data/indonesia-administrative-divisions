@@ -1,0 +1,56 @@
+{
+  "id": "3403030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sapto Sari",
+    "en": "Sapto Sari",
+    "slug": "sapto-sari-3403030"
+  },
+  "code": {
+    "id": "3403030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gunung Kidul",
+      "en": "Gunung Kidul",
+      "slug": "gunung-kidul-3403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gunung Kidul",
+        "en": "Gunung Kidul",
+        "slug": "gunung-kidul-3403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.076",
+    "lon": "110.509"
+  },
+  "metadata": {},
+  "source": {}
+}

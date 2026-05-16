@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1309072001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alahan Mati",
+      "en": "Alahan Mati",
+      "slug": "alahan-mati-1309072001"
+    },
+    "code": {
+      "id": "1309072001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309072",
+      "level": 3,
+      "name": {
+        "local": "Simpang Alahan Mati",
+        "en": "Simpang Alahan Mati",
+        "slug": "simpang-alahan-mati-1309072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309072",
+        "level": 3,
+        "name": {
+          "local": "Simpang Alahan Mati",
+          "en": "Simpang Alahan Mati",
+          "slug": "simpang-alahan-mati-1309072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26382"
+    ],
+    "geo": {
+      "lat": "-0.028",
+      "lon": "100.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309072002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simpang",
+      "en": "Simpang",
+      "slug": "simpang-1309072002"
+    },
+    "code": {
+      "id": "1309072002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309072",
+      "level": 3,
+      "name": {
+        "local": "Simpang Alahan Mati",
+        "en": "Simpang Alahan Mati",
+        "slug": "simpang-alahan-mati-1309072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309072",
+        "level": 3,
+        "name": {
+          "local": "Simpang Alahan Mati",
+          "en": "Simpang Alahan Mati",
+          "slug": "simpang-alahan-mati-1309072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26382"
+    ],
+    "geo": {
+      "lat": "0.009",
+      "lon": "100.159"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

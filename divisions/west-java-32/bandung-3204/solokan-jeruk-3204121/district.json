@@ -1,0 +1,56 @@
+{
+  "id": "3204121",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Solokan Jeruk",
+    "en": "Solokan Jeruk",
+    "slug": "solokan-jeruk-3204121"
+  },
+  "code": {
+    "id": "3204121",
+    "iso": null
+  },
+  "parent": {
+    "id": "3204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.014",
+    "lon": "107.742"
+  },
+  "metadata": {},
+  "source": {}
+}

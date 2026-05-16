@@ -1,0 +1,56 @@
+{
+  "id": "7313060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sajoanging",
+    "en": "Sajoanging",
+    "slug": "sajoanging-7313060"
+  },
+  "code": {
+    "id": "7313060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wajo",
+      "en": "Wajo",
+      "slug": "wajo-7313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.992",
+    "lon": "120.281"
+  },
+  "metadata": {},
+  "source": {}
+}

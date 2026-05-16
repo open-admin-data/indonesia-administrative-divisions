@@ -1,0 +1,56 @@
+{
+  "id": "1809022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Way Ratai",
+    "en": "Way Ratai",
+    "slug": "way-ratai-1809022"
+  },
+  "code": {
+    "id": "1809022",
+    "iso": null
+  },
+  "parent": {
+    "id": "1809",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pesawaran",
+      "en": "Pesawaran",
+      "slug": "pesawaran-1809"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.57",
+    "lon": "105.072"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6172",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Singkawang",
+    "en": "Singkawang",
+    "slug": "singkawang-6172"
+  },
+  "code": {
+    "id": "6172",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.905",
+    "lon": "108.977"
+  },
+  "metadata": {},
+  "source": {}
+}

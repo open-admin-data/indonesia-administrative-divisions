@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1309071001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Binjai",
+      "en": "Binjai",
+      "slug": "binjai-1309071001"
+    },
+    "code": {
+      "id": "1309071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309071",
+      "level": 3,
+      "name": {
+        "local": "Tigo Nagari",
+        "en": "Tigo Nagari",
+        "slug": "tigo-nagari-1309071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309071",
+        "level": 3,
+        "name": {
+          "local": "Tigo Nagari",
+          "en": "Tigo Nagari",
+          "slug": "tigo-nagari-1309071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26358"
+    ],
+    "geo": {
+      "lat": "-0.064",
+      "lon": "100.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309071002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ladang Panjang",
+      "en": "Ladang Panjang",
+      "slug": "ladang-panjang-1309071002"
+    },
+    "code": {
+      "id": "1309071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309071",
+      "level": 3,
+      "name": {
+        "local": "Tigo Nagari",
+        "en": "Tigo Nagari",
+        "slug": "tigo-nagari-1309071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309071",
+        "level": 3,
+        "name": {
+          "local": "Tigo Nagari",
+          "en": "Tigo Nagari",
+          "slug": "tigo-nagari-1309071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26358"
+    ],
+    "geo": {
+      "lat": "-0.028",
+      "lon": "100.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309071003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Malampah",
+      "en": "Malampah",
+      "slug": "malampah-1309071003"
+    },
+    "code": {
+      "id": "1309071003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309071",
+      "level": 3,
+      "name": {
+        "local": "Tigo Nagari",
+        "en": "Tigo Nagari",
+        "slug": "tigo-nagari-1309071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309071",
+        "level": 3,
+        "name": {
+          "local": "Tigo Nagari",
+          "en": "Tigo Nagari",
+          "slug": "tigo-nagari-1309071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26358"
+    ],
+    "geo": {
+      "lat": "0.033",
+      "lon": "100.083"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

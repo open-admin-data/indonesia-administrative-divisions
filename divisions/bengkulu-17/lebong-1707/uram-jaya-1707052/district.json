@@ -1,0 +1,56 @@
+{
+  "id": "1707052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Uram Jaya",
+    "en": "Uram Jaya",
+    "slug": "uram-jaya-1707052"
+  },
+  "code": {
+    "id": "1707052",
+    "iso": null
+  },
+  "parent": {
+    "id": "1707",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lebong",
+      "en": "Lebong",
+      "slug": "lebong-1707"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.073",
+    "lon": "102.26"
+  },
+  "metadata": {},
+  "source": {}
+}

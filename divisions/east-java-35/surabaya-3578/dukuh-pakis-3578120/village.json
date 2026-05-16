@@ -1,0 +1,262 @@
+[
+  {
+    "id": "3578120004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dukuh Kupang",
+      "en": "Dukuh Kupang",
+      "slug": "dukuh-kupang-3578120004"
+    },
+    "code": {
+      "id": "3578120004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578120",
+      "level": 3,
+      "name": {
+        "local": "Dukuh Pakis",
+        "en": "Dukuh Pakis",
+        "slug": "dukuh-pakis-3578120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578120",
+        "level": 3,
+        "name": {
+          "local": "Dukuh Pakis",
+          "en": "Dukuh Pakis",
+          "slug": "dukuh-pakis-3578120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60224"
+    ],
+    "geo": {
+      "lat": "-7.282",
+      "lon": "112.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578120002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dukuh Pakis",
+      "en": "Dukuh Pakis",
+      "slug": "dukuh-pakis-3578120002"
+    },
+    "code": {
+      "id": "3578120002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578120",
+      "level": 3,
+      "name": {
+        "local": "Dukuh Pakis",
+        "en": "Dukuh Pakis",
+        "slug": "dukuh-pakis-3578120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578120",
+        "level": 3,
+        "name": {
+          "local": "Dukuh Pakis",
+          "en": "Dukuh Pakis",
+          "slug": "dukuh-pakis-3578120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60224"
+    ],
+    "geo": {
+      "lat": "-7.297",
+      "lon": "112.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578120001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunungsari",
+      "en": "Gunungsari",
+      "slug": "gunungsari-3578120001"
+    },
+    "code": {
+      "id": "3578120001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578120",
+      "level": 3,
+      "name": {
+        "local": "Dukuh Pakis",
+        "en": "Dukuh Pakis",
+        "slug": "dukuh-pakis-3578120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578120",
+        "level": 3,
+        "name": {
+          "local": "Dukuh Pakis",
+          "en": "Dukuh Pakis",
+          "slug": "dukuh-pakis-3578120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60224"
+    ],
+    "geo": {
+      "lat": "-7.302",
+      "lon": "112.714"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578120003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pradahkali Kendal",
+      "en": "Pradahkali Kendal",
+      "slug": "pradahkali-kendal-3578120003"
+    },
+    "code": {
+      "id": "3578120003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578120",
+      "level": 3,
+      "name": {
+        "local": "Dukuh Pakis",
+        "en": "Dukuh Pakis",
+        "slug": "dukuh-pakis-3578120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578120",
+        "level": 3,
+        "name": {
+          "local": "Dukuh Pakis",
+          "en": "Dukuh Pakis",
+          "slug": "dukuh-pakis-3578120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60224"
+    ],
+    "geo": {
+      "lat": "-7.287",
+      "lon": "112.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

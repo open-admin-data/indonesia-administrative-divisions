@@ -1,0 +1,48 @@
+{
+  "id": "9432",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Yalimo",
+    "en": "Yalimo",
+    "slug": "yalimo-9432"
+  },
+  "code": {
+    "id": "9432",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 206
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.785",
+    "lon": "139.447"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7314030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Watang Pulu",
+    "en": "Watang Pulu",
+    "slug": "watang-pulu-7314030"
+  },
+  "code": {
+    "id": "7314030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sidenreng Rappang",
+      "en": "Sidenreng Rappang",
+      "slug": "sidenreng-rappang-7314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sidenreng Rappang",
+        "en": "Sidenreng Rappang",
+        "slug": "sidenreng-rappang-7314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.95",
+    "lon": "119.733"
+  },
+  "metadata": {},
+  "source": {}
+}

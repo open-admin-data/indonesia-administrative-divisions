@@ -1,0 +1,56 @@
+{
+  "id": "6103031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jelimpo",
+    "en": "Jelimpo",
+    "slug": "jelimpo-6103031"
+  },
+  "code": {
+    "id": "6103031",
+    "iso": null
+  },
+  "parent": {
+    "id": "6103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Landak",
+      "en": "Landak",
+      "slug": "landak-6103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.37",
+    "lon": "110.109"
+  },
+  "metadata": {},
+  "source": {}
+}

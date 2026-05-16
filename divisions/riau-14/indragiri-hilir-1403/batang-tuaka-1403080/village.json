@@ -1,0 +1,847 @@
+[
+  {
+    "id": "1403080010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gemilang Jaya",
+      "en": "Gemilang Jaya",
+      "slug": "gemilang-jaya-1403080010"
+    },
+    "code": {
+      "id": "1403080010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.205",
+      "lon": "103.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Sebatu",
+      "en": "Kuala Sebatu",
+      "slug": "kuala-sebatu-1403080001"
+    },
+    "code": {
+      "id": "1403080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.31",
+      "lon": "103.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasir Emas",
+      "en": "Pasir Emas",
+      "slug": "pasir-emas-1403080012"
+    },
+    "code": {
+      "id": "1403080012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.372",
+      "lon": "101.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sialang Jaya",
+      "en": "Sialang Jaya",
+      "slug": "sialang-jaya-1403080009"
+    },
+    "code": {
+      "id": "1403080009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.228",
+      "lon": "103.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simpang Jaya",
+      "en": "Simpang Jaya",
+      "slug": "simpang-jaya-1403080013"
+    },
+    "code": {
+      "id": "1403080013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.266",
+      "lon": "103.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Dusun",
+      "en": "Sungai Dusun",
+      "slug": "sungai-dusun-1403080005"
+    },
+    "code": {
+      "id": "1403080005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.228",
+      "lon": "103.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Junjangan",
+      "en": "Sungai Junjangan",
+      "slug": "sungai-junjangan-1403080003"
+    },
+    "code": {
+      "id": "1403080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.264",
+      "lon": "103.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Luar",
+      "en": "Sungai Luar",
+      "slug": "sungai-luar-1403080004"
+    },
+    "code": {
+      "id": "1403080004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.246",
+      "lon": "103.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Piring",
+      "en": "Sungai Piring",
+      "slug": "sungai-piring-1403080006"
+    },
+    "code": {
+      "id": "1403080006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.228",
+      "lon": "103.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Rawa",
+      "en": "Sungai Rawa",
+      "slug": "sungai-rawa-1403080008"
+    },
+    "code": {
+      "id": "1403080008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.228",
+      "lon": "103.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Raya",
+      "en": "Sungai Raya",
+      "slug": "sungai-raya-1403080002"
+    },
+    "code": {
+      "id": "1403080002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.315",
+      "lon": "103.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Siantar",
+      "en": "Tanjung Siantar",
+      "slug": "tanjung-siantar-1403080007"
+    },
+    "code": {
+      "id": "1403080007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.278",
+      "lon": "103.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403080011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tasik Raya",
+      "en": "Tasik Raya",
+      "slug": "tasik-raya-1403080011"
+    },
+    "code": {
+      "id": "1403080011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403080",
+      "level": 3,
+      "name": {
+        "local": "Batang Tuaka",
+        "en": "Batang Tuaka",
+        "slug": "batang-tuaka-1403080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403080",
+        "level": 3,
+        "name": {
+          "local": "Batang Tuaka",
+          "en": "Batang Tuaka",
+          "slug": "batang-tuaka-1403080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29252"
+    ],
+    "geo": {
+      "lat": "-0.205",
+      "lon": "103.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

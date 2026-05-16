@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "3524100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Babat",
+      "en": "Babat",
+      "slug": "babat-3524100"
+    },
+    "code": {
+      "id": "3524100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.109",
+      "lon": "112.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bluluk",
+      "en": "Bluluk",
+      "slug": "bluluk-3524020"
+    },
+    "code": {
+      "id": "3524020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.301",
+      "lon": "112.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524260",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brondong",
+      "en": "Brondong",
+      "slug": "brondong-3524260"
+    },
+    "code": {
+      "id": "3524260",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.91",
+      "lon": "112.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Deket",
+      "en": "Deket",
+      "slug": "deket-3524150"
+    },
+    "code": {
+      "id": "3524150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.096",
+      "lon": "112.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Glagah",
+      "en": "Glagah",
+      "slug": "glagah-3524160"
+    },
+    "code": {
+      "id": "3524160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.068",
+      "lon": "112.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalitengah",
+      "en": "Kalitengah",
+      "slug": "kalitengah-3524190"
+    },
+    "code": {
+      "id": "3524190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.021",
+      "lon": "112.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karang Geneng",
+      "en": "Karang Geneng",
+      "slug": "karang-geneng-3524200"
+    },
+    "code": {
+      "id": "3524200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.021",
+      "lon": "112.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangbinangun",
+      "en": "Karangbinangun",
+      "slug": "karangbinangun-3524170"
+    },
+    "code": {
+      "id": "3524170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.034",
+      "lon": "112.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedungpring",
+      "en": "Kedungpring",
+      "slug": "kedungpring-3524080"
+    },
+    "code": {
+      "id": "3524080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.19",
+      "lon": "112.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kembangbahu",
+      "en": "Kembangbahu",
+      "slug": "kembangbahu-3524060"
+    },
+    "code": {
+      "id": "3524060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.175",
+      "lon": "112.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lamongan",
+      "en": "Lamongan",
+      "slug": "lamongan-3524130"
+    },
+    "code": {
+      "id": "3524130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.128",
+      "lon": "112.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524230",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laren",
+      "en": "Laren",
+      "slug": "laren-3524230"
+    },
+    "code": {
+      "id": "3524230",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.979",
+      "lon": "112.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maduran",
+      "en": "Maduran",
+      "slug": "maduran-3524220"
+    },
+    "code": {
+      "id": "3524220",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.005",
+      "lon": "112.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mantup",
+      "en": "Mantup",
+      "slug": "mantup-3524050"
+    },
+    "code": {
+      "id": "3524050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.262",
+      "lon": "112.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Modo",
+      "en": "Modo",
+      "slug": "modo-3524090"
+    },
+    "code": {
+      "id": "3524090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.202",
+      "lon": "112.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngimbang",
+      "en": "Ngimbang",
+      "slug": "ngimbang-3524030"
+    },
+    "code": {
+      "id": "3524030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.297",
+      "lon": "112.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524250",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paciran",
+      "en": "Paciran",
+      "slug": "paciran-3524250"
+    },
+    "code": {
+      "id": "3524250",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.89",
+      "lon": "112.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pucuk",
+      "en": "Pucuk",
+      "slug": "pucuk-3524110"
+    },
+    "code": {
+      "id": "3524110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.091",
+      "lon": "112.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sambeng",
+      "en": "Sambeng",
+      "slug": "sambeng-3524040"
+    },
+    "code": {
+      "id": "3524040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.289",
+      "lon": "112.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524141",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarirejo",
+      "en": "Sarirejo",
+      "slug": "sarirejo-3524141"
+    },
+    "code": {
+      "id": "3524141",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.172",
+      "lon": "112.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekaran",
+      "en": "Sekaran",
+      "slug": "sekaran-3524210"
+    },
+    "code": {
+      "id": "3524210",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.052",
+      "lon": "112.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524240",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Solokuro",
+      "en": "Solokuro",
+      "slug": "solokuro-3524240"
+    },
+    "code": {
+      "id": "3524240",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.929",
+      "lon": "112.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sugio",
+      "en": "Sugio",
+      "slug": "sugio-3524070"
+    },
+    "code": {
+      "id": "3524070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.186",
+      "lon": "112.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukodadi",
+      "en": "Sukodadi",
+      "slug": "sukodadi-3524120"
+    },
+    "code": {
+      "id": "3524120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.113",
+      "lon": "112.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukorame",
+      "en": "Sukorame",
+      "slug": "sukorame-3524010"
+    },
+    "code": {
+      "id": "3524010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.345",
+      "lon": "112.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tikung",
+      "en": "Tikung",
+      "slug": "tikung-3524140"
+    },
+    "code": {
+      "id": "3524140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.185",
+      "lon": "112.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3524180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Turi",
+      "en": "Turi",
+      "slug": "turi-3524180"
+    },
+    "code": {
+      "id": "3524180",
+      "iso": null
+    },
+    "parent": {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3524",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lamongan",
+          "en": "Lamongan",
+          "slug": "lamongan-3524"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.069",
+      "lon": "112.387"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

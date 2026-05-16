@@ -1,0 +1,618 @@
+[
+  {
+    "id": "1809050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gedung Tataan",
+      "en": "Gedung Tataan",
+      "slug": "gedung-tataan-1809050"
+    },
+    "code": {
+      "id": "1809050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.396",
+      "lon": "105.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedondong",
+      "en": "Kedondong",
+      "slug": "kedondong-1809030"
+    },
+    "code": {
+      "id": "1809030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.509",
+      "lon": "105.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marga Punduh",
+      "en": "Marga Punduh",
+      "slug": "marga-punduh-1809011"
+    },
+    "code": {
+      "id": "1809011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.678",
+      "lon": "105.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Negeri Katon",
+      "en": "Negeri Katon",
+      "slug": "negeri-katon-1809060"
+    },
+    "code": {
+      "id": "1809060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.275",
+      "lon": "105.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padang Cermin",
+      "en": "Padang Cermin",
+      "slug": "padang-cermin-1809020"
+    },
+    "code": {
+      "id": "1809020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.612",
+      "lon": "105.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Punduh Pidada",
+      "en": "Punduh Pidada",
+      "slug": "punduh-pidada-1809010"
+    },
+    "code": {
+      "id": "1809010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.773",
+      "lon": "105.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tegineneng",
+      "en": "Tegineneng",
+      "slug": "tegineneng-1809070"
+    },
+    "code": {
+      "id": "1809070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.185",
+      "lon": "105.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Pandan",
+      "en": "Teluk Pandan",
+      "slug": "teluk-pandan-1809021"
+    },
+    "code": {
+      "id": "1809021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.539",
+      "lon": "105.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Way Khilau",
+      "en": "Way Khilau",
+      "slug": "way-khilau-1809031"
+    },
+    "code": {
+      "id": "1809031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.488",
+      "lon": "104.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Way Lima",
+      "en": "Way Lima",
+      "slug": "way-lima-1809040"
+    },
+    "code": {
+      "id": "1809040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.436",
+      "lon": "105.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Way Ratai",
+      "en": "Way Ratai",
+      "slug": "way-ratai-1809022"
+    },
+    "code": {
+      "id": "1809022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1809",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesawaran",
+        "en": "Pesawaran",
+        "slug": "pesawaran-1809"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1809",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesawaran",
+          "en": "Pesawaran",
+          "slug": "pesawaran-1809"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.57",
+      "lon": "105.072"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

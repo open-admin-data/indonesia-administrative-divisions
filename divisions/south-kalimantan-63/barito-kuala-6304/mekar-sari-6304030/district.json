@@ -1,0 +1,56 @@
+{
+  "id": "6304030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mekar Sari",
+    "en": "Mekar Sari",
+    "slug": "mekar-sari-6304030"
+  },
+  "code": {
+    "id": "6304030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barito Kuala",
+      "en": "Barito Kuala",
+      "slug": "barito-kuala-6304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barito Kuala",
+        "en": "Barito Kuala",
+        "slug": "barito-kuala-6304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.28",
+    "lon": "114.448"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9418031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bokoneri",
+    "en": "Bokoneri",
+    "slug": "bokoneri-9418031"
+  },
+  "code": {
+    "id": "9418031",
+    "iso": null
+  },
+  "parent": {
+    "id": "9418",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tolikara",
+      "en": "Tolikara",
+      "slug": "tolikara-9418"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9418",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tolikara",
+        "en": "Tolikara",
+        "slug": "tolikara-9418"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.654",
+    "lon": "138.643"
+  },
+  "metadata": {},
+  "source": {}
+}

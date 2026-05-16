@@ -1,0 +1,717 @@
+[
+  {
+    "id": "1115011005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Babah Lueng",
+      "en": "Babah Lueng",
+      "slug": "babah-lueng-1115011005"
+    },
+    "code": {
+      "id": "1115011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.867",
+      "lon": "96.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Drien Tujoh",
+      "en": "Drien Tujoh",
+      "slug": "drien-tujoh-1115011002"
+    },
+    "code": {
+      "id": "1115011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.918",
+      "lon": "96.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kabu",
+      "en": "Kabu",
+      "slug": "kabu-1115011004"
+    },
+    "code": {
+      "id": "1115011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.927",
+      "lon": "96.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Teripa",
+      "en": "Kuala Teripa",
+      "slug": "kuala-teripa-1115011001"
+    },
+    "code": {
+      "id": "1115011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.918",
+      "lon": "96.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lueng Keubeu Jagat",
+      "en": "Lueng Keubeu Jagat",
+      "slug": "lueng-keubeu-jagat-1115011003"
+    },
+    "code": {
+      "id": "1115011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.917",
+      "lon": "96.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mon Dua",
+      "en": "Mon Dua",
+      "slug": "mon-dua-1115011009"
+    },
+    "code": {
+      "id": "1115011009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.97",
+      "lon": "96.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Neubok Yee Pk",
+      "en": "Neubok Yee Pk",
+      "slug": "neubok-yee-pk-1115011007"
+    },
+    "code": {
+      "id": "1115011007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.96",
+      "lon": "96.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Neubok Yee Pp",
+      "en": "Neubok Yee Pp",
+      "slug": "neubok-yee-pp-1115011008"
+    },
+    "code": {
+      "id": "1115011008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.965",
+      "lon": "96.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panton Pange",
+      "en": "Panton Pange",
+      "slug": "panton-pange-1115011010"
+    },
+    "code": {
+      "id": "1115011010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.988",
+      "lon": "96.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasi Keubeu Dom",
+      "en": "Pasi Keubeu Dom",
+      "slug": "pasi-keubeu-dom-1115011006"
+    },
+    "code": {
+      "id": "1115011006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.95",
+      "lon": "96.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1115011011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ujong Krueng",
+      "en": "Ujong Krueng",
+      "slug": "ujong-krueng-1115011011"
+    },
+    "code": {
+      "id": "1115011011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1115011",
+      "level": 3,
+      "name": {
+        "local": "Tripa Makmur",
+        "en": "Tripa Makmur",
+        "slug": "tripa-makmur-1115011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1115",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nagan Raya",
+          "en": "Nagan Raya",
+          "slug": "nagan-raya-1115"
+        }
+      },
+      {
+        "id": "1115011",
+        "level": 3,
+        "name": {
+          "local": "Tripa Makmur",
+          "en": "Tripa Makmur",
+          "slug": "tripa-makmur-1115011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23663"
+    ],
+    "geo": {
+      "lat": "3.98",
+      "lon": "96.453"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

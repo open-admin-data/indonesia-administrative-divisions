@@ -1,0 +1,56 @@
+{
+  "id": "3505020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wonotirto",
+    "en": "Wonotirto",
+    "slug": "wonotirto-3505020"
+  },
+  "code": {
+    "id": "3505020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Blitar",
+      "en": "Blitar",
+      "slug": "blitar-3505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3505"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.264",
+    "lon": "112.176"
+  },
+  "metadata": {},
+  "source": {}
+}

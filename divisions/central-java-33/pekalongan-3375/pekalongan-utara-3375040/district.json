@@ -1,0 +1,56 @@
+{
+  "id": "3375040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pekalongan Utara",
+    "en": "Pekalongan Utara",
+    "slug": "pekalongan-utara-3375040"
+  },
+  "code": {
+    "id": "3375040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3375",
+    "level": 2,
+    "name": {
+      "local": "Kota Pekalongan",
+      "en": "Pekalongan",
+      "slug": "pekalongan-3375"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3375",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekalongan",
+        "en": "Pekalongan",
+        "slug": "pekalongan-3375"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.872",
+    "lon": "109.685"
+  },
+  "metadata": {},
+  "source": {}
+}

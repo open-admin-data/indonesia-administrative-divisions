@@ -1,0 +1,48 @@
+{
+  "id": "6105",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sanggau",
+    "en": "Sanggau",
+    "slug": "sanggau-6105"
+  },
+  "code": {
+    "id": "6105",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 163
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.079",
+    "lon": "111.495"
+  },
+  "metadata": {},
+  "source": {}
+}

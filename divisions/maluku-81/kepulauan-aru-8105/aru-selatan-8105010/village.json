@@ -1,0 +1,977 @@
+[
+  {
+    "id": "8105010015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Doka Barat",
+      "en": "Doka Barat",
+      "slug": "doka-barat-8105010015"
+    },
+    "code": {
+      "id": "8105010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.563",
+      "lon": "134.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Doka Timur",
+      "en": "Doka Timur",
+      "slug": "doka-timur-8105010016"
+    },
+    "code": {
+      "id": "8105010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.625",
+      "lon": "134.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Fatural",
+      "en": "Fatural",
+      "slug": "fatural-8105010009"
+    },
+    "code": {
+      "id": "8105010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.681",
+      "lon": "134.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010020",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Feruni",
+      "en": "Feruni",
+      "slug": "feruni-8105010020"
+    },
+    "code": {
+      "id": "8105010020",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.616",
+      "lon": "134.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gaimar",
+      "en": "Gaimar",
+      "slug": "gaimar-8105010010"
+    },
+    "code": {
+      "id": "8105010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.207",
+      "lon": "134.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jelia",
+      "en": "Jelia",
+      "slug": "jelia-8105010011"
+    },
+    "code": {
+      "id": "8105010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.68",
+      "lon": "134.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010023",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jerol",
+      "en": "Jerol",
+      "slug": "jerol-8105010023"
+    },
+    "code": {
+      "id": "8105010023",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.483",
+      "lon": "134.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010022",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kabalukin",
+      "en": "Kabalukin",
+      "slug": "kabalukin-8105010022"
+    },
+    "code": {
+      "id": "8105010022",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.488",
+      "lon": "134.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010021",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalar Kalar",
+      "en": "Kalar Kalar",
+      "slug": "kalar-kalar-8105010021"
+    },
+    "code": {
+      "id": "8105010021",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.566",
+      "lon": "134.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Laininir",
+      "en": "Laininir",
+      "slug": "laininir-8105010017"
+    },
+    "code": {
+      "id": "8105010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.553",
+      "lon": "134.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010024",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lor Lor",
+      "en": "Lor Lor",
+      "slug": "lor-lor-8105010024"
+    },
+    "code": {
+      "id": "8105010024",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.468",
+      "lon": "134.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marafenfen",
+      "en": "Marafenfen",
+      "slug": "marafenfen-8105010018"
+    },
+    "code": {
+      "id": "8105010018",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.576",
+      "lon": "134.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ngaibor",
+      "en": "Ngaibor",
+      "slug": "ngaibor-8105010008"
+    },
+    "code": {
+      "id": "8105010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.763",
+      "lon": "134.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ngaiguli",
+      "en": "Ngaiguli",
+      "slug": "ngaiguli-8105010019"
+    },
+    "code": {
+      "id": "8105010019",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.648",
+      "lon": "134.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8105010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Popjetur",
+      "en": "Popjetur",
+      "slug": "popjetur-8105010006"
+    },
+    "code": {
+      "id": "8105010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "8105010",
+      "level": 3,
+      "name": {
+        "local": "Aru Selatan",
+        "en": "Aru Selatan",
+        "slug": "aru-selatan-8105010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Aru",
+          "en": "Kepulauan Aru",
+          "slug": "kepulauan-aru-8105"
+        }
+      },
+      {
+        "id": "8105010",
+        "level": 3,
+        "name": {
+          "local": "Aru Selatan",
+          "en": "Aru Selatan",
+          "slug": "aru-selatan-8105010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "97692"
+    ],
+    "geo": {
+      "lat": "-6.73",
+      "lon": "134.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

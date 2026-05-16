@@ -1,0 +1,56 @@
+{
+  "id": "2103030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Midai",
+    "en": "Midai",
+    "slug": "midai-2103030"
+  },
+  "code": {
+    "id": "2103030",
+    "iso": null
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Natuna",
+      "en": "Natuna",
+      "slug": "natuna-2103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Natuna",
+        "en": "Natuna",
+        "slug": "natuna-2103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.997",
+    "lon": "107.781"
+  },
+  "metadata": {},
+  "source": {}
+}

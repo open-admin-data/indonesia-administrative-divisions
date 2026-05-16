@@ -1,0 +1,56 @@
+{
+  "id": "1310021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sangir Balai Janggo",
+    "en": "Sangir Balai Janggo",
+    "slug": "sangir-balai-janggo-1310021"
+  },
+  "code": {
+    "id": "1310021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Solok Selatan",
+      "en": "Solok Selatan",
+      "slug": "solok-selatan-1310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok Selatan",
+        "en": "Solok Selatan",
+        "slug": "solok-selatan-1310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.455",
+    "lon": "101.524"
+  },
+  "metadata": {},
+  "source": {}
+}

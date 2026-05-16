@@ -1,0 +1,48 @@
+{
+  "id": "1812",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tulang Bawang Barat",
+    "en": "Tulang Bawang Barat",
+    "slug": "tulang-bawang-barat-1812"
+  },
+  "code": {
+    "id": "1812",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 96
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.499",
+    "lon": "105.12"
+  },
+  "metadata": {},
+  "source": {}
+}

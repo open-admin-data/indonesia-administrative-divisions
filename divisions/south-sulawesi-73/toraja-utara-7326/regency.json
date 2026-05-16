@@ -1,0 +1,48 @@
+{
+  "id": "7326",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Toraja Utara",
+    "en": "Toraja Utara",
+    "slug": "toraja-utara-7326"
+  },
+  "code": {
+    "id": "7326",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 151
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.974",
+    "lon": "119.895"
+  },
+  "metadata": {},
+  "source": {}
+}

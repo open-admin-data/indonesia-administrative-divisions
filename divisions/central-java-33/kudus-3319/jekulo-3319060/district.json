@@ -1,0 +1,56 @@
+{
+  "id": "3319060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jekulo",
+    "en": "Jekulo",
+    "slug": "jekulo-3319060"
+  },
+  "code": {
+    "id": "3319060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3319",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kudus",
+      "en": "Kudus",
+      "slug": "kudus-3319"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.802",
+    "lon": "110.931"
+  },
+  "metadata": {},
+  "source": {}
+}

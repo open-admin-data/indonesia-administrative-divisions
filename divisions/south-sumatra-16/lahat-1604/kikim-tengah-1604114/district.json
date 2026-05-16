@@ -1,0 +1,56 @@
+{
+  "id": "1604114",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kikim Tengah",
+    "en": "Kikim Tengah",
+    "slug": "kikim-tengah-1604114"
+  },
+  "code": {
+    "id": "1604114",
+    "iso": null
+  },
+  "parent": {
+    "id": "1604",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lahat",
+      "en": "Lahat",
+      "slug": "lahat-1604"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lahat",
+        "en": "Lahat",
+        "slug": "lahat-1604"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.648",
+    "lon": "103.25"
+  },
+  "metadata": {},
+  "source": {}
+}

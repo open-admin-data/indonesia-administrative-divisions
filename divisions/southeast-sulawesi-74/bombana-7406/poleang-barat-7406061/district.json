@@ -1,0 +1,56 @@
+{
+  "id": "7406061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Poleang Barat",
+    "en": "Poleang Barat",
+    "slug": "poleang-barat-7406061"
+  },
+  "code": {
+    "id": "7406061",
+    "iso": null
+  },
+  "parent": {
+    "id": "7406",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bombana",
+      "en": "Bombana",
+      "slug": "bombana-7406"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7406",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bombana",
+        "en": "Bombana",
+        "slug": "bombana-7406"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.636",
+    "lon": "121.591"
+  },
+  "metadata": {},
+  "source": {}
+}

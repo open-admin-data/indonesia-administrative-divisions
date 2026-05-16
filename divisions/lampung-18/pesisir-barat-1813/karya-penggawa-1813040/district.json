@@ -1,0 +1,56 @@
+{
+  "id": "1813040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karya Penggawa",
+    "en": "Karya Penggawa",
+    "slug": "karya-penggawa-1813040"
+  },
+  "code": {
+    "id": "1813040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1813",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pesisir Barat",
+      "en": "Pesisir Barat",
+      "slug": "pesisir-barat-1813"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1813",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesisir Barat",
+        "en": "Pesisir Barat",
+        "slug": "pesisir-barat-1813"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.062",
+    "lon": "103.933"
+  },
+  "metadata": {},
+  "source": {}
+}

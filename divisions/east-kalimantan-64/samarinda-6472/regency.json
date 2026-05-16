@@ -1,0 +1,48 @@
+{
+  "id": "6472",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Samarinda",
+    "en": "Samarinda",
+    "slug": "samarinda-6472"
+  },
+  "code": {
+    "id": "6472",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Timur",
+      "en": "East Kalimantan",
+      "slug": "east-kalimantan-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 59
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.491",
+    "lon": "117.146"
+  },
+  "metadata": {},
+  "source": {}
+}

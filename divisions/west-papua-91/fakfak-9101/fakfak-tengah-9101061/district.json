@@ -1,0 +1,56 @@
+{
+  "id": "9101061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Fakfak Tengah",
+    "en": "Fakfak Tengah",
+    "slug": "fakfak-tengah-9101061"
+  },
+  "code": {
+    "id": "9101061",
+    "iso": null
+  },
+  "parent": {
+    "id": "9101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Fakfak",
+      "en": "Fakfak",
+      "slug": "fakfak-9101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.891",
+    "lon": "132.357"
+  },
+  "metadata": {},
+  "source": {}
+}

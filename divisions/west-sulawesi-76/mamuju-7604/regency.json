@@ -1,0 +1,48 @@
+{
+  "id": "7604",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mamuju",
+    "en": "Mamuju",
+    "slug": "mamuju-7604"
+  },
+  "code": {
+    "id": "7604",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Barat",
+      "en": "West Sulawesi",
+      "slug": "west-sulawesi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 99
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.408",
+    "lon": "119.311"
+  },
+  "metadata": {},
+  "source": {}
+}

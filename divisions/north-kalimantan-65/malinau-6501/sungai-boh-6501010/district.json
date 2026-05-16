@@ -1,0 +1,56 @@
+{
+  "id": "6501010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Boh",
+    "en": "Sungai Boh",
+    "slug": "sungai-boh-6501010"
+  },
+  "code": {
+    "id": "6501010",
+    "iso": null
+  },
+  "parent": {
+    "id": "6501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malinau",
+      "en": "Malinau",
+      "slug": "malinau-6501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.435",
+    "lon": "115.302"
+  },
+  "metadata": {},
+  "source": {}
+}

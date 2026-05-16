@@ -1,0 +1,56 @@
+{
+  "id": "3213141",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagaden Barat",
+    "en": "Pagaden Barat",
+    "slug": "pagaden-barat-3213141"
+  },
+  "code": {
+    "id": "3213141",
+    "iso": null
+  },
+  "parent": {
+    "id": "3213",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Subang",
+      "en": "Subang",
+      "slug": "subang-3213"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Subang",
+        "en": "Subang",
+        "slug": "subang-3213"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.487",
+    "lon": "107.772"
+  },
+  "metadata": {},
+  "source": {}
+}

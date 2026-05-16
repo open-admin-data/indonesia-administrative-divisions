@@ -1,0 +1,31 @@
+{
+  "id": "65",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kalimantan Utara",
+    "en": "North Kalimantan",
+    "slug": "north-kalimantan-65"
+  },
+  "code": {
+    "id": "65",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 5,
+    "village": 466,
+    "district": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.842",
+    "lon": "117.374"
+  },
+  "metadata": {},
+  "source": {}
+}

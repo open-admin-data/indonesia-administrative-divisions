@@ -1,0 +1,56 @@
+{
+  "id": "1304071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lubuk Tarok",
+    "en": "Lubuk Tarok",
+    "slug": "lubuk-tarok-1304071"
+  },
+  "code": {
+    "id": "1304071",
+    "iso": null
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sijunjung",
+      "en": "Sijunjung",
+      "slug": "sijunjung-1304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sijunjung",
+        "en": "Sijunjung",
+        "slug": "sijunjung-1304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.794",
+    "lon": "101.002"
+  },
+  "metadata": {},
+  "source": {}
+}

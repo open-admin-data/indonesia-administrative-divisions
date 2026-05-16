@@ -1,0 +1,56 @@
+{
+  "id": "3276010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sawangan",
+    "en": "Sawangan",
+    "slug": "sawangan-3276010"
+  },
+  "code": {
+    "id": "3276010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3276",
+    "level": 2,
+    "name": {
+      "local": "Kota Depok",
+      "en": "Depok",
+      "slug": "depok-3276"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3276",
+      "level": 2,
+      "name": {
+        "local": "Kota Depok",
+        "en": "Depok",
+        "slug": "depok-3276"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.398",
+    "lon": "106.768"
+  },
+  "metadata": {},
+  "source": {}
+}

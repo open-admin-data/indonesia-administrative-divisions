@@ -1,0 +1,48 @@
+{
+  "id": "7413",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Muna Barat",
+    "en": "Muna Barat",
+    "slug": "muna-barat-7413"
+  },
+  "code": {
+    "id": "7413",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi",
+      "slug": "southeast-sulawesi-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.792",
+    "lon": "122.494"
+  },
+  "metadata": {},
+  "source": {}
+}

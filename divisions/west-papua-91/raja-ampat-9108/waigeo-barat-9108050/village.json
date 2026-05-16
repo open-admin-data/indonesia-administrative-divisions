@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9108050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bianci",
+      "en": "Bianci",
+      "slug": "bianci-9108050007"
+    },
+    "code": {
+      "id": "9108050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108050",
+      "level": 3,
+      "name": {
+        "local": "Waigeo Barat",
+        "en": "Waigeo Barat",
+        "slug": "waigeo-barat-9108050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108050",
+        "level": 3,
+        "name": {
+          "local": "Waigeo Barat",
+          "en": "Waigeo Barat",
+          "slug": "waigeo-barat-9108050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98482"
+    ],
+    "geo": {
+      "lat": "-0.313",
+      "lon": "130.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9108050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Salyo",
+      "en": "Salyo",
+      "slug": "salyo-9108050008"
+    },
+    "code": {
+      "id": "9108050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108050",
+      "level": 3,
+      "name": {
+        "local": "Waigeo Barat",
+        "en": "Waigeo Barat",
+        "slug": "waigeo-barat-9108050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108050",
+        "level": 3,
+        "name": {
+          "local": "Waigeo Barat",
+          "en": "Waigeo Barat",
+          "slug": "waigeo-barat-9108050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98482"
+    ],
+    "geo": {
+      "lat": "-0.128",
+      "lon": "130.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9108050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waisilip",
+      "en": "Waisilip",
+      "slug": "waisilip-9108050010"
+    },
+    "code": {
+      "id": "9108050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108050",
+      "level": 3,
+      "name": {
+        "local": "Waigeo Barat",
+        "en": "Waigeo Barat",
+        "slug": "waigeo-barat-9108050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108050",
+        "level": 3,
+        "name": {
+          "local": "Waigeo Barat",
+          "en": "Waigeo Barat",
+          "slug": "waigeo-barat-9108050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98482"
+    ],
+    "geo": {
+      "lat": "-0.242",
+      "lon": "130.452"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "5312",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Ngada",
+    "en": "Ngada",
+    "slug": "ngada-5312"
+  },
+  "code": {
+    "id": "5312",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 146
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.647",
+    "lon": "119.394"
+  },
+  "metadata": {},
+  "source": {}
+}

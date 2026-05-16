@@ -1,0 +1,56 @@
+{
+  "id": "5302071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kambera",
+    "en": "Kambera",
+    "slug": "kambera-5302071"
+  },
+  "code": {
+    "id": "5302071",
+    "iso": null
+  },
+  "parent": {
+    "id": "5302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Timur",
+      "en": "Sumba Timur",
+      "slug": "sumba-timur-5302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Timur",
+        "en": "Sumba Timur",
+        "slug": "sumba-timur-5302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.702",
+    "lon": "120.262"
+  },
+  "metadata": {},
+  "source": {}
+}

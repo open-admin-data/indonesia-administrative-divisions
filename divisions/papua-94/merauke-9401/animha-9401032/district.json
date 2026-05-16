@@ -1,0 +1,56 @@
+{
+  "id": "9401032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Animha",
+    "en": "Animha",
+    "slug": "animha-9401032"
+  },
+  "code": {
+    "id": "9401032",
+    "iso": null
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Merauke",
+      "en": "Merauke",
+      "slug": "merauke-9401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Merauke",
+        "en": "Merauke",
+        "slug": "merauke-9401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.957",
+    "lon": "140.329"
+  },
+  "metadata": {},
+  "source": {}
+}

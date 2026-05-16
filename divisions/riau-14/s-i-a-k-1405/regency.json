@@ -1,0 +1,48 @@
+{
+  "id": "1405",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten S I A K",
+    "en": "S I A K",
+    "slug": "s-i-a-k-1405"
+  },
+  "code": {
+    "id": "1405",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 131
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.384",
+    "lon": "101.842"
+  },
+  "metadata": {},
+  "source": {}
+}

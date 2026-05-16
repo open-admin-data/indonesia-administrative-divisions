@@ -1,0 +1,56 @@
+{
+  "id": "1811040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjung Raya",
+    "en": "Tanjung Raya",
+    "slug": "tanjung-raya-1811040"
+  },
+  "code": {
+    "id": "1811040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1811",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mesuji",
+      "en": "Mesuji",
+      "slug": "mesuji-1811"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1811",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mesuji",
+        "en": "Mesuji",
+        "slug": "mesuji-1811"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.913",
+    "lon": "105.376"
+  },
+  "metadata": {},
+  "source": {}
+}

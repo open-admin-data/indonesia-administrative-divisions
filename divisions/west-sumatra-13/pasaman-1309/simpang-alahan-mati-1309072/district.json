@@ -1,0 +1,56 @@
+{
+  "id": "1309072",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Alahan Mati",
+    "en": "Simpang Alahan Mati",
+    "slug": "simpang-alahan-mati-1309072"
+  },
+  "code": {
+    "id": "1309072",
+    "iso": null
+  },
+  "parent": {
+    "id": "1309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pasaman",
+      "en": "Pasaman",
+      "slug": "pasaman-1309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pasaman",
+        "en": "Pasaman",
+        "slug": "pasaman-1309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.009",
+    "lon": "100.164"
+  },
+  "metadata": {},
+  "source": {}
+}

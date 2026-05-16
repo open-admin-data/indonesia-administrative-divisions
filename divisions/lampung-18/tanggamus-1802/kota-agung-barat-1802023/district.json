@@ -1,0 +1,56 @@
+{
+  "id": "1802023",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Agung Barat",
+    "en": "Kota Agung Barat",
+    "slug": "kota-agung-barat-1802023"
+  },
+  "code": {
+    "id": "1802023",
+    "iso": null
+  },
+  "parent": {
+    "id": "1802",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanggamus",
+      "en": "Tanggamus",
+      "slug": "tanggamus-1802"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanggamus",
+        "en": "Tanggamus",
+        "slug": "tanggamus-1802"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.472",
+    "lon": "104.585"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9429074",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mbulmu Yalma",
+    "en": "Mbulmu Yalma",
+    "slug": "mbulmu-yalma-9429074"
+  },
+  "code": {
+    "id": "9429074",
+    "iso": null
+  },
+  "parent": {
+    "id": "9429",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nduga",
+      "en": "Nduga",
+      "slug": "nduga-9429"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9429",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nduga",
+        "en": "Nduga",
+        "slug": "nduga-9429"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.407",
+    "lon": "138.239"
+  },
+  "metadata": {},
+  "source": {}
+}

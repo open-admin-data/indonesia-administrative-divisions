@@ -1,0 +1,197 @@
+[
+  {
+    "id": "7371081002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Barrang Caddi",
+      "en": "Barrang Caddi",
+      "slug": "barrang-caddi-7371081002"
+    },
+    "code": {
+      "id": "7371081002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7371081",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Sangkarrang",
+        "en": "Kepulauan Sangkarrang",
+        "slug": "kepulauan-sangkarrang-7371081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7371",
+        "level": 2,
+        "name": {
+          "local": "Kota Makassar",
+          "en": "Makassar",
+          "slug": "makassar-7371"
+        }
+      },
+      {
+        "id": "7371081",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Sangkarrang",
+          "en": "Kepulauan Sangkarrang",
+          "slug": "kepulauan-sangkarrang-7371081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90166"
+    ],
+    "geo": {
+      "lat": "-5.068",
+      "lon": "119.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7371081003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Barrang Lompo",
+      "en": "Barrang Lompo",
+      "slug": "barrang-lompo-7371081003"
+    },
+    "code": {
+      "id": "7371081003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7371081",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Sangkarrang",
+        "en": "Kepulauan Sangkarrang",
+        "slug": "kepulauan-sangkarrang-7371081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7371",
+        "level": 2,
+        "name": {
+          "local": "Kota Makassar",
+          "en": "Makassar",
+          "slug": "makassar-7371"
+        }
+      },
+      {
+        "id": "7371081",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Sangkarrang",
+          "en": "Kepulauan Sangkarrang",
+          "slug": "kepulauan-sangkarrang-7371081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90166"
+    ],
+    "geo": {
+      "lat": "-5.048",
+      "lon": "119.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7371081001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kodingareng",
+      "en": "Kodingareng",
+      "slug": "kodingareng-7371081001"
+    },
+    "code": {
+      "id": "7371081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7371081",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Sangkarrang",
+        "en": "Kepulauan Sangkarrang",
+        "slug": "kepulauan-sangkarrang-7371081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7371",
+        "level": 2,
+        "name": {
+          "local": "Kota Makassar",
+          "en": "Makassar",
+          "slug": "makassar-7371"
+        }
+      },
+      {
+        "id": "7371081",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Sangkarrang",
+          "en": "Kepulauan Sangkarrang",
+          "slug": "kepulauan-sangkarrang-7371081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90166"
+    ],
+    "geo": {
+      "lat": "-5.106",
+      "lon": "119.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

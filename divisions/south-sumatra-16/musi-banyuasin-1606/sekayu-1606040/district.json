@@ -1,0 +1,56 @@
+{
+  "id": "1606040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sekayu",
+    "en": "Sekayu",
+    "slug": "sekayu-1606040"
+  },
+  "code": {
+    "id": "1606040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Musi Banyuasin",
+      "en": "Musi Banyuasin",
+      "slug": "musi-banyuasin-1606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Musi Banyuasin",
+        "en": "Musi Banyuasin",
+        "slug": "musi-banyuasin-1606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.846",
+    "lon": "103.839"
+  },
+  "metadata": {},
+  "source": {}
+}

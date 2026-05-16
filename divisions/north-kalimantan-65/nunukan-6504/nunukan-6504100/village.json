@@ -1,0 +1,327 @@
+[
+  {
+    "id": "6504100002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Binusan",
+      "en": "Binusan",
+      "slug": "binusan-6504100002"
+    },
+    "code": {
+      "id": "6504100002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504100",
+      "level": 3,
+      "name": {
+        "local": "Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504100",
+        "level": 3,
+        "name": {
+          "local": "Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77482"
+    ],
+    "geo": {
+      "lat": "4.053",
+      "lon": "117.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6504100001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nunukan Barat",
+      "en": "Nunukan Barat",
+      "slug": "nunukan-barat-6504100001"
+    },
+    "code": {
+      "id": "6504100001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504100",
+      "level": 3,
+      "name": {
+        "local": "Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504100",
+        "level": 3,
+        "name": {
+          "local": "Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77482"
+    ],
+    "geo": {
+      "lat": "3.956",
+      "lon": "117.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6504100003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nunukan Tengah",
+      "en": "Nunukan Tengah",
+      "slug": "nunukan-tengah-6504100003"
+    },
+    "code": {
+      "id": "6504100003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504100",
+      "level": 3,
+      "name": {
+        "local": "Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504100",
+        "level": 3,
+        "name": {
+          "local": "Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77482"
+    ],
+    "geo": {
+      "lat": "4.12",
+      "lon": "117.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6504100004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nunukan Timur",
+      "en": "Nunukan Timur",
+      "slug": "nunukan-timur-6504100004"
+    },
+    "code": {
+      "id": "6504100004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504100",
+      "level": 3,
+      "name": {
+        "local": "Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504100",
+        "level": 3,
+        "name": {
+          "local": "Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77482"
+    ],
+    "geo": {
+      "lat": "4.139",
+      "lon": "117.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6504100005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nunukan Utara",
+      "en": "Nunukan Utara",
+      "slug": "nunukan-utara-6504100005"
+    },
+    "code": {
+      "id": "6504100005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504100",
+      "level": 3,
+      "name": {
+        "local": "Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504100",
+        "level": 3,
+        "name": {
+          "local": "Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77482"
+    ],
+    "geo": {
+      "lat": "4.257",
+      "lon": "117.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

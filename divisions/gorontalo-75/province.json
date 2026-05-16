@@ -1,0 +1,31 @@
+{
+  "id": "75",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Gorontalo",
+    "en": "Gorontalo",
+    "slug": "gorontalo-75"
+  },
+  "code": {
+    "id": "75",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 6,
+    "village": 722,
+    "district": 77
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.524",
+    "lon": "123.077"
+  },
+  "metadata": {},
+  "source": {}
+}

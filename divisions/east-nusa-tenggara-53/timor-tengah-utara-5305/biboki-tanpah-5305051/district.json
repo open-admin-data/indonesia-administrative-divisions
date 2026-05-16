@@ -1,0 +1,56 @@
+{
+  "id": "5305051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Biboki Tanpah",
+    "en": "Biboki Tanpah",
+    "slug": "biboki-tanpah-5305051"
+  },
+  "code": {
+    "id": "5305051",
+    "iso": null
+  },
+  "parent": {
+    "id": "5305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Timor Tengah Utara",
+      "en": "Timor Tengah Utara",
+      "slug": "timor-tengah-utara-5305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Timor Tengah Utara",
+        "en": "Timor Tengah Utara",
+        "slug": "timor-tengah-utara-5305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.359",
+    "lon": "124.768"
+  },
+  "metadata": {},
+  "source": {}
+}

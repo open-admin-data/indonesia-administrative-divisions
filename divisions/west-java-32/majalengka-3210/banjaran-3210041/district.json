@@ -1,0 +1,56 @@
+{
+  "id": "3210041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banjaran",
+    "en": "Banjaran",
+    "slug": "banjaran-3210041"
+  },
+  "code": {
+    "id": "3210041",
+    "iso": null
+  },
+  "parent": {
+    "id": "3210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Majalengka",
+      "en": "Majalengka",
+      "slug": "majalengka-3210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.956",
+    "lon": "108.34"
+  },
+  "metadata": {},
+  "source": {}
+}

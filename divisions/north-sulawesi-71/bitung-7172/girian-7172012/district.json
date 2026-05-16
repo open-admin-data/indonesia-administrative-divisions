@@ -1,0 +1,56 @@
+{
+  "id": "7172012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Girian",
+    "en": "Girian",
+    "slug": "girian-7172012"
+  },
+  "code": {
+    "id": "7172012",
+    "iso": null
+  },
+  "parent": {
+    "id": "7172",
+    "level": 2,
+    "name": {
+      "local": "Kota Bitung",
+      "en": "Bitung",
+      "slug": "bitung-7172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.445",
+    "lon": "125.131"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6501050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pujungan",
+    "en": "Pujungan",
+    "slug": "pujungan-6501050"
+  },
+  "code": {
+    "id": "6501050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malinau",
+      "en": "Malinau",
+      "slug": "malinau-6501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.674",
+    "lon": "115.722"
+  },
+  "metadata": {},
+  "source": {}
+}

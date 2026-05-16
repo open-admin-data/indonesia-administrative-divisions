@@ -1,0 +1,56 @@
+{
+  "id": "7601030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sendana",
+    "en": "Sendana",
+    "slug": "sendana-7601030"
+  },
+  "code": {
+    "id": "7601030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Majene",
+      "en": "Majene",
+      "slug": "majene-7601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majene",
+        "en": "Majene",
+        "slug": "majene-7601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.336",
+    "lon": "118.882"
+  },
+  "metadata": {},
+  "source": {}
+}

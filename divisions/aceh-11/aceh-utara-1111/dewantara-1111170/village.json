@@ -1,0 +1,977 @@
+[
+  {
+    "id": "1111170014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangka Jaya",
+      "en": "Bangka Jaya",
+      "slug": "bangka-jaya-1111170014"
+    },
+    "code": {
+      "id": "1111170014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.251",
+      "lon": "97.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bluka Teubai",
+      "en": "Bluka Teubai",
+      "slug": "bluka-teubai-1111170015"
+    },
+    "code": {
+      "id": "1111170015",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.254",
+      "lon": "97.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Geulumpang Sulu Barat",
+      "en": "Geulumpang Sulu Barat",
+      "slug": "geulumpang-sulu-barat-1111170010"
+    },
+    "code": {
+      "id": "1111170010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.251",
+      "lon": "96.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Geulumpang Sulu Timur",
+      "en": "Geulumpang Sulu Timur",
+      "slug": "geulumpang-sulu-timur-1111170011"
+    },
+    "code": {
+      "id": "1111170011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.251",
+      "lon": "96.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Keude Krueng Geukueh",
+      "en": "Keude Krueng Geukueh",
+      "slug": "keude-krueng-geukueh-1111170013"
+    },
+    "code": {
+      "id": "1111170013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.247",
+      "lon": "97.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lancang Barat",
+      "en": "Lancang Barat",
+      "slug": "lancang-barat-1111170009"
+    },
+    "code": {
+      "id": "1111170009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.253",
+      "lon": "96.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paloh Gadeng",
+      "en": "Paloh Gadeng",
+      "slug": "paloh-gadeng-1111170002"
+    },
+    "code": {
+      "id": "1111170002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.216",
+      "lon": "97.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paloh Igeuh",
+      "en": "Paloh Igeuh",
+      "slug": "paloh-igeuh-1111170001"
+    },
+    "code": {
+      "id": "1111170001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.228",
+      "lon": "96.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paloh Lada",
+      "en": "Paloh Lada",
+      "slug": "paloh-lada-1111170005"
+    },
+    "code": {
+      "id": "1111170005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.232",
+      "lon": "97.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulo Rungkom",
+      "en": "Pulo Rungkom",
+      "slug": "pulo-rungkom-1111170006"
+    },
+    "code": {
+      "id": "1111170006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.226",
+      "lon": "97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tambon Baroh",
+      "en": "Tambon Baroh",
+      "slug": "tambon-baroh-1111170004"
+    },
+    "code": {
+      "id": "1111170004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.237",
+      "lon": "97.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tambon Tunong",
+      "en": "Tambon Tunong",
+      "slug": "tambon-tunong-1111170003"
+    },
+    "code": {
+      "id": "1111170003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.225",
+      "lon": "97.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ulee Pulo",
+      "en": "Ulee Pulo",
+      "slug": "ulee-pulo-1111170007"
+    },
+    "code": {
+      "id": "1111170007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.244",
+      "lon": "97.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ulee Reuleung",
+      "en": "Ulee Reuleung",
+      "slug": "ulee-reuleung-1111170008"
+    },
+    "code": {
+      "id": "1111170008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.246",
+      "lon": "96.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111170012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Uteun Geulinggang",
+      "en": "Uteun Geulinggang",
+      "slug": "uteun-geulinggang-1111170012"
+    },
+    "code": {
+      "id": "1111170012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111170",
+      "level": 3,
+      "name": {
+        "local": "Dewantara",
+        "en": "Dewantara",
+        "slug": "dewantara-1111170"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111170",
+        "level": 3,
+        "name": {
+          "local": "Dewantara",
+          "en": "Dewantara",
+          "slug": "dewantara-1111170"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24354"
+    ],
+    "geo": {
+      "lat": "5.241",
+      "lon": "97.014"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

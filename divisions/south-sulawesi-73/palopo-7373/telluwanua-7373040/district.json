@@ -1,0 +1,56 @@
+{
+  "id": "7373040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Telluwanua",
+    "en": "Telluwanua",
+    "slug": "telluwanua-7373040"
+  },
+  "code": {
+    "id": "7373040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7373",
+    "level": 2,
+    "name": {
+      "local": "Kota Palopo",
+      "en": "Palopo",
+      "slug": "palopo-7373"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7373",
+      "level": 2,
+      "name": {
+        "local": "Kota Palopo",
+        "en": "Palopo",
+        "slug": "palopo-7373"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.922",
+    "lon": "120.173"
+  },
+  "metadata": {},
+  "source": {}
+}

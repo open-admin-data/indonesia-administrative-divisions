@@ -1,0 +1,56 @@
+{
+  "id": "7311190",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tellu Siattinge",
+    "en": "Tellu Siattinge",
+    "slug": "tellu-siattinge-7311190"
+  },
+  "code": {
+    "id": "7311190",
+    "iso": null
+  },
+  "parent": {
+    "id": "7311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bone",
+      "en": "Bone",
+      "slug": "bone-7311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bone",
+        "en": "Bone",
+        "slug": "bone-7311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.398",
+    "lon": "120.257"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7303031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pa'jukukang",
+    "en": "Pa'jukukang",
+    "slug": "pajukukang-7303031"
+  },
+  "code": {
+    "id": "7303031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bantaeng",
+      "en": "Bantaeng",
+      "slug": "bantaeng-7303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantaeng",
+        "en": "Bantaeng",
+        "slug": "bantaeng-7303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.545",
+    "lon": "120.043"
+  },
+  "metadata": {},
+  "source": {}
+}

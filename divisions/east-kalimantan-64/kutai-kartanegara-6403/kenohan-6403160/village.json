@@ -1,0 +1,587 @@
+[
+  {
+    "id": "6403160005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kahala",
+      "en": "Kahala",
+      "slug": "kahala-6403160005"
+    },
+    "code": {
+      "id": "6403160005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "-0.05",
+      "lon": "116.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kahala Ilir",
+      "en": "Kahala Ilir",
+      "slug": "kahala-ilir-6403160009"
+    },
+    "code": {
+      "id": "6403160009",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "-0.021",
+      "lon": "116.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lamin Pulut",
+      "en": "Lamin Pulut",
+      "slug": "lamin-pulut-6403160007"
+    },
+    "code": {
+      "id": "6403160007",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "0.05",
+      "lon": "116.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lamin Telihan",
+      "en": "Lamin Telihan",
+      "slug": "lamin-telihan-6403160008"
+    },
+    "code": {
+      "id": "6403160008",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "0.084",
+      "lon": "116.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Semayang",
+      "en": "Semayang",
+      "slug": "semayang-6403160001"
+    },
+    "code": {
+      "id": "6403160001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "-0.184",
+      "lon": "116.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Bingkai",
+      "en": "Teluk Bingkai",
+      "slug": "teluk-bingkai-6403160006"
+    },
+    "code": {
+      "id": "6403160006",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "0.084",
+      "lon": "116.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Muda",
+      "en": "Teluk Muda",
+      "slug": "teluk-muda-6403160003"
+    },
+    "code": {
+      "id": "6403160003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "-0.117",
+      "lon": "116.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tuana Tuha",
+      "en": "Tuana Tuha",
+      "slug": "tuana-tuha-6403160004"
+    },
+    "code": {
+      "id": "6403160004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "-0.017",
+      "lon": "116.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403160002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tubuhan",
+      "en": "Tubuhan",
+      "slug": "tubuhan-6403160002"
+    },
+    "code": {
+      "id": "6403160002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403160",
+      "level": 3,
+      "name": {
+        "local": "Kenohan",
+        "en": "Kenohan",
+        "slug": "kenohan-6403160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403160",
+        "level": 3,
+        "name": {
+          "local": "Kenohan",
+          "en": "Kenohan",
+          "slug": "kenohan-6403160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75541"
+    ],
+    "geo": {
+      "lat": "-0.126",
+      "lon": "116.384"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "7204071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Poso Kota Utara",
+    "en": "Poso Kota Utara",
+    "slug": "poso-kota-utara-7204071"
+  },
+  "code": {
+    "id": "7204071",
+    "iso": null
+  },
+  "parent": {
+    "id": "7204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Poso",
+      "en": "Poso",
+      "slug": "poso-7204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Poso",
+        "en": "Poso",
+        "slug": "poso-7204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.371",
+    "lon": "120.794"
+  },
+  "metadata": {},
+  "source": {}
+}

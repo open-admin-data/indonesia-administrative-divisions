@@ -1,0 +1,56 @@
+{
+  "id": "3375010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pekalongan Barat",
+    "en": "Pekalongan Barat",
+    "slug": "pekalongan-barat-3375010"
+  },
+  "code": {
+    "id": "3375010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3375",
+    "level": 2,
+    "name": {
+      "local": "Kota Pekalongan",
+      "en": "Pekalongan",
+      "slug": "pekalongan-3375"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3375",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekalongan",
+        "en": "Pekalongan",
+        "slug": "pekalongan-3375"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.895",
+    "lon": "109.661"
+  },
+  "metadata": {},
+  "source": {}
+}

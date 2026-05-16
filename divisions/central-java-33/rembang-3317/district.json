@@ -1,0 +1,786 @@
+[
+  {
+    "id": "3317020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulu",
+      "en": "Bulu",
+      "slug": "bulu-3317020"
+    },
+    "code": {
+      "id": "3317020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.853",
+      "lon": "111.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunem",
+      "en": "Gunem",
+      "slug": "gunem-3317030"
+    },
+    "code": {
+      "id": "3317030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.845",
+      "lon": "111.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaliori",
+      "en": "Kaliori",
+      "slug": "kaliori-3317090"
+    },
+    "code": {
+      "id": "3317090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.697",
+      "lon": "111.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kragan",
+      "en": "Kragan",
+      "slug": "kragan-3317120"
+    },
+    "code": {
+      "id": "3317120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.691",
+      "lon": "111.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lasem",
+      "en": "Lasem",
+      "slug": "lasem-3317140"
+    },
+    "code": {
+      "id": "3317140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.682",
+      "lon": "111.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pamotan",
+      "en": "Pamotan",
+      "slug": "pamotan-3317070"
+    },
+    "code": {
+      "id": "3317070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.771",
+      "lon": "111.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pancur",
+      "en": "Pancur",
+      "slug": "pancur-3317110"
+    },
+    "code": {
+      "id": "3317110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.724",
+      "lon": "111.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rembang",
+      "en": "Rembang",
+      "slug": "rembang-3317100"
+    },
+    "code": {
+      "id": "3317100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.719",
+      "lon": "111.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sale",
+      "en": "Sale",
+      "slug": "sale-3317040"
+    },
+    "code": {
+      "id": "3317040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.858",
+      "lon": "111.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sarang",
+      "en": "Sarang",
+      "slug": "sarang-3317050"
+    },
+    "code": {
+      "id": "3317050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.769",
+      "lon": "111.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sedan",
+      "en": "Sedan",
+      "slug": "sedan-3317060"
+    },
+    "code": {
+      "id": "3317060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.755",
+      "lon": "111.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sluke",
+      "en": "Sluke",
+      "slug": "sluke-3317130"
+    },
+    "code": {
+      "id": "3317130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.654",
+      "lon": "111.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sulang",
+      "en": "Sulang",
+      "slug": "sulang-3317080"
+    },
+    "code": {
+      "id": "3317080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.788",
+      "lon": "111.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3317010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumber",
+      "en": "Sumber",
+      "slug": "sumber-3317010"
+    },
+    "code": {
+      "id": "3317010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3317",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rembang",
+          "en": "Rembang",
+          "slug": "rembang-3317"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.804",
+      "lon": "111.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

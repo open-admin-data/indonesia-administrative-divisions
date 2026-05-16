@@ -1,0 +1,56 @@
+{
+  "id": "6103020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sebangki",
+    "en": "Sebangki",
+    "slug": "sebangki-6103020"
+  },
+  "code": {
+    "id": "6103020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Landak",
+      "en": "Landak",
+      "slug": "landak-6103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.144",
+    "lon": "109.6"
+  },
+  "metadata": {},
+  "source": {}
+}

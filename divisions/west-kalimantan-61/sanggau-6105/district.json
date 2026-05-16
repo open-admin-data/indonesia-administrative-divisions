@@ -1,0 +1,842 @@
+[
+  {
+    "id": "6105160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balai",
+      "en": "Balai",
+      "slug": "balai-6105160"
+    },
+    "code": {
+      "id": "6105160",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.163",
+      "lon": "110.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Beduwai",
+      "en": "Beduwai",
+      "slug": "beduwai-6105190"
+    },
+    "code": {
+      "id": "6105190",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.748",
+      "lon": "110.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonti",
+      "en": "Bonti",
+      "slug": "bonti-6105130"
+    },
+    "code": {
+      "id": "6105130",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.469",
+      "lon": "110.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Entikong",
+      "en": "Entikong",
+      "slug": "entikong-6105220"
+    },
+    "code": {
+      "id": "6105220",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.996",
+      "lon": "110.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangkang",
+      "en": "Jangkang",
+      "slug": "jangkang-6105120"
+    },
+    "code": {
+      "id": "6105120",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.494",
+      "lon": "110.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kapuas",
+      "en": "Kapuas",
+      "slug": "kapuas-6105060"
+    },
+    "code": {
+      "id": "6105060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.037",
+      "lon": "110.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kembayan",
+      "en": "Kembayan",
+      "slug": "kembayan-6105180"
+    },
+    "code": {
+      "id": "6105180",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.54",
+      "lon": "110.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meliau",
+      "en": "Meliau",
+      "slug": "meliau-6105020"
+    },
+    "code": {
+      "id": "6105020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.262",
+      "lon": "110.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mukok",
+      "en": "Mukok",
+      "slug": "mukok-6105070"
+    },
+    "code": {
+      "id": "6105070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.148",
+      "lon": "110.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Noyan",
+      "en": "Noyan",
+      "slug": "noyan-6105200"
+    },
+    "code": {
+      "id": "6105200",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "110.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Parindu",
+      "en": "Parindu",
+      "slug": "parindu-6105140"
+    },
+    "code": {
+      "id": "6105140",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.229",
+      "lon": "110.439"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekayam",
+      "en": "Sekayam",
+      "slug": "sekayam-6105210"
+    },
+    "code": {
+      "id": "6105210",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.813",
+      "lon": "110.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tayan Hilir",
+      "en": "Tayan Hilir",
+      "slug": "tayan-hilir-6105150"
+    },
+    "code": {
+      "id": "6105150",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.014",
+      "lon": "110.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tayan Hulu",
+      "en": "Tayan Hulu",
+      "slug": "tayan-hulu-6105170"
+    },
+    "code": {
+      "id": "6105170",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.359",
+      "lon": "110.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toba",
+      "en": "Toba",
+      "slug": "toba-6105010"
+    },
+    "code": {
+      "id": "6105010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sanggau",
+          "en": "Sanggau",
+          "slug": "sanggau-6105"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.271",
+      "lon": "110.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

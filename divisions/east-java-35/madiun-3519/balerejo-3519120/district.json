@@ -1,0 +1,56 @@
+{
+  "id": "3519120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Balerejo",
+    "en": "Balerejo",
+    "slug": "balerejo-3519120"
+  },
+  "code": {
+    "id": "3519120",
+    "iso": null
+  },
+  "parent": {
+    "id": "3519",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Madiun",
+      "en": "Madiun",
+      "slug": "madiun-3519"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.536",
+    "lon": "111.593"
+  },
+  "metadata": {},
+  "source": {}
+}

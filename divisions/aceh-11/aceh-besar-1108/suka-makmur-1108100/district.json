@@ -1,0 +1,56 @@
+{
+  "id": "1108100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suka Makmur",
+    "en": "Suka Makmur",
+    "slug": "suka-makmur-1108100"
+  },
+  "code": {
+    "id": "1108100",
+    "iso": null
+  },
+  "parent": {
+    "id": "1108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Besar",
+      "en": "Aceh Besar",
+      "slug": "aceh-besar-1108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Besar",
+        "en": "Aceh Besar",
+        "slug": "aceh-besar-1108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.433",
+    "lon": "95.364"
+  },
+  "metadata": {},
+  "source": {}
+}

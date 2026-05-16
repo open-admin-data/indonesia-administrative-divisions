@@ -1,0 +1,842 @@
+[
+  {
+    "id": "9414050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Assue",
+      "en": "Assue",
+      "slug": "assue-9414050"
+    },
+    "code": {
+      "id": "9414050",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.944",
+      "lon": "139.143"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bamgi",
+      "en": "Bamgi",
+      "slug": "bamgi-9414023"
+    },
+    "code": {
+      "id": "9414023",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.97",
+      "lon": "139.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Citakmitak",
+      "en": "Citakmitak",
+      "slug": "citakmitak-9414060"
+    },
+    "code": {
+      "id": "9414060",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.831",
+      "lon": "139.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Edera",
+      "en": "Edera",
+      "slug": "edera-9414020"
+    },
+    "code": {
+      "id": "9414020",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.066",
+      "lon": "139.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haju",
+      "en": "Haju",
+      "slug": "haju-9414040"
+    },
+    "code": {
+      "id": "9414040",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.239",
+      "lon": "139.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaibar",
+      "en": "Kaibar",
+      "slug": "kaibar-9414061"
+    },
+    "code": {
+      "id": "9414061",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.628",
+      "lon": "139.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Minyamur",
+      "en": "Minyamur",
+      "slug": "minyamur-9414011"
+    },
+    "code": {
+      "id": "9414011",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.587",
+      "lon": "138.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nambioman Bapai",
+      "en": "Nambioman Bapai",
+      "slug": "nambioman-bapai-9414010"
+    },
+    "code": {
+      "id": "9414010",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.804",
+      "lon": "138.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Obaa",
+      "en": "Obaa",
+      "slug": "obaa-9414030"
+    },
+    "code": {
+      "id": "9414030",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.503",
+      "lon": "139.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Passue",
+      "en": "Passue",
+      "slug": "passue-9414031"
+    },
+    "code": {
+      "id": "9414031",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.441",
+      "lon": "139.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Passue Bawah",
+      "en": "Passue Bawah",
+      "slug": "passue-bawah-9414062"
+    },
+    "code": {
+      "id": "9414062",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.997",
+      "lon": "139.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Syahcame",
+      "en": "Syahcame",
+      "slug": "syahcame-9414022"
+    },
+    "code": {
+      "id": "9414022",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.927",
+      "lon": "139.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414063",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ti-zain",
+      "en": "Ti-zain",
+      "slug": "ti-zain-9414063"
+    },
+    "code": {
+      "id": "9414063",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.369",
+      "lon": "139.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Venaha",
+      "en": "Venaha",
+      "slug": "venaha-9414021"
+    },
+    "code": {
+      "id": "9414021",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.936",
+      "lon": "139.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9414024",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yakomi",
+      "en": "Yakomi",
+      "slug": "yakomi-9414024"
+    },
+    "code": {
+      "id": "9414024",
+      "iso": null
+    },
+    "parent": {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9414",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mappi",
+          "en": "Mappi",
+          "slug": "mappi-9414"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.097",
+      "lon": "139.978"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "1224",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Nias Utara",
+    "en": "Nias Utara",
+    "slug": "nias-utara-1224"
+  },
+  "code": {
+    "id": "1224",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Utara",
+      "en": "North Sumatra",
+      "slug": "north-sumatra-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 113
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.389",
+    "lon": "97.381"
+  },
+  "metadata": {},
+  "source": {}
+}

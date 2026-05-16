@@ -1,0 +1,56 @@
+{
+  "id": "6108100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bunut Hilir",
+    "en": "Bunut Hilir",
+    "slug": "bunut-hilir-6108100"
+  },
+  "code": {
+    "id": "6108100",
+    "iso": null
+  },
+  "parent": {
+    "id": "6108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kapuas Hulu",
+      "en": "Kapuas Hulu",
+      "slug": "kapuas-hulu-6108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kapuas Hulu",
+        "en": "Kapuas Hulu",
+        "slug": "kapuas-hulu-6108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.753",
+    "lon": "112.556"
+  },
+  "metadata": {},
+  "source": {}
+}

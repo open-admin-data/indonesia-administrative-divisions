@@ -1,0 +1,56 @@
+{
+  "id": "3326101",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siwalan",
+    "en": "Siwalan",
+    "slug": "siwalan-3326101"
+  },
+  "code": {
+    "id": "3326101",
+    "iso": null
+  },
+  "parent": {
+    "id": "3326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pekalongan",
+      "en": "Pekalongan",
+      "slug": "pekalongan-3326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pekalongan",
+        "en": "Pekalongan",
+        "slug": "pekalongan-3326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.887",
+    "lon": "109.587"
+  },
+  "metadata": {},
+  "source": {}
+}

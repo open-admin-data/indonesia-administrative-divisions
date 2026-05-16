@@ -1,0 +1,56 @@
+{
+  "id": "6106100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sandai",
+    "en": "Sandai",
+    "slug": "sandai-6106100"
+  },
+  "code": {
+    "id": "6106100",
+    "iso": null
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ketapang",
+      "en": "Ketapang",
+      "slug": "ketapang-6106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ketapang",
+        "en": "Ketapang",
+        "slug": "ketapang-6106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.162",
+    "lon": "110.617"
+  },
+  "metadata": {},
+  "source": {}
+}

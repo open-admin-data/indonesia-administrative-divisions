@@ -1,0 +1,56 @@
+{
+  "id": "1175050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Longkib",
+    "en": "Longkib",
+    "slug": "longkib-1175050"
+  },
+  "code": {
+    "id": "1175050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1175",
+    "level": 2,
+    "name": {
+      "local": "Kota Subulussalam",
+      "en": "Subulussalam",
+      "slug": "subulussalam-1175"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1175",
+      "level": 2,
+      "name": {
+        "local": "Kota Subulussalam",
+        "en": "Subulussalam",
+        "slug": "subulussalam-1175"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.578",
+    "lon": "97.891"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3275060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bekasi Barat",
+    "en": "Bekasi Barat",
+    "slug": "bekasi-barat-3275060"
+  },
+  "code": {
+    "id": "3275060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3275",
+    "level": 2,
+    "name": {
+      "local": "Kota Bekasi",
+      "en": "Bekasi",
+      "slug": "bekasi-3275"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3275",
+      "level": 2,
+      "name": {
+        "local": "Kota Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3275"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.232",
+    "lon": "106.963"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3373040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sidorejo",
+    "en": "Sidorejo",
+    "slug": "sidorejo-3373040"
+  },
+  "code": {
+    "id": "3373040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3373",
+    "level": 2,
+    "name": {
+      "local": "Kota Salatiga",
+      "en": "Salatiga",
+      "slug": "salatiga-3373"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3373",
+      "level": 2,
+      "name": {
+        "local": "Kota Salatiga",
+        "en": "Salatiga",
+        "slug": "salatiga-3373"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.308",
+    "lon": "110.495"
+  },
+  "metadata": {},
+  "source": {}
+}

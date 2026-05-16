@@ -1,0 +1,56 @@
+{
+  "id": "9402228",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Koragi",
+    "en": "Koragi",
+    "slug": "koragi-9402228"
+  },
+  "code": {
+    "id": "9402228",
+    "iso": null
+  },
+  "parent": {
+    "id": "9402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jayawijaya",
+      "en": "Jayawijaya",
+      "slug": "jayawijaya-9402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jayawijaya",
+        "en": "Jayawijaya",
+        "slug": "jayawijaya-9402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.872",
+    "lon": "138.804"
+  },
+  "metadata": {},
+  "source": {}
+}

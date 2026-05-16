@@ -1,0 +1,56 @@
+{
+  "id": "1673010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dempo Selatan",
+    "en": "Dempo Selatan",
+    "slug": "dempo-selatan-1673010"
+  },
+  "code": {
+    "id": "1673010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1673",
+    "level": 2,
+    "name": {
+      "local": "Kota Pagar Alam",
+      "en": "Pagar Alam",
+      "slug": "pagar-alam-1673"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1673",
+      "level": 2,
+      "name": {
+        "local": "Kota Pagar Alam",
+        "en": "Pagar Alam",
+        "slug": "pagar-alam-1673"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.121",
+    "lon": "103.332"
+  },
+  "metadata": {},
+  "source": {}
+}

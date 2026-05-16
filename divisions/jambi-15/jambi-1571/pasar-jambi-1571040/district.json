@@ -1,0 +1,56 @@
+{
+  "id": "1571040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasar Jambi",
+    "en": "Pasar Jambi",
+    "slug": "pasar-jambi-1571040"
+  },
+  "code": {
+    "id": "1571040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1571",
+    "level": 2,
+    "name": {
+      "local": "Kota Jambi",
+      "en": "Jambi",
+      "slug": "jambi-1571"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.594",
+    "lon": "103.614"
+  },
+  "metadata": {},
+  "source": {}
+}

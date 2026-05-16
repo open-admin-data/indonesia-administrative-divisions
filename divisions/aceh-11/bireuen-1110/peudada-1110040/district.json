@@ -1,0 +1,56 @@
+{
+  "id": "1110040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Peudada",
+    "en": "Peudada",
+    "slug": "peudada-1110040"
+  },
+  "code": {
+    "id": "1110040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bireuen",
+      "en": "Bireuen",
+      "slug": "bireuen-1110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.052",
+    "lon": "96.565"
+  },
+  "metadata": {},
+  "source": {}
+}

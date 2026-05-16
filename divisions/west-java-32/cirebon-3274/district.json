@@ -1,0 +1,282 @@
+[
+  {
+    "id": "3274010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Harjamukti",
+      "en": "Harjamukti",
+      "slug": "harjamukti-3274010"
+    },
+    "code": {
+      "id": "3274010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3274",
+      "level": 2,
+      "name": {
+        "local": "Kota Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3274"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3274",
+        "level": 2,
+        "name": {
+          "local": "Kota Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3274"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.765",
+      "lon": "108.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3274050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kejaksan",
+      "en": "Kejaksan",
+      "slug": "kejaksan-3274050"
+    },
+    "code": {
+      "id": "3274050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3274",
+      "level": 2,
+      "name": {
+        "local": "Kota Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3274"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3274",
+        "level": 2,
+        "name": {
+          "local": "Kota Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3274"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.704",
+      "lon": "108.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3274040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kesambi",
+      "en": "Kesambi",
+      "slug": "kesambi-3274040"
+    },
+    "code": {
+      "id": "3274040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3274",
+      "level": 2,
+      "name": {
+        "local": "Kota Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3274"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3274",
+        "level": 2,
+        "name": {
+          "local": "Kota Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3274"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.73",
+      "lon": "108.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3274020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lemahwungkuk",
+      "en": "Lemahwungkuk",
+      "slug": "lemahwungkuk-3274020"
+    },
+    "code": {
+      "id": "3274020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3274",
+      "level": 2,
+      "name": {
+        "local": "Kota Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3274"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3274",
+        "level": 2,
+        "name": {
+          "local": "Kota Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3274"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.728",
+      "lon": "108.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3274030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pekalipan",
+      "en": "Pekalipan",
+      "slug": "pekalipan-3274030"
+    },
+    "code": {
+      "id": "3274030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3274",
+      "level": 2,
+      "name": {
+        "local": "Kota Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3274"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3274",
+        "level": 2,
+        "name": {
+          "local": "Kota Cirebon",
+          "en": "Cirebon",
+          "slug": "cirebon-3274"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.724",
+      "lon": "108.564"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

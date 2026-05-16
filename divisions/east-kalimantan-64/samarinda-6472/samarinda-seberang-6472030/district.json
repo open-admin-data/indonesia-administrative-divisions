@@ -1,0 +1,56 @@
+{
+  "id": "6472030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samarinda Seberang",
+    "en": "Samarinda Seberang",
+    "slug": "samarinda-seberang-6472030"
+  },
+  "code": {
+    "id": "6472030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6472",
+    "level": 2,
+    "name": {
+      "local": "Kota Samarinda",
+      "en": "Samarinda",
+      "slug": "samarinda-6472"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6472",
+      "level": 2,
+      "name": {
+        "local": "Kota Samarinda",
+        "en": "Samarinda",
+        "slug": "samarinda-6472"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.525",
+    "lon": "117.136"
+  },
+  "metadata": {},
+  "source": {}
+}

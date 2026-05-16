@@ -1,0 +1,56 @@
+{
+  "id": "3503060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pule",
+    "en": "Pule",
+    "slug": "pule-3503060"
+  },
+  "code": {
+    "id": "3503060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Trenggalek",
+      "en": "Trenggalek",
+      "slug": "trenggalek-3503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.112",
+    "lon": "111.536"
+  },
+  "metadata": {},
+  "source": {}
+}

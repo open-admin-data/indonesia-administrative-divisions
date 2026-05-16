@@ -1,0 +1,170 @@
+[
+  {
+    "id": "3571020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Kediri",
+      "en": "Kota Kediri",
+      "slug": "kota-kediri-3571020"
+    },
+    "code": {
+      "id": "3571020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3571",
+      "level": 2,
+      "name": {
+        "local": "Kota Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3571",
+        "level": 2,
+        "name": {
+          "local": "Kota Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.829",
+      "lon": "112.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3571010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mojoroto",
+      "en": "Mojoroto",
+      "slug": "mojoroto-3571010"
+    },
+    "code": {
+      "id": "3571010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3571",
+      "level": 2,
+      "name": {
+        "local": "Kota Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3571",
+        "level": 2,
+        "name": {
+          "local": "Kota Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.807",
+      "lon": "111.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3571030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pesantren",
+      "en": "Pesantren",
+      "slug": "pesantren-3571030"
+    },
+    "code": {
+      "id": "3571030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3571",
+      "level": 2,
+      "name": {
+        "local": "Kota Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3571",
+        "level": 2,
+        "name": {
+          "local": "Kota Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.847",
+      "lon": "112.049"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

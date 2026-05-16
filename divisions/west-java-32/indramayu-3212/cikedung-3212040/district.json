@@ -1,0 +1,56 @@
+{
+  "id": "3212040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cikedung",
+    "en": "Cikedung",
+    "slug": "cikedung-3212040"
+  },
+  "code": {
+    "id": "3212040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indramayu",
+      "en": "Indramayu",
+      "slug": "indramayu-3212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indramayu",
+        "en": "Indramayu",
+        "slug": "indramayu-3212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.529",
+    "lon": "108.171"
+  },
+  "metadata": {},
+  "source": {}
+}

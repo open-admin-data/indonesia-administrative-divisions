@@ -1,0 +1,56 @@
+{
+  "id": "3403050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rongkop",
+    "en": "Rongkop",
+    "slug": "rongkop-3403050"
+  },
+  "code": {
+    "id": "3403050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gunung Kidul",
+      "en": "Gunung Kidul",
+      "slug": "gunung-kidul-3403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gunung Kidul",
+        "en": "Gunung Kidul",
+        "slug": "gunung-kidul-3403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.081",
+    "lon": "110.744"
+  },
+  "metadata": {},
+  "source": {}
+}

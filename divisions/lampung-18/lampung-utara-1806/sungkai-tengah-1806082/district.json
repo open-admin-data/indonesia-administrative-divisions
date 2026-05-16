@@ -1,0 +1,56 @@
+{
+  "id": "1806082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungkai Tengah",
+    "en": "Sungkai Tengah",
+    "slug": "sungkai-tengah-1806082"
+  },
+  "code": {
+    "id": "1806082",
+    "iso": null
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Utara",
+      "en": "Lampung Utara",
+      "slug": "lampung-utara-1806"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Utara",
+        "en": "Lampung Utara",
+        "slug": "lampung-utara-1806"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.713",
+    "lon": "104.709"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1307080006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Baru",
+      "en": "Koto Baru",
+      "slug": "koto-baru-1307080006"
+    },
+    "code": {
+      "id": "1307080006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307080",
+      "level": 3,
+      "name": {
+        "local": "Baso",
+        "en": "Baso",
+        "slug": "baso-1307080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307080",
+        "level": 3,
+        "name": {
+          "local": "Baso",
+          "en": "Baso",
+          "slug": "baso-1307080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26192"
+    ],
+    "geo": {
+      "lat": "-0.255",
+      "lon": "100.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307080001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Tinggi",
+      "en": "Koto Tinggi",
+      "slug": "koto-tinggi-1307080001"
+    },
+    "code": {
+      "id": "1307080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307080",
+      "level": 3,
+      "name": {
+        "local": "Baso",
+        "en": "Baso",
+        "slug": "baso-1307080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307080",
+        "level": 3,
+        "name": {
+          "local": "Baso",
+          "en": "Baso",
+          "slug": "baso-1307080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26192"
+    ],
+    "geo": {
+      "lat": "-0.308",
+      "lon": "100.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307080002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Padang Tarok",
+      "en": "Padang Tarok",
+      "slug": "padang-tarok-1307080002"
+    },
+    "code": {
+      "id": "1307080002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307080",
+      "level": 3,
+      "name": {
+        "local": "Baso",
+        "en": "Baso",
+        "slug": "baso-1307080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307080",
+        "level": 3,
+        "name": {
+          "local": "Baso",
+          "en": "Baso",
+          "slug": "baso-1307080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26192"
+    ],
+    "geo": {
+      "lat": "-0.271",
+      "lon": "100.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307080005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Salo",
+      "en": "Salo",
+      "slug": "salo-1307080005"
+    },
+    "code": {
+      "id": "1307080005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307080",
+      "level": 3,
+      "name": {
+        "local": "Baso",
+        "en": "Baso",
+        "slug": "baso-1307080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307080",
+        "level": 3,
+        "name": {
+          "local": "Baso",
+          "en": "Baso",
+          "slug": "baso-1307080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26192"
+    ],
+    "geo": {
+      "lat": "-0.242",
+      "lon": "100.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307080003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simarasok",
+      "en": "Simarasok",
+      "slug": "simarasok-1307080003"
+    },
+    "code": {
+      "id": "1307080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307080",
+      "level": 3,
+      "name": {
+        "local": "Baso",
+        "en": "Baso",
+        "slug": "baso-1307080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307080",
+        "level": 3,
+        "name": {
+          "local": "Baso",
+          "en": "Baso",
+          "slug": "baso-1307080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26192"
+    ],
+    "geo": {
+      "lat": "-0.244",
+      "lon": "100.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307080004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tabek Panjang",
+      "en": "Tabek Panjang",
+      "slug": "tabek-panjang-1307080004"
+    },
+    "code": {
+      "id": "1307080004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307080",
+      "level": 3,
+      "name": {
+        "local": "Baso",
+        "en": "Baso",
+        "slug": "baso-1307080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307080",
+        "level": 3,
+        "name": {
+          "local": "Baso",
+          "en": "Baso",
+          "slug": "baso-1307080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26192"
+    ],
+    "geo": {
+      "lat": "-0.262",
+      "lon": "100.457"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

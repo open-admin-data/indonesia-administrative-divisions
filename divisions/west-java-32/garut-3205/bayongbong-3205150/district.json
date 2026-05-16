@@ -1,0 +1,56 @@
+{
+  "id": "3205150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bayongbong",
+    "en": "Bayongbong",
+    "slug": "bayongbong-3205150"
+  },
+  "code": {
+    "id": "3205150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Garut",
+      "en": "Garut",
+      "slug": "garut-3205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.277",
+    "lon": "107.844"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "8103110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Leihitu",
+    "en": "Leihitu",
+    "slug": "leihitu-8103110"
+  },
+  "code": {
+    "id": "8103110",
+    "iso": null
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tengah",
+      "en": "Maluku Tengah",
+      "slug": "maluku-tengah-8103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.61",
+    "lon": "128.08"
+  },
+  "metadata": {},
+  "source": {}
+}

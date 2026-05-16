@@ -1,0 +1,56 @@
+{
+  "id": "9430060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malagaineri",
+    "en": "Malagaineri",
+    "slug": "malagaineri-9430060"
+  },
+  "code": {
+    "id": "9430060",
+    "iso": null
+  },
+  "parent": {
+    "id": "9430",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lanny Jaya",
+      "en": "Lanny Jaya",
+      "slug": "lanny-jaya-9430"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9430",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lanny Jaya",
+        "en": "Lanny Jaya",
+        "slug": "lanny-jaya-9430"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.939",
+    "lon": "138.207"
+  },
+  "metadata": {},
+  "source": {}
+}

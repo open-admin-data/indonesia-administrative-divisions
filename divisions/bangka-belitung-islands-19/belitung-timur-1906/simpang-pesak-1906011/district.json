@@ -1,0 +1,56 @@
+{
+  "id": "1906011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Pesak",
+    "en": "Simpang Pesak",
+    "slug": "simpang-pesak-1906011"
+  },
+  "code": {
+    "id": "1906011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1906",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belitung Timur",
+      "en": "Belitung Timur",
+      "slug": "belitung-timur-1906"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belitung Timur",
+        "en": "Belitung Timur",
+        "slug": "belitung-timur-1906"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.23",
+    "lon": "108.011"
+  },
+  "metadata": {},
+  "source": {}
+}

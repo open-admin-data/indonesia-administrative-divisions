@@ -1,0 +1,56 @@
+{
+  "id": "7406043",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lantari Jaya",
+    "en": "Lantari Jaya",
+    "slug": "lantari-jaya-7406043"
+  },
+  "code": {
+    "id": "7406043",
+    "iso": null
+  },
+  "parent": {
+    "id": "7406",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bombana",
+      "en": "Bombana",
+      "slug": "bombana-7406"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7406",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bombana",
+        "en": "Bombana",
+        "slug": "bombana-7406"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.541",
+    "lon": "121.976"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "9101",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Fakfak",
+    "en": "Fakfak",
+    "slug": "fakfak-9101"
+  },
+  "code": {
+    "id": "9101",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 138
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.098",
+    "lon": "133.019"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "9108",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Raja Ampat",
+    "en": "Raja Ampat",
+    "slug": "raja-ampat-9108"
+  },
+  "code": {
+    "id": "9108",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 24,
+    "village": 111
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.092",
+    "lon": "130.878"
+  },
+  "metadata": {},
+  "source": {}
+}

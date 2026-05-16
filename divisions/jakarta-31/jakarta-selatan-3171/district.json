@@ -1,0 +1,562 @@
+[
+  {
+    "id": "3171030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cilandak",
+      "en": "Cilandak",
+      "slug": "cilandak-3171030"
+    },
+    "code": {
+      "id": "3171030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.29",
+      "lon": "106.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jagakarsa",
+      "en": "Jagakarsa",
+      "slug": "jagakarsa-3171010"
+    },
+    "code": {
+      "id": "3171010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.33",
+      "lon": "106.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kebayoran Baru",
+      "en": "Kebayoran Baru",
+      "slug": "kebayoran-baru-3171060"
+    },
+    "code": {
+      "id": "3171060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.243",
+      "lon": "106.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kebayoran Lama",
+      "en": "Kebayoran Lama",
+      "slug": "kebayoran-lama-3171050"
+    },
+    "code": {
+      "id": "3171050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.249",
+      "lon": "106.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mampang Prapatan",
+      "en": "Mampang Prapatan",
+      "slug": "mampang-prapatan-3171070"
+    },
+    "code": {
+      "id": "3171070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.25",
+      "lon": "106.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pancoran",
+      "en": "Pancoran",
+      "slug": "pancoran-3171080"
+    },
+    "code": {
+      "id": "3171080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.258",
+      "lon": "106.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasar Minggu",
+      "en": "Pasar Minggu",
+      "slug": "pasar-minggu-3171020"
+    },
+    "code": {
+      "id": "3171020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.292",
+      "lon": "106.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pesanggrahan",
+      "en": "Pesanggrahan",
+      "slug": "pesanggrahan-3171040"
+    },
+    "code": {
+      "id": "3171040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.254",
+      "lon": "106.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Setia Budi",
+      "en": "Setia Budi",
+      "slug": "setia-budi-3171100"
+    },
+    "code": {
+      "id": "3171100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.222",
+      "lon": "106.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tebet",
+      "en": "Tebet",
+      "slug": "tebet-3171090"
+    },
+    "code": {
+      "id": "3171090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.226",
+      "lon": "106.851"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

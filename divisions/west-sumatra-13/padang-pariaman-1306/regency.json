@@ -1,0 +1,48 @@
+{
+  "id": "1306",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Padang Pariaman",
+    "en": "Padang Pariaman",
+    "slug": "padang-pariaman-1306"
+  },
+  "code": {
+    "id": "1306",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.315",
+    "lon": "100.03"
+  },
+  "metadata": {},
+  "source": {}
+}

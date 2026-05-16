@@ -1,0 +1,56 @@
+{
+  "id": "6212053",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karusen Janang",
+    "en": "Karusen Janang",
+    "slug": "karusen-janang-6212053"
+  },
+  "code": {
+    "id": "6212053",
+    "iso": null
+  },
+  "parent": {
+    "id": "6212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barito Timur",
+      "en": "Barito Timur",
+      "slug": "barito-timur-6212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barito Timur",
+        "en": "Barito Timur",
+        "slug": "barito-timur-6212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.944",
+    "lon": "115.091"
+  },
+  "metadata": {},
+  "source": {}
+}

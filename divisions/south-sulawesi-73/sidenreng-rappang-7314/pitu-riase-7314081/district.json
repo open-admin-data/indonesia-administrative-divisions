@@ -1,0 +1,56 @@
+{
+  "id": "7314081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pitu Riase",
+    "en": "Pitu Riase",
+    "slug": "pitu-riase-7314081"
+  },
+  "code": {
+    "id": "7314081",
+    "iso": null
+  },
+  "parent": {
+    "id": "7314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sidenreng Rappang",
+      "en": "Sidenreng Rappang",
+      "slug": "sidenreng-rappang-7314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sidenreng Rappang",
+        "en": "Sidenreng Rappang",
+        "slug": "sidenreng-rappang-7314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.682",
+    "lon": "120.153"
+  },
+  "metadata": {},
+  "source": {}
+}

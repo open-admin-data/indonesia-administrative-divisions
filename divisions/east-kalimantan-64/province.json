@@ -1,0 +1,31 @@
+{
+  "id": "64",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kalimantan Timur",
+    "en": "East Kalimantan",
+    "slug": "east-kalimantan-64"
+  },
+  "code": {
+    "id": "64",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 10,
+    "village": 1002,
+    "district": 103
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.501",
+    "lon": "117.139"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "5104",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gianyar",
+    "en": "Gianyar",
+    "slug": "gianyar-5104"
+  },
+  "code": {
+    "id": "5104",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 61
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.541",
+    "lon": "115.324"
+  },
+  "metadata": {},
+  "source": {}
+}

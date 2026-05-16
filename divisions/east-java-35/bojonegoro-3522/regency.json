@@ -1,0 +1,48 @@
+{
+  "id": "3522",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bojonegoro",
+    "en": "Bojonegoro",
+    "slug": "bojonegoro-3522"
+  },
+  "code": {
+    "id": "3522",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 28,
+    "village": 384
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.15",
+    "lon": "111.882"
+  },
+  "metadata": {},
+  "source": {}
+}

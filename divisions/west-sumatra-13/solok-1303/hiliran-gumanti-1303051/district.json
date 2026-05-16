@@ -1,0 +1,56 @@
+{
+  "id": "1303051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hiliran Gumanti",
+    "en": "Hiliran Gumanti",
+    "slug": "hiliran-gumanti-1303051"
+  },
+  "code": {
+    "id": "1303051",
+    "iso": null
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Solok",
+      "en": "Solok",
+      "slug": "solok-1303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.153",
+    "lon": "100.929"
+  },
+  "metadata": {},
+  "source": {}
+}

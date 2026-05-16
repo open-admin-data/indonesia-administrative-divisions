@@ -1,0 +1,56 @@
+{
+  "id": "7303032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gantarangkeke",
+    "en": "Gantarangkeke",
+    "slug": "gantarangkeke-7303032"
+  },
+  "code": {
+    "id": "7303032",
+    "iso": null
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bantaeng",
+      "en": "Bantaeng",
+      "slug": "bantaeng-7303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantaeng",
+        "en": "Bantaeng",
+        "slug": "bantaeng-7303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.525",
+    "lon": "120.054"
+  },
+  "metadata": {},
+  "source": {}
+}

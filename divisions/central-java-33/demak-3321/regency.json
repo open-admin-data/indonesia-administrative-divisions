@@ -1,0 +1,48 @@
+{
+  "id": "3321",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Demak",
+    "en": "Demak",
+    "slug": "demak-3321"
+  },
+  "code": {
+    "id": "3321",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 233
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.891",
+    "lon": "110.638"
+  },
+  "metadata": {},
+  "source": {}
+}

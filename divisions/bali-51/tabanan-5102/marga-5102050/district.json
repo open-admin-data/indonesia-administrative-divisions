@@ -1,0 +1,56 @@
+{
+  "id": "5102050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Marga",
+    "en": "Marga",
+    "slug": "marga-5102050"
+  },
+  "code": {
+    "id": "5102050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tabanan",
+      "en": "Tabanan",
+      "slug": "tabanan-5102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.451",
+    "lon": "115.178"
+  },
+  "metadata": {},
+  "source": {}
+}

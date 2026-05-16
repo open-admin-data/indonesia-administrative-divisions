@@ -1,0 +1,56 @@
+{
+  "id": "5104040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tampaksiring",
+    "en": "Tampaksiring",
+    "slug": "tampaksiring-5104040"
+  },
+  "code": {
+    "id": "5104040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gianyar",
+      "en": "Gianyar",
+      "slug": "gianyar-5104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.444",
+    "lon": "115.307"
+  },
+  "metadata": {},
+  "source": {}
+}

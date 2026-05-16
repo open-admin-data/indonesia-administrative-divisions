@@ -1,0 +1,56 @@
+{
+  "id": "8103100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salahutu",
+    "en": "Salahutu",
+    "slug": "salahutu-8103100"
+  },
+  "code": {
+    "id": "8103100",
+    "iso": null
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tengah",
+      "en": "Maluku Tengah",
+      "slug": "maluku-tengah-8103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.564",
+    "lon": "128.307"
+  },
+  "metadata": {},
+  "source": {}
+}

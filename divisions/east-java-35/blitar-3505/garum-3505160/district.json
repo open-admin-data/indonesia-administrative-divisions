@@ -1,0 +1,56 @@
+{
+  "id": "3505160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Garum",
+    "en": "Garum",
+    "slug": "garum-3505160"
+  },
+  "code": {
+    "id": "3505160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Blitar",
+      "en": "Blitar",
+      "slug": "blitar-3505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3505"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.013",
+    "lon": "112.254"
+  },
+  "metadata": {},
+  "source": {}
+}

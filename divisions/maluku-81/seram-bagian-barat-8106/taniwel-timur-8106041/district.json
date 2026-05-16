@@ -1,0 +1,56 @@
+{
+  "id": "8106041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taniwel Timur",
+    "en": "Taniwel Timur",
+    "slug": "taniwel-timur-8106041"
+  },
+  "code": {
+    "id": "8106041",
+    "iso": null
+  },
+  "parent": {
+    "id": "8106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seram Bagian Barat",
+      "en": "Seram Bagian Barat",
+      "slug": "seram-bagian-barat-8106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seram Bagian Barat",
+        "en": "Seram Bagian Barat",
+        "slug": "seram-bagian-barat-8106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.948",
+    "lon": "128.686"
+  },
+  "metadata": {},
+  "source": {}
+}

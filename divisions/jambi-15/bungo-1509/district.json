@@ -1,0 +1,954 @@
+[
+  {
+    "id": "1509021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bathin Ii Babeko",
+      "en": "Bathin Ii Babeko",
+      "slug": "bathin-ii-babeko-1509021"
+    },
+    "code": {
+      "id": "1509021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.516",
+      "lon": "102.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bathin Ii Pelayang",
+      "en": "Bathin Ii Pelayang",
+      "slug": "bathin-ii-pelayang-1509052"
+    },
+    "code": {
+      "id": "1509052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.425",
+      "lon": "101.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509025",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bathin Iii",
+      "en": "Bathin Iii",
+      "slug": "bathin-iii-1509025"
+    },
+    "code": {
+      "id": "1509025",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.442",
+      "lon": "102.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bathin Iii Ulu",
+      "en": "Bathin Iii Ulu",
+      "slug": "bathin-iii-ulu-1509032"
+    },
+    "code": {
+      "id": "1509032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.701",
+      "lon": "101.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bungo Dani",
+      "en": "Bungo Dani",
+      "slug": "bungo-dani-1509023"
+    },
+    "code": {
+      "id": "1509023",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.501",
+      "lon": "102.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jujuhan",
+      "en": "Jujuhan",
+      "slug": "jujuhan-1509060"
+    },
+    "code": {
+      "id": "1509060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.318",
+      "lon": "101.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jujuhan Ilir",
+      "en": "Jujuhan Ilir",
+      "slug": "jujuhan-ilir-1509061"
+    },
+    "code": {
+      "id": "1509061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.211",
+      "lon": "101.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Limbur Lubuk Mengkuang",
+      "en": "Limbur Lubuk Mengkuang",
+      "slug": "limbur-lubuk-mengkuang-1509051"
+    },
+    "code": {
+      "id": "1509051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.665",
+      "lon": "101.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muko-muko Bathin Vii",
+      "en": "Muko-muko Bathin Vii",
+      "slug": "muko-muko-bathin-vii-1509031"
+    },
+    "code": {
+      "id": "1509031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.534",
+      "lon": "101.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509024",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasar Muara Bungo",
+      "en": "Pasar Muara Bungo",
+      "slug": "pasar-muara-bungo-1509024"
+    },
+    "code": {
+      "id": "1509024",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.491",
+      "lon": "102.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pelepat",
+      "en": "Pelepat",
+      "slug": "pelepat-1509010"
+    },
+    "code": {
+      "id": "1509010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.74",
+      "lon": "101.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pelepat Ilir",
+      "en": "Pelepat Ilir",
+      "slug": "pelepat-ilir-1509011"
+    },
+    "code": {
+      "id": "1509011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "102.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rantau Pandan",
+      "en": "Rantau Pandan",
+      "slug": "rantau-pandan-1509030"
+    },
+    "code": {
+      "id": "1509030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.658",
+      "lon": "101.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rimbo Tengah",
+      "en": "Rimbo Tengah",
+      "slug": "rimbo-tengah-1509022"
+    },
+    "code": {
+      "id": "1509022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.538",
+      "lon": "102.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Sepenggal",
+      "en": "Tanah Sepenggal",
+      "slug": "tanah-sepenggal-1509040"
+    },
+    "code": {
+      "id": "1509040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.453",
+      "lon": "101.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Sepenggal Lintas",
+      "en": "Tanah Sepenggal Lintas",
+      "slug": "tanah-sepenggal-lintas-1509041"
+    },
+    "code": {
+      "id": "1509041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.387",
+      "lon": "101.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Tumbuh",
+      "en": "Tanah Tumbuh",
+      "slug": "tanah-tumbuh-1509050"
+    },
+    "code": {
+      "id": "1509050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bungo",
+          "en": "Bungo",
+          "slug": "bungo-1509"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.459",
+      "lon": "101.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

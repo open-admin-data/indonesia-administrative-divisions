@@ -1,0 +1,56 @@
+{
+  "id": "3501080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar",
+    "en": "Bandar",
+    "slug": "bandar-3501080"
+  },
+  "code": {
+    "id": "3501080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pacitan",
+      "en": "Pacitan",
+      "slug": "pacitan-3501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pacitan",
+        "en": "Pacitan",
+        "slug": "pacitan-3501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.006",
+    "lon": "111.255"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2103042001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Air Payang",
+      "en": "Air Payang",
+      "slug": "air-payang-2103042001"
+    },
+    "code": {
+      "id": "2103042001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103042",
+      "level": 3,
+      "name": {
+        "local": "Pulau Laut",
+        "en": "Pulau Laut",
+        "slug": "pulau-laut-2103042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103042",
+        "level": 3,
+        "name": {
+          "local": "Pulau Laut",
+          "en": "Pulau Laut",
+          "slug": "pulau-laut-2103042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29754"
+    ],
+    "geo": {
+      "lat": "4.691",
+      "lon": "107.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2103042003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kadur",
+      "en": "Kadur",
+      "slug": "kadur-2103042003"
+    },
+    "code": {
+      "id": "2103042003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103042",
+      "level": 3,
+      "name": {
+        "local": "Pulau Laut",
+        "en": "Pulau Laut",
+        "slug": "pulau-laut-2103042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103042",
+        "level": 3,
+        "name": {
+          "local": "Pulau Laut",
+          "en": "Pulau Laut",
+          "slug": "pulau-laut-2103042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29754"
+    ],
+    "geo": {
+      "lat": "4.732",
+      "lon": "107.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2103042002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Pala",
+      "en": "Tanjung Pala",
+      "slug": "tanjung-pala-2103042002"
+    },
+    "code": {
+      "id": "2103042002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103042",
+      "level": 3,
+      "name": {
+        "local": "Pulau Laut",
+        "en": "Pulau Laut",
+        "slug": "pulau-laut-2103042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103042",
+        "level": 3,
+        "name": {
+          "local": "Pulau Laut",
+          "en": "Pulau Laut",
+          "slug": "pulau-laut-2103042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29754"
+    ],
+    "geo": {
+      "lat": "4.737",
+      "lon": "107.992"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

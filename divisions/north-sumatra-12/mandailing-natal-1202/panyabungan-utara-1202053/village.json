@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1202053005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baringin Jaya",
+      "en": "Baringin Jaya",
+      "slug": "baringin-jaya-1202053005"
+    },
+    "code": {
+      "id": "1202053005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.911",
+      "lon": "99.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Damai",
+      "en": "Huta Damai",
+      "slug": "huta-damai-1202053010"
+    },
+    "code": {
+      "id": "1202053010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.932",
+      "lon": "99.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jambur Padang Matinggi",
+      "en": "Jambur Padang Matinggi",
+      "slug": "jambur-padang-matinggi-1202053012"
+    },
+    "code": {
+      "id": "1202053012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.938",
+      "lon": "99.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053020",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Baru",
+      "en": "Kampung Baru",
+      "slug": "kampung-baru-1202053020"
+    },
+    "code": {
+      "id": "1202053020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.925",
+      "lon": "99.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mompang Jae",
+      "en": "Mompang Jae",
+      "slug": "mompang-jae-1202053009"
+    },
+    "code": {
+      "id": "1202053009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.945",
+      "lon": "99.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mompang Julu",
+      "en": "Mompang Julu",
+      "slug": "mompang-julu-1202053008"
+    },
+    "code": {
+      "id": "1202053008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.945",
+      "lon": "99.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rumbio",
+      "en": "Rumbio",
+      "slug": "rumbio-1202053007"
+    },
+    "code": {
+      "id": "1202053007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.905",
+      "lon": "99.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simanondong",
+      "en": "Simanondong",
+      "slug": "simanondong-1202053006"
+    },
+    "code": {
+      "id": "1202053006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.919",
+      "lon": "99.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sopo Sorik",
+      "en": "Sopo Sorik",
+      "slug": "sopo-sorik-1202053017"
+    },
+    "code": {
+      "id": "1202053017",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.91",
+      "lon": "99.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suka Ramai",
+      "en": "Suka Ramai",
+      "slug": "suka-ramai-1202053011"
+    },
+    "code": {
+      "id": "1202053011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.938",
+      "lon": "99.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Mompang",
+      "en": "Tanjung Mompang",
+      "slug": "tanjung-mompang-1202053018"
+    },
+    "code": {
+      "id": "1202053018",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.933",
+      "lon": "99.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202053019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tor Banua Raja",
+      "en": "Tor Banua Raja",
+      "slug": "tor-banua-raja-1202053019"
+    },
+    "code": {
+      "id": "1202053019",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202053",
+      "level": 3,
+      "name": {
+        "local": "Panyabungan Utara",
+        "en": "Panyabungan Utara",
+        "slug": "panyabungan-utara-1202053"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202053",
+        "level": 3,
+        "name": {
+          "local": "Panyabungan Utara",
+          "en": "Panyabungan Utara",
+          "slug": "panyabungan-utara-1202053"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22954"
+    ],
+    "geo": {
+      "lat": "0.918",
+      "lon": "99.519"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

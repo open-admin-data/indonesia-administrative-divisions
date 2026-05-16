@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1306071003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Padang Alai",
+      "en": "Gunung Padang Alai",
+      "slug": "gunung-padang-alai-1306071003"
+    },
+    "code": {
+      "id": "1306071003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306071",
+      "level": 3,
+      "name": {
+        "local": "V Koto Timur",
+        "en": "V Koto Timur",
+        "slug": "v-koto-timur-1306071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306071",
+        "level": 3,
+        "name": {
+          "local": "V Koto Timur",
+          "en": "V Koto Timur",
+          "slug": "v-koto-timur-1306071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25575"
+    ],
+    "geo": {
+      "lat": "-0.471",
+      "lon": "100.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306071002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kudu Gantiang",
+      "en": "Kudu Gantiang",
+      "slug": "kudu-gantiang-1306071002"
+    },
+    "code": {
+      "id": "1306071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306071",
+      "level": 3,
+      "name": {
+        "local": "V Koto Timur",
+        "en": "V Koto Timur",
+        "slug": "v-koto-timur-1306071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306071",
+        "level": 3,
+        "name": {
+          "local": "V Koto Timur",
+          "en": "V Koto Timur",
+          "slug": "v-koto-timur-1306071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25575"
+    ],
+    "geo": {
+      "lat": "-0.513",
+      "lon": "100.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306071004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kudu Gantiang Barat",
+      "en": "Kudu Gantiang Barat",
+      "slug": "kudu-gantiang-barat-1306071004"
+    },
+    "code": {
+      "id": "1306071004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306071",
+      "level": 3,
+      "name": {
+        "local": "V Koto Timur",
+        "en": "V Koto Timur",
+        "slug": "v-koto-timur-1306071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306071",
+        "level": 3,
+        "name": {
+          "local": "V Koto Timur",
+          "en": "V Koto Timur",
+          "slug": "v-koto-timur-1306071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25575"
+    ],
+    "geo": {
+      "lat": "-0.517",
+      "lon": "100.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306071001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Limau Puruik",
+      "en": "Limau Puruik",
+      "slug": "limau-puruik-1306071001"
+    },
+    "code": {
+      "id": "1306071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306071",
+      "level": 3,
+      "name": {
+        "local": "V Koto Timur",
+        "en": "V Koto Timur",
+        "slug": "v-koto-timur-1306071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306071",
+        "level": 3,
+        "name": {
+          "local": "V Koto Timur",
+          "en": "V Koto Timur",
+          "slug": "v-koto-timur-1306071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25575"
+    ],
+    "geo": {
+      "lat": "-0.55",
+      "lon": "100.142"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

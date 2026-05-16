@@ -1,0 +1,56 @@
+{
+  "id": "6302150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Durian",
+    "en": "Sungai Durian",
+    "slug": "sungai-durian-6302150"
+  },
+  "code": {
+    "id": "6302150",
+    "iso": null
+  },
+  "parent": {
+    "id": "6302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kota Baru",
+      "en": "Kota Baru",
+      "slug": "kota-baru-6302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kota Baru",
+        "en": "Kota Baru",
+        "slug": "kota-baru-6302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.56",
+    "lon": "116.03"
+  },
+  "metadata": {},
+  "source": {}
+}

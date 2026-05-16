@@ -1,0 +1,56 @@
+{
+  "id": "1812010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tulang Bawang Udik",
+    "en": "Tulang Bawang Udik",
+    "slug": "tulang-bawang-udik-1812010"
+  },
+  "code": {
+    "id": "1812010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1812",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulang Bawang Barat",
+      "en": "Tulang Bawang Barat",
+      "slug": "tulang-bawang-barat-1812"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1812",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulang Bawang Barat",
+        "en": "Tulang Bawang Barat",
+        "slug": "tulang-bawang-barat-1812"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.555",
+    "lon": "105.02"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7311040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salomekko",
+    "en": "Salomekko",
+    "slug": "salomekko-7311040"
+  },
+  "code": {
+    "id": "7311040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bone",
+      "en": "Bone",
+      "slug": "bone-7311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bone",
+        "en": "Bone",
+        "slug": "bone-7311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.998",
+    "lon": "120.228"
+  },
+  "metadata": {},
+  "source": {}
+}

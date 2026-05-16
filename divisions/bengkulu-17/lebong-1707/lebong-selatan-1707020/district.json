@@ -1,0 +1,56 @@
+{
+  "id": "1707020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lebong Selatan",
+    "en": "Lebong Selatan",
+    "slug": "lebong-selatan-1707020"
+  },
+  "code": {
+    "id": "1707020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1707",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lebong",
+      "en": "Lebong",
+      "slug": "lebong-1707"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.277",
+    "lon": "102.338"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1174021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Satu",
+    "en": "Muara Satu",
+    "slug": "muara-satu-1174021"
+  },
+  "code": {
+    "id": "1174021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1174",
+    "level": 2,
+    "name": {
+      "local": "Kota Lhokseumawe",
+      "en": "Lhokseumawe",
+      "slug": "lhokseumawe-1174"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1174",
+      "level": 2,
+      "name": {
+        "local": "Kota Lhokseumawe",
+        "en": "Lhokseumawe",
+        "slug": "lhokseumawe-1174"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.199",
+    "lon": "97.072"
+  },
+  "metadata": {},
+  "source": {}
+}

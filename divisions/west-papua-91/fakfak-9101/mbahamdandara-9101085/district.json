@@ -1,0 +1,56 @@
+{
+  "id": "9101085",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mbahamdandara",
+    "en": "Mbahamdandara",
+    "slug": "mbahamdandara-9101085"
+  },
+  "code": {
+    "id": "9101085",
+    "iso": null
+  },
+  "parent": {
+    "id": "9101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Fakfak",
+      "en": "Fakfak",
+      "slug": "fakfak-9101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.996",
+    "lon": "132.796"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "3318",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pati",
+    "en": "Pati",
+    "slug": "pati-3318"
+  },
+  "code": {
+    "id": "3318",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 388
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.752",
+    "lon": "111.04"
+  },
+  "metadata": {},
+  "source": {}
+}

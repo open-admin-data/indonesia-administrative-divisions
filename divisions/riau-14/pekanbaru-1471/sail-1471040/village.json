@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1471040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cinta Raja",
+      "en": "Cinta Raja",
+      "slug": "cinta-raja-1471040001"
+    },
+    "code": {
+      "id": "1471040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471040",
+      "level": 3,
+      "name": {
+        "local": "Sail",
+        "en": "Sail",
+        "slug": "sail-1471040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      },
+      {
+        "id": "1471040",
+        "level": 3,
+        "name": {
+          "local": "Sail",
+          "en": "Sail",
+          "slug": "sail-1471040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28131"
+    ],
+    "geo": {
+      "lat": "0.51",
+      "lon": "101.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suka Maju",
+      "en": "Suka Maju",
+      "slug": "suka-maju-1471040002"
+    },
+    "code": {
+      "id": "1471040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471040",
+      "level": 3,
+      "name": {
+        "local": "Sail",
+        "en": "Sail",
+        "slug": "sail-1471040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      },
+      {
+        "id": "1471040",
+        "level": 3,
+        "name": {
+          "local": "Sail",
+          "en": "Sail",
+          "slug": "sail-1471040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28131"
+    ],
+    "geo": {
+      "lat": "0.514",
+      "lon": "101.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suka Mulia",
+      "en": "Suka Mulia",
+      "slug": "suka-mulia-1471040003"
+    },
+    "code": {
+      "id": "1471040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471040",
+      "level": 3,
+      "name": {
+        "local": "Sail",
+        "en": "Sail",
+        "slug": "sail-1471040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      },
+      {
+        "id": "1471040",
+        "level": 3,
+        "name": {
+          "local": "Sail",
+          "en": "Sail",
+          "slug": "sail-1471040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28131"
+    ],
+    "geo": {
+      "lat": "0.522",
+      "lon": "101.459"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

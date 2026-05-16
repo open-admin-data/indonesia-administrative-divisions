@@ -1,0 +1,48 @@
+{
+  "id": "1605",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Musi Rawas",
+    "en": "Musi Rawas",
+    "slug": "musi-rawas-1605"
+  },
+  "code": {
+    "id": "1605",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Selatan",
+      "en": "South Sumatra",
+      "slug": "south-sumatra-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 199
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.244",
+    "lon": "103.012"
+  },
+  "metadata": {},
+  "source": {}
+}

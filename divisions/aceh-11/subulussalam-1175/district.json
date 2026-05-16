@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1175050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Longkib",
+      "en": "Longkib",
+      "slug": "longkib-1175050"
+    },
+    "code": {
+      "id": "1175050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1175",
+      "level": 2,
+      "name": {
+        "local": "Kota Subulussalam",
+        "en": "Subulussalam",
+        "slug": "subulussalam-1175"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1175",
+        "level": 2,
+        "name": {
+          "local": "Kota Subulussalam",
+          "en": "Subulussalam",
+          "slug": "subulussalam-1175"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.578",
+      "lon": "97.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1175020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penanggalan",
+      "en": "Penanggalan",
+      "slug": "penanggalan-1175020"
+    },
+    "code": {
+      "id": "1175020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1175",
+      "level": 2,
+      "name": {
+        "local": "Kota Subulussalam",
+        "en": "Subulussalam",
+        "slug": "subulussalam-1175"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1175",
+        "level": 2,
+        "name": {
+          "local": "Kota Subulussalam",
+          "en": "Subulussalam",
+          "slug": "subulussalam-1175"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.644",
+      "lon": "98.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1175030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rundeng",
+      "en": "Rundeng",
+      "slug": "rundeng-1175030"
+    },
+    "code": {
+      "id": "1175030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1175",
+      "level": 2,
+      "name": {
+        "local": "Kota Subulussalam",
+        "en": "Subulussalam",
+        "slug": "subulussalam-1175"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1175",
+        "level": 2,
+        "name": {
+          "local": "Kota Subulussalam",
+          "en": "Subulussalam",
+          "slug": "subulussalam-1175"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.702",
+      "lon": "97.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1175010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simpang Kiri",
+      "en": "Simpang Kiri",
+      "slug": "simpang-kiri-1175010"
+    },
+    "code": {
+      "id": "1175010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1175",
+      "level": 2,
+      "name": {
+        "local": "Kota Subulussalam",
+        "en": "Subulussalam",
+        "slug": "subulussalam-1175"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1175",
+        "level": 2,
+        "name": {
+          "local": "Kota Subulussalam",
+          "en": "Subulussalam",
+          "slug": "subulussalam-1175"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.717",
+      "lon": "98.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1175040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sultan Daulat",
+      "en": "Sultan Daulat",
+      "slug": "sultan-daulat-1175040"
+    },
+    "code": {
+      "id": "1175040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1175",
+      "level": 2,
+      "name": {
+        "local": "Kota Subulussalam",
+        "en": "Subulussalam",
+        "slug": "subulussalam-1175"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1175",
+        "level": 2,
+        "name": {
+          "local": "Kota Subulussalam",
+          "en": "Subulussalam",
+          "slug": "subulussalam-1175"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.851",
+      "lon": "97.937"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

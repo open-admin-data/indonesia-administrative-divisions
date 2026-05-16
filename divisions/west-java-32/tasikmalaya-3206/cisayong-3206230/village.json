@@ -1,0 +1,847 @@
+[
+  {
+    "id": "3206230009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cikadu",
+      "en": "Cikadu",
+      "slug": "cikadu-3206230009"
+    },
+    "code": {
+      "id": "3206230009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.253",
+      "lon": "108.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cileuleus",
+      "en": "Cileuleus",
+      "slug": "cileuleus-3206230011"
+    },
+    "code": {
+      "id": "3206230011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.235",
+      "lon": "108.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cisayong",
+      "en": "Cisayong",
+      "slug": "cisayong-3206230002"
+    },
+    "code": {
+      "id": "3206230002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.26",
+      "lon": "108.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jatihurip",
+      "en": "Jatihurip",
+      "slug": "jatihurip-3206230005"
+    },
+    "code": {
+      "id": "3206230005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.267",
+      "lon": "108.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mekarwangi",
+      "en": "Mekarwangi",
+      "slug": "mekarwangi-3206230007"
+    },
+    "code": {
+      "id": "3206230007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.252",
+      "lon": "108.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nusawangi",
+      "en": "Nusawangi",
+      "slug": "nusawangi-3206230008"
+    },
+    "code": {
+      "id": "3206230008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.245",
+      "lon": "108.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Purwasari",
+      "en": "Purwasari",
+      "slug": "purwasari-3206230010"
+    },
+    "code": {
+      "id": "3206230010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.241",
+      "lon": "108.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Santanamekar",
+      "en": "Santanamekar",
+      "slug": "santanamekar-3206230001"
+    },
+    "code": {
+      "id": "3206230001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.246",
+      "lon": "108.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukajadi",
+      "en": "Sukajadi",
+      "slug": "sukajadi-3206230003"
+    },
+    "code": {
+      "id": "3206230003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.258",
+      "lon": "108.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukamukti",
+      "en": "Sukamukti",
+      "slug": "sukamukti-3206230014"
+    },
+    "code": {
+      "id": "3206230014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.233",
+      "lon": "108.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukaraharja",
+      "en": "Sukaraharja",
+      "slug": "sukaraharja-3206230006"
+    },
+    "code": {
+      "id": "3206230006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.259",
+      "lon": "108.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukasetia",
+      "en": "Sukasetia",
+      "slug": "sukasetia-3206230013"
+    },
+    "code": {
+      "id": "3206230013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.231",
+      "lon": "108.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206230004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukasukur",
+      "en": "Sukasukur",
+      "slug": "sukasukur-3206230004"
+    },
+    "code": {
+      "id": "3206230004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206230",
+      "level": 3,
+      "name": {
+        "local": "Cisayong",
+        "en": "Cisayong",
+        "slug": "cisayong-3206230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206230",
+        "level": 3,
+        "name": {
+          "local": "Cisayong",
+          "en": "Cisayong",
+          "slug": "cisayong-3206230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46453"
+    ],
+    "geo": {
+      "lat": "-7.271",
+      "lon": "108.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

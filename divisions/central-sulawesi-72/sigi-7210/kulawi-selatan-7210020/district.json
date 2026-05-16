@@ -1,0 +1,56 @@
+{
+  "id": "7210020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kulawi Selatan",
+    "en": "Kulawi Selatan",
+    "slug": "kulawi-selatan-7210020"
+  },
+  "code": {
+    "id": "7210020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sigi",
+      "en": "Sigi",
+      "slug": "sigi-7210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.685",
+    "lon": "120.051"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5321040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rinhat",
+    "en": "Rinhat",
+    "slug": "rinhat-5321040"
+  },
+  "code": {
+    "id": "5321040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5321",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malaka",
+      "en": "Malaka",
+      "slug": "malaka-5321"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malaka",
+        "en": "Malaka",
+        "slug": "malaka-5321"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.599",
+    "lon": "124.74"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9106082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salkma",
+    "en": "Salkma",
+    "slug": "salkma-9106082"
+  },
+  "code": {
+    "id": "9106082",
+    "iso": null
+  },
+  "parent": {
+    "id": "9106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sorong Selatan",
+      "en": "Sorong Selatan",
+      "slug": "sorong-selatan-9106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sorong Selatan",
+        "en": "Sorong Selatan",
+        "slug": "sorong-selatan-9106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.139",
+    "lon": "131.911"
+  },
+  "metadata": {},
+  "source": {}
+}

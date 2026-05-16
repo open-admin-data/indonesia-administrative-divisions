@@ -1,0 +1,56 @@
+{
+  "id": "3503071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suruh",
+    "en": "Suruh",
+    "slug": "suruh-3503071"
+  },
+  "code": {
+    "id": "3503071",
+    "iso": null
+  },
+  "parent": {
+    "id": "3503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Trenggalek",
+      "en": "Trenggalek",
+      "slug": "trenggalek-3503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.111",
+    "lon": "111.624"
+  },
+  "metadata": {},
+  "source": {}
+}

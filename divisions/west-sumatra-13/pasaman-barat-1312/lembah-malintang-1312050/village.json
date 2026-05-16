@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1312050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ujuang Gadiang",
+      "en": "Ujuang Gadiang",
+      "slug": "ujuang-gadiang-1312050001"
+    },
+    "code": {
+      "id": "1312050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312050",
+      "level": 3,
+      "name": {
+        "local": "Lembah Malintang",
+        "en": "Lembah Malintang",
+        "slug": "lembah-malintang-1312050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312050",
+        "level": 3,
+        "name": {
+          "local": "Lembah Malintang",
+          "en": "Lembah Malintang",
+          "slug": "lembah-malintang-1312050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26570"
+    ],
+    "geo": {
+      "lat": "0.36",
+      "lon": "99.578"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

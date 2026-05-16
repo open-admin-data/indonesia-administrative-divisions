@@ -1,0 +1,56 @@
+{
+  "id": "7606010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pangale",
+    "en": "Pangale",
+    "slug": "pangale-7606010"
+  },
+  "code": {
+    "id": "7606010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju Tengah",
+      "en": "Mamuju Tengah",
+      "slug": "mamuju-tengah-7606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju Tengah",
+        "en": "Mamuju Tengah",
+        "slug": "mamuju-tengah-7606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.252",
+    "lon": "119.196"
+  },
+  "metadata": {},
+  "source": {}
+}

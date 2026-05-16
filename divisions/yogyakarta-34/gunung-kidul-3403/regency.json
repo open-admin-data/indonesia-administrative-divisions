@@ -1,0 +1,48 @@
+{
+  "id": "3403",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gunung Kidul",
+    "en": "Gunung Kidul",
+    "slug": "gunung-kidul-3403"
+  },
+  "code": {
+    "id": "3403",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "Di Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 130
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.964",
+    "lon": "110.602"
+  },
+  "metadata": {},
+  "source": {}
+}

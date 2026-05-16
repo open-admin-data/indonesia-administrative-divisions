@@ -1,0 +1,56 @@
+{
+  "id": "1111100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Baktiya",
+    "en": "Baktiya",
+    "slug": "baktiya-1111100"
+  },
+  "code": {
+    "id": "1111100",
+    "iso": null
+  },
+  "parent": {
+    "id": "1111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Utara",
+      "en": "Aceh Utara",
+      "slug": "aceh-utara-1111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Utara",
+        "en": "Aceh Utara",
+        "slug": "aceh-utara-1111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 57
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.062",
+    "lon": "97.408"
+  },
+  "metadata": {},
+  "source": {}
+}

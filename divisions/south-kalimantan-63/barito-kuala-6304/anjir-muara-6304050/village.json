@@ -1,0 +1,977 @@
+[
+  {
+    "id": "6304050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Muara Kota",
+      "en": "Anjir Muara Kota",
+      "slug": "anjir-muara-kota-6304050008"
+    },
+    "code": {
+      "id": "6304050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.191",
+      "lon": "114.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Muara Kota Tengah",
+      "en": "Anjir Muara Kota Tengah",
+      "slug": "anjir-muara-kota-tengah-6304050010"
+    },
+    "code": {
+      "id": "6304050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.182",
+      "lon": "114.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Muara Lama",
+      "en": "Anjir Muara Lama",
+      "slug": "anjir-muara-lama-6304050012"
+    },
+    "code": {
+      "id": "6304050012",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.16",
+      "lon": "114.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Serapat Baru",
+      "en": "Anjir Serapat Baru",
+      "slug": "anjir-serapat-baru-6304050002"
+    },
+    "code": {
+      "id": "6304050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.197",
+      "lon": "114.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Serapat Baru I",
+      "en": "Anjir Serapat Baru I",
+      "slug": "anjir-serapat-baru-i-6304050001"
+    },
+    "code": {
+      "id": "6304050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.188",
+      "lon": "114.492"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Serapat Lama",
+      "en": "Anjir Serapat Lama",
+      "slug": "anjir-serapat-lama-6304050004"
+    },
+    "code": {
+      "id": "6304050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "114.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Serapat Muara",
+      "en": "Anjir Serapat Muara",
+      "slug": "anjir-serapat-muara-6304050005"
+    },
+    "code": {
+      "id": "6304050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.216",
+      "lon": "114.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjir Serapat Muara I",
+      "en": "Anjir Serapat Muara I",
+      "slug": "anjir-serapat-muara-i-6304050006"
+    },
+    "code": {
+      "id": "6304050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.227",
+      "lon": "114.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Beringin Jaya",
+      "en": "Beringin Jaya",
+      "slug": "beringin-jaya-6304050011"
+    },
+    "code": {
+      "id": "6304050011",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.169",
+      "lon": "114.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marabahan Baru",
+      "en": "Marabahan Baru",
+      "slug": "marabahan-baru-6304050007"
+    },
+    "code": {
+      "id": "6304050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.214",
+      "lon": "114.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Patih Muhur",
+      "en": "Patih Muhur",
+      "slug": "patih-muhur-6304050009"
+    },
+    "code": {
+      "id": "6304050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.168",
+      "lon": "114.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Patih Muhur Baru",
+      "en": "Patih Muhur Baru",
+      "slug": "patih-muhur-baru-6304050014"
+    },
+    "code": {
+      "id": "6304050014",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.154",
+      "lon": "114.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sepakat Bersama",
+      "en": "Sepakat Bersama",
+      "slug": "sepakat-bersama-6304050003"
+    },
+    "code": {
+      "id": "6304050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.197",
+      "lon": "114.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Punggu",
+      "en": "Sungai Punggu",
+      "slug": "sungai-punggu-6304050015"
+    },
+    "code": {
+      "id": "6304050015",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.14",
+      "lon": "114.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304050013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Punggu Baru",
+      "en": "Sungai Punggu Baru",
+      "slug": "sungai-punggu-baru-6304050013"
+    },
+    "code": {
+      "id": "6304050013",
+      "iso": null
+    },
+    "parent": {
+      "id": "6304050",
+      "level": 3,
+      "name": {
+        "local": "Anjir Muara",
+        "en": "Anjir Muara",
+        "slug": "anjir-muara-6304050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6304",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Barito Kuala",
+          "en": "Barito Kuala",
+          "slug": "barito-kuala-6304"
+        }
+      },
+      {
+        "id": "6304050",
+        "level": 3,
+        "name": {
+          "local": "Anjir Muara",
+          "en": "Anjir Muara",
+          "slug": "anjir-muara-6304050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70564"
+    ],
+    "geo": {
+      "lat": "-3.143",
+      "lon": "114.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

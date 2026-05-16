@@ -1,0 +1,56 @@
+{
+  "id": "7309031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Liukang Tupabbiring Utara",
+    "en": "Liukang Tupabbiring Utara",
+    "slug": "liukang-tupabbiring-utara-7309031"
+  },
+  "code": {
+    "id": "7309031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pangkajene Dan Kepulauan",
+      "en": "Pangkajene Dan Kepulauan",
+      "slug": "pangkajene-dan-kepulauan-7309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangkajene Dan Kepulauan",
+        "en": "Pangkajene Dan Kepulauan",
+        "slug": "pangkajene-dan-kepulauan-7309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.708",
+    "lon": "119.363"
+  },
+  "metadata": {},
+  "source": {}
+}

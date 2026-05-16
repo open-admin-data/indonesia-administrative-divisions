@@ -1,0 +1,56 @@
+{
+  "id": "3516050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngoro",
+    "en": "Ngoro",
+    "slug": "ngoro-3516050"
+  },
+  "code": {
+    "id": "3516050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3516",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mojokerto",
+      "en": "Mojokerto",
+      "slug": "mojokerto-3516"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3516",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mojokerto",
+        "en": "Mojokerto",
+        "slug": "mojokerto-3516"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.559",
+    "lon": "112.62"
+  },
+  "metadata": {},
+  "source": {}
+}

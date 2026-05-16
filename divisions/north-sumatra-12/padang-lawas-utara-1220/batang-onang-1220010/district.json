@@ -1,0 +1,56 @@
+{
+  "id": "1220010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batang Onang",
+    "en": "Batang Onang",
+    "slug": "batang-onang-1220010"
+  },
+  "code": {
+    "id": "1220010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1220",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Padang Lawas Utara",
+      "en": "Padang Lawas Utara",
+      "slug": "padang-lawas-utara-1220"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1220",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Padang Lawas Utara",
+        "en": "Padang Lawas Utara",
+        "slug": "padang-lawas-utara-1220"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.332",
+    "lon": "99.487"
+  },
+  "metadata": {},
+  "source": {}
+}

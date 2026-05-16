@@ -1,0 +1,48 @@
+{
+  "id": "5102",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tabanan",
+    "en": "Tabanan",
+    "slug": "tabanan-5102"
+  },
+  "code": {
+    "id": "5102",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 117
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.539",
+    "lon": "115.131"
+  },
+  "metadata": {},
+  "source": {}
+}

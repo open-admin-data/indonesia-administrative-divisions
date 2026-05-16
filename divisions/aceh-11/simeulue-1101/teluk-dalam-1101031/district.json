@@ -1,0 +1,56 @@
+{
+  "id": "1101031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Dalam",
+    "en": "Teluk Dalam",
+    "slug": "teluk-dalam-1101031"
+  },
+  "code": {
+    "id": "1101031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Simeulue",
+      "en": "Simeulue",
+      "slug": "simeulue-1101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.648",
+    "lon": "96.153"
+  },
+  "metadata": {},
+  "source": {}
+}

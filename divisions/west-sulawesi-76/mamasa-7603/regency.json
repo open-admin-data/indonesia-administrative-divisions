@@ -1,0 +1,48 @@
+{
+  "id": "7603",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mamasa",
+    "en": "Mamasa",
+    "slug": "mamasa-7603"
+  },
+  "code": {
+    "id": "7603",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Barat",
+      "en": "West Sulawesi",
+      "slug": "west-sulawesi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 180
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.956",
+    "lon": "119.363"
+  },
+  "metadata": {},
+  "source": {}
+}

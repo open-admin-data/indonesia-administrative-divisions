@@ -1,0 +1,48 @@
+{
+  "id": "6306",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Hulu Sungai Selatan",
+    "en": "Hulu Sungai Selatan",
+    "slug": "hulu-sungai-selatan-6306"
+  },
+  "code": {
+    "id": "6306",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Selatan",
+      "en": "South Kalimantan",
+      "slug": "south-kalimantan-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 148
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.787",
+    "lon": "115.266"
+  },
+  "metadata": {},
+  "source": {}
+}

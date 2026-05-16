@@ -1,0 +1,56 @@
+{
+  "id": "5302040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pahunga Lodu",
+    "en": "Pahunga Lodu",
+    "slug": "pahunga-lodu-5302040"
+  },
+  "code": {
+    "id": "5302040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Timur",
+      "en": "Sumba Timur",
+      "slug": "sumba-timur-5302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Timur",
+        "en": "Sumba Timur",
+        "slug": "sumba-timur-5302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.136",
+    "lon": "120.687"
+  },
+  "metadata": {},
+  "source": {}
+}

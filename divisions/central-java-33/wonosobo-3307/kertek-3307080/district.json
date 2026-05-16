@@ -1,0 +1,56 @@
+{
+  "id": "3307080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kertek",
+    "en": "Kertek",
+    "slug": "kertek-3307080"
+  },
+  "code": {
+    "id": "3307080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wonosobo",
+      "en": "Wonosobo",
+      "slug": "wonosobo-3307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wonosobo",
+        "en": "Wonosobo",
+        "slug": "wonosobo-3307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.355",
+    "lon": "109.976"
+  },
+  "metadata": {},
+  "source": {}
+}

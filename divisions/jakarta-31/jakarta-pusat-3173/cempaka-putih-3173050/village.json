@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3173050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cempaka Putih Barat",
+      "en": "Cempaka Putih Barat",
+      "slug": "cempaka-putih-barat-3173050003"
+    },
+    "code": {
+      "id": "3173050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173050",
+      "level": 3,
+      "name": {
+        "local": "Cempaka Putih",
+        "en": "Cempaka Putih",
+        "slug": "cempaka-putih-3173050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      },
+      {
+        "id": "3173050",
+        "level": 3,
+        "name": {
+          "local": "Cempaka Putih",
+          "en": "Cempaka Putih",
+          "slug": "cempaka-putih-3173050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10510"
+    ],
+    "geo": {
+      "lat": "-6.182",
+      "lon": "106.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cempaka Putih Timur",
+      "en": "Cempaka Putih Timur",
+      "slug": "cempaka-putih-timur-3173050002"
+    },
+    "code": {
+      "id": "3173050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173050",
+      "level": 3,
+      "name": {
+        "local": "Cempaka Putih",
+        "en": "Cempaka Putih",
+        "slug": "cempaka-putih-3173050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      },
+      {
+        "id": "3173050",
+        "level": 3,
+        "name": {
+          "local": "Cempaka Putih",
+          "en": "Cempaka Putih",
+          "slug": "cempaka-putih-3173050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10510"
+    ],
+    "geo": {
+      "lat": "-6.176",
+      "lon": "106.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rawa Sari",
+      "en": "Rawa Sari",
+      "slug": "rawa-sari-3173050001"
+    },
+    "code": {
+      "id": "3173050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173050",
+      "level": 3,
+      "name": {
+        "local": "Cempaka Putih",
+        "en": "Cempaka Putih",
+        "slug": "cempaka-putih-3173050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      },
+      {
+        "id": "3173050",
+        "level": 3,
+        "name": {
+          "local": "Cempaka Putih",
+          "en": "Cempaka Putih",
+          "slug": "cempaka-putih-3173050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10510"
+    ],
+    "geo": {
+      "lat": "-6.189",
+      "lon": "106.867"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

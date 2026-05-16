@@ -1,0 +1,56 @@
+{
+  "id": "1806033",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Abung Pekurun",
+    "en": "Abung Pekurun",
+    "slug": "abung-pekurun-1806033"
+  },
+  "code": {
+    "id": "1806033",
+    "iso": null
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Utara",
+      "en": "Lampung Utara",
+      "slug": "lampung-utara-1806"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Utara",
+        "en": "Lampung Utara",
+        "slug": "lampung-utara-1806"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.998",
+    "lon": "104.73"
+  },
+  "metadata": {},
+  "source": {}
+}

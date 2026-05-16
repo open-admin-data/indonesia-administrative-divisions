@@ -1,0 +1,56 @@
+{
+  "id": "1703072",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Giri Mulya",
+    "en": "Giri Mulya",
+    "slug": "giri-mulya-1703072"
+  },
+  "code": {
+    "id": "1703072",
+    "iso": null
+  },
+  "parent": {
+    "id": "1703",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Utara",
+      "en": "Bengkulu Utara",
+      "slug": "bengkulu-utara-1703"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Utara",
+        "en": "Bengkulu Utara",
+        "slug": "bengkulu-utara-1703"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.206",
+    "lon": "102.081"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "6271012003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Tunggal",
+      "en": "Bukit Tunggal",
+      "slug": "bukit-tunggal-6271012003"
+    },
+    "code": {
+      "id": "6271012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6271012",
+      "level": 3,
+      "name": {
+        "local": "Jekan Raya",
+        "en": "Jekan Raya",
+        "slug": "jekan-raya-6271012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6271",
+        "level": 2,
+        "name": {
+          "local": "Kota Palangka Raya",
+          "en": "Palangka Raya",
+          "slug": "palangka-raya-6271"
+        }
+      },
+      {
+        "id": "6271012",
+        "level": 3,
+        "name": {
+          "local": "Jekan Raya",
+          "en": "Jekan Raya",
+          "slug": "jekan-raya-6271012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73112"
+    ],
+    "geo": {
+      "lat": "-2.197",
+      "lon": "113.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6271012002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Palangka",
+      "en": "Palangka",
+      "slug": "palangka-6271012002"
+    },
+    "code": {
+      "id": "6271012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6271012",
+      "level": 3,
+      "name": {
+        "local": "Jekan Raya",
+        "en": "Jekan Raya",
+        "slug": "jekan-raya-6271012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6271",
+        "level": 2,
+        "name": {
+          "local": "Kota Palangka Raya",
+          "en": "Palangka Raya",
+          "slug": "palangka-raya-6271"
+        }
+      },
+      {
+        "id": "6271012",
+        "level": 3,
+        "name": {
+          "local": "Jekan Raya",
+          "en": "Jekan Raya",
+          "slug": "jekan-raya-6271012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73112"
+    ],
+    "geo": {
+      "lat": "-2.199",
+      "lon": "113.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6271012004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Petuk Katimpun",
+      "en": "Petuk Katimpun",
+      "slug": "petuk-katimpun-6271012004"
+    },
+    "code": {
+      "id": "6271012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6271012",
+      "level": 3,
+      "name": {
+        "local": "Jekan Raya",
+        "en": "Jekan Raya",
+        "slug": "jekan-raya-6271012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6271",
+        "level": 2,
+        "name": {
+          "local": "Kota Palangka Raya",
+          "en": "Palangka Raya",
+          "slug": "palangka-raya-6271"
+        }
+      },
+      {
+        "id": "6271012",
+        "level": 3,
+        "name": {
+          "local": "Jekan Raya",
+          "en": "Jekan Raya",
+          "slug": "jekan-raya-6271012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73112"
+    ],
+    "geo": {
+      "lat": "-2.133",
+      "lon": "113.87"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

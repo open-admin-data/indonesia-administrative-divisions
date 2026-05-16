@@ -1,0 +1,56 @@
+{
+  "id": "5311060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maurole",
+    "en": "Maurole",
+    "slug": "maurole-5311060"
+  },
+  "code": {
+    "id": "5311060",
+    "iso": null
+  },
+  "parent": {
+    "id": "5311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ende",
+      "en": "Ende",
+      "slug": "ende-5311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ende",
+        "en": "Ende",
+        "slug": "ende-5311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.531",
+    "lon": "121.793"
+  },
+  "metadata": {},
+  "source": {}
+}

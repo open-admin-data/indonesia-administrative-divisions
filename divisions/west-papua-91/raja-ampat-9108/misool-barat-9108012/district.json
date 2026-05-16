@@ -1,0 +1,56 @@
+{
+  "id": "9108012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Misool Barat",
+    "en": "Misool Barat",
+    "slug": "misool-barat-9108012"
+  },
+  "code": {
+    "id": "9108012",
+    "iso": null
+  },
+  "parent": {
+    "id": "9108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Raja Ampat",
+      "en": "Raja Ampat",
+      "slug": "raja-ampat-9108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Raja Ampat",
+        "en": "Raja Ampat",
+        "slug": "raja-ampat-9108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.952",
+    "lon": "130.118"
+  },
+  "metadata": {},
+  "source": {}
+}

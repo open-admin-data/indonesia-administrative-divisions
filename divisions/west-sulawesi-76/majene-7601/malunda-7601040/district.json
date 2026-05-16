@@ -1,0 +1,56 @@
+{
+  "id": "7601040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malunda",
+    "en": "Malunda",
+    "slug": "malunda-7601040"
+  },
+  "code": {
+    "id": "7601040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Majene",
+      "en": "Majene",
+      "slug": "majene-7601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majene",
+        "en": "Majene",
+        "slug": "majene-7601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.981",
+    "lon": "118.972"
+  },
+  "metadata": {},
+  "source": {}
+}

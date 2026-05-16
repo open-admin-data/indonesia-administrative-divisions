@@ -1,0 +1,56 @@
+{
+  "id": "1104052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ketambe",
+    "en": "Ketambe",
+    "slug": "ketambe-1104052"
+  },
+  "code": {
+    "id": "1104052",
+    "iso": null
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tenggara",
+      "en": "Aceh Tenggara",
+      "slug": "aceh-tenggara-1104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tenggara",
+        "en": "Aceh Tenggara",
+        "slug": "aceh-tenggara-1104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.657",
+    "lon": "97.724"
+  },
+  "metadata": {},
+  "source": {}
+}

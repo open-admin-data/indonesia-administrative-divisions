@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3502060005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bedoho",
+      "en": "Bedoho",
+      "slug": "bedoho-3502060005"
+    },
+    "code": {
+      "id": "3502060005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502060",
+      "level": 3,
+      "name": {
+        "local": "Sooko",
+        "en": "Sooko",
+        "slug": "sooko-3502060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502060",
+        "level": 3,
+        "name": {
+          "local": "Sooko",
+          "en": "Sooko",
+          "slug": "sooko-3502060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63482"
+    ],
+    "geo": {
+      "lat": "-7.92",
+      "lon": "111.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3502060001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ngadirojo",
+      "en": "Ngadirojo",
+      "slug": "ngadirojo-3502060001"
+    },
+    "code": {
+      "id": "3502060001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502060",
+      "level": 3,
+      "name": {
+        "local": "Sooko",
+        "en": "Sooko",
+        "slug": "sooko-3502060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502060",
+        "level": 3,
+        "name": {
+          "local": "Sooko",
+          "en": "Sooko",
+          "slug": "sooko-3502060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63482"
+    ],
+    "geo": {
+      "lat": "-7.94",
+      "lon": "111.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3502060004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sooko",
+      "en": "Sooko",
+      "slug": "sooko-3502060004"
+    },
+    "code": {
+      "id": "3502060004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502060",
+      "level": 3,
+      "name": {
+        "local": "Sooko",
+        "en": "Sooko",
+        "slug": "sooko-3502060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502060",
+        "level": 3,
+        "name": {
+          "local": "Sooko",
+          "en": "Sooko",
+          "slug": "sooko-3502060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63482"
+    ],
+    "geo": {
+      "lat": "-7.924",
+      "lon": "111.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

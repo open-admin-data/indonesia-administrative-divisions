@@ -1,0 +1,56 @@
+{
+  "id": "6112070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Raya",
+    "en": "Sungai Raya",
+    "slug": "sungai-raya-6112070"
+  },
+  "code": {
+    "id": "6112070",
+    "iso": null
+  },
+  "parent": {
+    "id": "6112",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kubu Raya",
+      "en": "Kubu Raya",
+      "slug": "kubu-raya-6112"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.225",
+    "lon": "109.645"
+  },
+  "metadata": {},
+  "source": {}
+}

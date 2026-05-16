@@ -1,0 +1,56 @@
+{
+  "id": "9108050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waigeo Barat",
+    "en": "Waigeo Barat",
+    "slug": "waigeo-barat-9108050"
+  },
+  "code": {
+    "id": "9108050",
+    "iso": null
+  },
+  "parent": {
+    "id": "9108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Raja Ampat",
+      "en": "Raja Ampat",
+      "slug": "raja-ampat-9108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Raja Ampat",
+        "en": "Raja Ampat",
+        "slug": "raja-ampat-9108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.181",
+    "lon": "130.297"
+  },
+  "metadata": {},
+  "source": {}
+}

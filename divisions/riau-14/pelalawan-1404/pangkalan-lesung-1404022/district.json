@@ -1,0 +1,56 @@
+{
+  "id": "1404022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pangkalan Lesung",
+    "en": "Pangkalan Lesung",
+    "slug": "pangkalan-lesung-1404022"
+  },
+  "code": {
+    "id": "1404022",
+    "iso": null
+  },
+  "parent": {
+    "id": "1404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pelalawan",
+      "en": "Pelalawan",
+      "slug": "pelalawan-1404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.01",
+    "lon": "102.132"
+  },
+  "metadata": {},
+  "source": {}
+}

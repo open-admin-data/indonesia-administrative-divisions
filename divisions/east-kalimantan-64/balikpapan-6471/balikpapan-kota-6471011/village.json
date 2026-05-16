@@ -1,0 +1,327 @@
+[
+  {
+    "id": "6471011005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Damai",
+      "en": "Damai",
+      "slug": "damai-6471011005"
+    },
+    "code": {
+      "id": "6471011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471011",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Kota",
+        "en": "Balikpapan Kota",
+        "slug": "balikpapan-kota-6471011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471011",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Kota",
+          "en": "Balikpapan Kota",
+          "slug": "balikpapan-kota-6471011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76111"
+    ],
+    "geo": {
+      "lat": "-1.26",
+      "lon": "116.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Klandasan Ilir",
+      "en": "Klandasan Ilir",
+      "slug": "klandasan-ilir-6471011004"
+    },
+    "code": {
+      "id": "6471011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471011",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Kota",
+        "en": "Balikpapan Kota",
+        "slug": "balikpapan-kota-6471011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471011",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Kota",
+          "en": "Balikpapan Kota",
+          "slug": "balikpapan-kota-6471011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76111"
+    ],
+    "geo": {
+      "lat": "-1.272",
+      "lon": "116.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Klandasan Ulu",
+      "en": "Klandasan Ulu",
+      "slug": "klandasan-ulu-6471011003"
+    },
+    "code": {
+      "id": "6471011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471011",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Kota",
+        "en": "Balikpapan Kota",
+        "slug": "balikpapan-kota-6471011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471011",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Kota",
+          "en": "Balikpapan Kota",
+          "slug": "balikpapan-kota-6471011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76111"
+    ],
+    "geo": {
+      "lat": "-1.276",
+      "lon": "116.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Prapatan",
+      "en": "Prapatan",
+      "slug": "prapatan-6471011001"
+    },
+    "code": {
+      "id": "6471011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471011",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Kota",
+        "en": "Balikpapan Kota",
+        "slug": "balikpapan-kota-6471011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471011",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Kota",
+          "en": "Balikpapan Kota",
+          "slug": "balikpapan-kota-6471011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76111"
+    ],
+    "geo": {
+      "lat": "-1.269",
+      "lon": "116.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Telaga Sari",
+      "en": "Telaga Sari",
+      "slug": "telaga-sari-6471011002"
+    },
+    "code": {
+      "id": "6471011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471011",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Kota",
+        "en": "Balikpapan Kota",
+        "slug": "balikpapan-kota-6471011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471011",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Kota",
+          "en": "Balikpapan Kota",
+          "slug": "balikpapan-kota-6471011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76111"
+    ],
+    "geo": {
+      "lat": "-1.269",
+      "lon": "116.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

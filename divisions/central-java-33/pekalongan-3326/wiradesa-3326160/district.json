@@ -1,0 +1,56 @@
+{
+  "id": "3326160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wiradesa",
+    "en": "Wiradesa",
+    "slug": "wiradesa-3326160"
+  },
+  "code": {
+    "id": "3326160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pekalongan",
+      "en": "Pekalongan",
+      "slug": "pekalongan-3326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pekalongan",
+        "en": "Pekalongan",
+        "slug": "pekalongan-3326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.909",
+    "lon": "109.62"
+  },
+  "metadata": {},
+  "source": {}
+}

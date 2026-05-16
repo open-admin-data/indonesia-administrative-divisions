@@ -1,0 +1,56 @@
+{
+  "id": "5316011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Katikutana Selatan",
+    "en": "Katikutana Selatan",
+    "slug": "katikutana-selatan-5316011"
+  },
+  "code": {
+    "id": "5316011",
+    "iso": null
+  },
+  "parent": {
+    "id": "5316",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Tengah",
+      "en": "Sumba Tengah",
+      "slug": "sumba-tengah-5316"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Tengah",
+        "en": "Sumba Tengah",
+        "slug": "sumba-tengah-5316"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.727",
+    "lon": "119.61"
+  },
+  "metadata": {},
+  "source": {}
+}

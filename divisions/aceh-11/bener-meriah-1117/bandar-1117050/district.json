@@ -1,0 +1,56 @@
+{
+  "id": "1117050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar",
+    "en": "Bandar",
+    "slug": "bandar-1117050"
+  },
+  "code": {
+    "id": "1117050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1117",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bener Meriah",
+      "en": "Bener Meriah",
+      "slug": "bener-meriah-1117"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1117",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bener Meriah",
+        "en": "Bener Meriah",
+        "slug": "bener-meriah-1117"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 35
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.708",
+    "lon": "96.943"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6202231",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Telaga Antang",
+    "en": "Telaga Antang",
+    "slug": "telaga-antang-6202231"
+  },
+  "code": {
+    "id": "6202231",
+    "iso": null
+  },
+  "parent": {
+    "id": "6202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kotawaringin Timur",
+      "en": "Kotawaringin Timur",
+      "slug": "kotawaringin-timur-6202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Timur",
+        "en": "Kotawaringin Timur",
+        "slug": "kotawaringin-timur-6202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.566",
+    "lon": "112.432"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1209021004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Haranggaol",
+      "en": "Haranggaol",
+      "slug": "haranggaol-1209021004"
+    },
+    "code": {
+      "id": "1209021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209021",
+      "level": 3,
+      "name": {
+        "local": "Haranggaol Horison",
+        "en": "Haranggaol Horison",
+        "slug": "haranggaol-horison-1209021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simalungun",
+          "en": "Simalungun",
+          "slug": "simalungun-1209"
+        }
+      },
+      {
+        "id": "1209021",
+        "level": 3,
+        "name": {
+          "local": "Haranggaol Horison",
+          "en": "Haranggaol Horison",
+          "slug": "haranggaol-horison-1209021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21166"
+    ],
+    "geo": {
+      "lat": "2.882",
+      "lon": "98.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1209021005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nagori Purba",
+      "en": "Nagori Purba",
+      "slug": "nagori-purba-1209021005"
+    },
+    "code": {
+      "id": "1209021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209021",
+      "level": 3,
+      "name": {
+        "local": "Haranggaol Horison",
+        "en": "Haranggaol Horison",
+        "slug": "haranggaol-horison-1209021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simalungun",
+          "en": "Simalungun",
+          "slug": "simalungun-1209"
+        }
+      },
+      {
+        "id": "1209021",
+        "level": 3,
+        "name": {
+          "local": "Haranggaol Horison",
+          "en": "Haranggaol Horison",
+          "slug": "haranggaol-horison-1209021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21166"
+    ],
+    "geo": {
+      "lat": "2.887",
+      "lon": "98.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1209021001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nagori Sihalpe",
+      "en": "Nagori Sihalpe",
+      "slug": "nagori-sihalpe-1209021001"
+    },
+    "code": {
+      "id": "1209021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209021",
+      "level": 3,
+      "name": {
+        "local": "Haranggaol Horison",
+        "en": "Haranggaol Horison",
+        "slug": "haranggaol-horison-1209021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simalungun",
+          "en": "Simalungun",
+          "slug": "simalungun-1209"
+        }
+      },
+      {
+        "id": "1209021",
+        "level": 3,
+        "name": {
+          "local": "Haranggaol Horison",
+          "en": "Haranggaol Horison",
+          "slug": "haranggaol-horison-1209021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21166"
+    ],
+    "geo": {
+      "lat": "2.877",
+      "lon": "98.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1209021002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Purba Horison",
+      "en": "Purba Horison",
+      "slug": "purba-horison-1209021002"
+    },
+    "code": {
+      "id": "1209021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209021",
+      "level": 3,
+      "name": {
+        "local": "Haranggaol Horison",
+        "en": "Haranggaol Horison",
+        "slug": "haranggaol-horison-1209021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simalungun",
+          "en": "Simalungun",
+          "slug": "simalungun-1209"
+        }
+      },
+      {
+        "id": "1209021",
+        "level": 3,
+        "name": {
+          "local": "Haranggaol Horison",
+          "en": "Haranggaol Horison",
+          "slug": "haranggaol-horison-1209021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21166"
+    ],
+    "geo": {
+      "lat": "2.852",
+      "lon": "98.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1209021003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Purba Pasir",
+      "en": "Purba Pasir",
+      "slug": "purba-pasir-1209021003"
+    },
+    "code": {
+      "id": "1209021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1209021",
+      "level": 3,
+      "name": {
+        "local": "Haranggaol Horison",
+        "en": "Haranggaol Horison",
+        "slug": "haranggaol-horison-1209021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simalungun",
+          "en": "Simalungun",
+          "slug": "simalungun-1209"
+        }
+      },
+      {
+        "id": "1209021",
+        "level": 3,
+        "name": {
+          "local": "Haranggaol Horison",
+          "en": "Haranggaol Horison",
+          "slug": "haranggaol-horison-1209021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21166"
+    ],
+    "geo": {
+      "lat": "2.828",
+      "lon": "98.747"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

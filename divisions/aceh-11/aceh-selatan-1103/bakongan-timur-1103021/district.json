@@ -1,0 +1,56 @@
+{
+  "id": "1103021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bakongan Timur",
+    "en": "Bakongan Timur",
+    "slug": "bakongan-timur-1103021"
+  },
+  "code": {
+    "id": "1103021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Selatan",
+      "en": "Aceh Selatan",
+      "slug": "aceh-selatan-1103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.911",
+    "lon": "97.556"
+  },
+  "metadata": {},
+  "source": {}
+}

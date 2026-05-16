@@ -1,0 +1,48 @@
+{
+  "id": "5321",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Malaka",
+    "en": "Malaka",
+    "slug": "malaka-5321"
+  },
+  "code": {
+    "id": "5321",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 118
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.445",
+    "lon": "124.918"
+  },
+  "metadata": {},
+  "source": {}
+}

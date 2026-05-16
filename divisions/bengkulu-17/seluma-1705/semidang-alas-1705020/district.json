@@ -1,0 +1,56 @@
+{
+  "id": "1705020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Semidang Alas",
+    "en": "Semidang Alas",
+    "slug": "semidang-alas-1705020"
+  },
+  "code": {
+    "id": "1705020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1705",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seluma",
+      "en": "Seluma",
+      "slug": "seluma-1705"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.136",
+    "lon": "102.884"
+  },
+  "metadata": {},
+  "source": {}
+}

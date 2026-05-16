@@ -1,0 +1,56 @@
+{
+  "id": "3203050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cibinong",
+    "en": "Cibinong",
+    "slug": "cibinong-3203050"
+  },
+  "code": {
+    "id": "3203050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cianjur",
+      "en": "Cianjur",
+      "slug": "cianjur-3203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.323",
+    "lon": "107.177"
+  },
+  "metadata": {},
+  "source": {}
+}

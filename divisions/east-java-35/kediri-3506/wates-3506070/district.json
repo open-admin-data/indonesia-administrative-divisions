@@ -1,0 +1,56 @@
+{
+  "id": "3506070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wates",
+    "en": "Wates",
+    "slug": "wates-3506070"
+  },
+  "code": {
+    "id": "3506070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kediri",
+      "en": "Kediri",
+      "slug": "kediri-3506"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.903",
+    "lon": "112.104"
+  },
+  "metadata": {},
+  "source": {}
+}

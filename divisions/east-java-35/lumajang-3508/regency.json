@@ -1,0 +1,48 @@
+{
+  "id": "3508",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lumajang",
+    "en": "Lumajang",
+    "slug": "lumajang-3508"
+  },
+  "code": {
+    "id": "3508",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 186
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.135",
+    "lon": "113.224"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "63",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kalimantan Selatan",
+    "en": "South Kalimantan",
+    "slug": "south-kalimantan-63"
+  },
+  "code": {
+    "id": "63",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 13,
+    "village": 1971,
+    "district": 152
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.484",
+    "lon": "114.834"
+  },
+  "metadata": {},
+  "source": {}
+}

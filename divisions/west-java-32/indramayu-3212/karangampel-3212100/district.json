@@ -1,0 +1,56 @@
+{
+  "id": "3212100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karangampel",
+    "en": "Karangampel",
+    "slug": "karangampel-3212100"
+  },
+  "code": {
+    "id": "3212100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indramayu",
+      "en": "Indramayu",
+      "slug": "indramayu-3212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indramayu",
+        "en": "Indramayu",
+        "slug": "indramayu-3212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.471",
+    "lon": "108.45"
+  },
+  "metadata": {},
+  "source": {}
+}

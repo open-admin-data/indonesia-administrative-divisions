@@ -1,0 +1,56 @@
+{
+  "id": "3273110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cibiru",
+    "en": "Cibiru",
+    "slug": "cibiru-3273110"
+  },
+  "code": {
+    "id": "3273110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3273",
+    "level": 2,
+    "name": {
+      "local": "Kota Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3273"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3273",
+      "level": 2,
+      "name": {
+        "local": "Kota Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3273"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.915",
+    "lon": "107.724"
+  },
+  "metadata": {},
+  "source": {}
+}

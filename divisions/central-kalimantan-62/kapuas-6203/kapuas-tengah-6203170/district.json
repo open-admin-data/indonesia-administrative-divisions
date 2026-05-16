@@ -1,0 +1,56 @@
+{
+  "id": "6203170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kapuas Tengah",
+    "en": "Kapuas Tengah",
+    "slug": "kapuas-tengah-6203170"
+  },
+  "code": {
+    "id": "6203170",
+    "iso": null
+  },
+  "parent": {
+    "id": "6203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kapuas",
+      "en": "Kapuas",
+      "slug": "kapuas-6203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kapuas",
+        "en": "Kapuas",
+        "slug": "kapuas-6203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.185",
+    "lon": "114.351"
+  },
+  "metadata": {},
+  "source": {}
+}

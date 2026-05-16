@@ -1,0 +1,48 @@
+{
+  "id": "5314",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Rote Ndao",
+    "en": "Rote Ndao",
+    "slug": "rote-ndao-5314"
+  },
+  "code": {
+    "id": "5314",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 85
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.758",
+    "lon": "123.063"
+  },
+  "metadata": {},
+  "source": {}
+}

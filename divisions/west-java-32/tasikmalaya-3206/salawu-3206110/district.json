@@ -1,0 +1,56 @@
+{
+  "id": "3206110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salawu",
+    "en": "Salawu",
+    "slug": "salawu-3206110"
+  },
+  "code": {
+    "id": "3206110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tasikmalaya",
+      "en": "Tasikmalaya",
+      "slug": "tasikmalaya-3206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tasikmalaya",
+        "en": "Tasikmalaya",
+        "slug": "tasikmalaya-3206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.368",
+    "lon": "107.987"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1102032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Danau Paris",
+    "en": "Danau Paris",
+    "slug": "danau-paris-1102032"
+  },
+  "code": {
+    "id": "1102032",
+    "iso": null
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Singkil",
+      "en": "Aceh Singkil",
+      "slug": "aceh-singkil-1102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.313",
+    "lon": "98.113"
+  },
+  "metadata": {},
+  "source": {}
+}

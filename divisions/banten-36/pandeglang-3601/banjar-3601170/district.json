@@ -1,0 +1,56 @@
+{
+  "id": "3601170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banjar",
+    "en": "Banjar",
+    "slug": "banjar-3601170"
+  },
+  "code": {
+    "id": "3601170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pandeglang",
+      "en": "Pandeglang",
+      "slug": "pandeglang-3601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pandeglang",
+        "en": "Pandeglang",
+        "slug": "pandeglang-3601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.382",
+    "lon": "106.101"
+  },
+  "metadata": {},
+  "source": {}
+}

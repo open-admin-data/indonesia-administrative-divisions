@@ -1,0 +1,48 @@
+{
+  "id": "1208",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Asahan",
+    "en": "Asahan",
+    "slug": "asahan-1208"
+  },
+  "code": {
+    "id": "1208",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Utara",
+      "en": "North Sumatra",
+      "slug": "north-sumatra-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 25,
+    "village": 204
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.965",
+    "lon": "98.862"
+  },
+  "metadata": {},
+  "source": {}
+}

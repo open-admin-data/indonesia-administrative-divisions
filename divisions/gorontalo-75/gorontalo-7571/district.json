@@ -1,0 +1,506 @@
+[
+  {
+    "id": "7571023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dumbo Raya",
+      "en": "Dumbo Raya",
+      "slug": "dumbo-raya-7571023"
+    },
+    "code": {
+      "id": "7571023",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.506",
+      "lon": "123.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dungingi",
+      "en": "Dungingi",
+      "slug": "dungingi-7571011"
+    },
+    "code": {
+      "id": "7571011",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.561",
+      "lon": "123.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hulonthalangi",
+      "en": "Hulonthalangi",
+      "slug": "hulonthalangi-7571022"
+    },
+    "code": {
+      "id": "7571022",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.514",
+      "lon": "123.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Barat",
+      "en": "Kota Barat",
+      "slug": "kota-barat-7571010"
+    },
+    "code": {
+      "id": "7571010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.54",
+      "lon": "123.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Selatan",
+      "en": "Kota Selatan",
+      "slug": "kota-selatan-7571020"
+    },
+    "code": {
+      "id": "7571020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.542",
+      "lon": "123.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Tengah",
+      "en": "Kota Tengah",
+      "slug": "kota-tengah-7571031"
+    },
+    "code": {
+      "id": "7571031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.564",
+      "lon": "123.055"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Timur",
+      "en": "Kota Timur",
+      "slug": "kota-timur-7571021"
+    },
+    "code": {
+      "id": "7571021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.543",
+      "lon": "123.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Utara",
+      "en": "Kota Utara",
+      "slug": "kota-utara-7571030"
+    },
+    "code": {
+      "id": "7571030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.563",
+      "lon": "123.078"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sipatana",
+      "en": "Sipatana",
+      "slug": "sipatana-7571032"
+    },
+    "code": {
+      "id": "7571032",
+      "iso": null
+    },
+    "parent": {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7571",
+        "level": 2,
+        "name": {
+          "local": "Kota Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-7571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.578",
+      "lon": "123.06"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

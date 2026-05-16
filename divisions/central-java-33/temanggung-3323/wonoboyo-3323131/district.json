@@ -1,0 +1,56 @@
+{
+  "id": "3323131",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wonoboyo",
+    "en": "Wonoboyo",
+    "slug": "wonoboyo-3323131"
+  },
+  "code": {
+    "id": "3323131",
+    "iso": null
+  },
+  "parent": {
+    "id": "3323",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Temanggung",
+      "en": "Temanggung",
+      "slug": "temanggung-3323"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3323",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Temanggung",
+        "en": "Temanggung",
+        "slug": "temanggung-3323"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.205",
+    "lon": "109.994"
+  },
+  "metadata": {},
+  "source": {}
+}

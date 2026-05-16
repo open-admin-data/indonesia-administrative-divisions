@@ -1,0 +1,56 @@
+{
+  "id": "7603060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanduk Kalua",
+    "en": "Tanduk Kalua",
+    "slug": "tanduk-kalua-7603060"
+  },
+  "code": {
+    "id": "7603060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamasa",
+      "en": "Mamasa",
+      "slug": "mamasa-7603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.043",
+    "lon": "119.315"
+  },
+  "metadata": {},
+  "source": {}
+}

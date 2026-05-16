@@ -1,0 +1,48 @@
+{
+  "id": "9102",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kaimana",
+    "en": "Kaimana",
+    "slug": "kaimana-9102"
+  },
+  "code": {
+    "id": "9102",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.288",
+    "lon": "133.944"
+  },
+  "metadata": {},
+  "source": {}
+}

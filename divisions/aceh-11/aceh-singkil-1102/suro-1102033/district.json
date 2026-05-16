@@ -1,0 +1,56 @@
+{
+  "id": "1102033",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suro",
+    "en": "Suro",
+    "slug": "suro-1102033"
+  },
+  "code": {
+    "id": "1102033",
+    "iso": null
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Singkil",
+      "en": "Aceh Singkil",
+      "slug": "aceh-singkil-1102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.53",
+    "lon": "98.024"
+  },
+  "metadata": {},
+  "source": {}
+}

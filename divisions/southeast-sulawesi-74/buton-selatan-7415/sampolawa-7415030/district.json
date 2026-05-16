@@ -1,0 +1,56 @@
+{
+  "id": "7415030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sampolawa",
+    "en": "Sampolawa",
+    "slug": "sampolawa-7415030"
+  },
+  "code": {
+    "id": "7415030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7415",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buton Selatan",
+      "en": "Buton Selatan",
+      "slug": "buton-selatan-7415"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7415",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buton Selatan",
+        "en": "Buton Selatan",
+        "slug": "buton-selatan-7415"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.591",
+    "lon": "122.726"
+  },
+  "metadata": {},
+  "source": {}
+}

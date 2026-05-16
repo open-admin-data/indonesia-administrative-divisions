@@ -1,0 +1,56 @@
+{
+  "id": "3512060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mlandingan",
+    "en": "Mlandingan",
+    "slug": "mlandingan-3512060"
+  },
+  "code": {
+    "id": "3512060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3512",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Situbondo",
+      "en": "Situbondo",
+      "slug": "situbondo-3512"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.775",
+    "lon": "113.797"
+  },
+  "metadata": {},
+  "source": {}
+}

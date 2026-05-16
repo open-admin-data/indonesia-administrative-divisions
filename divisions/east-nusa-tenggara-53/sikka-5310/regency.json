@@ -1,0 +1,48 @@
+{
+  "id": "5310",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sikka",
+    "en": "Sikka",
+    "slug": "sikka-5310"
+  },
+  "code": {
+    "id": "5310",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 151
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.611",
+    "lon": "120.464"
+  },
+  "metadata": {},
+  "source": {}
+}

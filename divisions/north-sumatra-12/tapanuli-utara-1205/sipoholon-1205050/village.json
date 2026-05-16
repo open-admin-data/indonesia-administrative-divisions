@@ -1,0 +1,912 @@
+[
+  {
+    "id": "1205050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Raja",
+      "en": "Huta Raja",
+      "slug": "huta-raja-1205050010"
+    },
+    "code": {
+      "id": "1205050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.136",
+      "lon": "98.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Raja Hasundutan",
+      "en": "Huta Raja Hasundutan",
+      "slug": "huta-raja-hasundutan-1205050012"
+    },
+    "code": {
+      "id": "1205050012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.134",
+      "lon": "98.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Raja Simanungkalit",
+      "en": "Huta Raja Simanungkalit",
+      "slug": "huta-raja-simanungkalit-1205050013"
+    },
+    "code": {
+      "id": "1205050013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.111",
+      "lon": "98.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutauruk",
+      "en": "Hutauruk",
+      "slug": "hutauruk-1205050004"
+    },
+    "code": {
+      "id": "1205050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.058",
+      "lon": "98.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutauruk Hasundutan",
+      "en": "Hutauruk Hasundutan",
+      "slug": "hutauruk-hasundutan-1205050014"
+    },
+    "code": {
+      "id": "1205050014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.017",
+      "lon": "98.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lobusingkam",
+      "en": "Lobusingkam",
+      "slug": "lobusingkam-1205050007"
+    },
+    "code": {
+      "id": "1205050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.071",
+      "lon": "98.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pagar Batu",
+      "en": "Pagar Batu",
+      "slug": "pagar-batu-1205050008"
+    },
+    "code": {
+      "id": "1205050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.104",
+      "lon": "98.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rura Julu Dolok",
+      "en": "Rura Julu Dolok",
+      "slug": "rura-julu-dolok-1205050002"
+    },
+    "code": {
+      "id": "1205050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.027",
+      "lon": "98.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rura Julu Toruan",
+      "en": "Rura Julu Toruan",
+      "slug": "rura-julu-toruan-1205050001"
+    },
+    "code": {
+      "id": "1205050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.013",
+      "lon": "98.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simanungkalit",
+      "en": "Simanungkalit",
+      "slug": "simanungkalit-1205050003"
+    },
+    "code": {
+      "id": "1205050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.046",
+      "lon": "98.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sipahutar",
+      "en": "Sipahutar",
+      "slug": "sipahutar-1205050009"
+    },
+    "code": {
+      "id": "1205050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.087",
+      "lon": "98.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Situmeang Habinsaran",
+      "en": "Situmeang Habinsaran",
+      "slug": "situmeang-habinsaran-1205050005"
+    },
+    "code": {
+      "id": "1205050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.073",
+      "lon": "98.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Situmeang Hasundutan",
+      "en": "Situmeang Hasundutan",
+      "slug": "situmeang-hasundutan-1205050006"
+    },
+    "code": {
+      "id": "1205050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.087",
+      "lon": "98.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205050011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tapian Nauli",
+      "en": "Tapian Nauli",
+      "slug": "tapian-nauli-1205050011"
+    },
+    "code": {
+      "id": "1205050011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1205050",
+      "level": 3,
+      "name": {
+        "local": "Sipoholon",
+        "en": "Sipoholon",
+        "slug": "sipoholon-1205050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Utara",
+          "en": "Tapanuli Utara",
+          "slug": "tapanuli-utara-1205"
+        }
+      },
+      {
+        "id": "1205050",
+        "level": 3,
+        "name": {
+          "local": "Sipoholon",
+          "en": "Sipoholon",
+          "slug": "sipoholon-1205050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22457"
+    ],
+    "geo": {
+      "lat": "2.124",
+      "lon": "98.963"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

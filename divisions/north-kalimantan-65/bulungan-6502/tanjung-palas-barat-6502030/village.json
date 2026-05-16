@@ -1,0 +1,327 @@
+[
+  {
+    "id": "6502030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Long Beluah",
+      "en": "Long Beluah",
+      "slug": "long-beluah-6502030001"
+    },
+    "code": {
+      "id": "6502030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6502030",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Palas Barat",
+        "en": "Tanjung Palas Barat",
+        "slug": "tanjung-palas-barat-6502030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bulungan",
+          "en": "Bulungan",
+          "slug": "bulungan-6502"
+        }
+      },
+      {
+        "id": "6502030",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Palas Barat",
+          "en": "Tanjung Palas Barat",
+          "slug": "tanjung-palas-barat-6502030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77255"
+    ],
+    "geo": {
+      "lat": "2.731",
+      "lon": "117.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6502030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Long Pari",
+      "en": "Long Pari",
+      "slug": "long-pari-6502030003"
+    },
+    "code": {
+      "id": "6502030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6502030",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Palas Barat",
+        "en": "Tanjung Palas Barat",
+        "slug": "tanjung-palas-barat-6502030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bulungan",
+          "en": "Bulungan",
+          "slug": "bulungan-6502"
+        }
+      },
+      {
+        "id": "6502030",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Palas Barat",
+          "en": "Tanjung Palas Barat",
+          "slug": "tanjung-palas-barat-6502030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77255"
+    ],
+    "geo": {
+      "lat": "2.801",
+      "lon": "117.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6502030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Long Sam",
+      "en": "Long Sam",
+      "slug": "long-sam-6502030002"
+    },
+    "code": {
+      "id": "6502030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6502030",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Palas Barat",
+        "en": "Tanjung Palas Barat",
+        "slug": "tanjung-palas-barat-6502030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bulungan",
+          "en": "Bulungan",
+          "slug": "bulungan-6502"
+        }
+      },
+      {
+        "id": "6502030",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Palas Barat",
+          "en": "Tanjung Palas Barat",
+          "slug": "tanjung-palas-barat-6502030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77255"
+    ],
+    "geo": {
+      "lat": "2.695",
+      "lon": "117.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6502030005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mara Hilir",
+      "en": "Mara Hilir",
+      "slug": "mara-hilir-6502030005"
+    },
+    "code": {
+      "id": "6502030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6502030",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Palas Barat",
+        "en": "Tanjung Palas Barat",
+        "slug": "tanjung-palas-barat-6502030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bulungan",
+          "en": "Bulungan",
+          "slug": "bulungan-6502"
+        }
+      },
+      {
+        "id": "6502030",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Palas Barat",
+          "en": "Tanjung Palas Barat",
+          "slug": "tanjung-palas-barat-6502030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77255"
+    ],
+    "geo": {
+      "lat": "2.666",
+      "lon": "117.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6502030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mara Satu",
+      "en": "Mara Satu",
+      "slug": "mara-satu-6502030004"
+    },
+    "code": {
+      "id": "6502030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6502030",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Palas Barat",
+        "en": "Tanjung Palas Barat",
+        "slug": "tanjung-palas-barat-6502030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bulungan",
+          "en": "Bulungan",
+          "slug": "bulungan-6502"
+        }
+      },
+      {
+        "id": "6502030",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Palas Barat",
+          "en": "Tanjung Palas Barat",
+          "slug": "tanjung-palas-barat-6502030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77255"
+    ],
+    "geo": {
+      "lat": "2.729",
+      "lon": "117.209"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

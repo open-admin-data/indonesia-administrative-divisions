@@ -1,0 +1,56 @@
+{
+  "id": "3101020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kepulauan Seribu Utara",
+    "en": "Kepulauan Seribu Utara",
+    "slug": "kepulauan-seribu-utara-3101020"
+  },
+  "code": {
+    "id": "3101020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Seribu",
+      "en": "Kepulauan Seribu",
+      "slug": "kepulauan-seribu-3101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Seribu",
+        "en": "Kepulauan Seribu",
+        "slug": "kepulauan-seribu-3101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.478",
+    "lon": "106.548"
+  },
+  "metadata": {},
+  "source": {}
+}

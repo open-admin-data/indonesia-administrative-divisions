@@ -1,0 +1,31 @@
+{
+  "id": "33",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Jawa Tengah",
+    "en": "Central Java",
+    "slug": "central-java-33"
+  },
+  "code": {
+    "id": "33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 35,
+    "village": 8008,
+    "district": 573
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.993",
+    "lon": "110.42"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7108070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siau Barat",
+    "en": "Siau Barat",
+    "slug": "siau-barat-7108070"
+  },
+  "code": {
+    "id": "7108070",
+    "iso": null
+  },
+  "parent": {
+    "id": "7108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Siau Tagulandang Biaro",
+      "en": "Siau Tagulandang Biaro",
+      "slug": "siau-tagulandang-biaro-7108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Siau Tagulandang Biaro",
+        "en": "Siau Tagulandang Biaro",
+        "slug": "siau-tagulandang-biaro-7108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.721",
+    "lon": "125.284"
+  },
+  "metadata": {},
+  "source": {}
+}

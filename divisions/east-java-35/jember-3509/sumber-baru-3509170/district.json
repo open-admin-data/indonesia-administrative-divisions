@@ -1,0 +1,56 @@
+{
+  "id": "3509170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumber Baru",
+    "en": "Sumber Baru",
+    "slug": "sumber-baru-3509170"
+  },
+  "code": {
+    "id": "3509170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3509",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jember",
+      "en": "Jember",
+      "slug": "jember-3509"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jember",
+        "en": "Jember",
+        "slug": "jember-3509"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.091",
+    "lon": "113.41"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3218040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Langkaplancar",
+    "en": "Langkaplancar",
+    "slug": "langkaplancar-3218040"
+  },
+  "code": {
+    "id": "3218040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3218",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pangandaran",
+      "en": "Pangandaran",
+      "slug": "pangandaran-3218"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pangandaran",
+        "en": "Pangandaran",
+        "slug": "pangandaran-3218"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.559",
+    "lon": "108.435"
+  },
+  "metadata": {},
+  "source": {}
+}

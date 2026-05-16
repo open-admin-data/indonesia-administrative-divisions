@@ -1,0 +1,56 @@
+{
+  "id": "7606030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tobadak",
+    "en": "Tobadak",
+    "slug": "tobadak-7606030"
+  },
+  "code": {
+    "id": "7606030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju Tengah",
+      "en": "Mamuju Tengah",
+      "slug": "mamuju-tengah-7606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju Tengah",
+        "en": "Mamuju Tengah",
+        "slug": "mamuju-tengah-7606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.114",
+    "lon": "119.512"
+  },
+  "metadata": {},
+  "source": {}
+}

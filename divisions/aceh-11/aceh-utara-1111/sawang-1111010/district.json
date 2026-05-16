@@ -1,0 +1,56 @@
+{
+  "id": "1111010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sawang",
+    "en": "Sawang",
+    "slug": "sawang-1111010"
+  },
+  "code": {
+    "id": "1111010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Utara",
+      "en": "Aceh Utara",
+      "slug": "aceh-utara-1111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Utara",
+        "en": "Aceh Utara",
+        "slug": "aceh-utara-1111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.064",
+    "lon": "96.888"
+  },
+  "metadata": {},
+  "source": {}
+}

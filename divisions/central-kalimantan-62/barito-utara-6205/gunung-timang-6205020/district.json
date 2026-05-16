@@ -1,0 +1,56 @@
+{
+  "id": "6205020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Timang",
+    "en": "Gunung Timang",
+    "slug": "gunung-timang-6205020"
+  },
+  "code": {
+    "id": "6205020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barito Utara",
+      "en": "Barito Utara",
+      "slug": "barito-utara-6205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barito Utara",
+        "en": "Barito Utara",
+        "slug": "barito-utara-6205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.245",
+    "lon": "115.195"
+  },
+  "metadata": {},
+  "source": {}
+}

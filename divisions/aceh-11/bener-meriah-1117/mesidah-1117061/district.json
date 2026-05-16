@@ -1,0 +1,56 @@
+{
+  "id": "1117061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mesidah",
+    "en": "Mesidah",
+    "slug": "mesidah-1117061"
+  },
+  "code": {
+    "id": "1117061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1117",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bener Meriah",
+      "en": "Bener Meriah",
+      "slug": "bener-meriah-1117"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1117",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bener Meriah",
+        "en": "Bener Meriah",
+        "slug": "bener-meriah-1117"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.769",
+    "lon": "97.058"
+  },
+  "metadata": {},
+  "source": {}
+}

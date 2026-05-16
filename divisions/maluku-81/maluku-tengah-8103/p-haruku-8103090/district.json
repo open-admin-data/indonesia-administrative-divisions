@@ -1,0 +1,56 @@
+{
+  "id": "8103090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "P. Haruku",
+    "en": "P. Haruku",
+    "slug": "p-haruku-8103090"
+  },
+  "code": {
+    "id": "8103090",
+    "iso": null
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tengah",
+      "en": "Maluku Tengah",
+      "slug": "maluku-tengah-8103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.573",
+    "lon": "128.488"
+  },
+  "metadata": {},
+  "source": {}
+}

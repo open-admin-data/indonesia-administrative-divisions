@@ -1,0 +1,56 @@
+{
+  "id": "3306070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banyu Urip",
+    "en": "Banyu Urip",
+    "slug": "banyu-urip-3306070"
+  },
+  "code": {
+    "id": "3306070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Purworejo",
+      "en": "Purworejo",
+      "slug": "purworejo-3306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purworejo",
+        "en": "Purworejo",
+        "slug": "purworejo-3306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.744",
+    "lon": "109.98"
+  },
+  "metadata": {},
+  "source": {}
+}

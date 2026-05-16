@@ -1,0 +1,48 @@
+{
+  "id": "7304",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Jeneponto",
+    "en": "Jeneponto",
+    "slug": "jeneponto-7304"
+  },
+  "code": {
+    "id": "7304",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 108
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.677",
+    "lon": "119.749"
+  },
+  "metadata": {},
+  "source": {}
+}

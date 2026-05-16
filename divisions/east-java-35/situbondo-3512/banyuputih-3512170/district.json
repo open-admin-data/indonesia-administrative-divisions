@@ -1,0 +1,56 @@
+{
+  "id": "3512170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banyuputih",
+    "en": "Banyuputih",
+    "slug": "banyuputih-3512170"
+  },
+  "code": {
+    "id": "3512170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3512",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Situbondo",
+      "en": "Situbondo",
+      "slug": "situbondo-3512"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.826",
+    "lon": "114.35"
+  },
+  "metadata": {},
+  "source": {}
+}

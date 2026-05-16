@@ -1,0 +1,56 @@
+{
+  "id": "3325070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gringsing",
+    "en": "Gringsing",
+    "slug": "gringsing-3325070"
+  },
+  "code": {
+    "id": "3325070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3325",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Batang",
+      "en": "Batang",
+      "slug": "batang-3325"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.959",
+    "lon": "109.999"
+  },
+  "metadata": {},
+  "source": {}
+}

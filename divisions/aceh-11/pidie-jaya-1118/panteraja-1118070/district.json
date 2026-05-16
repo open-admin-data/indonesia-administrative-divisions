@@ -1,0 +1,56 @@
+{
+  "id": "1118070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panteraja",
+    "en": "Panteraja",
+    "slug": "panteraja-1118070"
+  },
+  "code": {
+    "id": "1118070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1118",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie Jaya",
+      "en": "Pidie Jaya",
+      "slug": "pidie-jaya-1118"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1118",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie Jaya",
+        "en": "Pidie Jaya",
+        "slug": "pidie-jaya-1118"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.258",
+    "lon": "96.15"
+  },
+  "metadata": {},
+  "source": {}
+}

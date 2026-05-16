@@ -1,0 +1,48 @@
+{
+  "id": "9419",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sarmi",
+    "en": "Sarmi",
+    "slug": "sarmi-9419"
+  },
+  "code": {
+    "id": "9419",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 101
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.468",
+    "lon": "139.203"
+  },
+  "metadata": {},
+  "source": {}
+}

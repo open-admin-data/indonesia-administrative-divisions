@@ -1,0 +1,56 @@
+{
+  "id": "1601070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sosoh Buay Rayap",
+    "en": "Sosoh Buay Rayap",
+    "slug": "sosoh-buay-rayap-1601070"
+  },
+  "code": {
+    "id": "1601070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu",
+      "en": "Ogan Komering Ulu",
+      "slug": "ogan-komering-ulu-1601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.208",
+    "lon": "104.102"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7104023",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moronge",
+    "en": "Moronge",
+    "slug": "moronge-7104023"
+  },
+  "code": {
+    "id": "7104023",
+    "iso": null
+  },
+  "parent": {
+    "id": "7104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Talaud",
+      "en": "Kepulauan Talaud",
+      "slug": "kepulauan-talaud-7104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Talaud",
+        "en": "Kepulauan Talaud",
+        "slug": "kepulauan-talaud-7104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.901",
+    "lon": "126.708"
+  },
+  "metadata": {},
+  "source": {}
+}

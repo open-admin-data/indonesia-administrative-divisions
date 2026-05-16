@@ -1,0 +1,56 @@
+{
+  "id": "3313080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karangpandan",
+    "en": "Karangpandan",
+    "slug": "karangpandan-3313080"
+  },
+  "code": {
+    "id": "3313080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Karanganyar",
+      "en": "Karanganyar",
+      "slug": "karanganyar-3313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.612",
+    "lon": "111.067"
+  },
+  "metadata": {},
+  "source": {}
+}

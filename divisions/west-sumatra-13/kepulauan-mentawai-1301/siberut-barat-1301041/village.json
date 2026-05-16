@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1301041003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sigapokna",
+      "en": "Sigapokna",
+      "slug": "sigapokna-1301041003"
+    },
+    "code": {
+      "id": "1301041003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301041",
+      "level": 3,
+      "name": {
+        "local": "Siberut Barat",
+        "en": "Siberut Barat",
+        "slug": "siberut-barat-1301041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Mentawai",
+          "en": "Kepulauan Mentawai",
+          "slug": "kepulauan-mentawai-1301"
+        }
+      },
+      {
+        "id": "1301041",
+        "level": 3,
+        "name": {
+          "local": "Siberut Barat",
+          "en": "Siberut Barat",
+          "slug": "siberut-barat-1301041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25795"
+    ],
+    "geo": {
+      "lat": "-0.989",
+      "lon": "98.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1301041002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simalegi",
+      "en": "Simalegi",
+      "slug": "simalegi-1301041002"
+    },
+    "code": {
+      "id": "1301041002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301041",
+      "level": 3,
+      "name": {
+        "local": "Siberut Barat",
+        "en": "Siberut Barat",
+        "slug": "siberut-barat-1301041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Mentawai",
+          "en": "Kepulauan Mentawai",
+          "slug": "kepulauan-mentawai-1301"
+        }
+      },
+      {
+        "id": "1301041",
+        "level": 3,
+        "name": {
+          "local": "Siberut Barat",
+          "en": "Siberut Barat",
+          "slug": "siberut-barat-1301041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25795"
+    ],
+    "geo": {
+      "lat": "-1.236",
+      "lon": "98.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1301041001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simatalu",
+      "en": "Simatalu",
+      "slug": "simatalu-1301041001"
+    },
+    "code": {
+      "id": "1301041001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301041",
+      "level": 3,
+      "name": {
+        "local": "Siberut Barat",
+        "en": "Siberut Barat",
+        "slug": "siberut-barat-1301041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Mentawai",
+          "en": "Kepulauan Mentawai",
+          "slug": "kepulauan-mentawai-1301"
+        }
+      },
+      {
+        "id": "1301041",
+        "level": 3,
+        "name": {
+          "local": "Siberut Barat",
+          "en": "Siberut Barat",
+          "slug": "siberut-barat-1301041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25795"
+    ],
+    "geo": {
+      "lat": "-1.484",
+      "lon": "98.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

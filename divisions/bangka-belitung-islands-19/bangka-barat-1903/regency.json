@@ -1,0 +1,48 @@
+{
+  "id": "1903",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bangka Barat",
+    "en": "Bangka Barat",
+    "slug": "bangka-barat-1903"
+  },
+  "code": {
+    "id": "1903",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Kepulauan Bangka Belitung",
+      "en": "Bangka Belitung Islands",
+      "slug": "bangka-belitung-islands-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 60
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.02",
+    "lon": "106.512"
+  },
+  "metadata": {},
+  "source": {}
+}

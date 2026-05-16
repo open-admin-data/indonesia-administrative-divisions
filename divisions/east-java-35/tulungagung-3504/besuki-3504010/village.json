@@ -1,0 +1,652 @@
+[
+  {
+    "id": "3504010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Besole",
+      "en": "Besole",
+      "slug": "besole-3504010004"
+    },
+    "code": {
+      "id": "3504010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.248",
+      "lon": "111.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Besuki",
+      "en": "Besuki",
+      "slug": "besuki-3504010003"
+    },
+    "code": {
+      "id": "3504010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.222",
+      "lon": "111.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Keboireng",
+      "en": "Keboireng",
+      "slug": "keboireng-3504010002"
+    },
+    "code": {
+      "id": "3504010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.252",
+      "lon": "111.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sedayugunung",
+      "en": "Sedayugunung",
+      "slug": "sedayugunung-3504010001"
+    },
+    "code": {
+      "id": "3504010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.211",
+      "lon": "111.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Siyotobagus",
+      "en": "Siyotobagus",
+      "slug": "siyotobagus-3504010009"
+    },
+    "code": {
+      "id": "3504010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.182",
+      "lon": "111.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanggulkundung",
+      "en": "Tanggulkundung",
+      "slug": "tanggulkundung-3504010007"
+    },
+    "code": {
+      "id": "3504010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.192",
+      "lon": "111.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanggulturus",
+      "en": "Tanggulturus",
+      "slug": "tanggulturus-3504010006"
+    },
+    "code": {
+      "id": "3504010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.207",
+      "lon": "111.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanggulwelahan",
+      "en": "Tanggulwelahan",
+      "slug": "tanggulwelahan-3504010005"
+    },
+    "code": {
+      "id": "3504010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.206",
+      "lon": "111.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tulungrejo",
+      "en": "Tulungrejo",
+      "slug": "tulungrejo-3504010010"
+    },
+    "code": {
+      "id": "3504010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.188",
+      "lon": "111.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3504010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wateskroyo",
+      "en": "Wateskroyo",
+      "slug": "wateskroyo-3504010008"
+    },
+    "code": {
+      "id": "3504010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3504010",
+      "level": 3,
+      "name": {
+        "local": "Besuki",
+        "en": "Besuki",
+        "slug": "besuki-3504010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tulungagung",
+          "en": "Tulungagung",
+          "slug": "tulungagung-3504"
+        }
+      },
+      {
+        "id": "3504010",
+        "level": 3,
+        "name": {
+          "local": "Besuki",
+          "en": "Besuki",
+          "slug": "besuki-3504010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66275"
+    ],
+    "geo": {
+      "lat": "-8.181",
+      "lon": "111.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "6571",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Tarakan",
+    "en": "Tarakan",
+    "slug": "tarakan-6571"
+  },
+  "code": {
+    "id": "6571",
+    "iso": null
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Utara",
+      "en": "North Kalimantan",
+      "slug": "north-kalimantan-65"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.314",
+    "lon": "117.605"
+  },
+  "metadata": {},
+  "source": {}
+}

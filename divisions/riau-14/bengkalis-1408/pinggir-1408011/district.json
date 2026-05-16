@@ -1,0 +1,56 @@
+{
+  "id": "1408011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pinggir",
+    "en": "Pinggir",
+    "slug": "pinggir-1408011"
+  },
+  "code": {
+    "id": "1408011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkalis",
+      "en": "Bengkalis",
+      "slug": "bengkalis-1408"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.16",
+    "lon": "101.427"
+  },
+  "metadata": {},
+  "source": {}
+}

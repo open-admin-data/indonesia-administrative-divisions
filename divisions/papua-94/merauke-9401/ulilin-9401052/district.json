@@ -1,0 +1,56 @@
+{
+  "id": "9401052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ulilin",
+    "en": "Ulilin",
+    "slug": "ulilin-9401052"
+  },
+  "code": {
+    "id": "9401052",
+    "iso": null
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Merauke",
+      "en": "Merauke",
+      "slug": "merauke-9401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Merauke",
+        "en": "Merauke",
+        "slug": "merauke-9401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.994",
+    "lon": "140.793"
+  },
+  "metadata": {},
+  "source": {}
+}

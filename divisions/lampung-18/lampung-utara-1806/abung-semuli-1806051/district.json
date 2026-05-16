@@ -1,0 +1,56 @@
+{
+  "id": "1806051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Abung Semuli",
+    "en": "Abung Semuli",
+    "slug": "abung-semuli-1806051"
+  },
+  "code": {
+    "id": "1806051",
+    "iso": null
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Utara",
+      "en": "Lampung Utara",
+      "slug": "lampung-utara-1806"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Utara",
+        "en": "Lampung Utara",
+        "slug": "lampung-utara-1806"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.811",
+    "lon": "105.053"
+  },
+  "metadata": {},
+  "source": {}
+}

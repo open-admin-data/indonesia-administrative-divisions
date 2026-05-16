@@ -1,0 +1,48 @@
+{
+  "id": "3171",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Jakarta Selatan",
+    "en": "Jakarta Selatan",
+    "slug": "jakarta-selatan-3171"
+  },
+  "code": {
+    "id": "3171",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Dki Jakarta",
+      "en": "Jakarta",
+      "slug": "jakarta-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 63
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.173",
+    "lon": "106.819"
+  },
+  "metadata": {},
+  "source": {}
+}

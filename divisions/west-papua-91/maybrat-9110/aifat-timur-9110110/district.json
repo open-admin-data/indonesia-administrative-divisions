@@ -1,0 +1,56 @@
+{
+  "id": "9110110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aifat Timur",
+    "en": "Aifat Timur",
+    "slug": "aifat-timur-9110110"
+  },
+  "code": {
+    "id": "9110110",
+    "iso": null
+  },
+  "parent": {
+    "id": "9110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maybrat",
+      "en": "Maybrat",
+      "slug": "maybrat-9110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maybrat",
+        "en": "Maybrat",
+        "slug": "maybrat-9110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.322",
+    "lon": "132.621"
+  },
+  "metadata": {},
+  "source": {}
+}

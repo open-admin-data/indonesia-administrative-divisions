@@ -1,0 +1,56 @@
+{
+  "id": "1112060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Babah Rot",
+    "en": "Babah Rot",
+    "slug": "babah-rot-1112060"
+  },
+  "code": {
+    "id": "1112060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1112",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Barat Daya",
+      "en": "Aceh Barat Daya",
+      "slug": "aceh-barat-daya-1112"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Barat Daya",
+        "en": "Aceh Barat Daya",
+        "slug": "aceh-barat-daya-1112"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.917",
+    "lon": "96.695"
+  },
+  "metadata": {},
+  "source": {}
+}

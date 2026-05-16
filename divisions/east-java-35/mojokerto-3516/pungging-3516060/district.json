@@ -1,0 +1,56 @@
+{
+  "id": "3516060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pungging",
+    "en": "Pungging",
+    "slug": "pungging-3516060"
+  },
+  "code": {
+    "id": "3516060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3516",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mojokerto",
+      "en": "Mojokerto",
+      "slug": "mojokerto-3516"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3516",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mojokerto",
+        "en": "Mojokerto",
+        "slug": "mojokerto-3516"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.537",
+    "lon": "112.572"
+  },
+  "metadata": {},
+  "source": {}
+}

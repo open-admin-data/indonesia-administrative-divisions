@@ -1,0 +1,56 @@
+{
+  "id": "6106120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Hulu",
+    "en": "Simpang Hulu",
+    "slug": "simpang-hulu-6106120"
+  },
+  "code": {
+    "id": "6106120",
+    "iso": null
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ketapang",
+      "en": "Ketapang",
+      "slug": "ketapang-6106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ketapang",
+        "en": "Ketapang",
+        "slug": "ketapang-6106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.54",
+    "lon": "110.214"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7106060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wori",
+    "en": "Wori",
+    "slug": "wori-7106060"
+  },
+  "code": {
+    "id": "7106060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa Utara",
+      "en": "Minahasa Utara",
+      "slug": "minahasa-utara-7106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa Utara",
+        "en": "Minahasa Utara",
+        "slug": "minahasa-utara-7106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.679",
+    "lon": "124.846"
+  },
+  "metadata": {},
+  "source": {}
+}

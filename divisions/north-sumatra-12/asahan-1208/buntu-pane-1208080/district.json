@@ -1,0 +1,56 @@
+{
+  "id": "1208080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buntu Pane",
+    "en": "Buntu Pane",
+    "slug": "buntu-pane-1208080"
+  },
+  "code": {
+    "id": "1208080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Asahan",
+      "en": "Asahan",
+      "slug": "asahan-1208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Asahan",
+        "en": "Asahan",
+        "slug": "asahan-1208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.859",
+    "lon": "99.5"
+  },
+  "metadata": {},
+  "source": {}
+}

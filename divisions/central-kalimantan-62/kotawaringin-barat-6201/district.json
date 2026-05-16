@@ -1,0 +1,338 @@
+[
+  {
+    "id": "6201050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arut Selatan",
+      "en": "Arut Selatan",
+      "slug": "arut-selatan-6201050"
+    },
+    "code": {
+      "id": "6201050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kotawaringin Barat",
+          "en": "Kotawaringin Barat",
+          "slug": "kotawaringin-barat-6201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.522",
+      "lon": "111.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6201070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arut Utara",
+      "en": "Arut Utara",
+      "slug": "arut-utara-6201070"
+    },
+    "code": {
+      "id": "6201070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kotawaringin Barat",
+          "en": "Kotawaringin Barat",
+          "slug": "kotawaringin-barat-6201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.953",
+      "lon": "111.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6201040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kotawaringin Lama",
+      "en": "Kotawaringin Lama",
+      "slug": "kotawaringin-lama-6201040"
+    },
+    "code": {
+      "id": "6201040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kotawaringin Barat",
+          "en": "Kotawaringin Barat",
+          "slug": "kotawaringin-barat-6201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.456",
+      "lon": "111.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6201060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kumai",
+      "en": "Kumai",
+      "slug": "kumai-6201060"
+    },
+    "code": {
+      "id": "6201060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kotawaringin Barat",
+          "en": "Kotawaringin Barat",
+          "slug": "kotawaringin-barat-6201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.027",
+      "lon": "111.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6201061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangkalan Banteng",
+      "en": "Pangkalan Banteng",
+      "slug": "pangkalan-banteng-6201061"
+    },
+    "code": {
+      "id": "6201061",
+      "iso": null
+    },
+    "parent": {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kotawaringin Barat",
+          "en": "Kotawaringin Barat",
+          "slug": "kotawaringin-barat-6201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.479",
+      "lon": "111.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6201062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangkalan Lada",
+      "en": "Pangkalan Lada",
+      "slug": "pangkalan-lada-6201062"
+    },
+    "code": {
+      "id": "6201062",
+      "iso": null
+    },
+    "parent": {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kotawaringin Barat",
+          "en": "Kotawaringin Barat",
+          "slug": "kotawaringin-barat-6201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.525",
+      "lon": "111.783"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

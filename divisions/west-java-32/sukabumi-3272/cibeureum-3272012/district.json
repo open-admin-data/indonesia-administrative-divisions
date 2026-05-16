@@ -1,0 +1,56 @@
+{
+  "id": "3272012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cibeureum",
+    "en": "Cibeureum",
+    "slug": "cibeureum-3272012"
+  },
+  "code": {
+    "id": "3272012",
+    "iso": null
+  },
+  "parent": {
+    "id": "3272",
+    "level": 2,
+    "name": {
+      "local": "Kota Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3272"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.939",
+    "lon": "106.947"
+  },
+  "metadata": {},
+  "source": {}
+}

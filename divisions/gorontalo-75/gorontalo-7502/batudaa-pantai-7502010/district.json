@@ -1,0 +1,56 @@
+{
+  "id": "7502010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batudaa Pantai",
+    "en": "Batudaa Pantai",
+    "slug": "batudaa-pantai-7502010"
+  },
+  "code": {
+    "id": "7502010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.507",
+    "lon": "122.957"
+  },
+  "metadata": {},
+  "source": {}
+}

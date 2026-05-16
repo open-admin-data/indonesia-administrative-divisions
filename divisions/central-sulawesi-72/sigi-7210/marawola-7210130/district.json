@@ -1,0 +1,56 @@
+{
+  "id": "7210130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Marawola",
+    "en": "Marawola",
+    "slug": "marawola-7210130"
+  },
+  "code": {
+    "id": "7210130",
+    "iso": null
+  },
+  "parent": {
+    "id": "7210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sigi",
+      "en": "Sigi",
+      "slug": "sigi-7210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.969",
+    "lon": "119.853"
+  },
+  "metadata": {},
+  "source": {}
+}

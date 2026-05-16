@@ -1,0 +1,56 @@
+{
+  "id": "1808058",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Menggala Timur",
+    "en": "Menggala Timur",
+    "slug": "menggala-timur-1808058"
+  },
+  "code": {
+    "id": "1808058",
+    "iso": null
+  },
+  "parent": {
+    "id": "1808",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulangbawang",
+      "en": "Tulangbawang",
+      "slug": "tulangbawang-1808"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1808",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulangbawang",
+        "en": "Tulangbawang",
+        "slug": "tulangbawang-1808"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.402",
+    "lon": "105.301"
+  },
+  "metadata": {},
+  "source": {}
+}

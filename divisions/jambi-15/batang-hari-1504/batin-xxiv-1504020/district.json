@@ -1,0 +1,56 @@
+{
+  "id": "1504020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batin Xxiv",
+    "en": "Batin Xxiv",
+    "slug": "batin-xxiv-1504020"
+  },
+  "code": {
+    "id": "1504020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Batang Hari",
+      "en": "Batang Hari",
+      "slug": "batang-hari-1504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang Hari",
+        "en": "Batang Hari",
+        "slug": "batang-hari-1504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.868",
+    "lon": "102.961"
+  },
+  "metadata": {},
+  "source": {}
+}

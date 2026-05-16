@@ -1,0 +1,56 @@
+{
+  "id": "7602051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Binuang",
+    "en": "Binuang",
+    "slug": "binuang-7602051"
+  },
+  "code": {
+    "id": "7602051",
+    "iso": null
+  },
+  "parent": {
+    "id": "7602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Polewali Mandar",
+      "en": "Polewali Mandar",
+      "slug": "polewali-mandar-7602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Polewali Mandar",
+        "en": "Polewali Mandar",
+        "slug": "polewali-mandar-7602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.428",
+    "lon": "119.421"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3212160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sindang",
+    "en": "Sindang",
+    "slug": "sindang-3212160"
+  },
+  "code": {
+    "id": "3212160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indramayu",
+      "en": "Indramayu",
+      "slug": "indramayu-3212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indramayu",
+        "en": "Indramayu",
+        "slug": "indramayu-3212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.339",
+    "lon": "108.292"
+  },
+  "metadata": {},
+  "source": {}
+}

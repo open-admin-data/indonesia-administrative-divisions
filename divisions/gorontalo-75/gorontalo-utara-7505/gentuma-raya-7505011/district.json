@@ -1,0 +1,56 @@
+{
+  "id": "7505011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gentuma Raya",
+    "en": "Gentuma Raya",
+    "slug": "gentuma-raya-7505011"
+  },
+  "code": {
+    "id": "7505011",
+    "iso": null
+  },
+  "parent": {
+    "id": "7505",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gorontalo Utara",
+      "en": "Gorontalo Utara",
+      "slug": "gorontalo-utara-7505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.863",
+    "lon": "123.029"
+  },
+  "metadata": {},
+  "source": {}
+}

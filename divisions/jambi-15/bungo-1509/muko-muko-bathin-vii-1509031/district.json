@@ -1,0 +1,56 @@
+{
+  "id": "1509031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muko-muko Bathin Vii",
+    "en": "Muko-muko Bathin Vii",
+    "slug": "muko-muko-bathin-vii-1509031"
+  },
+  "code": {
+    "id": "1509031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1509",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bungo",
+      "en": "Bungo",
+      "slug": "bungo-1509"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bungo",
+        "en": "Bungo",
+        "slug": "bungo-1509"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.534",
+    "lon": "101.974"
+  },
+  "metadata": {},
+  "source": {}
+}

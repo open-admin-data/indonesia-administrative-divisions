@@ -1,0 +1,56 @@
+{
+  "id": "3202121",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bantargadung",
+    "en": "Bantargadung",
+    "slug": "bantargadung-3202121"
+  },
+  "code": {
+    "id": "3202121",
+    "iso": null
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.975",
+    "lon": "106.663"
+  },
+  "metadata": {},
+  "source": {}
+}

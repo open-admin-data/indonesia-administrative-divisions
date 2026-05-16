@@ -1,0 +1,56 @@
+{
+  "id": "1213050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Selesai",
+    "en": "Selesai",
+    "slug": "selesai-1213050"
+  },
+  "code": {
+    "id": "1213050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1213",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Langkat",
+      "en": "Langkat",
+      "slug": "langkat-1213"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.606",
+    "lon": "98.378"
+  },
+  "metadata": {},
+  "source": {}
+}

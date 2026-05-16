@@ -1,0 +1,56 @@
+{
+  "id": "3371020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Magelang Utara",
+    "en": "Magelang Utara",
+    "slug": "magelang-utara-3371020"
+  },
+  "code": {
+    "id": "3371020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3371",
+    "level": 2,
+    "name": {
+      "local": "Kota Magelang",
+      "en": "Magelang",
+      "slug": "magelang-3371"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3371",
+      "level": 2,
+      "name": {
+        "local": "Kota Magelang",
+        "en": "Magelang",
+        "slug": "magelang-3371"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.46",
+    "lon": "110.222"
+  },
+  "metadata": {},
+  "source": {}
+}

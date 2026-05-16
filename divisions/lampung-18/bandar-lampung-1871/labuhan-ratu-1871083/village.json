@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1871083009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Baru",
+      "en": "Kampung Baru",
+      "slug": "kampung-baru-1871083009"
+    },
+    "code": {
+      "id": "1871083009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1871083",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Ratu",
+        "en": "Labuhan Ratu",
+        "slug": "labuhan-ratu-1871083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1871",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandar Lampung",
+          "en": "Bandar Lampung",
+          "slug": "bandar-lampung-1871"
+        }
+      },
+      {
+        "id": "1871083",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Ratu",
+          "en": "Labuhan Ratu",
+          "slug": "labuhan-ratu-1871083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35142"
+    ],
+    "geo": {
+      "lat": "-5.361",
+      "lon": "105.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1871083017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Baru Raya",
+      "en": "Kampung Baru Raya",
+      "slug": "kampung-baru-raya-1871083017"
+    },
+    "code": {
+      "id": "1871083017",
+      "iso": null
+    },
+    "parent": {
+      "id": "1871083",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Ratu",
+        "en": "Labuhan Ratu",
+        "slug": "labuhan-ratu-1871083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1871",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandar Lampung",
+          "en": "Bandar Lampung",
+          "slug": "bandar-lampung-1871"
+        }
+      },
+      {
+        "id": "1871083",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Ratu",
+          "en": "Labuhan Ratu",
+          "slug": "labuhan-ratu-1871083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35142"
+    ],
+    "geo": {
+      "lat": "-5.369",
+      "lon": "105.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1871083015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kota Sepang",
+      "en": "Kota Sepang",
+      "slug": "kota-sepang-1871083015"
+    },
+    "code": {
+      "id": "1871083015",
+      "iso": null
+    },
+    "parent": {
+      "id": "1871083",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Ratu",
+        "en": "Labuhan Ratu",
+        "slug": "labuhan-ratu-1871083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1871",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandar Lampung",
+          "en": "Bandar Lampung",
+          "slug": "bandar-lampung-1871"
+        }
+      },
+      {
+        "id": "1871083",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Ratu",
+          "en": "Labuhan Ratu",
+          "slug": "labuhan-ratu-1871083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35142"
+    ],
+    "geo": {
+      "lat": "-1.524",
+      "lon": "113.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1871083006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Labuhan Ratu",
+      "en": "Labuhan Ratu",
+      "slug": "labuhan-ratu-1871083006"
+    },
+    "code": {
+      "id": "1871083006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1871083",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Ratu",
+        "en": "Labuhan Ratu",
+        "slug": "labuhan-ratu-1871083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1871",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandar Lampung",
+          "en": "Bandar Lampung",
+          "slug": "bandar-lampung-1871"
+        }
+      },
+      {
+        "id": "1871083",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Ratu",
+          "en": "Labuhan Ratu",
+          "slug": "labuhan-ratu-1871083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35142"
+    ],
+    "geo": {
+      "lat": "-5.369",
+      "lon": "105.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1871083014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Labuhan Ratu Raya",
+      "en": "Labuhan Ratu Raya",
+      "slug": "labuhan-ratu-raya-1871083014"
+    },
+    "code": {
+      "id": "1871083014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1871083",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Ratu",
+        "en": "Labuhan Ratu",
+        "slug": "labuhan-ratu-1871083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1871",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandar Lampung",
+          "en": "Bandar Lampung",
+          "slug": "bandar-lampung-1871"
+        }
+      },
+      {
+        "id": "1871083",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Ratu",
+          "en": "Labuhan Ratu",
+          "slug": "labuhan-ratu-1871083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35142"
+    ],
+    "geo": {
+      "lat": "-5.375",
+      "lon": "105.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1871083013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sepang Jaya",
+      "en": "Sepang Jaya",
+      "slug": "sepang-jaya-1871083013"
+    },
+    "code": {
+      "id": "1871083013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1871083",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Ratu",
+        "en": "Labuhan Ratu",
+        "slug": "labuhan-ratu-1871083"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1871",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandar Lampung",
+          "en": "Bandar Lampung",
+          "slug": "bandar-lampung-1871"
+        }
+      },
+      {
+        "id": "1871083",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Ratu",
+          "en": "Labuhan Ratu",
+          "slug": "labuhan-ratu-1871083"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35142"
+    ],
+    "geo": {
+      "lat": "-5.374",
+      "lon": "105.269"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

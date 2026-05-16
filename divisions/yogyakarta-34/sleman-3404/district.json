@@ -1,0 +1,954 @@
+[
+  {
+    "id": "3404080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berbah",
+      "en": "Berbah",
+      "slug": "berbah-3404080"
+    },
+    "code": {
+      "id": "3404080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.807",
+      "lon": "110.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cangkringan",
+      "en": "Cangkringan",
+      "slug": "cangkringan-3404170"
+    },
+    "code": {
+      "id": "3404170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.629",
+      "lon": "110.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Depok",
+      "en": "Depok",
+      "slug": "depok-3404070"
+    },
+    "code": {
+      "id": "3404070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.762",
+      "lon": "110.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gamping",
+      "en": "Gamping",
+      "slug": "gamping-3404050"
+    },
+    "code": {
+      "id": "3404050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.785",
+      "lon": "110.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Godean",
+      "en": "Godean",
+      "slug": "godean-3404040"
+    },
+    "code": {
+      "id": "3404040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.766",
+      "lon": "110.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalasan",
+      "en": "Kalasan",
+      "slug": "kalasan-3404100"
+    },
+    "code": {
+      "id": "3404100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.744",
+      "lon": "110.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Minggir",
+      "en": "Minggir",
+      "slug": "minggir-3404020"
+    },
+    "code": {
+      "id": "3404020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.732",
+      "lon": "110.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mlati",
+      "en": "Mlati",
+      "slug": "mlati-3404060"
+    },
+    "code": {
+      "id": "3404060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.737",
+      "lon": "110.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moyudan",
+      "en": "Moyudan",
+      "slug": "moyudan-3404010"
+    },
+    "code": {
+      "id": "3404010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.777",
+      "lon": "110.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngaglik",
+      "en": "Ngaglik",
+      "slug": "ngaglik-3404120"
+    },
+    "code": {
+      "id": "3404120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.714",
+      "lon": "110.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngemplak",
+      "en": "Ngemplak",
+      "slug": "ngemplak-3404110"
+    },
+    "code": {
+      "id": "3404110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.712",
+      "lon": "110.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakem",
+      "en": "Pakem",
+      "slug": "pakem-3404160"
+    },
+    "code": {
+      "id": "3404160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.622",
+      "lon": "110.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Prambanan",
+      "en": "Prambanan",
+      "slug": "prambanan-3404090"
+    },
+    "code": {
+      "id": "3404090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.785",
+      "lon": "110.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seyegan",
+      "en": "Seyegan",
+      "slug": "seyegan-3404030"
+    },
+    "code": {
+      "id": "3404030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.73",
+      "lon": "110.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sleman",
+      "en": "Sleman",
+      "slug": "sleman-3404130"
+    },
+    "code": {
+      "id": "3404130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.695",
+      "lon": "110.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tempel",
+      "en": "Tempel",
+      "slug": "tempel-3404140"
+    },
+    "code": {
+      "id": "3404140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.662",
+      "lon": "110.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Turi",
+      "en": "Turi",
+      "slug": "turi-3404150"
+    },
+    "code": {
+      "id": "3404150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.624",
+      "lon": "110.382"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

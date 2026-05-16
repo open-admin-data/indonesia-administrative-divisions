@@ -1,0 +1,48 @@
+{
+  "id": "1704",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kaur",
+    "en": "Kaur",
+    "slug": "kaur-1704"
+  },
+  "code": {
+    "id": "1704",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 195
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.759",
+    "lon": "103.349"
+  },
+  "metadata": {},
+  "source": {}
+}

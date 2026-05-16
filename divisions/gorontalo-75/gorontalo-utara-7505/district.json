@@ -1,0 +1,618 @@
+[
+  {
+    "id": "7505030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Anggrek",
+      "en": "Anggrek",
+      "slug": "anggrek-7505030"
+    },
+    "code": {
+      "id": "7505030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.833",
+      "lon": "122.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atinggola",
+      "en": "Atinggola",
+      "slug": "atinggola-7505010"
+    },
+    "code": {
+      "id": "7505010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.842",
+      "lon": "123.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Biau",
+      "en": "Biau",
+      "slug": "biau-7505051"
+    },
+    "code": {
+      "id": "7505051",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.955",
+      "lon": "122.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gentuma Raya",
+      "en": "Gentuma Raya",
+      "slug": "gentuma-raya-7505011"
+    },
+    "code": {
+      "id": "7505011",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.863",
+      "lon": "123.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kwandang",
+      "en": "Kwandang",
+      "slug": "kwandang-7505020"
+    },
+    "code": {
+      "id": "7505020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.778",
+      "lon": "122.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Monano",
+      "en": "Monano",
+      "slug": "monano-7505031"
+    },
+    "code": {
+      "id": "7505031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "122.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ponelo Kepulauan",
+      "en": "Ponelo Kepulauan",
+      "slug": "ponelo-kepulauan-7505022"
+    },
+    "code": {
+      "id": "7505022",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.877",
+      "lon": "122.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumalata",
+      "en": "Sumalata",
+      "slug": "sumalata-7505040"
+    },
+    "code": {
+      "id": "7505040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.963",
+      "lon": "122.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumalata Timur",
+      "en": "Sumalata Timur",
+      "slug": "sumalata-timur-7505041"
+    },
+    "code": {
+      "id": "7505041",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.932",
+      "lon": "122.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tolinggula",
+      "en": "Tolinggula",
+      "slug": "tolinggula-7505050"
+    },
+    "code": {
+      "id": "7505050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.963",
+      "lon": "122.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomilito",
+      "en": "Tomilito",
+      "slug": "tomilito-7505021"
+    },
+    "code": {
+      "id": "7505021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7505",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gorontalo Utara",
+          "en": "Gorontalo Utara",
+          "slug": "gorontalo-utara-7505"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.903",
+      "lon": "122.958"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "1103041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasie Raja",
+    "en": "Pasie Raja",
+    "slug": "pasie-raja-1103041"
+  },
+  "code": {
+    "id": "1103041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Selatan",
+      "en": "Aceh Selatan",
+      "slug": "aceh-selatan-1103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.23",
+    "lon": "97.307"
+  },
+  "metadata": {},
+  "source": {}
+}

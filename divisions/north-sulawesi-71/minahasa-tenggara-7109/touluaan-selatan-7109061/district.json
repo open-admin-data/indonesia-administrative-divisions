@@ -1,0 +1,56 @@
+{
+  "id": "7109061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Touluaan Selatan",
+    "en": "Touluaan Selatan",
+    "slug": "touluaan-selatan-7109061"
+  },
+  "code": {
+    "id": "7109061",
+    "iso": null
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa Tenggara",
+      "en": "Minahasa Tenggara",
+      "slug": "minahasa-tenggara-7109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa Tenggara",
+        "en": "Minahasa Tenggara",
+        "slug": "minahasa-tenggara-7109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.014",
+    "lon": "124.598"
+  },
+  "metadata": {},
+  "source": {}
+}

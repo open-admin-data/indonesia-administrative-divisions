@@ -1,0 +1,56 @@
+{
+  "id": "5307061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Alor Tengah Utara",
+    "en": "Alor Tengah Utara",
+    "slug": "alor-tengah-utara-5307061"
+  },
+  "code": {
+    "id": "5307061",
+    "iso": null
+  },
+  "parent": {
+    "id": "5307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Alor",
+      "en": "Alor",
+      "slug": "alor-5307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Alor",
+        "en": "Alor",
+        "slug": "alor-5307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.235",
+    "lon": "124.631"
+  },
+  "metadata": {},
+  "source": {}
+}

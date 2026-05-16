@@ -1,0 +1,48 @@
+{
+  "id": "3578",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Surabaya",
+    "en": "Surabaya",
+    "slug": "surabaya-3578"
+  },
+  "code": {
+    "id": "3578",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 31,
+    "village": 147
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.259",
+    "lon": "112.747"
+  },
+  "metadata": {},
+  "source": {}
+}

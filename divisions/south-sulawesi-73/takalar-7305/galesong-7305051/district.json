@@ -1,0 +1,56 @@
+{
+  "id": "7305051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Galesong",
+    "en": "Galesong",
+    "slug": "galesong-7305051"
+  },
+  "code": {
+    "id": "7305051",
+    "iso": null
+  },
+  "parent": {
+    "id": "7305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Takalar",
+      "en": "Takalar",
+      "slug": "takalar-7305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Takalar",
+        "en": "Takalar",
+        "slug": "takalar-7305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.328",
+    "lon": "119.371"
+  },
+  "metadata": {},
+  "source": {}
+}

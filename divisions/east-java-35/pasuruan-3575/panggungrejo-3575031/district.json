@@ -1,0 +1,56 @@
+{
+  "id": "3575031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panggungrejo",
+    "en": "Panggungrejo",
+    "slug": "panggungrejo-3575031"
+  },
+  "code": {
+    "id": "3575031",
+    "iso": null
+  },
+  "parent": {
+    "id": "3575",
+    "level": 2,
+    "name": {
+      "local": "Kota Pasuruan",
+      "en": "Pasuruan",
+      "slug": "pasuruan-3575"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3575",
+      "level": 2,
+      "name": {
+        "local": "Kota Pasuruan",
+        "en": "Pasuruan",
+        "slug": "pasuruan-3575"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.644",
+    "lon": "112.916"
+  },
+  "metadata": {},
+  "source": {}
+}

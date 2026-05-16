@@ -1,0 +1,56 @@
+{
+  "id": "1209080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jorlang Hataran",
+    "en": "Jorlang Hataran",
+    "slug": "jorlang-hataran-1209080"
+  },
+  "code": {
+    "id": "1209080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Simalungun",
+      "en": "Simalungun",
+      "slug": "simalungun-1209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simalungun",
+        "en": "Simalungun",
+        "slug": "simalungun-1209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.815",
+    "lon": "99.014"
+  },
+  "metadata": {},
+  "source": {}
+}

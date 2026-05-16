@@ -1,0 +1,56 @@
+{
+  "id": "3519010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kebonsari",
+    "en": "Kebonsari",
+    "slug": "kebonsari-3519010"
+  },
+  "code": {
+    "id": "3519010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3519",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Madiun",
+      "en": "Madiun",
+      "slug": "madiun-3519"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.744",
+    "lon": "111.484"
+  },
+  "metadata": {},
+  "source": {}
+}

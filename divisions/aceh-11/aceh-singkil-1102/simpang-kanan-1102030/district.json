@@ -1,0 +1,56 @@
+{
+  "id": "1102030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Kanan",
+    "en": "Simpang Kanan",
+    "slug": "simpang-kanan-1102030"
+  },
+  "code": {
+    "id": "1102030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Singkil",
+      "en": "Aceh Singkil",
+      "slug": "aceh-singkil-1102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.408",
+    "lon": "98.037"
+  },
+  "metadata": {},
+  "source": {}
+}

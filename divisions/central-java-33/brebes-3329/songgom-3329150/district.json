@@ -1,0 +1,56 @@
+{
+  "id": "3329150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Songgom",
+    "en": "Songgom",
+    "slug": "songgom-3329150"
+  },
+  "code": {
+    "id": "3329150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3329",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Brebes",
+      "en": "Brebes",
+      "slug": "brebes-3329"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3329",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Brebes",
+        "en": "Brebes",
+        "slug": "brebes-3329"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.007",
+    "lon": "109.008"
+  },
+  "metadata": {},
+  "source": {}
+}

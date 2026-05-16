@@ -1,0 +1,56 @@
+{
+  "id": "2104011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kepulauan Posek",
+    "en": "Kepulauan Posek",
+    "slug": "kepulauan-posek-2104011"
+  },
+  "code": {
+    "id": "2104011",
+    "iso": null
+  },
+  "parent": {
+    "id": "2104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lingga",
+      "en": "Lingga",
+      "slug": "lingga-2104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.377",
+    "lon": "104.187"
+  },
+  "metadata": {},
+  "source": {}
+}

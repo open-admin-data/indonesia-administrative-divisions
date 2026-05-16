@@ -1,0 +1,56 @@
+{
+  "id": "6208030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hanau",
+    "en": "Hanau",
+    "slug": "hanau-6208030"
+  },
+  "code": {
+    "id": "6208030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seruyan",
+      "en": "Seruyan",
+      "slug": "seruyan-6208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seruyan",
+        "en": "Seruyan",
+        "slug": "seruyan-6208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.521",
+    "lon": "112.143"
+  },
+  "metadata": {},
+  "source": {}
+}

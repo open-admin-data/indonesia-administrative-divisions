@@ -1,0 +1,56 @@
+{
+  "id": "1107071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Woyla Barat",
+    "en": "Woyla Barat",
+    "slug": "woyla-barat-1107071"
+  },
+  "code": {
+    "id": "1107071",
+    "iso": null
+  },
+  "parent": {
+    "id": "1107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Barat",
+      "en": "Aceh Barat",
+      "slug": "aceh-barat-1107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Barat",
+        "en": "Aceh Barat",
+        "slug": "aceh-barat-1107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.416",
+    "lon": "95.985"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1501071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Air Hangat Timur",
+    "en": "Air Hangat Timur",
+    "slug": "air-hangat-timur-1501071"
+  },
+  "code": {
+    "id": "1501071",
+    "iso": null
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kerinci",
+      "en": "Kerinci",
+      "slug": "kerinci-1501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kerinci",
+        "en": "Kerinci",
+        "slug": "kerinci-1501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2",
+    "lon": "101.494"
+  },
+  "metadata": {},
+  "source": {}
+}

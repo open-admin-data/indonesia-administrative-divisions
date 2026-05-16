@@ -1,0 +1,674 @@
+[
+  {
+    "id": "1404032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bandar Petalangan",
+      "en": "Bandar Petalangan",
+      "slug": "bandar-petalangan-1404032"
+    },
+    "code": {
+      "id": "1404032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.149",
+      "lon": "102.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bandar Seikijang",
+      "en": "Bandar Seikijang",
+      "slug": "bandar-seikijang-1404012"
+    },
+    "code": {
+      "id": "1404012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.424",
+      "lon": "101.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bunut",
+      "en": "Bunut",
+      "slug": "bunut-1404030"
+    },
+    "code": {
+      "id": "1404030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.292",
+      "lon": "102.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kerumutan",
+      "en": "Kerumutan",
+      "slug": "kerumutan-1404041"
+    },
+    "code": {
+      "id": "1404041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.01",
+      "lon": "102.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Kampar",
+      "en": "Kuala Kampar",
+      "slug": "kuala-kampar-1404040"
+    },
+    "code": {
+      "id": "1404040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.57",
+      "lon": "103.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langgam",
+      "en": "Langgam",
+      "slug": "langgam-1404010"
+    },
+    "code": {
+      "id": "1404010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.041",
+      "lon": "101.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangkalan Kerinci",
+      "en": "Pangkalan Kerinci",
+      "slug": "pangkalan-kerinci-1404011"
+    },
+    "code": {
+      "id": "1404011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.382",
+      "lon": "101.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangkalan Kuras",
+      "en": "Pangkalan Kuras",
+      "slug": "pangkalan-kuras-1404020"
+    },
+    "code": {
+      "id": "1404020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.032",
+      "lon": "101.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangkalan Lesung",
+      "en": "Pangkalan Lesung",
+      "slug": "pangkalan-lesung-1404022"
+    },
+    "code": {
+      "id": "1404022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.01",
+      "lon": "102.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pelalawan",
+      "en": "Pelalawan",
+      "slug": "pelalawan-1404031"
+    },
+    "code": {
+      "id": "1404031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.438",
+      "lon": "102.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Meranti",
+      "en": "Teluk Meranti",
+      "slug": "teluk-meranti-1404042"
+    },
+    "code": {
+      "id": "1404042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.388",
+      "lon": "102.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1404021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ukui",
+      "en": "Ukui",
+      "slug": "ukui-1404021"
+    },
+    "code": {
+      "id": "1404021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pelalawan",
+          "en": "Pelalawan",
+          "slug": "pelalawan-1404"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.217",
+      "lon": "101.987"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

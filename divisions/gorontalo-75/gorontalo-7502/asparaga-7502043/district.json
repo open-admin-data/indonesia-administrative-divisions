@@ -1,0 +1,56 @@
+{
+  "id": "7502043",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asparaga",
+    "en": "Asparaga",
+    "slug": "asparaga-7502043"
+  },
+  "code": {
+    "id": "7502043",
+    "iso": null
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.833",
+    "lon": "122.392"
+  },
+  "metadata": {},
+  "source": {}
+}

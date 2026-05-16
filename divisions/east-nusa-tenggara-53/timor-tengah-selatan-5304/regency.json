@@ -1,0 +1,48 @@
+{
+  "id": "5304",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Timor Tengah Selatan",
+    "en": "Timor Tengah Selatan",
+    "slug": "timor-tengah-selatan-5304"
+  },
+  "code": {
+    "id": "5304",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 32,
+    "village": 255
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.106",
+    "lon": "124.874"
+  },
+  "metadata": {},
+  "source": {}
+}

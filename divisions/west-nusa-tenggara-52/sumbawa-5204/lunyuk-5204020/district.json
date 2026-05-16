@@ -1,0 +1,56 @@
+{
+  "id": "5204020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lunyuk",
+    "en": "Lunyuk",
+    "slug": "lunyuk-5204020"
+  },
+  "code": {
+    "id": "5204020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumbawa",
+      "en": "Sumbawa",
+      "slug": "sumbawa-5204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumbawa",
+        "en": "Sumbawa",
+        "slug": "sumbawa-5204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.959",
+    "lon": "117.2"
+  },
+  "metadata": {},
+  "source": {}
+}

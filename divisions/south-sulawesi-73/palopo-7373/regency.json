@@ -1,0 +1,48 @@
+{
+  "id": "7373",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Palopo",
+    "en": "Palopo",
+    "slug": "palopo-7373"
+  },
+  "code": {
+    "id": "7373",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 47
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.008",
+    "lon": "120.202"
+  },
+  "metadata": {},
+  "source": {}
+}

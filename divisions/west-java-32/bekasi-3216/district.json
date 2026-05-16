@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "3216090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Babelan",
+      "en": "Babelan",
+      "slug": "babelan-3216090"
+    },
+    "code": {
+      "id": "3216090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.127",
+      "lon": "107.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bojongmangu",
+      "en": "Bojongmangu",
+      "slug": "bojongmangu-3216031"
+    },
+    "code": {
+      "id": "3216031",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.437",
+      "lon": "107.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cabangbungin",
+      "en": "Cabangbungin",
+      "slug": "cabangbungin-3216140"
+    },
+    "code": {
+      "id": "3216140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.077",
+      "lon": "107.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibarusah",
+      "en": "Cibarusah",
+      "slug": "cibarusah-3216030"
+    },
+    "code": {
+      "id": "3216030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.433",
+      "lon": "107.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibitung",
+      "en": "Cibitung",
+      "slug": "cibitung-3216070"
+    },
+    "code": {
+      "id": "3216070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.244",
+      "lon": "107.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikarang Barat",
+      "en": "Cikarang Barat",
+      "slug": "cikarang-barat-3216071"
+    },
+    "code": {
+      "id": "3216071",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.295",
+      "lon": "107.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikarang Pusat",
+      "en": "Cikarang Pusat",
+      "slug": "cikarang-pusat-3216022"
+    },
+    "code": {
+      "id": "3216022",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.351",
+      "lon": "107.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikarang Selatan",
+      "en": "Cikarang Selatan",
+      "slug": "cikarang-selatan-3216023"
+    },
+    "code": {
+      "id": "3216023",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.333",
+      "lon": "107.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikarang Timur",
+      "en": "Cikarang Timur",
+      "slug": "cikarang-timur-3216041"
+    },
+    "code": {
+      "id": "3216041",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.281",
+      "lon": "107.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikarang Utara",
+      "en": "Cikarang Utara",
+      "slug": "cikarang-utara-3216061"
+    },
+    "code": {
+      "id": "3216061",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.276",
+      "lon": "107.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangbahagia",
+      "en": "Karangbahagia",
+      "slug": "karangbahagia-3216062"
+    },
+    "code": {
+      "id": "3216062",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.211",
+      "lon": "107.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedungwaringin",
+      "en": "Kedungwaringin",
+      "slug": "kedungwaringin-3216050"
+    },
+    "code": {
+      "id": "3216050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.247",
+      "lon": "107.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muara Gembong",
+      "en": "Muara Gembong",
+      "slug": "muara-gembong-3216150"
+    },
+    "code": {
+      "id": "3216150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.994",
+      "lon": "107.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pebayuran",
+      "en": "Pebayuran",
+      "slug": "pebayuran-3216130"
+    },
+    "code": {
+      "id": "3216130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.163",
+      "lon": "107.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Serang Baru",
+      "en": "Serang Baru",
+      "slug": "serang-baru-3216021"
+    },
+    "code": {
+      "id": "3216021",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.395",
+      "lon": "107.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Setu",
+      "en": "Setu",
+      "slug": "setu-3216010"
+    },
+    "code": {
+      "id": "3216010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.359",
+      "lon": "107.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216121",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukakarya",
+      "en": "Sukakarya",
+      "slug": "sukakarya-3216121"
+    },
+    "code": {
+      "id": "3216121",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.151",
+      "lon": "107.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukatani",
+      "en": "Sukatani",
+      "slug": "sukatani-3216120"
+    },
+    "code": {
+      "id": "3216120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.197",
+      "lon": "107.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukawangi",
+      "en": "Sukawangi",
+      "slug": "sukawangi-3216111"
+    },
+    "code": {
+      "id": "3216111",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.114",
+      "lon": "107.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambelang",
+      "en": "Tambelang",
+      "slug": "tambelang-3216110"
+    },
+    "code": {
+      "id": "3216110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.176",
+      "lon": "107.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambun Selatan",
+      "en": "Tambun Selatan",
+      "slug": "tambun-selatan-3216081"
+    },
+    "code": {
+      "id": "3216081",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.252",
+      "lon": "107.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambun Utara",
+      "en": "Tambun Utara",
+      "slug": "tambun-utara-3216082"
+    },
+    "code": {
+      "id": "3216082",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.2",
+      "lon": "107.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3216100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tarumajaya",
+      "en": "Tarumajaya",
+      "slug": "tarumajaya-3216100"
+    },
+    "code": {
+      "id": "3216100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bekasi",
+          "en": "Bekasi",
+          "slug": "bekasi-3216"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.121",
+      "lon": "107"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

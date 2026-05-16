@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1212250001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Helvetia",
+      "en": "Helvetia",
+      "slug": "helvetia-1212250001"
+    },
+    "code": {
+      "id": "1212250001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212250",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Deli",
+        "en": "Labuhan Deli",
+        "slug": "labuhan-deli-1212250"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212250",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Deli",
+          "en": "Labuhan Deli",
+          "slug": "labuhan-deli-1212250"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20373"
+    ],
+    "geo": {
+      "lat": "3.656",
+      "lon": "98.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212250005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Gading",
+      "en": "Karang Gading",
+      "slug": "karang-gading-1212250005"
+    },
+    "code": {
+      "id": "1212250005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212250",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Deli",
+        "en": "Labuhan Deli",
+        "slug": "labuhan-deli-1212250"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212250",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Deli",
+          "en": "Labuhan Deli",
+          "slug": "labuhan-deli-1212250"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20373"
+    ],
+    "geo": {
+      "lat": "3.897",
+      "lon": "98.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212250002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Manunggal",
+      "en": "Manunggal",
+      "slug": "manunggal-1212250002"
+    },
+    "code": {
+      "id": "1212250002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212250",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Deli",
+        "en": "Labuhan Deli",
+        "slug": "labuhan-deli-1212250"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212250",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Deli",
+          "en": "Labuhan Deli",
+          "slug": "labuhan-deli-1212250"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20373"
+    ],
+    "geo": {
+      "lat": "3.686",
+      "lon": "98.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212250003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pematang Johar",
+      "en": "Pematang Johar",
+      "slug": "pematang-johar-1212250003"
+    },
+    "code": {
+      "id": "1212250003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212250",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Deli",
+        "en": "Labuhan Deli",
+        "slug": "labuhan-deli-1212250"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212250",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Deli",
+          "en": "Labuhan Deli",
+          "slug": "labuhan-deli-1212250"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20373"
+    ],
+    "geo": {
+      "lat": "3.755",
+      "lon": "98.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212250004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Telaga Tujuh",
+      "en": "Telaga Tujuh",
+      "slug": "telaga-tujuh-1212250004"
+    },
+    "code": {
+      "id": "1212250004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212250",
+      "level": 3,
+      "name": {
+        "local": "Labuhan Deli",
+        "en": "Labuhan Deli",
+        "slug": "labuhan-deli-1212250"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212250",
+        "level": 3,
+        "name": {
+          "local": "Labuhan Deli",
+          "en": "Labuhan Deli",
+          "slug": "labuhan-deli-1212250"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20373"
+    ],
+    "geo": {
+      "lat": "3.867",
+      "lon": "98.622"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3511152",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Botolinggo",
+    "en": "Botolinggo",
+    "slug": "botolinggo-3511152"
+  },
+  "code": {
+    "id": "3511152",
+    "iso": null
+  },
+  "parent": {
+    "id": "3511",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bondowoso",
+      "en": "Bondowoso",
+      "slug": "bondowoso-3511"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3511",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bondowoso",
+        "en": "Bondowoso",
+        "slug": "bondowoso-3511"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.911",
+    "lon": "114.045"
+  },
+  "metadata": {},
+  "source": {}
+}

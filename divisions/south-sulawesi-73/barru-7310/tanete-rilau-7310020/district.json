@@ -1,0 +1,56 @@
+{
+  "id": "7310020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanete Rilau",
+    "en": "Tanete Rilau",
+    "slug": "tanete-rilau-7310020"
+  },
+  "code": {
+    "id": "7310020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barru",
+      "en": "Barru",
+      "slug": "barru-7310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barru",
+        "en": "Barru",
+        "slug": "barru-7310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.503",
+    "lon": "119.614"
+  },
+  "metadata": {},
+  "source": {}
+}

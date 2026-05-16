@@ -1,0 +1,56 @@
+{
+  "id": "3324150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cepiring",
+    "en": "Cepiring",
+    "slug": "cepiring-3324150"
+  },
+  "code": {
+    "id": "3324150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3324",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kendal",
+      "en": "Kendal",
+      "slug": "kendal-3324"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3324",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kendal",
+        "en": "Kendal",
+        "slug": "kendal-3324"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.91",
+    "lon": "110.153"
+  },
+  "metadata": {},
+  "source": {}
+}

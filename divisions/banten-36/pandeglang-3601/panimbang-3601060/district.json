@@ -1,0 +1,56 @@
+{
+  "id": "3601060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panimbang",
+    "en": "Panimbang",
+    "slug": "panimbang-3601060"
+  },
+  "code": {
+    "id": "3601060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pandeglang",
+      "en": "Pandeglang",
+      "slug": "pandeglang-3601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pandeglang",
+        "en": "Pandeglang",
+        "slug": "pandeglang-3601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.523",
+    "lon": "105.726"
+  },
+  "metadata": {},
+  "source": {}
+}

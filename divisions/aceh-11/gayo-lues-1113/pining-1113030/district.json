@@ -1,0 +1,56 @@
+{
+  "id": "1113030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pining",
+    "en": "Pining",
+    "slug": "pining-1113030"
+  },
+  "code": {
+    "id": "1113030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1113",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gayo Lues",
+      "en": "Gayo Lues",
+      "slug": "gayo-lues-1113"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1113",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gayo Lues",
+        "en": "Gayo Lues",
+        "slug": "gayo-lues-1113"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.996",
+    "lon": "97.667"
+  },
+  "metadata": {},
+  "source": {}
+}

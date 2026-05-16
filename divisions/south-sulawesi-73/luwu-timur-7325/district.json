@@ -1,0 +1,618 @@
+[
+  {
+    "id": "7325040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Angkona",
+      "en": "Angkona",
+      "slug": "angkona-7325040"
+    },
+    "code": {
+      "id": "7325040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.511",
+      "lon": "120.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Burau",
+      "en": "Burau",
+      "slug": "burau-7325010"
+    },
+    "code": {
+      "id": "7325010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.548",
+      "lon": "120.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalaena",
+      "en": "Kalaena",
+      "slug": "kalaena-7325081"
+    },
+    "code": {
+      "id": "7325081",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.428",
+      "lon": "120.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malili",
+      "en": "Malili",
+      "slug": "malili-7325050"
+    },
+    "code": {
+      "id": "7325050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.675",
+      "lon": "121.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mangkutana",
+      "en": "Mangkutana",
+      "slug": "mangkutana-7325080"
+    },
+    "code": {
+      "id": "7325080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.279",
+      "lon": "120.68"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nuha",
+      "en": "Nuha",
+      "slug": "nuha-7325070"
+    },
+    "code": {
+      "id": "7325070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.442",
+      "lon": "121.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomoni",
+      "en": "Tomoni",
+      "slug": "tomoni-7325030"
+    },
+    "code": {
+      "id": "7325030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.44",
+      "lon": "120.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomoni Timur",
+      "en": "Tomoni Timur",
+      "slug": "tomoni-timur-7325031"
+    },
+    "code": {
+      "id": "7325031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.543",
+      "lon": "120.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Towuti",
+      "en": "Towuti",
+      "slug": "towuti-7325060"
+    },
+    "code": {
+      "id": "7325060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.738",
+      "lon": "121.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wasuponda",
+      "en": "Wasuponda",
+      "slug": "wasuponda-7325071"
+    },
+    "code": {
+      "id": "7325071",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.573",
+      "lon": "121.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7325020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wotu",
+      "en": "Wotu",
+      "slug": "wotu-7325020"
+    },
+    "code": {
+      "id": "7325020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Luwu Timur",
+          "en": "Luwu Timur",
+          "slug": "luwu-timur-7325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.596",
+      "lon": "120.838"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

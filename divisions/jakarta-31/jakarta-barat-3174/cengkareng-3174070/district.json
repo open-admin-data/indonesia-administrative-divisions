@@ -1,0 +1,56 @@
+{
+  "id": "3174070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cengkareng",
+    "en": "Cengkareng",
+    "slug": "cengkareng-3174070"
+  },
+  "code": {
+    "id": "3174070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3174",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Barat",
+      "en": "Jakarta Barat",
+      "slug": "jakarta-barat-3174"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3174",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Barat",
+        "en": "Jakarta Barat",
+        "slug": "jakarta-barat-3174"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.155",
+    "lon": "106.738"
+  },
+  "metadata": {},
+  "source": {}
+}

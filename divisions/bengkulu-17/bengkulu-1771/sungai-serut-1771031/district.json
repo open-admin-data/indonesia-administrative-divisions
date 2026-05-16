@@ -1,0 +1,56 @@
+{
+  "id": "1771031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Serut",
+    "en": "Sungai Serut",
+    "slug": "sungai-serut-1771031"
+  },
+  "code": {
+    "id": "1771031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1771",
+    "level": 2,
+    "name": {
+      "local": "Kota Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-1771"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1771",
+      "level": 2,
+      "name": {
+        "local": "Kota Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-1771"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.788",
+    "lon": "102.305"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1810",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pringsewu",
+    "en": "Pringsewu",
+    "slug": "pringsewu-1810"
+  },
+  "code": {
+    "id": "1810",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 131
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.344",
+    "lon": "105.006"
+  },
+  "metadata": {},
+  "source": {}
+}

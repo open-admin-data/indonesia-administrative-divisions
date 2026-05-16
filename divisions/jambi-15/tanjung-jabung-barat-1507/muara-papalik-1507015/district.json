@@ -1,0 +1,56 @@
+{
+  "id": "1507015",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Papalik",
+    "en": "Muara Papalik",
+    "slug": "muara-papalik-1507015"
+  },
+  "code": {
+    "id": "1507015",
+    "iso": null
+  },
+  "parent": {
+    "id": "1507",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanjung Jabung Barat",
+      "en": "Tanjung Jabung Barat",
+      "slug": "tanjung-jabung-barat-1507"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1507",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanjung Jabung Barat",
+        "en": "Tanjung Jabung Barat",
+        "slug": "tanjung-jabung-barat-1507"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.291",
+    "lon": "103.162"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "3578230001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ampel",
+      "en": "Ampel",
+      "slug": "ampel-3578230001"
+    },
+    "code": {
+      "id": "3578230001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578230",
+      "level": 3,
+      "name": {
+        "local": "Semampir",
+        "en": "Semampir",
+        "slug": "semampir-3578230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578230",
+        "level": 3,
+        "name": {
+          "local": "Semampir",
+          "en": "Semampir",
+          "slug": "semampir-3578230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60151"
+    ],
+    "geo": {
+      "lat": "-7.228",
+      "lon": "112.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578230003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pegirian",
+      "en": "Pegirian",
+      "slug": "pegirian-3578230003"
+    },
+    "code": {
+      "id": "3578230003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578230",
+      "level": 3,
+      "name": {
+        "local": "Semampir",
+        "en": "Semampir",
+        "slug": "semampir-3578230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578230",
+        "level": 3,
+        "name": {
+          "local": "Semampir",
+          "en": "Semampir",
+          "slug": "semampir-3578230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60151"
+    ],
+    "geo": {
+      "lat": "-7.225",
+      "lon": "112.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578230002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidotopo",
+      "en": "Sidotopo",
+      "slug": "sidotopo-3578230002"
+    },
+    "code": {
+      "id": "3578230002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578230",
+      "level": 3,
+      "name": {
+        "local": "Semampir",
+        "en": "Semampir",
+        "slug": "semampir-3578230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578230",
+        "level": 3,
+        "name": {
+          "local": "Semampir",
+          "en": "Semampir",
+          "slug": "semampir-3578230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60151"
+    ],
+    "geo": {
+      "lat": "-7.23",
+      "lon": "112.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578230004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonokusumo",
+      "en": "Wonokusumo",
+      "slug": "wonokusumo-3578230004"
+    },
+    "code": {
+      "id": "3578230004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578230",
+      "level": 3,
+      "name": {
+        "local": "Semampir",
+        "en": "Semampir",
+        "slug": "semampir-3578230"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578230",
+        "level": 3,
+        "name": {
+          "local": "Semampir",
+          "en": "Semampir",
+          "slug": "semampir-3578230"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60151"
+    ],
+    "geo": {
+      "lat": "-7.219",
+      "lon": "112.754"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3210170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kadipaten",
+    "en": "Kadipaten",
+    "slug": "kadipaten-3210170"
+  },
+  "code": {
+    "id": "3210170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Majalengka",
+      "en": "Majalengka",
+      "slug": "majalengka-3210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.755",
+    "lon": "108.176"
+  },
+  "metadata": {},
+  "source": {}
+}

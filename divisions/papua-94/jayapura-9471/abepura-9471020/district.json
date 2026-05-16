@@ -1,0 +1,56 @@
+{
+  "id": "9471020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Abepura",
+    "en": "Abepura",
+    "slug": "abepura-9471020"
+  },
+  "code": {
+    "id": "9471020",
+    "iso": null
+  },
+  "parent": {
+    "id": "9471",
+    "level": 2,
+    "name": {
+      "local": "Kota Jayapura",
+      "en": "Jayapura",
+      "slug": "jayapura-9471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9471",
+      "level": 2,
+      "name": {
+        "local": "Kota Jayapura",
+        "en": "Jayapura",
+        "slug": "jayapura-9471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.653",
+    "lon": "140.719"
+  },
+  "metadata": {},
+  "source": {}
+}

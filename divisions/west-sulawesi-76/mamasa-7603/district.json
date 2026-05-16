@@ -1,0 +1,954 @@
+[
+  {
+    "id": "7603090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aralle",
+      "en": "Aralle",
+      "slug": "aralle-7603090"
+    },
+    "code": {
+      "id": "7603090",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.865",
+      "lon": "119.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balla",
+      "en": "Balla",
+      "slug": "balla-7603061"
+    },
+    "code": {
+      "id": "7603061",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.993",
+      "lon": "119.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bambang",
+      "en": "Bambang",
+      "slug": "bambang-7603081"
+    },
+    "code": {
+      "id": "7603081",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.913",
+      "lon": "119.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buntu Malangka",
+      "en": "Buntu Malangka",
+      "slug": "buntu-malangka-7603091"
+    },
+    "code": {
+      "id": "7603091",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.847",
+      "lon": "119.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mamasa",
+      "en": "Mamasa",
+      "slug": "mamasa-7603050"
+    },
+    "code": {
+      "id": "7603050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.876",
+      "lon": "119.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mambi",
+      "en": "Mambi",
+      "slug": "mambi-7603080"
+    },
+    "code": {
+      "id": "7603080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.997",
+      "lon": "119.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603083",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mehalaan",
+      "en": "Mehalaan",
+      "slug": "mehalaan-7603083"
+    },
+    "code": {
+      "id": "7603083",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.048",
+      "lon": "119.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Messawa",
+      "en": "Messawa",
+      "slug": "messawa-7603020"
+    },
+    "code": {
+      "id": "7603020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.266",
+      "lon": "119.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nosu",
+      "en": "Nosu",
+      "slug": "nosu-7603031"
+    },
+    "code": {
+      "id": "7603031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.123",
+      "lon": "119.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pana",
+      "en": "Pana",
+      "slug": "pana-7603030"
+    },
+    "code": {
+      "id": "7603030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.048",
+      "lon": "119.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rantebulahan Timur",
+      "en": "Rantebulahan Timur",
+      "slug": "rantebulahan-timur-7603082"
+    },
+    "code": {
+      "id": "7603082",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.989",
+      "lon": "119.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sesenapadang",
+      "en": "Sesenapadang",
+      "slug": "sesenapadang-7603070"
+    },
+    "code": {
+      "id": "7603070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.047",
+      "lon": "119.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumarorong",
+      "en": "Sumarorong",
+      "slug": "sumarorong-7603010"
+    },
+    "code": {
+      "id": "7603010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.139",
+      "lon": "119.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabang",
+      "en": "Tabang",
+      "slug": "tabang-7603040"
+    },
+    "code": {
+      "id": "7603040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.882",
+      "lon": "119.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabulahan",
+      "en": "Tabulahan",
+      "slug": "tabulahan-7603100"
+    },
+    "code": {
+      "id": "7603100",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.767",
+      "lon": "119.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanduk Kalua",
+      "en": "Tanduk Kalua",
+      "slug": "tanduk-kalua-7603060"
+    },
+    "code": {
+      "id": "7603060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.043",
+      "lon": "119.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tawalian",
+      "en": "Tawalian",
+      "slug": "tawalian-7603071"
+    },
+    "code": {
+      "id": "7603071",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.949",
+      "lon": "119.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

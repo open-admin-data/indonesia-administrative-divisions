@@ -1,0 +1,56 @@
+{
+  "id": "1115022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tadu Raya",
+    "en": "Tadu Raya",
+    "slug": "tadu-raya-1115022"
+  },
+  "code": {
+    "id": "1115022",
+    "iso": null
+  },
+  "parent": {
+    "id": "1115",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nagan Raya",
+      "en": "Nagan Raya",
+      "slug": "nagan-raya-1115"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1115",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nagan Raya",
+        "en": "Nagan Raya",
+        "slug": "nagan-raya-1115"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.061",
+    "lon": "96.406"
+  },
+  "metadata": {},
+  "source": {}
+}

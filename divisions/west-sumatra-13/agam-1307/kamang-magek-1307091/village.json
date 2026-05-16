@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1307091002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kamang Hilia",
+      "en": "Kamang Hilia",
+      "slug": "kamang-hilia-1307091002"
+    },
+    "code": {
+      "id": "1307091002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307091",
+      "level": 3,
+      "name": {
+        "local": "Kamang Magek",
+        "en": "Kamang Magek",
+        "slug": "kamang-magek-1307091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307091",
+        "level": 3,
+        "name": {
+          "local": "Kamang Magek",
+          "en": "Kamang Magek",
+          "slug": "kamang-magek-1307091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26152"
+    ],
+    "geo": {
+      "lat": "-0.216",
+      "lon": "100.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307091003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kamang Mudiak",
+      "en": "Kamang Mudiak",
+      "slug": "kamang-mudiak-1307091003"
+    },
+    "code": {
+      "id": "1307091003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307091",
+      "level": 3,
+      "name": {
+        "local": "Kamang Magek",
+        "en": "Kamang Magek",
+        "slug": "kamang-magek-1307091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307091",
+        "level": 3,
+        "name": {
+          "local": "Kamang Magek",
+          "en": "Kamang Magek",
+          "slug": "kamang-magek-1307091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26152"
+    ],
+    "geo": {
+      "lat": "-0.193",
+      "lon": "100.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307091001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Magek",
+      "en": "Magek",
+      "slug": "magek-1307091001"
+    },
+    "code": {
+      "id": "1307091001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307091",
+      "level": 3,
+      "name": {
+        "local": "Kamang Magek",
+        "en": "Kamang Magek",
+        "slug": "kamang-magek-1307091"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307091",
+        "level": 3,
+        "name": {
+          "local": "Kamang Magek",
+          "en": "Kamang Magek",
+          "slug": "kamang-magek-1307091"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26152"
+    ],
+    "geo": {
+      "lat": "-0.235",
+      "lon": "100.434"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

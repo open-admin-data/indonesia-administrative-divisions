@@ -1,0 +1,31 @@
+{
+  "id": "13",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sumatera Barat",
+    "en": "West Sumatra",
+    "slug": "west-sumatra-13"
+  },
+  "code": {
+    "id": "13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 19,
+    "village": 1160,
+    "district": 179
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.938",
+    "lon": "100.36"
+  },
+  "metadata": {},
+  "source": {}
+}

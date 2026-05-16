@@ -1,0 +1,48 @@
+{
+  "id": "5318",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Nagekeo",
+    "en": "Nagekeo",
+    "slug": "nagekeo-5318"
+  },
+  "code": {
+    "id": "5318",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 110
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.392",
+    "lon": "119.181"
+  },
+  "metadata": {},
+  "source": {}
+}

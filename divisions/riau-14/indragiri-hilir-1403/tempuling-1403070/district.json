@@ -1,0 +1,56 @@
+{
+  "id": "1403070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tempuling",
+    "en": "Tempuling",
+    "slug": "tempuling-1403070"
+  },
+  "code": {
+    "id": "1403070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indragiri Hilir",
+      "en": "Indragiri Hilir",
+      "slug": "indragiri-hilir-1403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indragiri Hilir",
+        "en": "Indragiri Hilir",
+        "slug": "indragiri-hilir-1403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.393",
+    "lon": "102.915"
+  },
+  "metadata": {},
+  "source": {}
+}

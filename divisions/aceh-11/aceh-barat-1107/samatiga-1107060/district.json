@@ -1,0 +1,56 @@
+{
+  "id": "1107060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samatiga",
+    "en": "Samatiga",
+    "slug": "samatiga-1107060"
+  },
+  "code": {
+    "id": "1107060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Barat",
+      "en": "Aceh Barat",
+      "slug": "aceh-barat-1107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Barat",
+        "en": "Aceh Barat",
+        "slug": "aceh-barat-1107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.251",
+    "lon": "96.061"
+  },
+  "metadata": {},
+  "source": {}
+}

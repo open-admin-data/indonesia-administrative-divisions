@@ -1,0 +1,56 @@
+{
+  "id": "1803110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kalianda",
+    "en": "Kalianda",
+    "slug": "kalianda-1803110"
+  },
+  "code": {
+    "id": "1803110",
+    "iso": null
+  },
+  "parent": {
+    "id": "1803",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Selatan",
+      "en": "Lampung Selatan",
+      "slug": "lampung-selatan-1803"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.695",
+    "lon": "105.562"
+  },
+  "metadata": {},
+  "source": {}
+}

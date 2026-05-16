@@ -1,0 +1,56 @@
+{
+  "id": "5320010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Raijua",
+    "en": "Raijua",
+    "slug": "raijua-5320010"
+  },
+  "code": {
+    "id": "5320010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5320",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sabu Raijua",
+      "en": "Sabu Raijua",
+      "slug": "sabu-raijua-5320"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.714",
+    "lon": "121.452"
+  },
+  "metadata": {},
+  "source": {}
+}

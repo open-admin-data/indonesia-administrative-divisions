@@ -1,0 +1,56 @@
+{
+  "id": "3506040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kras",
+    "en": "Kras",
+    "slug": "kras-3506040"
+  },
+  "code": {
+    "id": "3506040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kediri",
+      "en": "Kediri",
+      "slug": "kediri-3506"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.966",
+    "lon": "111.979"
+  },
+  "metadata": {},
+  "source": {}
+}

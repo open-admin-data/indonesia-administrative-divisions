@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9108041004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalitoko",
+      "en": "Kalitoko",
+      "slug": "kalitoko-9108041004"
+    },
+    "code": {
+      "id": "9108041004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108041",
+      "level": 3,
+      "name": {
+        "local": "Teluk Mayalibit",
+        "en": "Teluk Mayalibit",
+        "slug": "teluk-mayalibit-9108041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108041",
+        "level": 3,
+        "name": {
+          "local": "Teluk Mayalibit",
+          "en": "Teluk Mayalibit",
+          "slug": "teluk-mayalibit-9108041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98486"
+    ],
+    "geo": {
+      "lat": "-0.205",
+      "lon": "130.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9108041003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lopintol",
+      "en": "Lopintol",
+      "slug": "lopintol-9108041003"
+    },
+    "code": {
+      "id": "9108041003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108041",
+      "level": 3,
+      "name": {
+        "local": "Teluk Mayalibit",
+        "en": "Teluk Mayalibit",
+        "slug": "teluk-mayalibit-9108041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108041",
+        "level": 3,
+        "name": {
+          "local": "Teluk Mayalibit",
+          "en": "Teluk Mayalibit",
+          "slug": "teluk-mayalibit-9108041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98486"
+    ],
+    "geo": {
+      "lat": "-0.326",
+      "lon": "130.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9108041001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Warsamdin",
+      "en": "Warsamdin",
+      "slug": "warsamdin-9108041001"
+    },
+    "code": {
+      "id": "9108041001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108041",
+      "level": 3,
+      "name": {
+        "local": "Teluk Mayalibit",
+        "en": "Teluk Mayalibit",
+        "slug": "teluk-mayalibit-9108041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108041",
+        "level": 3,
+        "name": {
+          "local": "Teluk Mayalibit",
+          "en": "Teluk Mayalibit",
+          "slug": "teluk-mayalibit-9108041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98486"
+    ],
+    "geo": {
+      "lat": "-0.241",
+      "lon": "130.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

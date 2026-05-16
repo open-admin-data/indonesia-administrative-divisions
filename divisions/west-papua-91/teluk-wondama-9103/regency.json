@@ -1,0 +1,48 @@
+{
+  "id": "9103",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Teluk Wondama",
+    "en": "Teluk Wondama",
+    "slug": "teluk-wondama-9103"
+  },
+  "code": {
+    "id": "9103",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 13,
+    "village": 74
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.55",
+    "lon": "140.477"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9417030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Borme",
+    "en": "Borme",
+    "slug": "borme-9417030"
+  },
+  "code": {
+    "id": "9417030",
+    "iso": null
+  },
+  "parent": {
+    "id": "9417",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pegunungan Bintang",
+      "en": "Pegunungan Bintang",
+      "slug": "pegunungan-bintang-9417"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9417",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pegunungan Bintang",
+        "en": "Pegunungan Bintang",
+        "slug": "pegunungan-bintang-9417"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.207",
+    "lon": "140.328"
+  },
+  "metadata": {},
+  "source": {}
+}

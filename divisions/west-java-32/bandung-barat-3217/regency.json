@@ -1,0 +1,48 @@
+{
+  "id": "3217",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bandung Barat",
+    "en": "Bandung Barat",
+    "slug": "bandung-barat-3217"
+  },
+  "code": {
+    "id": "3217",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 164
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.865",
+    "lon": "107.492"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6405070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Tabur",
+    "en": "Gunung Tabur",
+    "slug": "gunung-tabur-6405070"
+  },
+  "code": {
+    "id": "6405070",
+    "iso": null
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Berau",
+      "en": "Berau",
+      "slug": "berau-6405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Berau",
+        "en": "Berau",
+        "slug": "berau-6405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.326",
+    "lon": "117.553"
+  },
+  "metadata": {},
+  "source": {}
+}

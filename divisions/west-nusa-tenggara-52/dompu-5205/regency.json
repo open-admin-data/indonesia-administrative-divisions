@@ -1,0 +1,48 @@
+{
+  "id": "5205",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Dompu",
+    "en": "Dompu",
+    "slug": "dompu-5205"
+  },
+  "code": {
+    "id": "5205",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Barat",
+      "en": "West Nusa Tenggara",
+      "slug": "west-nusa-tenggara-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 77
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.534",
+    "lon": "118.465"
+  },
+  "metadata": {},
+  "source": {}
+}

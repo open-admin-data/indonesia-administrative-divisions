@@ -1,0 +1,56 @@
+{
+  "id": "3372030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasar Kliwon",
+    "en": "Pasar Kliwon",
+    "slug": "pasar-kliwon-3372030"
+  },
+  "code": {
+    "id": "3372030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3372",
+    "level": 2,
+    "name": {
+      "local": "Kota Surakarta",
+      "en": "Surakarta",
+      "slug": "surakarta-3372"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3372",
+      "level": 2,
+      "name": {
+        "local": "Kota Surakarta",
+        "en": "Surakarta",
+        "slug": "surakarta-3372"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.58",
+    "lon": "110.832"
+  },
+  "metadata": {},
+  "source": {}
+}

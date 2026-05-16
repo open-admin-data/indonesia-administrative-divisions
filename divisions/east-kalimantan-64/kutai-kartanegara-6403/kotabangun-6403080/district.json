@@ -1,0 +1,56 @@
+{
+  "id": "6403080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kotabangun",
+    "en": "Kotabangun",
+    "slug": "kotabangun-6403080"
+  },
+  "code": {
+    "id": "6403080",
+    "iso": null
+  },
+  "parent": {
+    "id": "6403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Kartanegara",
+      "en": "Kutai Kartanegara",
+      "slug": "kutai-kartanegara-6403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Kartanegara",
+        "en": "Kutai Kartanegara",
+        "slug": "kutai-kartanegara-6403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.347",
+    "lon": "116.62"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6305",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tapin",
+    "en": "Tapin",
+    "slug": "tapin-6305"
+  },
+  "code": {
+    "id": "6305",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Selatan",
+      "en": "South Kalimantan",
+      "slug": "south-kalimantan-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 132
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.932",
+    "lon": "115.163"
+  },
+  "metadata": {},
+  "source": {}
+}

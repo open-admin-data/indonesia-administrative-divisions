@@ -1,0 +1,450 @@
+[
+  {
+    "id": "7172030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aertembaga",
+      "en": "Aertembaga",
+      "slug": "aertembaga-7172030"
+    },
+    "code": {
+      "id": "7172030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.501",
+      "lon": "125.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7172012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Girian",
+      "en": "Girian",
+      "slug": "girian-7172012"
+    },
+    "code": {
+      "id": "7172012",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.445",
+      "lon": "125.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7172021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembeh Selatan",
+      "en": "Lembeh Selatan",
+      "slug": "lembeh-selatan-7172021"
+    },
+    "code": {
+      "id": "7172021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.415",
+      "lon": "125.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7172022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembeh Utara",
+      "en": "Lembeh Utara",
+      "slug": "lembeh-utara-7172022"
+    },
+    "code": {
+      "id": "7172022",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.488",
+      "lon": "125.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7172010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Madidir",
+      "en": "Madidir",
+      "slug": "madidir-7172010"
+    },
+    "code": {
+      "id": "7172010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.461",
+      "lon": "125.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7172031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maesa",
+      "en": "Maesa",
+      "slug": "maesa-7172031"
+    },
+    "code": {
+      "id": "7172031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.463",
+      "lon": "125.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7172011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Matuari",
+      "en": "Matuari",
+      "slug": "matuari-7172011"
+    },
+    "code": {
+      "id": "7172011",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.43",
+      "lon": "125.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7172040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ranowulu",
+      "en": "Ranowulu",
+      "slug": "ranowulu-7172040"
+    },
+    "code": {
+      "id": "7172040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7172",
+        "level": 2,
+        "name": {
+          "local": "Kota Bitung",
+          "en": "Bitung",
+          "slug": "bitung-7172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.519",
+      "lon": "125.108"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

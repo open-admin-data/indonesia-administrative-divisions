@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1302101002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Ranah",
+      "en": "Koto Ranah",
+      "slug": "koto-ranah-1302101002"
+    },
+    "code": {
+      "id": "1302101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302101",
+      "level": 3,
+      "name": {
+        "local": "Iv  Nagari Bayang Utara",
+        "en": "Iv  Nagari Bayang Utara",
+        "slug": "iv-nagari-bayang-utara-1302101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Selatan",
+          "en": "Pesisir Selatan",
+          "slug": "pesisir-selatan-1302"
+        }
+      },
+      {
+        "id": "1302101",
+        "level": 3,
+        "name": {
+          "local": "Iv  Nagari Bayang Utara",
+          "en": "Iv  Nagari Bayang Utara",
+          "slug": "iv-nagari-bayang-utara-1302101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25653"
+    ],
+    "geo": {
+      "lat": "-1.088",
+      "lon": "100.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1302101006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Limau Gadang Pancung Taba",
+      "en": "Limau Gadang Pancung Taba",
+      "slug": "limau-gadang-pancung-taba-1302101006"
+    },
+    "code": {
+      "id": "1302101006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302101",
+      "level": 3,
+      "name": {
+        "local": "Iv  Nagari Bayang Utara",
+        "en": "Iv  Nagari Bayang Utara",
+        "slug": "iv-nagari-bayang-utara-1302101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Selatan",
+          "en": "Pesisir Selatan",
+          "slug": "pesisir-selatan-1302"
+        }
+      },
+      {
+        "id": "1302101",
+        "level": 3,
+        "name": {
+          "local": "Iv  Nagari Bayang Utara",
+          "en": "Iv  Nagari Bayang Utara",
+          "slug": "iv-nagari-bayang-utara-1302101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25653"
+    ],
+    "geo": {
+      "lat": "-1.264",
+      "lon": "100.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1302101003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muaro Aie",
+      "en": "Muaro Aie",
+      "slug": "muaro-aie-1302101003"
+    },
+    "code": {
+      "id": "1302101003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302101",
+      "level": 3,
+      "name": {
+        "local": "Iv  Nagari Bayang Utara",
+        "en": "Iv  Nagari Bayang Utara",
+        "slug": "iv-nagari-bayang-utara-1302101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Selatan",
+          "en": "Pesisir Selatan",
+          "slug": "pesisir-selatan-1302"
+        }
+      },
+      {
+        "id": "1302101",
+        "level": 3,
+        "name": {
+          "local": "Iv  Nagari Bayang Utara",
+          "en": "Iv  Nagari Bayang Utara",
+          "slug": "iv-nagari-bayang-utara-1302101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25653"
+    ],
+    "geo": {
+      "lat": "-1.125",
+      "lon": "100.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1302101004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pancuang Taba",
+      "en": "Pancuang Taba",
+      "slug": "pancuang-taba-1302101004"
+    },
+    "code": {
+      "id": "1302101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302101",
+      "level": 3,
+      "name": {
+        "local": "Iv  Nagari Bayang Utara",
+        "en": "Iv  Nagari Bayang Utara",
+        "slug": "iv-nagari-bayang-utara-1302101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Selatan",
+          "en": "Pesisir Selatan",
+          "slug": "pesisir-selatan-1302"
+        }
+      },
+      {
+        "id": "1302101",
+        "level": 3,
+        "name": {
+          "local": "Iv  Nagari Bayang Utara",
+          "en": "Iv  Nagari Bayang Utara",
+          "slug": "iv-nagari-bayang-utara-1302101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25653"
+    ],
+    "geo": {
+      "lat": "-1.134",
+      "lon": "100.687"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1302101001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Puluik Puluik",
+      "en": "Puluik Puluik",
+      "slug": "puluik-puluik-1302101001"
+    },
+    "code": {
+      "id": "1302101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302101",
+      "level": 3,
+      "name": {
+        "local": "Iv  Nagari Bayang Utara",
+        "en": "Iv  Nagari Bayang Utara",
+        "slug": "iv-nagari-bayang-utara-1302101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Selatan",
+          "en": "Pesisir Selatan",
+          "slug": "pesisir-selatan-1302"
+        }
+      },
+      {
+        "id": "1302101",
+        "level": 3,
+        "name": {
+          "local": "Iv  Nagari Bayang Utara",
+          "en": "Iv  Nagari Bayang Utara",
+          "slug": "iv-nagari-bayang-utara-1302101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25653"
+    ],
+    "geo": {
+      "lat": "-1.201",
+      "lon": "100.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1302101005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Puluik Puluik Selatan",
+      "en": "Puluik Puluik Selatan",
+      "slug": "puluik-puluik-selatan-1302101005"
+    },
+    "code": {
+      "id": "1302101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1302101",
+      "level": 3,
+      "name": {
+        "local": "Iv  Nagari Bayang Utara",
+        "en": "Iv  Nagari Bayang Utara",
+        "slug": "iv-nagari-bayang-utara-1302101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1302",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Selatan",
+          "en": "Pesisir Selatan",
+          "slug": "pesisir-selatan-1302"
+        }
+      },
+      {
+        "id": "1302101",
+        "level": 3,
+        "name": {
+          "local": "Iv  Nagari Bayang Utara",
+          "en": "Iv  Nagari Bayang Utara",
+          "slug": "iv-nagari-bayang-utara-1302101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25653"
+    ],
+    "geo": {
+      "lat": "-1.201",
+      "lon": "100.586"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3502060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sooko",
+    "en": "Sooko",
+    "slug": "sooko-3502060"
+  },
+  "code": {
+    "id": "3502060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ponorogo",
+      "en": "Ponorogo",
+      "slug": "ponorogo-3502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ponorogo",
+        "en": "Ponorogo",
+        "slug": "ponorogo-3502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.916",
+    "lon": "111.652"
+  },
+  "metadata": {},
+  "source": {}
+}

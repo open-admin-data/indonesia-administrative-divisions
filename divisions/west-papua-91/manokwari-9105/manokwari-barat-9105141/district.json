@@ -1,0 +1,56 @@
+{
+  "id": "9105141",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manokwari Barat",
+    "en": "Manokwari Barat",
+    "slug": "manokwari-barat-9105141"
+  },
+  "code": {
+    "id": "9105141",
+    "iso": null
+  },
+  "parent": {
+    "id": "9105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manokwari",
+      "en": "Manokwari",
+      "slug": "manokwari-9105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manokwari",
+        "en": "Manokwari",
+        "slug": "manokwari-9105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.843",
+    "lon": "134.037"
+  },
+  "metadata": {},
+  "source": {}
+}

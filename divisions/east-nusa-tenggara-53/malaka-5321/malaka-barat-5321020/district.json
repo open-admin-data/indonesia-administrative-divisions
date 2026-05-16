@@ -1,0 +1,56 @@
+{
+  "id": "5321020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malaka Barat",
+    "en": "Malaka Barat",
+    "slug": "malaka-barat-5321020"
+  },
+  "code": {
+    "id": "5321020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5321",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malaka",
+      "en": "Malaka",
+      "slug": "malaka-5321"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malaka",
+        "en": "Malaka",
+        "slug": "malaka-5321"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.664",
+    "lon": "124.928"
+  },
+  "metadata": {},
+  "source": {}
+}

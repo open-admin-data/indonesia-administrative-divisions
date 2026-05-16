@@ -1,0 +1,56 @@
+{
+  "id": "1110020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pandrah",
+    "en": "Pandrah",
+    "slug": "pandrah-1110020"
+  },
+  "code": {
+    "id": "1110020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bireuen",
+      "en": "Bireuen",
+      "slug": "bireuen-1110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.074",
+    "lon": "96.448"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "8171021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leitimur Selatan",
+      "en": "Leitimur Selatan",
+      "slug": "leitimur-selatan-8171021"
+    },
+    "code": {
+      "id": "8171021",
+      "iso": null
+    },
+    "parent": {
+      "id": "8171",
+      "level": 2,
+      "name": {
+        "local": "Kota Ambon",
+        "en": "Ambon",
+        "slug": "ambon-8171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8171",
+        "level": 2,
+        "name": {
+          "local": "Kota Ambon",
+          "en": "Ambon",
+          "slug": "ambon-8171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.696",
+      "lon": "128.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8171010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nusaniwe",
+      "en": "Nusaniwe",
+      "slug": "nusaniwe-8171010"
+    },
+    "code": {
+      "id": "8171010",
+      "iso": null
+    },
+    "parent": {
+      "id": "8171",
+      "level": 2,
+      "name": {
+        "local": "Kota Ambon",
+        "en": "Ambon",
+        "slug": "ambon-8171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8171",
+        "level": 2,
+        "name": {
+          "local": "Kota Ambon",
+          "en": "Ambon",
+          "slug": "ambon-8171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.745",
+      "lon": "128.149"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8171020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sirimau",
+      "en": "Sirimau",
+      "slug": "sirimau-8171020"
+    },
+    "code": {
+      "id": "8171020",
+      "iso": null
+    },
+    "parent": {
+      "id": "8171",
+      "level": 2,
+      "name": {
+        "local": "Kota Ambon",
+        "en": "Ambon",
+        "slug": "ambon-8171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8171",
+        "level": 2,
+        "name": {
+          "local": "Kota Ambon",
+          "en": "Ambon",
+          "slug": "ambon-8171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.693",
+      "lon": "128.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8171031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Ambon",
+      "en": "Teluk Ambon",
+      "slug": "teluk-ambon-8171031"
+    },
+    "code": {
+      "id": "8171031",
+      "iso": null
+    },
+    "parent": {
+      "id": "8171",
+      "level": 2,
+      "name": {
+        "local": "Kota Ambon",
+        "en": "Ambon",
+        "slug": "ambon-8171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8171",
+        "level": 2,
+        "name": {
+          "local": "Kota Ambon",
+          "en": "Ambon",
+          "slug": "ambon-8171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.666",
+      "lon": "128.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8171030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Ambon Baguala",
+      "en": "Teluk Ambon Baguala",
+      "slug": "teluk-ambon-baguala-8171030"
+    },
+    "code": {
+      "id": "8171030",
+      "iso": null
+    },
+    "parent": {
+      "id": "8171",
+      "level": 2,
+      "name": {
+        "local": "Kota Ambon",
+        "en": "Ambon",
+        "slug": "ambon-8171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8171",
+        "level": 2,
+        "name": {
+          "local": "Kota Ambon",
+          "en": "Ambon",
+          "slug": "ambon-8171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.629",
+      "lon": "128.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

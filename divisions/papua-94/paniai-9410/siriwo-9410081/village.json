@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9410081001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ikotu / Bua",
+      "en": "Ikotu / Bua",
+      "slug": "ikotu-bua-9410081001"
+    },
+    "code": {
+      "id": "9410081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410081",
+      "level": 3,
+      "name": {
+        "local": "Siriwo",
+        "en": "Siriwo",
+        "slug": "siriwo-9410081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410081",
+        "level": 3,
+        "name": {
+          "local": "Siriwo",
+          "en": "Siriwo",
+          "slug": "siriwo-9410081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98762"
+    ],
+    "geo": {
+      "lat": "-3.68",
+      "lon": "136.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9410081003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kepi / Todia",
+      "en": "Kepi / Todia",
+      "slug": "kepi-todia-9410081003"
+    },
+    "code": {
+      "id": "9410081003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410081",
+      "level": 3,
+      "name": {
+        "local": "Siriwo",
+        "en": "Siriwo",
+        "slug": "siriwo-9410081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410081",
+        "level": 3,
+        "name": {
+          "local": "Siriwo",
+          "en": "Siriwo",
+          "slug": "siriwo-9410081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98762"
+    ],
+    "geo": {
+      "lat": "-3.56",
+      "lon": "136.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9410081002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Siriwo",
+      "en": "Siriwo",
+      "slug": "siriwo-9410081002"
+    },
+    "code": {
+      "id": "9410081002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410081",
+      "level": 3,
+      "name": {
+        "local": "Siriwo",
+        "en": "Siriwo",
+        "slug": "siriwo-9410081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410081",
+        "level": 3,
+        "name": {
+          "local": "Siriwo",
+          "en": "Siriwo",
+          "slug": "siriwo-9410081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98762"
+    ],
+    "geo": {
+      "lat": "-3.62",
+      "lon": "136.094"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

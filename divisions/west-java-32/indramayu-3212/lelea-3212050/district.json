@@ -1,0 +1,56 @@
+{
+  "id": "3212050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lelea",
+    "en": "Lelea",
+    "slug": "lelea-3212050"
+  },
+  "code": {
+    "id": "3212050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indramayu",
+      "en": "Indramayu",
+      "slug": "indramayu-3212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indramayu",
+        "en": "Indramayu",
+        "slug": "indramayu-3212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.481",
+    "lon": "108.226"
+  },
+  "metadata": {},
+  "source": {}
+}

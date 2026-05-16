@@ -1,0 +1,56 @@
+{
+  "id": "1810080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Adi Luwih",
+    "en": "Adi Luwih",
+    "slug": "adi-luwih-1810080"
+  },
+  "code": {
+    "id": "1810080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1810",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pringsewu",
+      "en": "Pringsewu",
+      "slug": "pringsewu-1810"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.246",
+    "lon": "105.001"
+  },
+  "metadata": {},
+  "source": {}
+}

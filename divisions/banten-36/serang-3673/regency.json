@@ -1,0 +1,48 @@
+{
+  "id": "3673",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Serang",
+    "en": "Serang",
+    "slug": "serang-3673"
+  },
+  "code": {
+    "id": "3673",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "Banten",
+      "en": "Banten",
+      "slug": "banten-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 61
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.12",
+    "lon": "106.173"
+  },
+  "metadata": {},
+  "source": {}
+}

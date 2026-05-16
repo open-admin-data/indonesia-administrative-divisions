@@ -1,0 +1,56 @@
+{
+  "id": "7304020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tamalatea",
+    "en": "Tamalatea",
+    "slug": "tamalatea-7304020"
+  },
+  "code": {
+    "id": "7304020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jeneponto",
+      "en": "Jeneponto",
+      "slug": "jeneponto-7304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jeneponto",
+        "en": "Jeneponto",
+        "slug": "jeneponto-7304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.637",
+    "lon": "119.666"
+  },
+  "metadata": {},
+  "source": {}
+}

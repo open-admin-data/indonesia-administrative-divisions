@@ -1,0 +1,56 @@
+{
+  "id": "7208022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Parigi Barat",
+    "en": "Parigi Barat",
+    "slug": "parigi-barat-7208022"
+  },
+  "code": {
+    "id": "7208022",
+    "iso": null
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Parigi Moutong",
+      "en": "Parigi Moutong",
+      "slug": "parigi-moutong-7208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Parigi Moutong",
+        "en": "Parigi Moutong",
+        "slug": "parigi-moutong-7208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.846",
+    "lon": "120.099"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "3205130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarwangi",
+      "en": "Banjarwangi",
+      "slug": "banjarwangi-3205130"
+    },
+    "code": {
+      "id": "3205130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.401",
+      "lon": "107.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205230",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyuresmi",
+      "en": "Banyuresmi",
+      "slug": "banyuresmi-3205230"
+    },
+    "code": {
+      "id": "3205230",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.151",
+      "lon": "107.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bayongbong",
+      "en": "Bayongbong",
+      "slug": "bayongbong-3205150"
+    },
+    "code": {
+      "id": "3205150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.277",
+      "lon": "107.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205290",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blubur Limbangan",
+      "en": "Blubur Limbangan",
+      "slug": "blubur-limbangan-3205290"
+    },
+    "code": {
+      "id": "3205290",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.997",
+      "lon": "107.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bungbulang",
+      "en": "Bungbulang",
+      "slug": "bungbulang-3205030"
+    },
+    "code": {
+      "id": "3205030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.427",
+      "lon": "107.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Caringin",
+      "en": "Caringin",
+      "slug": "caringin-3205011"
+    },
+    "code": {
+      "id": "3205011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.452",
+      "lon": "107.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibalong",
+      "en": "Cibalong",
+      "slug": "cibalong-3205080"
+    },
+    "code": {
+      "id": "3205080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.661",
+      "lon": "107.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205260",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibatu",
+      "en": "Cibatu",
+      "slug": "cibatu-3205260"
+    },
+    "code": {
+      "id": "3205260",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.082",
+      "lon": "107.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205270",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibiuk",
+      "en": "Cibiuk",
+      "slug": "cibiuk-3205270"
+    },
+    "code": {
+      "id": "3205270",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.065",
+      "lon": "107.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205151",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cigedug",
+      "en": "Cigedug",
+      "slug": "cigedug-3205151"
+    },
+    "code": {
+      "id": "3205151",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.325",
+      "lon": "107.829"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cihurip",
+      "en": "Cihurip",
+      "slug": "cihurip-3205111"
+    },
+    "code": {
+      "id": "3205111",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.51",
+      "lon": "107.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikajang",
+      "en": "Cikajang",
+      "slug": "cikajang-3205120"
+    },
+    "code": {
+      "id": "3205120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.406",
+      "lon": "107.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikelet",
+      "en": "Cikelet",
+      "slug": "cikelet-3205060"
+    },
+    "code": {
+      "id": "3205060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.566",
+      "lon": "107.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cilawu",
+      "en": "Cilawu",
+      "slug": "cilawu-3205140"
+    },
+    "code": {
+      "id": "3205140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.295",
+      "lon": "107.908"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cisewu",
+      "en": "Cisewu",
+      "slug": "cisewu-3205010"
+    },
+    "code": {
+      "id": "3205010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.381",
+      "lon": "107.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cisompet",
+      "en": "Cisompet",
+      "slug": "cisompet-3205090"
+    },
+    "code": {
+      "id": "3205090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.537",
+      "lon": "107.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cisurupan",
+      "en": "Cisurupan",
+      "slug": "cisurupan-3205160"
+    },
+    "code": {
+      "id": "3205160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.311",
+      "lon": "107.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Garut Kota",
+      "en": "Garut Kota",
+      "slug": "garut-kota-3205190"
+    },
+    "code": {
+      "id": "3205190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.232",
+      "lon": "107.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205280",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kadungora",
+      "en": "Kadungora",
+      "slug": "kadungora-3205280"
+    },
+    "code": {
+      "id": "3205280",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.077",
+      "lon": "107.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangpawitan",
+      "en": "Karangpawitan",
+      "slug": "karangpawitan-3205200"
+    },
+    "code": {
+      "id": "3205200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.223",
+      "lon": "107.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205221",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangtengah",
+      "en": "Karangtengah",
+      "slug": "karangtengah-3205221"
+    },
+    "code": {
+      "id": "3205221",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.156",
+      "lon": "108.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205261",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kersamanah",
+      "en": "Kersamanah",
+      "slug": "kersamanah-3205261"
+    },
+    "code": {
+      "id": "3205261",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.075",
+      "lon": "108.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205240",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leles",
+      "en": "Leles",
+      "slug": "leles-3205240"
+    },
+    "code": {
+      "id": "3205240",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.106",
+      "lon": "107.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205250",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leuwigoong",
+      "en": "Leuwigoong",
+      "slug": "leuwigoong-3205250"
+    },
+    "code": {
+      "id": "3205250",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.115",
+      "lon": "107.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205310",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malangbong",
+      "en": "Malangbong",
+      "slug": "malangbong-3205310"
+    },
+    "code": {
+      "id": "3205310",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.056",
+      "lon": "108.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mekarmukti",
+      "en": "Mekarmukti",
+      "slug": "mekarmukti-3205031"
+    },
+    "code": {
+      "id": "3205031",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.525",
+      "lon": "107.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakenjeng",
+      "en": "Pakenjeng",
+      "slug": "pakenjeng-3205050"
+    },
+    "code": {
+      "id": "3205050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.487",
+      "lon": "107.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pameungpeuk",
+      "en": "Pameungpeuk",
+      "slug": "pameungpeuk-3205070"
+    },
+    "code": {
+      "id": "3205070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.621",
+      "lon": "107.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pamulihan",
+      "en": "Pamulihan",
+      "slug": "pamulihan-3205040"
+    },
+    "code": {
+      "id": "3205040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.368",
+      "lon": "107.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205212",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangatikan",
+      "en": "Pangatikan",
+      "slug": "pangatikan-3205212"
+    },
+    "code": {
+      "id": "3205212",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.173",
+      "lon": "108.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205171",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasirwangi",
+      "en": "Pasirwangi",
+      "slug": "pasirwangi-3205171"
+    },
+    "code": {
+      "id": "3205171",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.206",
+      "lon": "107.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peundeuy",
+      "en": "Peundeuy",
+      "slug": "peundeuy-3205100"
+    },
+    "code": {
+      "id": "3205100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.55",
+      "lon": "107.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samarang",
+      "en": "Samarang",
+      "slug": "samarang-3205170"
+    },
+    "code": {
+      "id": "3205170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.185",
+      "lon": "107.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205300",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selaawi",
+      "en": "Selaawi",
+      "slug": "selaawi-3205300"
+    },
+    "code": {
+      "id": "3205300",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.998",
+      "lon": "108.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singajaya",
+      "en": "Singajaya",
+      "slug": "singajaya-3205110"
+    },
+    "code": {
+      "id": "3205110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.473",
+      "lon": "107.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205211",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sucinaraja",
+      "en": "Sucinaraja",
+      "slug": "sucinaraja-3205211"
+    },
+    "code": {
+      "id": "3205211",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.216",
+      "lon": "108.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205161",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukaresmi",
+      "en": "Sukaresmi",
+      "slug": "sukaresmi-3205161"
+    },
+    "code": {
+      "id": "3205161",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.246",
+      "lon": "107.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukawening",
+      "en": "Sukawening",
+      "slug": "sukawening-3205220"
+    },
+    "code": {
+      "id": "3205220",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.145",
+      "lon": "108.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talegong",
+      "en": "Talegong",
+      "slug": "talegong-3205020"
+    },
+    "code": {
+      "id": "3205020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.3",
+      "lon": "107.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205182",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tarogong Kaler",
+      "en": "Tarogong Kaler",
+      "slug": "tarogong-kaler-3205182"
+    },
+    "code": {
+      "id": "3205182",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.175",
+      "lon": "107.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205181",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tarogong Kidul",
+      "en": "Tarogong Kidul",
+      "slug": "tarogong-kidul-3205181"
+    },
+    "code": {
+      "id": "3205181",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.216",
+      "lon": "107.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wanaraja",
+      "en": "Wanaraja",
+      "slug": "wanaraja-3205210"
+    },
+    "code": {
+      "id": "3205210",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.186",
+      "lon": "108.015"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

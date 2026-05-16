@@ -1,0 +1,48 @@
+{
+  "id": "2104",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lingga",
+    "en": "Lingga",
+    "slug": "lingga-2104"
+  },
+  "code": {
+    "id": "2104",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "Kepulauan Riau",
+      "en": "Riau Islands",
+      "slug": "riau-islands-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 76
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.21",
+    "lon": "104.605"
+  },
+  "metadata": {},
+  "source": {}
+}

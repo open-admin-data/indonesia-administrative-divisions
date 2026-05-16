@@ -1,0 +1,56 @@
+{
+  "id": "1106061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ketol",
+    "en": "Ketol",
+    "slug": "ketol-1106061"
+  },
+  "code": {
+    "id": "1106061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tengah",
+      "en": "Aceh Tengah",
+      "slug": "aceh-tengah-1106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.803",
+    "lon": "96.597"
+  },
+  "metadata": {},
+  "source": {}
+}

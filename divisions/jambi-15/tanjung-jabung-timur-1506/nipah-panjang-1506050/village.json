@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1506050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bunga Tanjung",
+      "en": "Bunga Tanjung",
+      "slug": "bunga-tanjung-1506050008"
+    },
+    "code": {
+      "id": "1506050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.068",
+      "lon": "104.141"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nipah Panjang I",
+      "en": "Nipah Panjang I",
+      "slug": "nipah-panjang-i-1506050004"
+    },
+    "code": {
+      "id": "1506050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.049",
+      "lon": "104.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nipah Panjang Ii",
+      "en": "Nipah Panjang Ii",
+      "slug": "nipah-panjang-ii-1506050005"
+    },
+    "code": {
+      "id": "1506050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.087",
+      "lon": "104.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pemusiran",
+      "en": "Pemusiran",
+      "slug": "pemusiran-1506050003"
+    },
+    "code": {
+      "id": "1506050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.059",
+      "lon": "104.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simpang Datuk",
+      "en": "Simpang Datuk",
+      "slug": "simpang-datuk-1506050006"
+    },
+    "code": {
+      "id": "1506050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.11",
+      "lon": "104.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simpang Jelita",
+      "en": "Simpang Jelita",
+      "slug": "simpang-jelita-1506050007"
+    },
+    "code": {
+      "id": "1506050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.058",
+      "lon": "104.292"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Jeruk",
+      "en": "Sungai Jeruk",
+      "slug": "sungai-jeruk-1506050010"
+    },
+    "code": {
+      "id": "1506050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.11",
+      "lon": "104.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Raya",
+      "en": "Sungai Raya",
+      "slug": "sungai-raya-1506050001"
+    },
+    "code": {
+      "id": "1506050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.087",
+      "lon": "104.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Tering",
+      "en": "Sungai Tering",
+      "slug": "sungai-tering-1506050009"
+    },
+    "code": {
+      "id": "1506050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.115",
+      "lon": "104.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Kijing",
+      "en": "Teluk Kijing",
+      "slug": "teluk-kijing-1506050002"
+    },
+    "code": {
+      "id": "1506050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1506050",
+      "level": 3,
+      "name": {
+        "local": "Nipah Panjang",
+        "en": "Nipah Panjang",
+        "slug": "nipah-panjang-1506050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Timur",
+          "en": "Tanjung Jabung Timur",
+          "slug": "tanjung-jabung-timur-1506"
+        }
+      },
+      {
+        "id": "1506050",
+        "level": 3,
+        "name": {
+          "local": "Nipah Panjang",
+          "en": "Nipah Panjang",
+          "slug": "nipah-panjang-1506050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36771"
+    ],
+    "geo": {
+      "lat": "-1.059",
+      "lon": "104.059"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

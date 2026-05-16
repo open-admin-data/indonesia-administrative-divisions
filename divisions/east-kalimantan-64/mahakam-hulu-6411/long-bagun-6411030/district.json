@@ -1,0 +1,56 @@
+{
+  "id": "6411030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Long Bagun",
+    "en": "Long Bagun",
+    "slug": "long-bagun-6411030"
+  },
+  "code": {
+    "id": "6411030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6411",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mahakam Hulu",
+      "en": "Mahakam Hulu",
+      "slug": "mahakam-hulu-6411"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6411",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mahakam Hulu",
+        "en": "Mahakam Hulu",
+        "slug": "mahakam-hulu-6411"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.803",
+    "lon": "115.274"
+  },
+  "metadata": {},
+  "source": {}
+}

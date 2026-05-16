@@ -1,0 +1,56 @@
+{
+  "id": "3578050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tenggilis Mejoyo",
+    "en": "Tenggilis Mejoyo",
+    "slug": "tenggilis-mejoyo-3578050"
+  },
+  "code": {
+    "id": "3578050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3578",
+    "level": 2,
+    "name": {
+      "local": "Kota Surabaya",
+      "en": "Surabaya",
+      "slug": "surabaya-3578"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3578",
+      "level": 2,
+      "name": {
+        "local": "Kota Surabaya",
+        "en": "Surabaya",
+        "slug": "surabaya-3578"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.324",
+    "lon": "112.756"
+  },
+  "metadata": {},
+  "source": {}
+}

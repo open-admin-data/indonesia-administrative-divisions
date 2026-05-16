@@ -1,0 +1,48 @@
+{
+  "id": "3211",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sumedang",
+    "en": "Sumedang",
+    "slug": "sumedang-3211"
+  },
+  "code": {
+    "id": "3211",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 26,
+    "village": 280
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.861",
+    "lon": "107.921"
+  },
+  "metadata": {},
+  "source": {}
+}

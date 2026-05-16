@@ -1,0 +1,56 @@
+{
+  "id": "7109041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasan",
+    "en": "Pasan",
+    "slug": "pasan-7109041"
+  },
+  "code": {
+    "id": "7109041",
+    "iso": null
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa Tenggara",
+      "en": "Minahasa Tenggara",
+      "slug": "minahasa-tenggara-7109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa Tenggara",
+        "en": "Minahasa Tenggara",
+        "slug": "minahasa-tenggara-7109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.039",
+    "lon": "124.75"
+  },
+  "metadata": {},
+  "source": {}
+}

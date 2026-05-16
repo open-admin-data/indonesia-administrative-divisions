@@ -1,0 +1,48 @@
+{
+  "id": "7111",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bolaang Mongondow Timur",
+    "en": "Bolaang Mongondow Timur",
+    "slug": "bolaang-mongondow-timur-7111"
+  },
+  "code": {
+    "id": "7111",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Utara",
+      "en": "North Sulawesi",
+      "slug": "north-sulawesi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 80
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.384",
+    "lon": "124.048"
+  },
+  "metadata": {},
+  "source": {}
+}

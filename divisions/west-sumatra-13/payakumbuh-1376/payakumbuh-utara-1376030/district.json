@@ -1,0 +1,56 @@
+{
+  "id": "1376030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Payakumbuh Utara",
+    "en": "Payakumbuh Utara",
+    "slug": "payakumbuh-utara-1376030"
+  },
+  "code": {
+    "id": "1376030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1376",
+    "level": 2,
+    "name": {
+      "local": "Kota Payakumbuh",
+      "en": "Payakumbuh",
+      "slug": "payakumbuh-1376"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1376",
+      "level": 2,
+      "name": {
+        "local": "Kota Payakumbuh",
+        "en": "Payakumbuh",
+        "slug": "payakumbuh-1376"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.209",
+    "lon": "100.64"
+  },
+  "metadata": {},
+  "source": {}
+}

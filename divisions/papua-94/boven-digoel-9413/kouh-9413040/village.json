@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9413040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jair",
+      "en": "Jair",
+      "slug": "jair-9413040003"
+    },
+    "code": {
+      "id": "9413040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413040",
+      "level": 3,
+      "name": {
+        "local": "Kouh",
+        "en": "Kouh",
+        "slug": "kouh-9413040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413040",
+        "level": 3,
+        "name": {
+          "local": "Kouh",
+          "en": "Kouh",
+          "slug": "kouh-9413040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99665"
+    ],
+    "geo": {
+      "lat": "-5.879",
+      "lon": "140.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9413040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kouh",
+      "en": "Kouh",
+      "slug": "kouh-9413040005"
+    },
+    "code": {
+      "id": "9413040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413040",
+      "level": 3,
+      "name": {
+        "local": "Kouh",
+        "en": "Kouh",
+        "slug": "kouh-9413040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413040",
+        "level": 3,
+        "name": {
+          "local": "Kouh",
+          "en": "Kouh",
+          "slug": "kouh-9413040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99665"
+    ],
+    "geo": {
+      "lat": "-5.897",
+      "lon": "140.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9413040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mandobo",
+      "en": "Mandobo",
+      "slug": "mandobo-9413040004"
+    },
+    "code": {
+      "id": "9413040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413040",
+      "level": 3,
+      "name": {
+        "local": "Kouh",
+        "en": "Kouh",
+        "slug": "kouh-9413040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413040",
+        "level": 3,
+        "name": {
+          "local": "Kouh",
+          "en": "Kouh",
+          "slug": "kouh-9413040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99665"
+    ],
+    "geo": {
+      "lat": "-5.852",
+      "lon": "140.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

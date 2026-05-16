@@ -1,0 +1,56 @@
+{
+  "id": "1410010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tebing Tinggi Barat",
+    "en": "Tebing Tinggi Barat",
+    "slug": "tebing-tinggi-barat-1410010"
+  },
+  "code": {
+    "id": "1410010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1410",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Meranti",
+      "en": "Kepulauan Meranti",
+      "slug": "kepulauan-meranti-1410"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.885",
+    "lon": "102.555"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3523070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Soko",
+    "en": "Soko",
+    "slug": "soko-3523070"
+  },
+  "code": {
+    "id": "3523070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3523",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tuban",
+      "en": "Tuban",
+      "slug": "tuban-3523"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3523",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tuban",
+        "en": "Tuban",
+        "slug": "tuban-3523"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.099",
+    "lon": "111.939"
+  },
+  "metadata": {},
+  "source": {}
+}

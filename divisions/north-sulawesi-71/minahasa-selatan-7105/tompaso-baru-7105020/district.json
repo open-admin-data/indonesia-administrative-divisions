@@ -1,0 +1,56 @@
+{
+  "id": "7105020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tompaso Baru",
+    "en": "Tompaso Baru",
+    "slug": "tompaso-baru-7105020"
+  },
+  "code": {
+    "id": "7105020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa Selatan",
+      "en": "Minahasa Selatan",
+      "slug": "minahasa-selatan-7105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa Selatan",
+        "en": "Minahasa Selatan",
+        "slug": "minahasa-selatan-7105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.922",
+    "lon": "124.478"
+  },
+  "metadata": {},
+  "source": {}
+}

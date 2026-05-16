@@ -1,0 +1,56 @@
+{
+  "id": "6102010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Raya",
+    "en": "Sungai Raya",
+    "slug": "sungai-raya-6102010"
+  },
+  "code": {
+    "id": "6102010",
+    "iso": null
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkayang",
+      "en": "Bengkayang",
+      "slug": "bengkayang-6102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.604",
+    "lon": "108.976"
+  },
+  "metadata": {},
+  "source": {}
+}

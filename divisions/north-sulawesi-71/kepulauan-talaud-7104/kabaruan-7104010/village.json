@@ -1,0 +1,717 @@
+[
+  {
+    "id": "7104010016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bulude Selatan",
+      "en": "Bulude Selatan",
+      "slug": "bulude-selatan-7104010016"
+    },
+    "code": {
+      "id": "7104010016",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.796",
+      "lon": "126.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kabaruan",
+      "en": "Kabaruan",
+      "slug": "kabaruan-7104010008"
+    },
+    "code": {
+      "id": "7104010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.832",
+      "lon": "126.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kabaruan Timur",
+      "en": "Kabaruan Timur",
+      "slug": "kabaruan-timur-7104010014"
+    },
+    "code": {
+      "id": "7104010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.838",
+      "lon": "126.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kordakel",
+      "en": "Kordakel",
+      "slug": "kordakel-7104010010"
+    },
+    "code": {
+      "id": "7104010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.813",
+      "lon": "126.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mangaran",
+      "en": "Mangaran",
+      "slug": "mangaran-7104010009"
+    },
+    "code": {
+      "id": "7104010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.83",
+      "lon": "126.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pangeran",
+      "en": "Pangeran",
+      "slug": "pangeran-7104010001"
+    },
+    "code": {
+      "id": "7104010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.791",
+      "lon": "126.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pantuge",
+      "en": "Pantuge",
+      "slug": "pantuge-7104010007"
+    },
+    "code": {
+      "id": "7104010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.833",
+      "lon": "126.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pantuge Barat",
+      "en": "Pantuge Barat",
+      "slug": "pantuge-barat-7104010015"
+    },
+    "code": {
+      "id": "7104010015",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.837",
+      "lon": "126.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panulan",
+      "en": "Panulan",
+      "slug": "panulan-7104010017"
+    },
+    "code": {
+      "id": "7104010017",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.783",
+      "lon": "126.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rarange",
+      "en": "Rarange",
+      "slug": "rarange-7104010012"
+    },
+    "code": {
+      "id": "7104010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.823",
+      "lon": "126.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104010013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Taduna",
+      "en": "Taduna",
+      "slug": "taduna-7104010013"
+    },
+    "code": {
+      "id": "7104010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104010",
+      "level": 3,
+      "name": {
+        "local": "Kabaruan",
+        "en": "Kabaruan",
+        "slug": "kabaruan-7104010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104010",
+        "level": 3,
+        "name": {
+          "local": "Kabaruan",
+          "en": "Kabaruan",
+          "slug": "kabaruan-7104010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95872"
+    ],
+    "geo": {
+      "lat": "3.843",
+      "lon": "126.752"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9108070008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Abidon",
+      "en": "Abidon",
+      "slug": "abidon-9108070008"
+    },
+    "code": {
+      "id": "9108070008",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108070",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Ayau",
+        "en": "Kepulauan Ayau",
+        "slug": "kepulauan-ayau-9108070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108070",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Ayau",
+          "en": "Kepulauan Ayau",
+          "slug": "kepulauan-ayau-9108070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98488"
+    ],
+    "geo": {
+      "lat": "0.377",
+      "lon": "131.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9108070003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Meosbekwan",
+      "en": "Meosbekwan",
+      "slug": "meosbekwan-9108070003"
+    },
+    "code": {
+      "id": "9108070003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108070",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Ayau",
+        "en": "Kepulauan Ayau",
+        "slug": "kepulauan-ayau-9108070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108070",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Ayau",
+          "en": "Kepulauan Ayau",
+          "slug": "kepulauan-ayau-9108070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98488"
+    ],
+    "geo": {
+      "lat": "0.402",
+      "lon": "131.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9108070005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Reni",
+      "en": "Reni",
+      "slug": "reni-9108070005"
+    },
+    "code": {
+      "id": "9108070005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108070",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Ayau",
+        "en": "Kepulauan Ayau",
+        "slug": "kepulauan-ayau-9108070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108070",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Ayau",
+          "en": "Kepulauan Ayau",
+          "slug": "kepulauan-ayau-9108070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98488"
+    ],
+    "geo": {
+      "lat": "1.067",
+      "lon": "131.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

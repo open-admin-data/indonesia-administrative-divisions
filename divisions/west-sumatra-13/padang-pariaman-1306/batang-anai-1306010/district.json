@@ -1,0 +1,56 @@
+{
+  "id": "1306010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batang Anai",
+    "en": "Batang Anai",
+    "slug": "batang-anai-1306010"
+  },
+  "code": {
+    "id": "1306010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Padang Pariaman",
+      "en": "Padang Pariaman",
+      "slug": "padang-pariaman-1306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Padang Pariaman",
+        "en": "Padang Pariaman",
+        "slug": "padang-pariaman-1306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.76",
+    "lon": "100.321"
+  },
+  "metadata": {},
+  "source": {}
+}

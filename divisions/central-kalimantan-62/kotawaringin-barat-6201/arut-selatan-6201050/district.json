@@ -1,0 +1,56 @@
+{
+  "id": "6201050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Arut Selatan",
+    "en": "Arut Selatan",
+    "slug": "arut-selatan-6201050"
+  },
+  "code": {
+    "id": "6201050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kotawaringin Barat",
+      "en": "Kotawaringin Barat",
+      "slug": "kotawaringin-barat-6201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.522",
+    "lon": "111.616"
+  },
+  "metadata": {},
+  "source": {}
+}

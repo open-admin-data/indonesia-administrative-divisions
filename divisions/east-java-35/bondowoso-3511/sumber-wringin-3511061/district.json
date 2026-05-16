@@ -1,0 +1,56 @@
+{
+  "id": "3511061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumber Wringin",
+    "en": "Sumber Wringin",
+    "slug": "sumber-wringin-3511061"
+  },
+  "code": {
+    "id": "3511061",
+    "iso": null
+  },
+  "parent": {
+    "id": "3511",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bondowoso",
+      "en": "Bondowoso",
+      "slug": "bondowoso-3511"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3511",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bondowoso",
+        "en": "Bondowoso",
+        "slug": "bondowoso-3511"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.01",
+    "lon": "114.037"
+  },
+  "metadata": {},
+  "source": {}
+}

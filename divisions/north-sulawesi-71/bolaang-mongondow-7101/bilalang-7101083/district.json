@@ -1,0 +1,56 @@
+{
+  "id": "7101083",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bilalang",
+    "en": "Bilalang",
+    "slug": "bilalang-7101083"
+  },
+  "code": {
+    "id": "7101083",
+    "iso": null
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow",
+      "en": "Bolaang Mongondow",
+      "slug": "bolaang-mongondow-7101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow",
+        "en": "Bolaang Mongondow",
+        "slug": "bolaang-mongondow-7101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.821",
+    "lon": "124.341"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1709040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagar Jati",
+    "en": "Pagar Jati",
+    "slug": "pagar-jati-1709040"
+  },
+  "code": {
+    "id": "1709040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1709",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Tengah",
+      "en": "Bengkulu Tengah",
+      "slug": "bengkulu-tengah-1709"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.597",
+    "lon": "102.395"
+  },
+  "metadata": {},
+  "source": {}
+}

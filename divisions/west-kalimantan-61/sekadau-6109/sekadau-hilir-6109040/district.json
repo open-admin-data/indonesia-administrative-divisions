@@ -1,0 +1,56 @@
+{
+  "id": "6109040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sekadau Hilir",
+    "en": "Sekadau Hilir",
+    "slug": "sekadau-hilir-6109040"
+  },
+  "code": {
+    "id": "6109040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sekadau",
+      "en": "Sekadau",
+      "slug": "sekadau-6109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sekadau",
+        "en": "Sekadau",
+        "slug": "sekadau-6109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.074",
+    "lon": "110.931"
+  },
+  "metadata": {},
+  "source": {}
+}

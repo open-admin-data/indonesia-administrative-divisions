@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1312080003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aia Gadang",
+      "en": "Aia Gadang",
+      "slug": "aia-gadang-1312080003"
+    },
+    "code": {
+      "id": "1312080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312080",
+      "level": 3,
+      "name": {
+        "local": "Pasaman",
+        "en": "Pasaman",
+        "slug": "pasaman-1312080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312080",
+        "level": 3,
+        "name": {
+          "local": "Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1312080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26566"
+    ],
+    "geo": {
+      "lat": "0.157",
+      "lon": "99.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312080002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aua Kuniang",
+      "en": "Aua Kuniang",
+      "slug": "aua-kuniang-1312080002"
+    },
+    "code": {
+      "id": "1312080002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312080",
+      "level": 3,
+      "name": {
+        "local": "Pasaman",
+        "en": "Pasaman",
+        "slug": "pasaman-1312080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312080",
+        "level": 3,
+        "name": {
+          "local": "Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1312080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26566"
+    ],
+    "geo": {
+      "lat": "0.092",
+      "lon": "99.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312080001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lingkuang Aua",
+      "en": "Lingkuang Aua",
+      "slug": "lingkuang-aua-1312080001"
+    },
+    "code": {
+      "id": "1312080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312080",
+      "level": 3,
+      "name": {
+        "local": "Pasaman",
+        "en": "Pasaman",
+        "slug": "pasaman-1312080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312080",
+        "level": 3,
+        "name": {
+          "local": "Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1312080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26566"
+    ],
+    "geo": {
+      "lat": "0.092",
+      "lon": "99.79"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2101022001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sawang",
+      "en": "Sawang",
+      "slug": "sawang-2101022001"
+    },
+    "code": {
+      "id": "2101022001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101022",
+      "level": 3,
+      "name": {
+        "local": "Kundur Barat",
+        "en": "Kundur Barat",
+        "slug": "kundur-barat-2101022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101022",
+        "level": 3,
+        "name": {
+          "local": "Kundur Barat",
+          "en": "Kundur Barat",
+          "slug": "kundur-barat-2101022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29671"
+    ],
+    "geo": {
+      "lat": "0.737",
+      "lon": "103.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101022002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sawang Laut",
+      "en": "Sawang Laut",
+      "slug": "sawang-laut-2101022002"
+    },
+    "code": {
+      "id": "2101022002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101022",
+      "level": 3,
+      "name": {
+        "local": "Kundur Barat",
+        "en": "Kundur Barat",
+        "slug": "kundur-barat-2101022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101022",
+        "level": 3,
+        "name": {
+          "local": "Kundur Barat",
+          "en": "Kundur Barat",
+          "slug": "kundur-barat-2101022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29671"
+    ],
+    "geo": {
+      "lat": "0.765",
+      "lon": "103.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101022004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sawang Selatan",
+      "en": "Sawang Selatan",
+      "slug": "sawang-selatan-2101022004"
+    },
+    "code": {
+      "id": "2101022004",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101022",
+      "level": 3,
+      "name": {
+        "local": "Kundur Barat",
+        "en": "Kundur Barat",
+        "slug": "kundur-barat-2101022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101022",
+        "level": 3,
+        "name": {
+          "local": "Kundur Barat",
+          "en": "Kundur Barat",
+          "slug": "kundur-barat-2101022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29671"
+    ],
+    "geo": {
+      "lat": "0.705",
+      "lon": "103.393"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

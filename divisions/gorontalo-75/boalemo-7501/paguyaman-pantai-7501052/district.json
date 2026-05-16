@@ -1,0 +1,56 @@
+{
+  "id": "7501052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paguyaman Pantai",
+    "en": "Paguyaman Pantai",
+    "slug": "paguyaman-pantai-7501052"
+  },
+  "code": {
+    "id": "7501052",
+    "iso": null
+  },
+  "parent": {
+    "id": "7501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Boalemo",
+      "en": "Boalemo",
+      "slug": "boalemo-7501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Boalemo",
+        "en": "Boalemo",
+        "slug": "boalemo-7501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.537",
+    "lon": "122.573"
+  },
+  "metadata": {},
+  "source": {}
+}

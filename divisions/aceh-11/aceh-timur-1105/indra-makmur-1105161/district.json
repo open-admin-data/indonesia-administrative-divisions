@@ -1,0 +1,56 @@
+{
+  "id": "1105161",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Indra Makmur",
+    "en": "Indra Makmur",
+    "slug": "indra-makmur-1105161"
+  },
+  "code": {
+    "id": "1105161",
+    "iso": null
+  },
+  "parent": {
+    "id": "1105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Timur",
+      "en": "Aceh Timur",
+      "slug": "aceh-timur-1105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Timur",
+        "en": "Aceh Timur",
+        "slug": "aceh-timur-1105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.862",
+    "lon": "97.589"
+  },
+  "metadata": {},
+  "source": {}
+}

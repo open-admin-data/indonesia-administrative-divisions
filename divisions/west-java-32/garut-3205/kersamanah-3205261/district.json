@@ -1,0 +1,56 @@
+{
+  "id": "3205261",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kersamanah",
+    "en": "Kersamanah",
+    "slug": "kersamanah-3205261"
+  },
+  "code": {
+    "id": "3205261",
+    "iso": null
+  },
+  "parent": {
+    "id": "3205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Garut",
+      "en": "Garut",
+      "slug": "garut-3205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.075",
+    "lon": "108.025"
+  },
+  "metadata": {},
+  "source": {}
+}

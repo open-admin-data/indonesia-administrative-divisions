@@ -1,0 +1,56 @@
+{
+  "id": "3576010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Prajurit Kulon",
+    "en": "Prajurit Kulon",
+    "slug": "prajurit-kulon-3576010"
+  },
+  "code": {
+    "id": "3576010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3576",
+    "level": 2,
+    "name": {
+      "local": "Kota Mojokerto",
+      "en": "Mojokerto",
+      "slug": "mojokerto-3576"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3576",
+      "level": 2,
+      "name": {
+        "local": "Kota Mojokerto",
+        "en": "Mojokerto",
+        "slug": "mojokerto-3576"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.473",
+    "lon": "112.42"
+  },
+  "metadata": {},
+  "source": {}
+}

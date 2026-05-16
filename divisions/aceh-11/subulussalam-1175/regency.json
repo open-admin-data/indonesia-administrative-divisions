@@ -1,0 +1,48 @@
+{
+  "id": "1175",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Subulussalam",
+    "en": "Subulussalam",
+    "slug": "subulussalam-1175"
+  },
+  "code": {
+    "id": "1175",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.671",
+    "lon": "97.993"
+  },
+  "metadata": {},
+  "source": {}
+}

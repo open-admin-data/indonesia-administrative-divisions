@@ -1,0 +1,56 @@
+{
+  "id": "1108101",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuta Malaka",
+    "en": "Kuta Malaka",
+    "slug": "kuta-malaka-1108101"
+  },
+  "code": {
+    "id": "1108101",
+    "iso": null
+  },
+  "parent": {
+    "id": "1108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Besar",
+      "en": "Aceh Besar",
+      "slug": "aceh-besar-1108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Besar",
+        "en": "Aceh Besar",
+        "slug": "aceh-besar-1108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.431",
+    "lon": "95.395"
+  },
+  "metadata": {},
+  "source": {}
+}

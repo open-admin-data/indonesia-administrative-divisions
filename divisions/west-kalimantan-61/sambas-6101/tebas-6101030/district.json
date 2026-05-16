@@ -1,0 +1,56 @@
+{
+  "id": "6101030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tebas",
+    "en": "Tebas",
+    "slug": "tebas-6101030"
+  },
+  "code": {
+    "id": "6101030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sambas",
+      "en": "Sambas",
+      "slug": "sambas-6101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sambas",
+        "en": "Sambas",
+        "slug": "sambas-6101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.132",
+    "lon": "109.243"
+  },
+  "metadata": {},
+  "source": {}
+}

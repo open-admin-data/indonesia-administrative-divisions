@@ -1,0 +1,56 @@
+{
+  "id": "5315040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuwus",
+    "en": "Kuwus",
+    "slug": "kuwus-5315040"
+  },
+  "code": {
+    "id": "5315040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5315",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Barat",
+      "en": "Manggarai Barat",
+      "slug": "manggarai-barat-5315"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Barat",
+        "en": "Manggarai Barat",
+        "slug": "manggarai-barat-5315"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.552",
+    "lon": "120.292"
+  },
+  "metadata": {},
+  "source": {}
+}

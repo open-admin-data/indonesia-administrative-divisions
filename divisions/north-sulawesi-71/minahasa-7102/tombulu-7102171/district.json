@@ -1,0 +1,56 @@
+{
+  "id": "7102171",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tombulu",
+    "en": "Tombulu",
+    "slug": "tombulu-7102171"
+  },
+  "code": {
+    "id": "7102171",
+    "iso": null
+  },
+  "parent": {
+    "id": "7102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa",
+      "en": "Minahasa",
+      "slug": "minahasa-7102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.403",
+    "lon": "124.889"
+  },
+  "metadata": {},
+  "source": {}
+}

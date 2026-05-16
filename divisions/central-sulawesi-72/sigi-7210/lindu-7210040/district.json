@@ -1,0 +1,56 @@
+{
+  "id": "7210040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lindu",
+    "en": "Lindu",
+    "slug": "lindu-7210040"
+  },
+  "code": {
+    "id": "7210040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sigi",
+      "en": "Sigi",
+      "slug": "sigi-7210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.366",
+    "lon": "120.147"
+  },
+  "metadata": {},
+  "source": {}
+}

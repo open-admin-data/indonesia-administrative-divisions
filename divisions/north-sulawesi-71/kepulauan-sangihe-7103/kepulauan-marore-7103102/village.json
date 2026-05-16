@@ -1,0 +1,197 @@
+[
+  {
+    "id": "7103102001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kawio",
+      "en": "Kawio",
+      "slug": "kawio-7103102001"
+    },
+    "code": {
+      "id": "7103102001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103102",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Marore",
+        "en": "Kepulauan Marore",
+        "slug": "kepulauan-marore-7103102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103102",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Marore",
+          "en": "Kepulauan Marore",
+          "slug": "kepulauan-marore-7103102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95856"
+    ],
+    "geo": {
+      "lat": "4.475",
+      "lon": "125.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103102002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marore",
+      "en": "Marore",
+      "slug": "marore-7103102002"
+    },
+    "code": {
+      "id": "7103102002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103102",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Marore",
+        "en": "Kepulauan Marore",
+        "slug": "kepulauan-marore-7103102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103102",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Marore",
+          "en": "Kepulauan Marore",
+          "slug": "kepulauan-marore-7103102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95856"
+    ],
+    "geo": {
+      "lat": "4.736",
+      "lon": "125.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103102003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Matutuang",
+      "en": "Matutuang",
+      "slug": "matutuang-7103102003"
+    },
+    "code": {
+      "id": "7103102003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103102",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Marore",
+        "en": "Kepulauan Marore",
+        "slug": "kepulauan-marore-7103102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      },
+      {
+        "id": "7103102",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Marore",
+          "en": "Kepulauan Marore",
+          "slug": "kepulauan-marore-7103102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95856"
+    ],
+    "geo": {
+      "lat": "4.641",
+      "lon": "125.626"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

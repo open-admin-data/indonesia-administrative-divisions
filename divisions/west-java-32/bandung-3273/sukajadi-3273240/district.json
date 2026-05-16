@@ -1,0 +1,56 @@
+{
+  "id": "3273240",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukajadi",
+    "en": "Sukajadi",
+    "slug": "sukajadi-3273240"
+  },
+  "code": {
+    "id": "3273240",
+    "iso": null
+  },
+  "parent": {
+    "id": "3273",
+    "level": 2,
+    "name": {
+      "local": "Kota Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3273"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3273",
+      "level": 2,
+      "name": {
+        "local": "Kota Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3273"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.889",
+    "lon": "107.587"
+  },
+  "metadata": {},
+  "source": {}
+}

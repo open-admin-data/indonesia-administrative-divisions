@@ -1,0 +1,48 @@
+{
+  "id": "1408",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bengkalis",
+    "en": "Bengkalis",
+    "slug": "bengkalis-1408"
+  },
+  "code": {
+    "id": "1408",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 155
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.805",
+    "lon": "102.02"
+  },
+  "metadata": {},
+  "source": {}
+}

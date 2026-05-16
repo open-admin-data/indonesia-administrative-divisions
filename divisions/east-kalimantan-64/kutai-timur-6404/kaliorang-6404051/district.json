@@ -1,0 +1,56 @@
+{
+  "id": "6404051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaliorang",
+    "en": "Kaliorang",
+    "slug": "kaliorang-6404051"
+  },
+  "code": {
+    "id": "6404051",
+    "iso": null
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Timur",
+      "en": "Kutai Timur",
+      "slug": "kutai-timur-6404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Timur",
+        "en": "Kutai Timur",
+        "slug": "kutai-timur-6404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.854",
+    "lon": "117.877"
+  },
+  "metadata": {},
+  "source": {}
+}

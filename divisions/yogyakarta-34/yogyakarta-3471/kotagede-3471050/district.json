@@ -1,0 +1,56 @@
+{
+  "id": "3471050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kotagede",
+    "en": "Kotagede",
+    "slug": "kotagede-3471050"
+  },
+  "code": {
+    "id": "3471050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3471",
+    "level": 2,
+    "name": {
+      "local": "Kota Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-3471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3471",
+      "level": 2,
+      "name": {
+        "local": "Kota Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-3471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.818",
+    "lon": "110.398"
+  },
+  "metadata": {},
+  "source": {}
+}

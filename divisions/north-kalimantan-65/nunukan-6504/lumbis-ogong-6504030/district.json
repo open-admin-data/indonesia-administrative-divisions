@@ -1,0 +1,56 @@
+{
+  "id": "6504030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lumbis Ogong",
+    "en": "Lumbis Ogong",
+    "slug": "lumbis-ogong-6504030"
+  },
+  "code": {
+    "id": "6504030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nunukan",
+      "en": "Nunukan",
+      "slug": "nunukan-6504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 48
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.157",
+    "lon": "116.384"
+  },
+  "metadata": {},
+  "source": {}
+}

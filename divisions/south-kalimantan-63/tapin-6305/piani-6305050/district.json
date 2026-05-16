@@ -1,0 +1,56 @@
+{
+  "id": "6305050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Piani",
+    "en": "Piani",
+    "slug": "piani-6305050"
+  },
+  "code": {
+    "id": "6305050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapin",
+      "en": "Tapin",
+      "slug": "tapin-6305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapin",
+        "en": "Tapin",
+        "slug": "tapin-6305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.934",
+    "lon": "115.368"
+  },
+  "metadata": {},
+  "source": {}
+}

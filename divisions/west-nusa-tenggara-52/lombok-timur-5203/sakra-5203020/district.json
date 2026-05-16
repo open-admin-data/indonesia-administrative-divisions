@@ -1,0 +1,56 @@
+{
+  "id": "5203020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sakra",
+    "en": "Sakra",
+    "slug": "sakra-5203020"
+  },
+  "code": {
+    "id": "5203020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Timur",
+      "en": "Lombok Timur",
+      "slug": "lombok-timur-5203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Timur",
+        "en": "Lombok Timur",
+        "slug": "lombok-timur-5203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.679",
+    "lon": "116.472"
+  },
+  "metadata": {},
+  "source": {}
+}

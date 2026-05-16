@@ -1,0 +1,48 @@
+{
+  "id": "1703",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bengkulu Utara",
+    "en": "Bengkulu Utara",
+    "slug": "bengkulu-utara-1703"
+  },
+  "code": {
+    "id": "1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 220
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.437",
+    "lon": "102.202"
+  },
+  "metadata": {},
+  "source": {}
+}

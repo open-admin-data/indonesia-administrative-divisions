@@ -1,0 +1,786 @@
+[
+  {
+    "id": "7313090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belawa",
+      "en": "Belawa",
+      "slug": "belawa-7313090"
+    },
+    "code": {
+      "id": "7313090",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.997",
+      "lon": "119.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bola",
+      "en": "Bola",
+      "slug": "bola-7313040"
+    },
+    "code": {
+      "id": "7313040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.202",
+      "lon": "120.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gilireng",
+      "en": "Gilireng",
+      "slug": "gilireng-7313101"
+    },
+    "code": {
+      "id": "7313101",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.887",
+      "lon": "120.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Keera",
+      "en": "Keera",
+      "slug": "keera-7313110"
+    },
+    "code": {
+      "id": "7313110",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.815",
+      "lon": "120.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Majauleng",
+      "en": "Majauleng",
+      "slug": "majauleng-7313070"
+    },
+    "code": {
+      "id": "7313070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.057",
+      "lon": "120.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maniang Pajo",
+      "en": "Maniang Pajo",
+      "slug": "maniang-pajo-7313100"
+    },
+    "code": {
+      "id": "7313100",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.887",
+      "lon": "120.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pammana",
+      "en": "Pammana",
+      "slug": "pammana-7313030"
+    },
+    "code": {
+      "id": "7313030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.211",
+      "lon": "120.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penrang",
+      "en": "Penrang",
+      "slug": "penrang-7313061"
+    },
+    "code": {
+      "id": "7313061",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.074",
+      "lon": "120.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pitumpanua",
+      "en": "Pitumpanua",
+      "slug": "pitumpanua-7313120"
+    },
+    "code": {
+      "id": "7313120",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.717",
+      "lon": "120.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabbang Paru",
+      "en": "Sabbang Paru",
+      "slug": "sabbang-paru-7313010"
+    },
+    "code": {
+      "id": "7313010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.205",
+      "lon": "119.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sajoanging",
+      "en": "Sajoanging",
+      "slug": "sajoanging-7313060"
+    },
+    "code": {
+      "id": "7313060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.992",
+      "lon": "120.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Takkalalla",
+      "en": "Takkalalla",
+      "slug": "takkalalla-7313050"
+    },
+    "code": {
+      "id": "7313050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.144",
+      "lon": "120.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tana Sitolo",
+      "en": "Tana Sitolo",
+      "slug": "tana-sitolo-7313080"
+    },
+    "code": {
+      "id": "7313080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.052",
+      "lon": "120.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7313020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tempe",
+      "en": "Tempe",
+      "slug": "tempe-7313020"
+    },
+    "code": {
+      "id": "7313020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7313",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wajo",
+          "en": "Wajo",
+          "slug": "wajo-7313"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.137",
+      "lon": "120.045"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

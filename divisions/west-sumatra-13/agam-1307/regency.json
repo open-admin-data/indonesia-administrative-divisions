@@ -1,0 +1,48 @@
+{
+  "id": "1307",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Agam",
+    "en": "Agam",
+    "slug": "agam-1307"
+  },
+  "code": {
+    "id": "1307",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.152",
+    "lon": "100.661"
+  },
+  "metadata": {},
+  "source": {}
+}

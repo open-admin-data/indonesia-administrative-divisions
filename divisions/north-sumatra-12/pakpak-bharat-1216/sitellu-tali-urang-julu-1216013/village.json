@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1216013005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cikaok",
+      "en": "Cikaok",
+      "slug": "cikaok-1216013005"
+    },
+    "code": {
+      "id": "1216013005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1216013",
+      "level": 3,
+      "name": {
+        "local": "Sitellu Tali Urang Julu",
+        "en": "Sitellu Tali Urang Julu",
+        "slug": "sitellu-tali-urang-julu-1216013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pakpak Bharat",
+          "en": "Pakpak Bharat",
+          "slug": "pakpak-bharat-1216"
+        }
+      },
+      {
+        "id": "1216013",
+        "level": 3,
+        "name": {
+          "local": "Sitellu Tali Urang Julu",
+          "en": "Sitellu Tali Urang Julu",
+          "slug": "sitellu-tali-urang-julu-1216013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22276"
+    ],
+    "geo": {
+      "lat": "2.515",
+      "lon": "98.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1216013004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lae Langge Namuseng",
+      "en": "Lae Langge Namuseng",
+      "slug": "lae-langge-namuseng-1216013004"
+    },
+    "code": {
+      "id": "1216013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1216013",
+      "level": 3,
+      "name": {
+        "local": "Sitellu Tali Urang Julu",
+        "en": "Sitellu Tali Urang Julu",
+        "slug": "sitellu-tali-urang-julu-1216013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pakpak Bharat",
+          "en": "Pakpak Bharat",
+          "slug": "pakpak-bharat-1216"
+        }
+      },
+      {
+        "id": "1216013",
+        "level": 3,
+        "name": {
+          "local": "Sitellu Tali Urang Julu",
+          "en": "Sitellu Tali Urang Julu",
+          "slug": "sitellu-tali-urang-julu-1216013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22276"
+    ],
+    "geo": {
+      "lat": "2.517",
+      "lon": "98.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1216013003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pardomuan",
+      "en": "Pardomuan",
+      "slug": "pardomuan-1216013003"
+    },
+    "code": {
+      "id": "1216013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1216013",
+      "level": 3,
+      "name": {
+        "local": "Sitellu Tali Urang Julu",
+        "en": "Sitellu Tali Urang Julu",
+        "slug": "sitellu-tali-urang-julu-1216013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pakpak Bharat",
+          "en": "Pakpak Bharat",
+          "slug": "pakpak-bharat-1216"
+        }
+      },
+      {
+        "id": "1216013",
+        "level": 3,
+        "name": {
+          "local": "Sitellu Tali Urang Julu",
+          "en": "Sitellu Tali Urang Julu",
+          "slug": "sitellu-tali-urang-julu-1216013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22276"
+    ],
+    "geo": {
+      "lat": "2.488",
+      "lon": "98.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1216013001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Silimakuta",
+      "en": "Silimakuta",
+      "slug": "silimakuta-1216013001"
+    },
+    "code": {
+      "id": "1216013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1216013",
+      "level": 3,
+      "name": {
+        "local": "Sitellu Tali Urang Julu",
+        "en": "Sitellu Tali Urang Julu",
+        "slug": "sitellu-tali-urang-julu-1216013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pakpak Bharat",
+          "en": "Pakpak Bharat",
+          "slug": "pakpak-bharat-1216"
+        }
+      },
+      {
+        "id": "1216013",
+        "level": 3,
+        "name": {
+          "local": "Sitellu Tali Urang Julu",
+          "en": "Sitellu Tali Urang Julu",
+          "slug": "sitellu-tali-urang-julu-1216013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22276"
+    ],
+    "geo": {
+      "lat": "2.527",
+      "lon": "98.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1216013002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ulu Merah",
+      "en": "Ulu Merah",
+      "slug": "ulu-merah-1216013002"
+    },
+    "code": {
+      "id": "1216013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1216013",
+      "level": 3,
+      "name": {
+        "local": "Sitellu Tali Urang Julu",
+        "en": "Sitellu Tali Urang Julu",
+        "slug": "sitellu-tali-urang-julu-1216013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1216",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pakpak Bharat",
+          "en": "Pakpak Bharat",
+          "slug": "pakpak-bharat-1216"
+        }
+      },
+      {
+        "id": "1216013",
+        "level": 3,
+        "name": {
+          "local": "Sitellu Tali Urang Julu",
+          "en": "Sitellu Tali Urang Julu",
+          "slug": "sitellu-tali-urang-julu-1216013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22276"
+    ],
+    "geo": {
+      "lat": "2.488",
+      "lon": "98.369"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

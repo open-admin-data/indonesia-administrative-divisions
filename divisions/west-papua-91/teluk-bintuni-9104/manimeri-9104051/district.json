@@ -1,0 +1,56 @@
+{
+  "id": "9104051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manimeri",
+    "en": "Manimeri",
+    "slug": "manimeri-9104051"
+  },
+  "code": {
+    "id": "9104051",
+    "iso": null
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Bintuni",
+      "en": "Teluk Bintuni",
+      "slug": "teluk-bintuni-9104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Bintuni",
+        "en": "Teluk Bintuni",
+        "slug": "teluk-bintuni-9104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.989",
+    "lon": "133.754"
+  },
+  "metadata": {},
+  "source": {}
+}

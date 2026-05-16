@@ -1,0 +1,56 @@
+{
+  "id": "3503120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tugu",
+    "en": "Tugu",
+    "slug": "tugu-3503120"
+  },
+  "code": {
+    "id": "3503120",
+    "iso": null
+  },
+  "parent": {
+    "id": "3503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Trenggalek",
+      "en": "Trenggalek",
+      "slug": "trenggalek-3503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.029",
+    "lon": "111.629"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9171012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maladum Mes",
+    "en": "Maladum Mes",
+    "slug": "maladum-mes-9171012"
+  },
+  "code": {
+    "id": "9171012",
+    "iso": null
+  },
+  "parent": {
+    "id": "9171",
+    "level": 2,
+    "name": {
+      "local": "Kota Sorong",
+      "en": "Sorong",
+      "slug": "sorong-9171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9171",
+      "level": 2,
+      "name": {
+        "local": "Kota Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.806",
+    "lon": "131.336"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3303120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bobotsari",
+    "en": "Bobotsari",
+    "slug": "bobotsari-3303120"
+  },
+  "code": {
+    "id": "3303120",
+    "iso": null
+  },
+  "parent": {
+    "id": "3303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Purbalingga",
+      "en": "Purbalingga",
+      "slug": "purbalingga-3303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purbalingga",
+        "en": "Purbalingga",
+        "slug": "purbalingga-3303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.282",
+    "lon": "109.364"
+  },
+  "metadata": {},
+  "source": {}
+}

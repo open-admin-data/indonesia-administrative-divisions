@@ -1,0 +1,56 @@
+{
+  "id": "7203030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bungku Tengah",
+    "en": "Bungku Tengah",
+    "slug": "bungku-tengah-7203030"
+  },
+  "code": {
+    "id": "7203030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Morowali",
+      "en": "Morowali",
+      "slug": "morowali-7203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Morowali",
+        "en": "Morowali",
+        "slug": "morowali-7203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.568",
+    "lon": "121.857"
+  },
+  "metadata": {},
+  "source": {}
+}

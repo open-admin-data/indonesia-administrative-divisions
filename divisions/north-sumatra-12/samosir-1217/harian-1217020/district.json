@@ -1,0 +1,56 @@
+{
+  "id": "1217020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Harian",
+    "en": "Harian",
+    "slug": "harian-1217020"
+  },
+  "code": {
+    "id": "1217020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1217",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Samosir",
+      "en": "Samosir",
+      "slug": "samosir-1217"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1217",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Samosir",
+        "en": "Samosir",
+        "slug": "samosir-1217"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.494",
+    "lon": "98.576"
+  },
+  "metadata": {},
+  "source": {}
+}

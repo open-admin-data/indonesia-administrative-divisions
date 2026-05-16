@@ -1,0 +1,56 @@
+{
+  "id": "8208030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tabona",
+    "en": "Tabona",
+    "slug": "tabona-8208030"
+  },
+  "code": {
+    "id": "8208030",
+    "iso": null
+  },
+  "parent": {
+    "id": "8208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pulau Taliabu",
+      "en": "Pulau Taliabu",
+      "slug": "pulau-taliabu-8208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pulau Taliabu",
+        "en": "Pulau Taliabu",
+        "slug": "pulau-taliabu-8208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.864",
+    "lon": "124.885"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1671011005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "36 Ilir",
+      "en": "36 Ilir",
+      "slug": "36-ilir-1671011005"
+    },
+    "code": {
+      "id": "1671011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1671011",
+      "level": 3,
+      "name": {
+        "local": "Gandus",
+        "en": "Gandus",
+        "slug": "gandus-1671011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1671",
+        "level": 2,
+        "name": {
+          "local": "Kota Palembang",
+          "en": "Palembang",
+          "slug": "palembang-1671"
+        }
+      },
+      {
+        "id": "1671011",
+        "level": 3,
+        "name": {
+          "local": "Gandus",
+          "en": "Gandus",
+          "slug": "gandus-1671011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30147"
+    ],
+    "geo": {
+      "lat": "-3.012",
+      "lon": "104.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1671011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gandus",
+      "en": "Gandus",
+      "slug": "gandus-1671011002"
+    },
+    "code": {
+      "id": "1671011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1671011",
+      "level": 3,
+      "name": {
+        "local": "Gandus",
+        "en": "Gandus",
+        "slug": "gandus-1671011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1671",
+        "level": 2,
+        "name": {
+          "local": "Kota Palembang",
+          "en": "Palembang",
+          "slug": "palembang-1671"
+        }
+      },
+      {
+        "id": "1671011",
+        "level": 3,
+        "name": {
+          "local": "Gandus",
+          "en": "Gandus",
+          "slug": "gandus-1671011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30147"
+    ],
+    "geo": {
+      "lat": "-3.002",
+      "lon": "104.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1671011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Anyar",
+      "en": "Karang Anyar",
+      "slug": "karang-anyar-1671011004"
+    },
+    "code": {
+      "id": "1671011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1671011",
+      "level": 3,
+      "name": {
+        "local": "Gandus",
+        "en": "Gandus",
+        "slug": "gandus-1671011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1671",
+        "level": 2,
+        "name": {
+          "local": "Kota Palembang",
+          "en": "Palembang",
+          "slug": "palembang-1671"
+        }
+      },
+      {
+        "id": "1671011",
+        "level": 3,
+        "name": {
+          "local": "Gandus",
+          "en": "Gandus",
+          "slug": "gandus-1671011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30147"
+    ],
+    "geo": {
+      "lat": "-3.018",
+      "lon": "104.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1671011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Jaya",
+      "en": "Karang Jaya",
+      "slug": "karang-jaya-1671011003"
+    },
+    "code": {
+      "id": "1671011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1671011",
+      "level": 3,
+      "name": {
+        "local": "Gandus",
+        "en": "Gandus",
+        "slug": "gandus-1671011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1671",
+        "level": 2,
+        "name": {
+          "local": "Kota Palembang",
+          "en": "Palembang",
+          "slug": "palembang-1671"
+        }
+      },
+      {
+        "id": "1671011",
+        "level": 3,
+        "name": {
+          "local": "Gandus",
+          "en": "Gandus",
+          "slug": "gandus-1671011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30147"
+    ],
+    "geo": {
+      "lat": "-3.013",
+      "lon": "104.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1671011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulo Kerto",
+      "en": "Pulo Kerto",
+      "slug": "pulo-kerto-1671011001"
+    },
+    "code": {
+      "id": "1671011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1671011",
+      "level": 3,
+      "name": {
+        "local": "Gandus",
+        "en": "Gandus",
+        "slug": "gandus-1671011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1671",
+        "level": 2,
+        "name": {
+          "local": "Kota Palembang",
+          "en": "Palembang",
+          "slug": "palembang-1671"
+        }
+      },
+      {
+        "id": "1671011",
+        "level": 3,
+        "name": {
+          "local": "Gandus",
+          "en": "Gandus",
+          "slug": "gandus-1671011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30147"
+    ],
+    "geo": {
+      "lat": "-3.016",
+      "lon": "104.672"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

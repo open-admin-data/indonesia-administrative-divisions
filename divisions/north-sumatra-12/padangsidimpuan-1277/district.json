@@ -1,0 +1,338 @@
+[
+  {
+    "id": "1277051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padangsidimpuan Angkola Julu",
+      "en": "Padangsidimpuan Angkola Julu",
+      "slug": "padangsidimpuan-angkola-julu-1277051"
+    },
+    "code": {
+      "id": "1277051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.443",
+      "lon": "99.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padangsidimpuan Batunadua",
+      "en": "Padangsidimpuan Batunadua",
+      "slug": "padangsidimpuan-batunadua-1277030"
+    },
+    "code": {
+      "id": "1277030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.406",
+      "lon": "99.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padangsidimpuan Hutaimbaru",
+      "en": "Padangsidimpuan Hutaimbaru",
+      "slug": "padangsidimpuan-hutaimbaru-1277050"
+    },
+    "code": {
+      "id": "1277050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.425",
+      "lon": "99.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padangsidimpuan Selatan",
+      "en": "Padangsidimpuan Selatan",
+      "slug": "padangsidimpuan-selatan-1277020"
+    },
+    "code": {
+      "id": "1277020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.373",
+      "lon": "99.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padangsidimpuan Tenggara",
+      "en": "Padangsidimpuan Tenggara",
+      "slug": "padangsidimpuan-tenggara-1277010"
+    },
+    "code": {
+      "id": "1277010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.336",
+      "lon": "99.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padangsidimpuan Utara",
+      "en": "Padangsidimpuan Utara",
+      "slug": "padangsidimpuan-utara-1277040"
+    },
+    "code": {
+      "id": "1277040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.396",
+      "lon": "99.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

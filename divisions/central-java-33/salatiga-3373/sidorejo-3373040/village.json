@@ -1,0 +1,327 @@
+[
+  {
+    "id": "3373040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Blotongan",
+      "en": "Blotongan",
+      "slug": "blotongan-3373040002"
+    },
+    "code": {
+      "id": "3373040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373040",
+      "level": 3,
+      "name": {
+        "local": "Sidorejo",
+        "en": "Sidorejo",
+        "slug": "sidorejo-3373040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373040",
+        "level": 3,
+        "name": {
+          "local": "Sidorejo",
+          "en": "Sidorejo",
+          "slug": "sidorejo-3373040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50711"
+    ],
+    "geo": {
+      "lat": "-7.296",
+      "lon": "110.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373040006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kauman Kidul",
+      "en": "Kauman Kidul",
+      "slug": "kauman-kidul-3373040006"
+    },
+    "code": {
+      "id": "3373040006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373040",
+      "level": 3,
+      "name": {
+        "local": "Sidorejo",
+        "en": "Sidorejo",
+        "slug": "sidorejo-3373040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373040",
+        "level": 3,
+        "name": {
+          "local": "Sidorejo",
+          "en": "Sidorejo",
+          "slug": "sidorejo-3373040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50711"
+    ],
+    "geo": {
+      "lat": "-7.305",
+      "lon": "110.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulutan",
+      "en": "Pulutan",
+      "slug": "pulutan-3373040001"
+    },
+    "code": {
+      "id": "3373040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373040",
+      "level": 3,
+      "name": {
+        "local": "Sidorejo",
+        "en": "Sidorejo",
+        "slug": "sidorejo-3373040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373040",
+        "level": 3,
+        "name": {
+          "local": "Sidorejo",
+          "en": "Sidorejo",
+          "slug": "sidorejo-3373040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50711"
+    ],
+    "geo": {
+      "lat": "-7.313",
+      "lon": "110.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Salatiga",
+      "en": "Salatiga",
+      "slug": "salatiga-3373040004"
+    },
+    "code": {
+      "id": "3373040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373040",
+      "level": 3,
+      "name": {
+        "local": "Sidorejo",
+        "en": "Sidorejo",
+        "slug": "sidorejo-3373040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373040",
+        "level": 3,
+        "name": {
+          "local": "Sidorejo",
+          "en": "Sidorejo",
+          "slug": "sidorejo-3373040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50711"
+    ],
+    "geo": {
+      "lat": "-7.306",
+      "lon": "110.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidorejo Lor",
+      "en": "Sidorejo Lor",
+      "slug": "sidorejo-lor-3373040003"
+    },
+    "code": {
+      "id": "3373040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373040",
+      "level": 3,
+      "name": {
+        "local": "Sidorejo",
+        "en": "Sidorejo",
+        "slug": "sidorejo-3373040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373040",
+        "level": 3,
+        "name": {
+          "local": "Sidorejo",
+          "en": "Sidorejo",
+          "slug": "sidorejo-3373040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50711"
+    ],
+    "geo": {
+      "lat": "-7.312",
+      "lon": "110.493"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

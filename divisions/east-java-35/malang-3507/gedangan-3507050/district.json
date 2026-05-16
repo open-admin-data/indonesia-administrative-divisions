@@ -1,0 +1,56 @@
+{
+  "id": "3507050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gedangan",
+    "en": "Gedangan",
+    "slug": "gedangan-3507050"
+  },
+  "code": {
+    "id": "3507050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malang",
+      "en": "Malang",
+      "slug": "malang-3507"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malang",
+        "en": "Malang",
+        "slug": "malang-3507"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.335",
+    "lon": "112.612"
+  },
+  "metadata": {},
+  "source": {}
+}

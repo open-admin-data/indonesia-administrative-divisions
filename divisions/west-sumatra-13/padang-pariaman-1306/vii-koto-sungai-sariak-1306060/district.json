@@ -1,0 +1,56 @@
+{
+  "id": "1306060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Vii Koto Sungai Sariak",
+    "en": "Vii Koto Sungai Sariak",
+    "slug": "vii-koto-sungai-sariak-1306060"
+  },
+  "code": {
+    "id": "1306060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Padang Pariaman",
+      "en": "Padang Pariaman",
+      "slug": "padang-pariaman-1306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Padang Pariaman",
+        "en": "Padang Pariaman",
+        "slug": "padang-pariaman-1306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.584",
+    "lon": "100.198"
+  },
+  "metadata": {},
+  "source": {}
+}

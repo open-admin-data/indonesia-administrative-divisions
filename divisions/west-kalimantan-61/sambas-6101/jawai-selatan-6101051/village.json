@@ -1,0 +1,587 @@
+[
+  {
+    "id": "6101051001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jawai Laut",
+      "en": "Jawai Laut",
+      "slug": "jawai-laut-6101051001"
+    },
+    "code": {
+      "id": "6101051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.278",
+      "lon": "109.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jelu Air",
+      "en": "Jelu Air",
+      "slug": "jelu-air-6101051002"
+    },
+    "code": {
+      "id": "6101051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.228",
+      "lon": "108.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Matang Terap",
+      "en": "Matang Terap",
+      "slug": "matang-terap-6101051008"
+    },
+    "code": {
+      "id": "6101051008",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.276",
+      "lon": "109.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sabaran",
+      "en": "Sabaran",
+      "slug": "sabaran-6101051005"
+    },
+    "code": {
+      "id": "6101051005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.232",
+      "lon": "109.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sarilaba A",
+      "en": "Sarilaba A",
+      "slug": "sarilaba-a-6101051007"
+    },
+    "code": {
+      "id": "6101051007",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.262",
+      "lon": "109.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sarilaba B",
+      "en": "Sarilaba B",
+      "slug": "sarilaba-b-6101051003"
+    },
+    "code": {
+      "id": "6101051003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.223",
+      "lon": "109.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Semperiuk A",
+      "en": "Semperiuk A",
+      "slug": "semperiuk-a-6101051006"
+    },
+    "code": {
+      "id": "6101051006",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.269",
+      "lon": "109.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Semperiuk B",
+      "en": "Semperiuk B",
+      "slug": "semperiuk-b-6101051004"
+    },
+    "code": {
+      "id": "6101051004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.223",
+      "lon": "109.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101051009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suah Api",
+      "en": "Suah Api",
+      "slug": "suah-api-6101051009"
+    },
+    "code": {
+      "id": "6101051009",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101051",
+      "level": 3,
+      "name": {
+        "local": "Jawai Selatan",
+        "en": "Jawai Selatan",
+        "slug": "jawai-selatan-6101051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sambas",
+          "en": "Sambas",
+          "slug": "sambas-6101"
+        }
+      },
+      {
+        "id": "6101051",
+        "level": 3,
+        "name": {
+          "local": "Jawai Selatan",
+          "en": "Jawai Selatan",
+          "slug": "jawai-selatan-6101051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79456"
+    ],
+    "geo": {
+      "lat": "1.289",
+      "lon": "109.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

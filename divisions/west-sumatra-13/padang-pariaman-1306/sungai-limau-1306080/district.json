@@ -1,0 +1,56 @@
+{
+  "id": "1306080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Limau",
+    "en": "Sungai Limau",
+    "slug": "sungai-limau-1306080"
+  },
+  "code": {
+    "id": "1306080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Padang Pariaman",
+      "en": "Padang Pariaman",
+      "slug": "padang-pariaman-1306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Padang Pariaman",
+        "en": "Padang Pariaman",
+        "slug": "padang-pariaman-1306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.514",
+    "lon": "100.075"
+  },
+  "metadata": {},
+  "source": {}
+}

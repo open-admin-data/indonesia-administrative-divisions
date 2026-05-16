@@ -1,0 +1,48 @@
+{
+  "id": "6501",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Malinau",
+    "en": "Malinau",
+    "slug": "malinau-6501"
+  },
+  "code": {
+    "id": "6501",
+    "iso": null
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Utara",
+      "en": "North Kalimantan",
+      "slug": "north-kalimantan-65"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 105
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.841",
+    "lon": "117.398"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "74",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sulawesi Tenggara",
+    "en": "Southeast Sulawesi",
+    "slug": "southeast-sulawesi-74"
+  },
+  "code": {
+    "id": "74",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 17,
+    "village": 2301,
+    "district": 222
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.025",
+    "lon": "122.54"
+  },
+  "metadata": {},
+  "source": {}
+}

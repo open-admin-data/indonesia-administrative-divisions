@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3101010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Pari",
+      "en": "Pulau Pari",
+      "slug": "pulau-pari-3101010002"
+    },
+    "code": {
+      "id": "3101010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3101010",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Seribu Selatan",
+        "en": "Kepulauan Seribu Selatan",
+        "slug": "kepulauan-seribu-selatan-3101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Seribu",
+          "en": "Kepulauan Seribu",
+          "slug": "kepulauan-seribu-3101"
+        }
+      },
+      {
+        "id": "3101010",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Seribu Selatan",
+          "en": "Kepulauan Seribu Selatan",
+          "slug": "kepulauan-seribu-selatan-3101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14510"
+    ],
+    "geo": {
+      "lat": "-5.858",
+      "lon": "106.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3101010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Tidung",
+      "en": "Pulau Tidung",
+      "slug": "pulau-tidung-3101010001"
+    },
+    "code": {
+      "id": "3101010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3101010",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Seribu Selatan",
+        "en": "Kepulauan Seribu Selatan",
+        "slug": "kepulauan-seribu-selatan-3101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Seribu",
+          "en": "Kepulauan Seribu",
+          "slug": "kepulauan-seribu-3101"
+        }
+      },
+      {
+        "id": "3101010",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Seribu Selatan",
+          "en": "Kepulauan Seribu Selatan",
+          "slug": "kepulauan-seribu-selatan-3101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14510"
+    ],
+    "geo": {
+      "lat": "-5.803",
+      "lon": "106.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3101010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Untung Jawa",
+      "en": "Pulau Untung Jawa",
+      "slug": "pulau-untung-jawa-3101010003"
+    },
+    "code": {
+      "id": "3101010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3101010",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Seribu Selatan",
+        "en": "Kepulauan Seribu Selatan",
+        "slug": "kepulauan-seribu-selatan-3101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Seribu",
+          "en": "Kepulauan Seribu",
+          "slug": "kepulauan-seribu-3101"
+        }
+      },
+      {
+        "id": "3101010",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Seribu Selatan",
+          "en": "Kepulauan Seribu Selatan",
+          "slug": "kepulauan-seribu-selatan-3101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14510"
+    ],
+    "geo": {
+      "lat": "-5.978",
+      "lon": "106.707"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

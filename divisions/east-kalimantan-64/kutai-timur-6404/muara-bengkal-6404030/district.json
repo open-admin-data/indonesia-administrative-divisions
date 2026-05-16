@@ -1,0 +1,56 @@
+{
+  "id": "6404030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Bengkal",
+    "en": "Muara Bengkal",
+    "slug": "muara-bengkal-6404030"
+  },
+  "code": {
+    "id": "6404030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Timur",
+      "en": "Kutai Timur",
+      "slug": "kutai-timur-6404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Timur",
+        "en": "Kutai Timur",
+        "slug": "kutai-timur-6404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.321",
+    "lon": "116.788"
+  },
+  "metadata": {},
+  "source": {}
+}

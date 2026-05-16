@@ -1,0 +1,954 @@
+[
+  {
+    "id": "1110100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ganda Pura",
+      "en": "Ganda Pura",
+      "slug": "ganda-pura-1110100"
+    },
+    "code": {
+      "id": "1110100",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.229",
+      "lon": "96.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangka",
+      "en": "Jangka",
+      "slug": "jangka-1110070"
+    },
+    "code": {
+      "id": "1110070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.247",
+      "lon": "96.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeumpa",
+      "en": "Jeumpa",
+      "slug": "jeumpa-1110060"
+    },
+    "code": {
+      "id": "1110060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.145",
+      "lon": "96.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeunieb",
+      "en": "Jeunieb",
+      "slug": "jeunieb-1110030"
+    },
+    "code": {
+      "id": "1110030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.064",
+      "lon": "96.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Juli",
+      "en": "Juli",
+      "slug": "juli-1110050"
+    },
+    "code": {
+      "id": "1110050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.073",
+      "lon": "96.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Juang",
+      "en": "Kota Juang",
+      "slug": "kota-juang-1110061"
+    },
+    "code": {
+      "id": "1110061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.191",
+      "lon": "96.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala",
+      "en": "Kuala",
+      "slug": "kuala-1110062"
+    },
+    "code": {
+      "id": "1110062",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.231",
+      "lon": "96.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuta Blang",
+      "en": "Kuta Blang",
+      "slug": "kuta-blang-1110101"
+    },
+    "code": {
+      "id": "1110101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.209",
+      "lon": "96.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Makmur",
+      "en": "Makmur",
+      "slug": "makmur-1110090"
+    },
+    "code": {
+      "id": "1110090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 27
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.149",
+      "lon": "96.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pandrah",
+      "en": "Pandrah",
+      "slug": "pandrah-1110020"
+    },
+    "code": {
+      "id": "1110020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.074",
+      "lon": "96.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peudada",
+      "en": "Peudada",
+      "slug": "peudada-1110040"
+    },
+    "code": {
+      "id": "1110040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.052",
+      "lon": "96.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peulimbang",
+      "en": "Peulimbang",
+      "slug": "peulimbang-1110031"
+    },
+    "code": {
+      "id": "1110031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.048",
+      "lon": "96.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peusangan",
+      "en": "Peusangan",
+      "slug": "peusangan-1110080"
+    },
+    "code": {
+      "id": "1110080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.197",
+      "lon": "96.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peusangan Selatan",
+      "en": "Peusangan Selatan",
+      "slug": "peusangan-selatan-1110081"
+    },
+    "code": {
+      "id": "1110081",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.068",
+      "lon": "96.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peusangan Siblah Krueng",
+      "en": "Peusangan Siblah Krueng",
+      "slug": "peusangan-siblah-krueng-1110082"
+    },
+    "code": {
+      "id": "1110082",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.068",
+      "lon": "96.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samalanga",
+      "en": "Samalanga",
+      "slug": "samalanga-1110010"
+    },
+    "code": {
+      "id": "1110010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.081",
+      "lon": "96.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1110011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simpang Mamplam",
+      "en": "Simpang Mamplam",
+      "slug": "simpang-mamplam-1110011"
+    },
+    "code": {
+      "id": "1110011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bireuen",
+          "en": "Bireuen",
+          "slug": "bireuen-1110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.084",
+      "lon": "96.428"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3574031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kanigaran",
+    "en": "Kanigaran",
+    "slug": "kanigaran-3574031"
+  },
+  "code": {
+    "id": "3574031",
+    "iso": null
+  },
+  "parent": {
+    "id": "3574",
+    "level": 2,
+    "name": {
+      "local": "Kota Probolinggo",
+      "en": "Probolinggo",
+      "slug": "probolinggo-3574"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3574",
+      "level": 2,
+      "name": {
+        "local": "Kota Probolinggo",
+        "en": "Probolinggo",
+        "slug": "probolinggo-3574"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.762",
+    "lon": "113.212"
+  },
+  "metadata": {},
+  "source": {}
+}

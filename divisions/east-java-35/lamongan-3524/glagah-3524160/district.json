@@ -1,0 +1,56 @@
+{
+  "id": "3524160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Glagah",
+    "en": "Glagah",
+    "slug": "glagah-3524160"
+  },
+  "code": {
+    "id": "3524160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3524",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lamongan",
+      "en": "Lamongan",
+      "slug": "lamongan-3524"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.068",
+    "lon": "112.513"
+  },
+  "metadata": {},
+  "source": {}
+}

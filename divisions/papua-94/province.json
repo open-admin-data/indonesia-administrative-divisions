@@ -1,0 +1,31 @@
+{
+  "id": "94",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Papua",
+    "en": "Papua",
+    "slug": "papua-94"
+  },
+  "code": {
+    "id": "94",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 29,
+    "village": 4866,
+    "district": 567
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.363",
+    "lon": "135.504"
+  },
+  "metadata": {},
+  "source": {}
+}

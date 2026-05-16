@@ -1,0 +1,48 @@
+{
+  "id": "9415",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Asmat",
+    "en": "Asmat",
+    "slug": "asmat-9415"
+  },
+  "code": {
+    "id": "9415",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 23,
+    "village": 206
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.057",
+    "lon": "138.399"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7210100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanambulava",
+    "en": "Tanambulava",
+    "slug": "tanambulava-7210100"
+  },
+  "code": {
+    "id": "7210100",
+    "iso": null
+  },
+  "parent": {
+    "id": "7210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sigi",
+      "en": "Sigi",
+      "slug": "sigi-7210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.139",
+    "lon": "119.945"
+  },
+  "metadata": {},
+  "source": {}
+}

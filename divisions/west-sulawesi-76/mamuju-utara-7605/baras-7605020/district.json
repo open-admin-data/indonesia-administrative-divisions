@@ -1,0 +1,56 @@
+{
+  "id": "7605020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Baras",
+    "en": "Baras",
+    "slug": "baras-7605020"
+  },
+  "code": {
+    "id": "7605020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju Utara",
+      "en": "Mamuju Utara",
+      "slug": "mamuju-utara-7605"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju Utara",
+        "en": "Mamuju Utara",
+        "slug": "mamuju-utara-7605"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.566",
+    "lon": "119.406"
+  },
+  "metadata": {},
+  "source": {}
+}

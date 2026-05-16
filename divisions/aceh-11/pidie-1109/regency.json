@@ -1,0 +1,48 @@
+{
+  "id": "1109",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pidie",
+    "en": "Pidie",
+    "slug": "pidie-1109"
+  },
+  "code": {
+    "id": "1109",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 23,
+    "village": 731
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.461",
+    "lon": "96.38"
+  },
+  "metadata": {},
+  "source": {}
+}

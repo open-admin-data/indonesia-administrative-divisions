@@ -1,0 +1,56 @@
+{
+  "id": "3525130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sidayu",
+    "en": "Sidayu",
+    "slug": "sidayu-3525130"
+  },
+  "code": {
+    "id": "3525130",
+    "iso": null
+  },
+  "parent": {
+    "id": "3525",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gresik",
+      "en": "Gresik",
+      "slug": "gresik-3525"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3525",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gresik",
+        "en": "Gresik",
+        "slug": "gresik-3525"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.972",
+    "lon": "112.556"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1501020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batang Merangin",
+    "en": "Batang Merangin",
+    "slug": "batang-merangin-1501020"
+  },
+  "code": {
+    "id": "1501020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kerinci",
+      "en": "Kerinci",
+      "slug": "kerinci-1501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kerinci",
+        "en": "Kerinci",
+        "slug": "kerinci-1501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.116",
+    "lon": "101.691"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1404",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pelalawan",
+    "en": "Pelalawan",
+    "slug": "pelalawan-1404"
+  },
+  "code": {
+    "id": "1404",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 118
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.315",
+    "lon": "103.158"
+  },
+  "metadata": {},
+  "source": {}
+}

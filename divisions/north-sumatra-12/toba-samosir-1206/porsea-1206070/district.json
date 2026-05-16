@@ -1,0 +1,56 @@
+{
+  "id": "1206070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Porsea",
+    "en": "Porsea",
+    "slug": "porsea-1206070"
+  },
+  "code": {
+    "id": "1206070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toba Samosir",
+      "en": "Toba Samosir",
+      "slug": "toba-samosir-1206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.478",
+    "lon": "99.131"
+  },
+  "metadata": {},
+  "source": {}
+}

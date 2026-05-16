@@ -1,0 +1,56 @@
+{
+  "id": "3324050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Singorojo",
+    "en": "Singorojo",
+    "slug": "singorojo-3324050"
+  },
+  "code": {
+    "id": "3324050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3324",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kendal",
+      "en": "Kendal",
+      "slug": "kendal-3324"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3324",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kendal",
+        "en": "Kendal",
+        "slug": "kendal-3324"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.108",
+    "lon": "110.209"
+  },
+  "metadata": {},
+  "source": {}
+}

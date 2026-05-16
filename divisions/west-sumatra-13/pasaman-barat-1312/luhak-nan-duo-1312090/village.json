@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1312090002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kapa",
+      "en": "Kapa",
+      "slug": "kapa-1312090002"
+    },
+    "code": {
+      "id": "1312090002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312090",
+      "level": 3,
+      "name": {
+        "local": "Luhak Nan Duo",
+        "en": "Luhak Nan Duo",
+        "slug": "luhak-nan-duo-1312090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312090",
+        "level": 3,
+        "name": {
+          "local": "Luhak Nan Duo",
+          "en": "Luhak Nan Duo",
+          "slug": "luhak-nan-duo-1312090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26568"
+    ],
+    "geo": {
+      "lat": "0.046",
+      "lon": "99.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312090001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Baru",
+      "en": "Koto Baru",
+      "slug": "koto-baru-1312090001"
+    },
+    "code": {
+      "id": "1312090001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312090",
+      "level": 3,
+      "name": {
+        "local": "Luhak Nan Duo",
+        "en": "Luhak Nan Duo",
+        "slug": "luhak-nan-duo-1312090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312090",
+        "level": 3,
+        "name": {
+          "local": "Luhak Nan Duo",
+          "en": "Luhak Nan Duo",
+          "slug": "luhak-nan-duo-1312090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26568"
+    ],
+    "geo": {
+      "lat": "0.028",
+      "lon": "99.824"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

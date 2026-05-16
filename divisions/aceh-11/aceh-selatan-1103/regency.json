@@ -1,0 +1,48 @@
+{
+  "id": "1103",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Aceh Selatan",
+    "en": "Aceh Selatan",
+    "slug": "aceh-selatan-1103"
+  },
+  "code": {
+    "id": "1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 260
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.933",
+    "lon": "97.784"
+  },
+  "metadata": {},
+  "source": {}
+}

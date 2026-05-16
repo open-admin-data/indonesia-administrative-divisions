@@ -1,0 +1,56 @@
+{
+  "id": "3308130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kajoran",
+    "en": "Kajoran",
+    "slug": "kajoran-3308130"
+  },
+  "code": {
+    "id": "3308130",
+    "iso": null
+  },
+  "parent": {
+    "id": "3308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Magelang",
+      "en": "Magelang",
+      "slug": "magelang-3308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magelang",
+        "en": "Magelang",
+        "slug": "magelang-3308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.472",
+    "lon": "110.089"
+  },
+  "metadata": {},
+  "source": {}
+}

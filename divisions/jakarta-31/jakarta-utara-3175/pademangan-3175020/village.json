@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3175020003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ancol",
+      "en": "Ancol",
+      "slug": "ancol-3175020003"
+    },
+    "code": {
+      "id": "3175020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3175020",
+      "level": 3,
+      "name": {
+        "local": "Pademangan",
+        "en": "Pademangan",
+        "slug": "pademangan-3175020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3175",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Utara",
+          "en": "Jakarta Utara",
+          "slug": "jakarta-utara-3175"
+        }
+      },
+      {
+        "id": "3175020",
+        "level": 3,
+        "name": {
+          "local": "Pademangan",
+          "en": "Pademangan",
+          "slug": "pademangan-3175020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14410"
+    ],
+    "geo": {
+      "lat": "-6.133",
+      "lon": "106.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3175020001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pademangan Barat",
+      "en": "Pademangan Barat",
+      "slug": "pademangan-barat-3175020001"
+    },
+    "code": {
+      "id": "3175020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3175020",
+      "level": 3,
+      "name": {
+        "local": "Pademangan",
+        "en": "Pademangan",
+        "slug": "pademangan-3175020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3175",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Utara",
+          "en": "Jakarta Utara",
+          "slug": "jakarta-utara-3175"
+        }
+      },
+      {
+        "id": "3175020",
+        "level": 3,
+        "name": {
+          "local": "Pademangan",
+          "en": "Pademangan",
+          "slug": "pademangan-3175020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14410"
+    ],
+    "geo": {
+      "lat": "-6.134",
+      "lon": "106.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3175020002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pademangan Timur",
+      "en": "Pademangan Timur",
+      "slug": "pademangan-timur-3175020002"
+    },
+    "code": {
+      "id": "3175020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3175020",
+      "level": 3,
+      "name": {
+        "local": "Pademangan",
+        "en": "Pademangan",
+        "slug": "pademangan-3175020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3175",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Utara",
+          "en": "Jakarta Utara",
+          "slug": "jakarta-utara-3175"
+        }
+      },
+      {
+        "id": "3175020",
+        "level": 3,
+        "name": {
+          "local": "Pademangan",
+          "en": "Pademangan",
+          "slug": "pademangan-3175020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14410"
+    ],
+    "geo": {
+      "lat": "-6.148",
+      "lon": "106.85"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

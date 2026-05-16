@@ -1,0 +1,56 @@
+{
+  "id": "1672031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Prabumulih Utara",
+    "en": "Prabumulih Utara",
+    "slug": "prabumulih-utara-1672031"
+  },
+  "code": {
+    "id": "1672031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1672",
+    "level": 2,
+    "name": {
+      "local": "Kota Prabumulih",
+      "en": "Prabumulih",
+      "slug": "prabumulih-1672"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1672",
+      "level": 2,
+      "name": {
+        "local": "Kota Prabumulih",
+        "en": "Prabumulih",
+        "slug": "prabumulih-1672"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.415",
+    "lon": "104.219"
+  },
+  "metadata": {},
+  "source": {}
+}

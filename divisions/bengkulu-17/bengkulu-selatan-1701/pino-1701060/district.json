@@ -1,0 +1,56 @@
+{
+  "id": "1701060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pino",
+    "en": "Pino",
+    "slug": "pino-1701060"
+  },
+  "code": {
+    "id": "1701060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1701",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Selatan",
+      "en": "Bengkulu Selatan",
+      "slug": "bengkulu-selatan-1701"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Selatan",
+        "en": "Bengkulu Selatan",
+        "slug": "bengkulu-selatan-1701"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.392",
+    "lon": "102.97"
+  },
+  "metadata": {},
+  "source": {}
+}

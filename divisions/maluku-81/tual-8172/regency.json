@@ -1,0 +1,48 @@
+{
+  "id": "8172",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Tual",
+    "en": "Tual",
+    "slug": "tual-8172"
+  },
+  "code": {
+    "id": "8172",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.635",
+    "lon": "132.752"
+  },
+  "metadata": {},
+  "source": {}
+}

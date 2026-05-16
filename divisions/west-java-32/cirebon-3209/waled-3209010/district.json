@@ -1,0 +1,56 @@
+{
+  "id": "3209010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waled",
+    "en": "Waled",
+    "slug": "waled-3209010"
+  },
+  "code": {
+    "id": "3209010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cirebon",
+      "en": "Cirebon",
+      "slug": "cirebon-3209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.909",
+    "lon": "108.686"
+  },
+  "metadata": {},
+  "source": {}
+}

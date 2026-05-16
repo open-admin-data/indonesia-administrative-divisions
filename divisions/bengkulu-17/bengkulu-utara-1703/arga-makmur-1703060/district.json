@@ -1,0 +1,56 @@
+{
+  "id": "1703060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Arga Makmur",
+    "en": "Arga Makmur",
+    "slug": "arga-makmur-1703060"
+  },
+  "code": {
+    "id": "1703060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1703",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Utara",
+      "en": "Bengkulu Utara",
+      "slug": "bengkulu-utara-1703"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Utara",
+        "en": "Bengkulu Utara",
+        "slug": "bengkulu-utara-1703"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.379",
+    "lon": "102.218"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3521020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngrambe",
+    "en": "Ngrambe",
+    "slug": "ngrambe-3521020"
+  },
+  "code": {
+    "id": "3521020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3521",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ngawi",
+      "en": "Ngawi",
+      "slug": "ngawi-3521"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3521",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngawi",
+        "en": "Ngawi",
+        "slug": "ngawi-3521"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.511",
+    "lon": "111.224"
+  },
+  "metadata": {},
+  "source": {}
+}

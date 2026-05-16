@@ -1,0 +1,56 @@
+{
+  "id": "3509250",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ledokombo",
+    "en": "Ledokombo",
+    "slug": "ledokombo-3509250"
+  },
+  "code": {
+    "id": "3509250",
+    "iso": null
+  },
+  "parent": {
+    "id": "3509",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jember",
+      "en": "Jember",
+      "slug": "jember-3509"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jember",
+        "en": "Jember",
+        "slug": "jember-3509"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.137",
+    "lon": "113.925"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5319050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Poco Ranaka",
+    "en": "Poco Ranaka",
+    "slug": "poco-ranaka-5319050"
+  },
+  "code": {
+    "id": "5319050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5319",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Timur",
+      "en": "Manggarai Timur",
+      "slug": "manggarai-timur-5319"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Timur",
+        "en": "Manggarai Timur",
+        "slug": "manggarai-timur-5319"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.553",
+    "lon": "120.567"
+  },
+  "metadata": {},
+  "source": {}
+}

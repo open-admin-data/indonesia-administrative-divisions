@@ -1,0 +1,56 @@
+{
+  "id": "1173021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Langsa Baro",
+    "en": "Langsa Baro",
+    "slug": "langsa-baro-1173021"
+  },
+  "code": {
+    "id": "1173021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1173",
+    "level": 2,
+    "name": {
+      "local": "Kota Langsa",
+      "en": "Langsa",
+      "slug": "langsa-1173"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1173",
+      "level": 2,
+      "name": {
+        "local": "Kota Langsa",
+        "en": "Langsa",
+        "slug": "langsa-1173"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.492",
+    "lon": "97.924"
+  },
+  "metadata": {},
+  "source": {}
+}

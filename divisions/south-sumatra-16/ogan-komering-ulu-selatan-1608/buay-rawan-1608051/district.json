@@ -1,0 +1,56 @@
+{
+  "id": "1608051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buay Rawan",
+    "en": "Buay Rawan",
+    "slug": "buay-rawan-1608051"
+  },
+  "code": {
+    "id": "1608051",
+    "iso": null
+  },
+  "parent": {
+    "id": "1608",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Selatan",
+      "en": "Ogan Komering Ulu Selatan",
+      "slug": "ogan-komering-ulu-selatan-1608"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu Selatan",
+        "en": "Ogan Komering Ulu Selatan",
+        "slug": "ogan-komering-ulu-selatan-1608"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.633",
+    "lon": "104.053"
+  },
+  "metadata": {},
+  "source": {}
+}

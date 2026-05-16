@@ -1,0 +1,914 @@
+[
+  {
+    "id": "1307",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Agam",
+      "en": "Agam",
+      "slug": "agam-1307"
+    },
+    "code": {
+      "id": "1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 16,
+      "village": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.152",
+      "lon": "100.661"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1375",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Bukittinggi",
+      "en": "Bukittinggi",
+      "slug": "bukittinggi-1375"
+    },
+    "code": {
+      "id": "1375",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 3,
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.285",
+      "lon": "100.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Dharmasraya",
+      "en": "Dharmasraya",
+      "slug": "dharmasraya-1311"
+    },
+    "code": {
+      "id": "1311",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.556",
+      "lon": "101.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1301",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kepulauan Mentawai",
+      "en": "Kepulauan Mentawai",
+      "slug": "kepulauan-mentawai-1301"
+    },
+    "code": {
+      "id": "1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.348",
+      "lon": "100.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1308",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lima Puluh Kota",
+      "en": "Lima Puluh Kota",
+      "slug": "lima-puluh-kota-1308"
+    },
+    "code": {
+      "id": "1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.14",
+      "lon": "100.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1371",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Padang",
+      "en": "Padang",
+      "slug": "padang-1371"
+    },
+    "code": {
+      "id": "1371",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.876",
+      "lon": "100.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1374",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Padang Panjang",
+      "en": "Padang Panjang",
+      "slug": "padang-panjang-1374"
+    },
+    "code": {
+      "id": "1374",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 2,
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.462",
+      "lon": "100.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Padang Pariaman",
+      "en": "Padang Pariaman",
+      "slug": "padang-pariaman-1306"
+    },
+    "code": {
+      "id": "1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.315",
+      "lon": "100.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1377",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Pariaman",
+      "en": "Pariaman",
+      "slug": "pariaman-1377"
+    },
+    "code": {
+      "id": "1377",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 71
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.629",
+      "lon": "100.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pasaman",
+      "en": "Pasaman",
+      "slug": "pasaman-1309"
+    },
+    "code": {
+      "id": "1309",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.054",
+      "lon": "99.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pasaman Barat",
+      "en": "Pasaman Barat",
+      "slug": "pasaman-barat-1312"
+    },
+    "code": {
+      "id": "1312",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.11",
+      "lon": "99.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1376",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Payakumbuh",
+      "en": "Payakumbuh",
+      "slug": "payakumbuh-1376"
+    },
+    "code": {
+      "id": "1376",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.223",
+      "lon": "100.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1302",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pesisir Selatan",
+      "en": "Pesisir Selatan",
+      "slug": "pesisir-selatan-1302"
+    },
+    "code": {
+      "id": "1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 182
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.952",
+      "lon": "100.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1373",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Sawah Lunto",
+      "en": "Sawah Lunto",
+      "slug": "sawah-lunto-1373"
+    },
+    "code": {
+      "id": "1373",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.675",
+      "lon": "100.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1304",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sijunjung",
+      "en": "Sijunjung",
+      "slug": "sijunjung-1304"
+    },
+    "code": {
+      "id": "1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.474",
+      "lon": "100.623"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Solok",
+      "en": "Solok",
+      "slug": "solok-1303"
+    },
+    "code": {
+      "id": "1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 74
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.666",
+      "lon": "100.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1372",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Solok",
+      "en": "Solok",
+      "slug": "solok-1372"
+    },
+    "code": {
+      "id": "1372",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 2,
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.799",
+      "lon": "100.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1310",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Solok Selatan",
+      "en": "Solok Selatan",
+      "slug": "solok-selatan-1310"
+    },
+    "code": {
+      "id": "1310",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.953",
+      "lon": "101.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1305",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tanah Datar",
+      "en": "Tanah Datar",
+      "slug": "tanah-datar-1305"
+    },
+    "code": {
+      "id": "1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.621",
+      "lon": "100.307"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

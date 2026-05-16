@@ -1,0 +1,56 @@
+{
+  "id": "6271011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sabangau",
+    "en": "Sabangau",
+    "slug": "sabangau-6271011"
+  },
+  "code": {
+    "id": "6271011",
+    "iso": null
+  },
+  "parent": {
+    "id": "6271",
+    "level": 2,
+    "name": {
+      "local": "Kota Palangka Raya",
+      "en": "Palangka Raya",
+      "slug": "palangka-raya-6271"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6271",
+      "level": 2,
+      "name": {
+        "local": "Kota Palangka Raya",
+        "en": "Palangka Raya",
+        "slug": "palangka-raya-6271"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.284",
+    "lon": "113.913"
+  },
+  "metadata": {},
+  "source": {}
+}

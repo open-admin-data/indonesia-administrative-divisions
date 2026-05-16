@@ -1,0 +1,48 @@
+{
+  "id": "3513",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Probolinggo",
+    "en": "Probolinggo",
+    "slug": "probolinggo-3513"
+  },
+  "code": {
+    "id": "3513",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 24,
+    "village": 306
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.762",
+    "lon": "113.416"
+  },
+  "metadata": {},
+  "source": {}
+}

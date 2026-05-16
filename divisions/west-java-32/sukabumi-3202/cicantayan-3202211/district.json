@@ -1,0 +1,56 @@
+{
+  "id": "3202211",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cicantayan",
+    "en": "Cicantayan",
+    "slug": "cicantayan-3202211"
+  },
+  "code": {
+    "id": "3202211",
+    "iso": null
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.917",
+    "lon": "106.828"
+  },
+  "metadata": {},
+  "source": {}
+}

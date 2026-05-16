@@ -1,0 +1,48 @@
+{
+  "id": "7414",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Buton Tengah",
+    "en": "Buton Tengah",
+    "slug": "buton-tengah-7414"
+  },
+  "code": {
+    "id": "7414",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi",
+      "slug": "southeast-sulawesi-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 74
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.316",
+    "lon": "122.532"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6206011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pantai Lunci",
+    "en": "Pantai Lunci",
+    "slug": "pantai-lunci-6206011"
+  },
+  "code": {
+    "id": "6206011",
+    "iso": null
+  },
+  "parent": {
+    "id": "6206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sukamara",
+      "en": "Sukamara",
+      "slug": "sukamara-6206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukamara",
+        "en": "Sukamara",
+        "slug": "sukamara-6206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.913",
+    "lon": "111.176"
+  },
+  "metadata": {},
+  "source": {}
+}

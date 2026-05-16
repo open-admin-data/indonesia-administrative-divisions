@@ -1,0 +1,31 @@
+{
+  "id": "53",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Nusa Tenggara Timur",
+    "en": "East Nusa Tenggara",
+    "slug": "east-nusa-tenggara-53"
+  },
+  "code": {
+    "id": "53",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 22,
+    "village": 3202,
+    "district": 307
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.171",
+    "lon": "123.607"
+  },
+  "metadata": {},
+  "source": {}
+}

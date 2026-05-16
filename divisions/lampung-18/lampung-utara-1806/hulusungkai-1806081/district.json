@@ -1,0 +1,56 @@
+{
+  "id": "1806081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Hulusungkai",
+    "en": "Hulusungkai",
+    "slug": "hulusungkai-1806081"
+  },
+  "code": {
+    "id": "1806081",
+    "iso": null
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Utara",
+      "en": "Lampung Utara",
+      "slug": "lampung-utara-1806"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Utara",
+        "en": "Lampung Utara",
+        "slug": "lampung-utara-1806"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.654",
+    "lon": "104.663"
+  },
+  "metadata": {},
+  "source": {}
+}

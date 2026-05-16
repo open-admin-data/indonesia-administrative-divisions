@@ -1,0 +1,954 @@
+[
+  {
+    "id": "3214101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Babakancikao",
+      "en": "Babakancikao",
+      "slug": "babakancikao-3214101"
+    },
+    "code": {
+      "id": "3214101",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.496",
+      "lon": "107.418"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bojong",
+      "en": "Bojong",
+      "slug": "bojong-3214070"
+    },
+    "code": {
+      "id": "3214070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.703",
+      "lon": "107.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214112",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bungursari",
+      "en": "Bungursari",
+      "slug": "bungursari-3214112"
+    },
+    "code": {
+      "id": "3214112",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.462",
+      "lon": "107.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Campaka",
+      "en": "Campaka",
+      "slug": "campaka-3214110"
+    },
+    "code": {
+      "id": "3214110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.487",
+      "lon": "107.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibatu",
+      "en": "Cibatu",
+      "slug": "cibatu-3214111"
+    },
+    "code": {
+      "id": "3214111",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.527",
+      "lon": "107.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Darangdan",
+      "en": "Darangdan",
+      "slug": "darangdan-3214060"
+    },
+    "code": {
+      "id": "3214060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.702",
+      "lon": "107.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jatiluhur",
+      "en": "Jatiluhur",
+      "slug": "jatiluhur-3214010"
+    },
+    "code": {
+      "id": "3214010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.566",
+      "lon": "107.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kiarapedes",
+      "en": "Kiarapedes",
+      "slug": "kiarapedes-3214081"
+    },
+    "code": {
+      "id": "3214081",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.645",
+      "lon": "107.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maniis",
+      "en": "Maniis",
+      "slug": "maniis-3214020"
+    },
+    "code": {
+      "id": "3214020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.679",
+      "lon": "107.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasawahan",
+      "en": "Pasawahan",
+      "slug": "pasawahan-3214090"
+    },
+    "code": {
+      "id": "3214090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.573",
+      "lon": "107.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Plered",
+      "en": "Plered",
+      "slug": "plered-3214040"
+    },
+    "code": {
+      "id": "3214040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.649",
+      "lon": "107.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pondok Salam",
+      "en": "Pondok Salam",
+      "slug": "pondok-salam-3214091"
+    },
+    "code": {
+      "id": "3214091",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.618",
+      "lon": "107.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwakarta",
+      "en": "Purwakarta",
+      "slug": "purwakarta-3214100"
+    },
+    "code": {
+      "id": "3214100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.541",
+      "lon": "107.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukasari",
+      "en": "Sukasari",
+      "slug": "sukasari-3214011"
+    },
+    "code": {
+      "id": "3214011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.565",
+      "lon": "107.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukatani",
+      "en": "Sukatani",
+      "slug": "sukatani-3214050"
+    },
+    "code": {
+      "id": "3214050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.6",
+      "lon": "107.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tegal Waru",
+      "en": "Tegal Waru",
+      "slug": "tegal-waru-3214030"
+    },
+    "code": {
+      "id": "3214030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.627",
+      "lon": "107.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3214080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wanayasa",
+      "en": "Wanayasa",
+      "slug": "wanayasa-3214080"
+    },
+    "code": {
+      "id": "3214080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3214",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Purwakarta",
+          "en": "Purwakarta",
+          "slug": "purwakarta-3214"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.659",
+      "lon": "107.552"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

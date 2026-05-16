@@ -1,0 +1,48 @@
+{
+  "id": "8272",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Tidore Kepulauan",
+    "en": "Tidore Kepulauan",
+    "slug": "tidore-kepulauan-8272"
+  },
+  "code": {
+    "id": "8272",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Maluku Utara",
+      "en": "North Maluku",
+      "slug": "north-maluku-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.672",
+    "lon": "127.447"
+  },
+  "metadata": {},
+  "source": {}
+}

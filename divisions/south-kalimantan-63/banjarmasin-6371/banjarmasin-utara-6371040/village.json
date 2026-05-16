@@ -1,0 +1,652 @@
+[
+  {
+    "id": "6371040010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alalak Selatan",
+      "en": "Alalak Selatan",
+      "slug": "alalak-selatan-6371040010"
+    },
+    "code": {
+      "id": "6371040010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.287",
+      "lon": "114.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alalak Tengah",
+      "en": "Alalak Tengah",
+      "slug": "alalak-tengah-6371040011"
+    },
+    "code": {
+      "id": "6371040011",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.275",
+      "lon": "114.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alalak Utara",
+      "en": "Alalak Utara",
+      "slug": "alalak-utara-6371040009"
+    },
+    "code": {
+      "id": "6371040009",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.283",
+      "lon": "114.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Antasan Kecil Timur",
+      "en": "Antasan Kecil Timur",
+      "slug": "antasan-kecil-timur-6371040006"
+    },
+    "code": {
+      "id": "6371040006",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.304",
+      "lon": "114.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuin Utara",
+      "en": "Kuin Utara",
+      "slug": "kuin-utara-6371040003"
+    },
+    "code": {
+      "id": "6371040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.291",
+      "lon": "114.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pangeran",
+      "en": "Pangeran",
+      "slug": "pangeran-6371040004"
+    },
+    "code": {
+      "id": "6371040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.296",
+      "lon": "114.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Andai",
+      "en": "Sungai Andai",
+      "slug": "sungai-andai-6371040012"
+    },
+    "code": {
+      "id": "6371040012",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.292",
+      "lon": "114.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Jingah",
+      "en": "Sungai Jingah",
+      "slug": "sungai-jingah-6371040008"
+    },
+    "code": {
+      "id": "6371040008",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.301",
+      "lon": "114.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Miai",
+      "en": "Sungai Miai",
+      "slug": "sungai-miai-6371040005"
+    },
+    "code": {
+      "id": "6371040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.293",
+      "lon": "114.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Surgi Mufti",
+      "en": "Surgi Mufti",
+      "slug": "surgi-mufti-6371040007"
+    },
+    "code": {
+      "id": "6371040007",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371040",
+      "level": 3,
+      "name": {
+        "local": "Banjarmasin Utara",
+        "en": "Banjarmasin Utara",
+        "slug": "banjarmasin-utara-6371040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      },
+      {
+        "id": "6371040",
+        "level": 3,
+        "name": {
+          "local": "Banjarmasin Utara",
+          "en": "Banjarmasin Utara",
+          "slug": "banjarmasin-utara-6371040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70121"
+    ],
+    "geo": {
+      "lat": "-3.304",
+      "lon": "114.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

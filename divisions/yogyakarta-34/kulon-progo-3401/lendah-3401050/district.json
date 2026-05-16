@@ -1,0 +1,56 @@
+{
+  "id": "3401050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lendah",
+    "en": "Lendah",
+    "slug": "lendah-3401050"
+  },
+  "code": {
+    "id": "3401050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kulon Progo",
+      "en": "Kulon Progo",
+      "slug": "kulon-progo-3401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kulon Progo",
+        "en": "Kulon Progo",
+        "slug": "kulon-progo-3401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.913",
+    "lon": "110.228"
+  },
+  "metadata": {},
+  "source": {}
+}

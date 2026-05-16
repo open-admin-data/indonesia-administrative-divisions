@@ -1,0 +1,56 @@
+{
+  "id": "3312190",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Purwantoro",
+    "en": "Purwantoro",
+    "slug": "purwantoro-3312190"
+  },
+  "code": {
+    "id": "3312190",
+    "iso": null
+  },
+  "parent": {
+    "id": "3312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wonogiri",
+      "en": "Wonogiri",
+      "slug": "wonogiri-3312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wonogiri",
+        "en": "Wonogiri",
+        "slug": "wonogiri-3312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.835",
+    "lon": "111.265"
+  },
+  "metadata": {},
+  "source": {}
+}

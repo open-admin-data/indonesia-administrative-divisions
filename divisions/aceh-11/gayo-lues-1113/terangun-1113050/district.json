@@ -1,0 +1,56 @@
+{
+  "id": "1113050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Terangun",
+    "en": "Terangun",
+    "slug": "terangun-1113050"
+  },
+  "code": {
+    "id": "1113050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1113",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gayo Lues",
+      "en": "Gayo Lues",
+      "slug": "gayo-lues-1113"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1113",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gayo Lues",
+        "en": "Gayo Lues",
+        "slug": "gayo-lues-1113"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.059",
+    "lon": "96.92"
+  },
+  "metadata": {},
+  "source": {}
+}

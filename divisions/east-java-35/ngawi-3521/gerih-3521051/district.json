@@ -1,0 +1,56 @@
+{
+  "id": "3521051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gerih",
+    "en": "Gerih",
+    "slug": "gerih-3521051"
+  },
+  "code": {
+    "id": "3521051",
+    "iso": null
+  },
+  "parent": {
+    "id": "3521",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ngawi",
+      "en": "Ngawi",
+      "slug": "ngawi-3521"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3521",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngawi",
+        "en": "Ngawi",
+        "slug": "ngawi-3521"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.537",
+    "lon": "111.386"
+  },
+  "metadata": {},
+  "source": {}
+}

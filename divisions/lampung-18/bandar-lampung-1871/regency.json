@@ -1,0 +1,48 @@
+{
+  "id": "1871",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Bandar Lampung",
+    "en": "Bandar Lampung",
+    "slug": "bandar-lampung-1871"
+  },
+  "code": {
+    "id": "1871",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 20,
+    "village": 125
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.43",
+    "lon": "105.263"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3529080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lenteng",
+    "en": "Lenteng",
+    "slug": "lenteng-3529080"
+  },
+  "code": {
+    "id": "3529080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3529",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumenep",
+      "en": "Sumenep",
+      "slug": "sumenep-3529"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3529",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumenep",
+        "en": "Sumenep",
+        "slug": "sumenep-3529"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.046",
+    "lon": "113.775"
+  },
+  "metadata": {},
+  "source": {}
+}

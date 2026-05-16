@@ -1,0 +1,56 @@
+{
+  "id": "5101010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Melaya",
+    "en": "Melaya",
+    "slug": "melaya-5101010"
+  },
+  "code": {
+    "id": "5101010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jembrana",
+      "en": "Jembrana",
+      "slug": "jembrana-5101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jembrana",
+        "en": "Jembrana",
+        "slug": "jembrana-5101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.247",
+    "lon": "114.542"
+  },
+  "metadata": {},
+  "source": {}
+}

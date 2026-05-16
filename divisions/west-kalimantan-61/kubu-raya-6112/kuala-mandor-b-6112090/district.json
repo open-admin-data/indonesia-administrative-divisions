@@ -1,0 +1,56 @@
+{
+  "id": "6112090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Mandor-b",
+    "en": "Kuala Mandor-b",
+    "slug": "kuala-mandor-b-6112090"
+  },
+  "code": {
+    "id": "6112090",
+    "iso": null
+  },
+  "parent": {
+    "id": "6112",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kubu Raya",
+      "en": "Kubu Raya",
+      "slug": "kubu-raya-6112"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.117",
+    "lon": "109.497"
+  },
+  "metadata": {},
+  "source": {}
+}

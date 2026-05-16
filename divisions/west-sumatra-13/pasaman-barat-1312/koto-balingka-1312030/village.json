@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1312030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Parik",
+      "en": "Parik",
+      "slug": "parik-1312030001"
+    },
+    "code": {
+      "id": "1312030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312030",
+      "level": 3,
+      "name": {
+        "local": "Koto Balingka",
+        "en": "Koto Balingka",
+        "slug": "koto-balingka-1312030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312030",
+        "level": 3,
+        "name": {
+          "local": "Koto Balingka",
+          "en": "Koto Balingka",
+          "slug": "koto-balingka-1312030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26572"
+    ],
+    "geo": {
+      "lat": "0.284",
+      "lon": "99.529"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

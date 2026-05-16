@@ -1,0 +1,56 @@
+{
+  "id": "9104040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wamesa",
+    "en": "Wamesa",
+    "slug": "wamesa-9104040"
+  },
+  "code": {
+    "id": "9104040",
+    "iso": null
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Bintuni",
+      "en": "Teluk Bintuni",
+      "slug": "teluk-bintuni-9104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Bintuni",
+        "en": "Teluk Bintuni",
+        "slug": "teluk-bintuni-9104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.129",
+    "lon": "133.916"
+  },
+  "metadata": {},
+  "source": {}
+}

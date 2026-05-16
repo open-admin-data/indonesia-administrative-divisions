@@ -1,0 +1,56 @@
+{
+  "id": "9416019",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Silimo",
+    "en": "Silimo",
+    "slug": "silimo-9416019"
+  },
+  "code": {
+    "id": "9416019",
+    "iso": null
+  },
+  "parent": {
+    "id": "9416",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Yahukimo",
+      "en": "Yahukimo",
+      "slug": "yahukimo-9416"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9416",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Yahukimo",
+        "en": "Yahukimo",
+        "slug": "yahukimo-9416"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.486",
+    "lon": "139.007"
+  },
+  "metadata": {},
+  "source": {}
+}

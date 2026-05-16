@@ -1,0 +1,56 @@
+{
+  "id": "1606041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lais",
+    "en": "Lais",
+    "slug": "lais-1606041"
+  },
+  "code": {
+    "id": "1606041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Musi Banyuasin",
+      "en": "Musi Banyuasin",
+      "slug": "musi-banyuasin-1606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Musi Banyuasin",
+        "en": "Musi Banyuasin",
+        "slug": "musi-banyuasin-1606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.905",
+    "lon": "104.045"
+  },
+  "metadata": {},
+  "source": {}
+}

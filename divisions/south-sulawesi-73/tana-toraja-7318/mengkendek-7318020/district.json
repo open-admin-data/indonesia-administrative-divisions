@@ -1,0 +1,56 @@
+{
+  "id": "7318020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mengkendek",
+    "en": "Mengkendek",
+    "slug": "mengkendek-7318020"
+  },
+  "code": {
+    "id": "7318020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7318",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tana Toraja",
+      "en": "Tana Toraja",
+      "slug": "tana-toraja-7318"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7318",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tana Toraja",
+        "en": "Tana Toraja",
+        "slug": "tana-toraja-7318"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.242",
+    "lon": "119.94"
+  },
+  "metadata": {},
+  "source": {}
+}

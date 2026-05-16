@@ -1,0 +1,48 @@
+{
+  "id": "5107",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Karang Asem",
+    "en": "Karang Asem",
+    "slug": "karang-asem-5107"
+  },
+  "code": {
+    "id": "5107",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.439",
+    "lon": "115.612"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6209060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tewang Sangalang Garing",
+    "en": "Tewang Sangalang Garing",
+    "slug": "tewang-sangalang-garing-6209060"
+  },
+  "code": {
+    "id": "6209060",
+    "iso": null
+  },
+  "parent": {
+    "id": "6209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Katingan",
+      "en": "Katingan",
+      "slug": "katingan-6209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.739",
+    "lon": "113.313"
+  },
+  "metadata": {},
+  "source": {}
+}

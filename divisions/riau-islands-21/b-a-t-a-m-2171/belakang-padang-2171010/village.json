@@ -1,0 +1,392 @@
+[
+  {
+    "id": "2171010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kasu",
+      "en": "Kasu",
+      "slug": "kasu-2171010003"
+    },
+    "code": {
+      "id": "2171010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2171010",
+      "level": 3,
+      "name": {
+        "local": "Belakang Padang",
+        "en": "Belakang Padang",
+        "slug": "belakang-padang-2171010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2171",
+        "level": 2,
+        "name": {
+          "local": "Kota B A T A M",
+          "en": "B A T A M",
+          "slug": "b-a-t-a-m-2171"
+        }
+      },
+      {
+        "id": "2171010",
+        "level": 3,
+        "name": {
+          "local": "Belakang Padang",
+          "en": "Belakang Padang",
+          "slug": "belakang-padang-2171010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29492"
+    ],
+    "geo": {
+      "lat": "1.033",
+      "lon": "103.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2171010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pecong",
+      "en": "Pecong",
+      "slug": "pecong-2171010002"
+    },
+    "code": {
+      "id": "2171010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2171010",
+      "level": 3,
+      "name": {
+        "local": "Belakang Padang",
+        "en": "Belakang Padang",
+        "slug": "belakang-padang-2171010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2171",
+        "level": 2,
+        "name": {
+          "local": "Kota B A T A M",
+          "en": "B A T A M",
+          "slug": "b-a-t-a-m-2171"
+        }
+      },
+      {
+        "id": "2171010",
+        "level": 3,
+        "name": {
+          "local": "Belakang Padang",
+          "en": "Belakang Padang",
+          "slug": "belakang-padang-2171010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29492"
+    ],
+    "geo": {
+      "lat": "0.983",
+      "lon": "103.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2171010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pemping",
+      "en": "Pemping",
+      "slug": "pemping-2171010004"
+    },
+    "code": {
+      "id": "2171010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "2171010",
+      "level": 3,
+      "name": {
+        "local": "Belakang Padang",
+        "en": "Belakang Padang",
+        "slug": "belakang-padang-2171010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2171",
+        "level": 2,
+        "name": {
+          "local": "Kota B A T A M",
+          "en": "B A T A M",
+          "slug": "b-a-t-a-m-2171"
+        }
+      },
+      {
+        "id": "2171010",
+        "level": 3,
+        "name": {
+          "local": "Belakang Padang",
+          "en": "Belakang Padang",
+          "slug": "belakang-padang-2171010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29492"
+    ],
+    "geo": {
+      "lat": "1.091",
+      "lon": "103.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2171010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Terong",
+      "en": "Pulau Terong",
+      "slug": "pulau-terong-2171010001"
+    },
+    "code": {
+      "id": "2171010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2171010",
+      "level": 3,
+      "name": {
+        "local": "Belakang Padang",
+        "en": "Belakang Padang",
+        "slug": "belakang-padang-2171010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2171",
+        "level": 2,
+        "name": {
+          "local": "Kota B A T A M",
+          "en": "B A T A M",
+          "slug": "b-a-t-a-m-2171"
+        }
+      },
+      {
+        "id": "2171010",
+        "level": 3,
+        "name": {
+          "local": "Belakang Padang",
+          "en": "Belakang Padang",
+          "slug": "belakang-padang-2171010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29492"
+    ],
+    "geo": {
+      "lat": "0.964",
+      "lon": "103.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2171010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sekanak Raya",
+      "en": "Sekanak Raya",
+      "slug": "sekanak-raya-2171010007"
+    },
+    "code": {
+      "id": "2171010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "2171010",
+      "level": 3,
+      "name": {
+        "local": "Belakang Padang",
+        "en": "Belakang Padang",
+        "slug": "belakang-padang-2171010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2171",
+        "level": 2,
+        "name": {
+          "local": "Kota B A T A M",
+          "en": "B A T A M",
+          "slug": "b-a-t-a-m-2171"
+        }
+      },
+      {
+        "id": "2171010",
+        "level": 3,
+        "name": {
+          "local": "Belakang Padang",
+          "en": "Belakang Padang",
+          "slug": "belakang-padang-2171010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29492"
+    ],
+    "geo": {
+      "lat": "1.146",
+      "lon": "103.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2171010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Sari",
+      "en": "Tanjung Sari",
+      "slug": "tanjung-sari-2171010006"
+    },
+    "code": {
+      "id": "2171010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "2171010",
+      "level": 3,
+      "name": {
+        "local": "Belakang Padang",
+        "en": "Belakang Padang",
+        "slug": "belakang-padang-2171010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2171",
+        "level": 2,
+        "name": {
+          "local": "Kota B A T A M",
+          "en": "B A T A M",
+          "slug": "b-a-t-a-m-2171"
+        }
+      },
+      {
+        "id": "2171010",
+        "level": 3,
+        "name": {
+          "local": "Belakang Padang",
+          "en": "Belakang Padang",
+          "slug": "belakang-padang-2171010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29492"
+    ],
+    "geo": {
+      "lat": "1.161",
+      "lon": "103.898"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

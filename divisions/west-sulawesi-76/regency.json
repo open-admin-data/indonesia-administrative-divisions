@@ -1,0 +1,290 @@
+[
+  {
+    "id": "7601",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Majene",
+      "en": "Majene",
+      "slug": "majene-7601"
+    },
+    "code": {
+      "id": "7601",
+      "iso": null
+    },
+    "parent": {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 81
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.174",
+      "lon": "119.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mamasa",
+      "en": "Mamasa",
+      "slug": "mamasa-7603"
+    },
+    "code": {
+      "id": "7603",
+      "iso": null
+    },
+    "parent": {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 180
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.956",
+      "lon": "119.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mamuju",
+      "en": "Mamuju",
+      "slug": "mamuju-7604"
+    },
+    "code": {
+      "id": "7604",
+      "iso": null
+    },
+    "parent": {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 99
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.408",
+      "lon": "119.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7606",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mamuju Tengah",
+      "en": "Mamuju Tengah",
+      "slug": "mamuju-tengah-7606"
+    },
+    "code": {
+      "id": "7606",
+      "iso": null
+    },
+    "parent": {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 54
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.082",
+      "lon": "119.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7605",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mamuju Utara",
+      "en": "Mamuju Utara",
+      "slug": "mamuju-utara-7605"
+    },
+    "code": {
+      "id": "7605",
+      "iso": null
+    },
+    "parent": {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.548",
+      "lon": "118.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7602",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Polewali Mandar",
+      "en": "Polewali Mandar",
+      "slug": "polewali-mandar-7602"
+    },
+    "code": {
+      "id": "7602",
+      "iso": null
+    },
+    "parent": {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 16,
+      "village": 163
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.69",
+      "lon": "118.885"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

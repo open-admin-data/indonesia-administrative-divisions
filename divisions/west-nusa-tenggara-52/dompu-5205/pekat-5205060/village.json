@@ -1,0 +1,782 @@
+[
+  {
+    "id": "5205060002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Beringin Jaya",
+      "en": "Beringin Jaya",
+      "slug": "beringin-jaya-5205060002"
+    },
+    "code": {
+      "id": "5205060002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.289",
+      "lon": "117.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Calabai",
+      "en": "Calabai",
+      "slug": "calabai-5205060008"
+    },
+    "code": {
+      "id": "5205060008",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.224",
+      "lon": "117.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Doropeti",
+      "en": "Doropeti",
+      "slug": "doropeti-5205060001"
+    },
+    "code": {
+      "id": "5205060001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.35",
+      "lon": "117.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kadindi",
+      "en": "Kadindi",
+      "slug": "kadindi-5205060006"
+    },
+    "code": {
+      "id": "5205060006",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.194",
+      "lon": "117.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kadindi Barat",
+      "en": "Kadindi Barat",
+      "slug": "kadindi-barat-5205060010"
+    },
+    "code": {
+      "id": "5205060010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.183",
+      "lon": "117.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nangamiro",
+      "en": "Nangamiro",
+      "slug": "nangamiro-5205060007"
+    },
+    "code": {
+      "id": "5205060007",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.162",
+      "lon": "117.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekat",
+      "en": "Pekat",
+      "slug": "pekat-5205060003"
+    },
+    "code": {
+      "id": "5205060003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.238",
+      "lon": "117.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Persiapan Karombo",
+      "en": "Persiapan Karombo",
+      "slug": "persiapan-karombo-5205060012"
+    },
+    "code": {
+      "id": "5205060012",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.195",
+      "lon": "117.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Persiapan Sori Tatanga",
+      "en": "Persiapan Sori Tatanga",
+      "slug": "persiapan-sori-tatanga-5205060011"
+    },
+    "code": {
+      "id": "5205060011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.422",
+      "lon": "118.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sorinomo",
+      "en": "Sorinomo",
+      "slug": "sorinomo-5205060004"
+    },
+    "code": {
+      "id": "5205060004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.253",
+      "lon": "117.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tambora",
+      "en": "Tambora",
+      "slug": "tambora-5205060005"
+    },
+    "code": {
+      "id": "5205060005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.216",
+      "lon": "117.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205060009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Upt Nangakara",
+      "en": "Upt Nangakara",
+      "slug": "upt-nangakara-5205060009"
+    },
+    "code": {
+      "id": "5205060009",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205060",
+      "level": 3,
+      "name": {
+        "local": "Pekat",
+        "en": "Pekat",
+        "slug": "pekat-5205060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dompu",
+          "en": "Dompu",
+          "slug": "dompu-5205"
+        }
+      },
+      {
+        "id": "5205060",
+        "level": 3,
+        "name": {
+          "local": "Pekat",
+          "en": "Pekat",
+          "slug": "pekat-5205060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84263"
+    ],
+    "geo": {
+      "lat": "-8.318",
+      "lon": "117.855"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "1404042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Meranti",
+    "en": "Teluk Meranti",
+    "slug": "teluk-meranti-1404042"
+  },
+  "code": {
+    "id": "1404042",
+    "iso": null
+  },
+  "parent": {
+    "id": "1404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pelalawan",
+      "en": "Pelalawan",
+      "slug": "pelalawan-1404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pelalawan",
+        "en": "Pelalawan",
+        "slug": "pelalawan-1404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.388",
+    "lon": "102.72"
+  },
+  "metadata": {},
+  "source": {}
+}

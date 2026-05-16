@@ -1,0 +1,48 @@
+{
+  "id": "3309",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Boyolali",
+    "en": "Boyolali",
+    "slug": "boyolali-3309"
+  },
+  "code": {
+    "id": "3309",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 236
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.546",
+    "lon": "110.611"
+  },
+  "metadata": {},
+  "source": {}
+}

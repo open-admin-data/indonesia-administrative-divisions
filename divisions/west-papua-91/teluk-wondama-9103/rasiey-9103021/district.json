@@ -1,0 +1,56 @@
+{
+  "id": "9103021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rasiey",
+    "en": "Rasiey",
+    "slug": "rasiey-9103021"
+  },
+  "code": {
+    "id": "9103021",
+    "iso": null
+  },
+  "parent": {
+    "id": "9103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Wondama",
+      "en": "Teluk Wondama",
+      "slug": "teluk-wondama-9103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Wondama",
+        "en": "Teluk Wondama",
+        "slug": "teluk-wondama-9103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.87",
+    "lon": "134.562"
+  },
+  "metadata": {},
+  "source": {}
+}

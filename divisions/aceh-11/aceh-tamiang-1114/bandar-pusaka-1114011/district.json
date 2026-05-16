@@ -1,0 +1,56 @@
+{
+  "id": "1114011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Pusaka",
+    "en": "Bandar Pusaka",
+    "slug": "bandar-pusaka-1114011"
+  },
+  "code": {
+    "id": "1114011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1114",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tamiang",
+      "en": "Aceh Tamiang",
+      "slug": "aceh-tamiang-1114"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1114",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tamiang",
+        "en": "Aceh Tamiang",
+        "slug": "aceh-tamiang-1114"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.283",
+    "lon": "97.868"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1871080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kedaton",
+    "en": "Kedaton",
+    "slug": "kedaton-1871080"
+  },
+  "code": {
+    "id": "1871080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1871",
+    "level": 2,
+    "name": {
+      "local": "Kota Bandar Lampung",
+      "en": "Bandar Lampung",
+      "slug": "bandar-lampung-1871"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1871",
+      "level": 2,
+      "name": {
+        "local": "Kota Bandar Lampung",
+        "en": "Bandar Lampung",
+        "slug": "bandar-lampung-1871"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.392",
+    "lon": "105.26"
+  },
+  "metadata": {},
+  "source": {}
+}

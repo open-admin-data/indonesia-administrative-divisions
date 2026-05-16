@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3312201002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Giriharjo",
+      "en": "Giriharjo",
+      "slug": "giriharjo-3312201002"
+    },
+    "code": {
+      "id": "3312201002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3312201",
+      "level": 3,
+      "name": {
+        "local": "Puhpelem",
+        "en": "Puhpelem",
+        "slug": "puhpelem-3312201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wonogiri",
+          "en": "Wonogiri",
+          "slug": "wonogiri-3312"
+        }
+      },
+      {
+        "id": "3312201",
+        "level": 3,
+        "name": {
+          "local": "Puhpelem",
+          "en": "Puhpelem",
+          "slug": "puhpelem-3312201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57698"
+    ],
+    "geo": {
+      "lat": "-7.788",
+      "lon": "111.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3312201006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Golo",
+      "en": "Golo",
+      "slug": "golo-3312201006"
+    },
+    "code": {
+      "id": "3312201006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3312201",
+      "level": 3,
+      "name": {
+        "local": "Puhpelem",
+        "en": "Puhpelem",
+        "slug": "puhpelem-3312201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wonogiri",
+          "en": "Wonogiri",
+          "slug": "wonogiri-3312"
+        }
+      },
+      {
+        "id": "3312201",
+        "level": 3,
+        "name": {
+          "local": "Puhpelem",
+          "en": "Puhpelem",
+          "slug": "puhpelem-3312201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57698"
+    ],
+    "geo": {
+      "lat": "-7.757",
+      "lon": "111.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3312201004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukorejo",
+      "en": "Sukorejo",
+      "slug": "sukorejo-3312201004"
+    },
+    "code": {
+      "id": "3312201004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3312201",
+      "level": 3,
+      "name": {
+        "local": "Puhpelem",
+        "en": "Puhpelem",
+        "slug": "puhpelem-3312201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Wonogiri",
+          "en": "Wonogiri",
+          "slug": "wonogiri-3312"
+        }
+      },
+      {
+        "id": "3312201",
+        "level": 3,
+        "name": {
+          "local": "Puhpelem",
+          "en": "Puhpelem",
+          "slug": "puhpelem-3312201"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57698"
+    ],
+    "geo": {
+      "lat": "-7.747",
+      "lon": "111.276"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "5206050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wawo",
+    "en": "Wawo",
+    "slug": "wawo-5206050"
+  },
+  "code": {
+    "id": "5206050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bima",
+      "en": "Bima",
+      "slug": "bima-5206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bima",
+        "en": "Bima",
+        "slug": "bima-5206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.568",
+    "lon": "118.86"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1304050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kamang Baru",
+    "en": "Kamang Baru",
+    "slug": "kamang-baru-1304050"
+  },
+  "code": {
+    "id": "1304050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sijunjung",
+      "en": "Sijunjung",
+      "slug": "sijunjung-1304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sijunjung",
+        "en": "Sijunjung",
+        "slug": "sijunjung-1304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.781",
+    "lon": "101.315"
+  },
+  "metadata": {},
+  "source": {}
+}

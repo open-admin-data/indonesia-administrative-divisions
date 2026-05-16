@@ -1,0 +1,56 @@
+{
+  "id": "3318200",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tayu",
+    "en": "Tayu",
+    "slug": "tayu-3318200"
+  },
+  "code": {
+    "id": "3318200",
+    "iso": null
+  },
+  "parent": {
+    "id": "3318",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pati",
+      "en": "Pati",
+      "slug": "pati-3318"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3318",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pati",
+        "en": "Pati",
+        "slug": "pati-3318"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.541",
+    "lon": "111.035"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3312240",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Girimarto",
+    "en": "Girimarto",
+    "slug": "girimarto-3312240"
+  },
+  "code": {
+    "id": "3312240",
+    "iso": null
+  },
+  "parent": {
+    "id": "3312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wonogiri",
+      "en": "Wonogiri",
+      "slug": "wonogiri-3312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wonogiri",
+        "en": "Wonogiri",
+        "slug": "wonogiri-3312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.768",
+    "lon": "111.096"
+  },
+  "metadata": {},
+  "source": {}
+}

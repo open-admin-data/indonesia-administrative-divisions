@@ -1,0 +1,56 @@
+{
+  "id": "1203161",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aek Bilah",
+    "en": "Aek Bilah",
+    "slug": "aek-bilah-1203161"
+  },
+  "code": {
+    "id": "1203161",
+    "iso": null
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapanuli Selatan",
+      "en": "Tapanuli Selatan",
+      "slug": "tapanuli-selatan-1203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapanuli Selatan",
+        "en": "Tapanuli Selatan",
+        "slug": "tapanuli-selatan-1203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.002",
+    "lon": "99.47"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1403051004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Concong Dalam",
+      "en": "Concong Dalam",
+      "slug": "concong-dalam-1403051004"
+    },
+    "code": {
+      "id": "1403051004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403051",
+      "level": 3,
+      "name": {
+        "local": "Concong",
+        "en": "Concong",
+        "slug": "concong-1403051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403051",
+        "level": 3,
+        "name": {
+          "local": "Concong",
+          "en": "Concong",
+          "slug": "concong-1403051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29283"
+    ],
+    "geo": {
+      "lat": "-0.319",
+      "lon": "103.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403051001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Concong Luar",
+      "en": "Concong Luar",
+      "slug": "concong-luar-1403051001"
+    },
+    "code": {
+      "id": "1403051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403051",
+      "level": 3,
+      "name": {
+        "local": "Concong",
+        "en": "Concong",
+        "slug": "concong-1403051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403051",
+        "level": 3,
+        "name": {
+          "local": "Concong",
+          "en": "Concong",
+          "slug": "concong-1403051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29283"
+    ],
+    "geo": {
+      "lat": "-0.241",
+      "lon": "103.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403051003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Concong Tengah",
+      "en": "Concong Tengah",
+      "slug": "concong-tengah-1403051003"
+    },
+    "code": {
+      "id": "1403051003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403051",
+      "level": 3,
+      "name": {
+        "local": "Concong",
+        "en": "Concong",
+        "slug": "concong-1403051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403051",
+        "level": 3,
+        "name": {
+          "local": "Concong",
+          "en": "Concong",
+          "slug": "concong-1403051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29283"
+    ],
+    "geo": {
+      "lat": "-0.278",
+      "lon": "103.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403051002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Baru",
+      "en": "Kampung Baru",
+      "slug": "kampung-baru-1403051002"
+    },
+    "code": {
+      "id": "1403051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403051",
+      "level": 3,
+      "name": {
+        "local": "Concong",
+        "en": "Concong",
+        "slug": "concong-1403051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403051",
+        "level": 3,
+        "name": {
+          "local": "Concong",
+          "en": "Concong",
+          "slug": "concong-1403051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29283"
+    ],
+    "geo": {
+      "lat": "-0.246",
+      "lon": "103.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403051006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panglima Raja",
+      "en": "Panglima Raja",
+      "slug": "panglima-raja-1403051006"
+    },
+    "code": {
+      "id": "1403051006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403051",
+      "level": 3,
+      "name": {
+        "local": "Concong",
+        "en": "Concong",
+        "slug": "concong-1403051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403051",
+        "level": 3,
+        "name": {
+          "local": "Concong",
+          "en": "Concong",
+          "slug": "concong-1403051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29283"
+    ],
+    "geo": {
+      "lat": "-0.3",
+      "lon": "103.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403051005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Berapit",
+      "en": "Sungai Berapit",
+      "slug": "sungai-berapit-1403051005"
+    },
+    "code": {
+      "id": "1403051005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403051",
+      "level": 3,
+      "name": {
+        "local": "Concong",
+        "en": "Concong",
+        "slug": "concong-1403051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403051",
+        "level": 3,
+        "name": {
+          "local": "Concong",
+          "en": "Concong",
+          "slug": "concong-1403051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29283"
+    ],
+    "geo": {
+      "lat": "-0.282",
+      "lon": "103.625"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

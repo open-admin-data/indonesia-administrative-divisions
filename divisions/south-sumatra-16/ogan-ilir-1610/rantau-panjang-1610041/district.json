@@ -1,0 +1,56 @@
+{
+  "id": "1610041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rantau Panjang",
+    "en": "Rantau Panjang",
+    "slug": "rantau-panjang-1610041"
+  },
+  "code": {
+    "id": "1610041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1610",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Ilir",
+      "en": "Ogan Ilir",
+      "slug": "ogan-ilir-1610"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.28",
+    "lon": "104.771"
+  },
+  "metadata": {},
+  "source": {}
+}

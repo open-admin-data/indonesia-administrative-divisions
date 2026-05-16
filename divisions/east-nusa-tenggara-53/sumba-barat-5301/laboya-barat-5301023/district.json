@@ -1,0 +1,56 @@
+{
+  "id": "5301023",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Laboya Barat",
+    "en": "Laboya Barat",
+    "slug": "laboya-barat-5301023"
+  },
+  "code": {
+    "id": "5301023",
+    "iso": null
+  },
+  "parent": {
+    "id": "5301",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Barat",
+      "en": "Sumba Barat",
+      "slug": "sumba-barat-5301"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Barat",
+        "en": "Sumba Barat",
+        "slug": "sumba-barat-5301"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.704",
+    "lon": "119.236"
+  },
+  "metadata": {},
+  "source": {}
+}

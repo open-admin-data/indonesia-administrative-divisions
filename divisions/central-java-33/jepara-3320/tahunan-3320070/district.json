@@ -1,0 +1,56 @@
+{
+  "id": "3320070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tahunan",
+    "en": "Tahunan",
+    "slug": "tahunan-3320070"
+  },
+  "code": {
+    "id": "3320070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3320",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jepara",
+      "en": "Jepara",
+      "slug": "jepara-3320"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.624",
+    "lon": "110.694"
+  },
+  "metadata": {},
+  "source": {}
+}

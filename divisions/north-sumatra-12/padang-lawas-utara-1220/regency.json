@@ -1,0 +1,48 @@
+{
+  "id": "1220",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Padang Lawas Utara",
+    "en": "Padang Lawas Utara",
+    "slug": "padang-lawas-utara-1220"
+  },
+  "code": {
+    "id": "1220",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Utara",
+      "en": "North Sumatra",
+      "slug": "north-sumatra-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 388
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.495",
+    "lon": "99.62"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9110010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Fatase",
+      "en": "Fatase",
+      "slug": "fatase-9110010004"
+    },
+    "code": {
+      "id": "9110010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110010",
+      "level": 3,
+      "name": {
+        "local": "Aitinyo Barat/athabu",
+        "en": "Aitinyo Barat/athabu",
+        "slug": "aitinyo-baratathabu-9110010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110010",
+        "level": 3,
+        "name": {
+          "local": "Aitinyo Barat/athabu",
+          "en": "Aitinyo Barat/athabu",
+          "slug": "aitinyo-baratathabu-9110010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98056"
+    ],
+    "geo": {
+      "lat": "-1.388",
+      "lon": "132.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kambufatem",
+      "en": "Kambufatem",
+      "slug": "kambufatem-9110010006"
+    },
+    "code": {
+      "id": "9110010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110010",
+      "level": 3,
+      "name": {
+        "local": "Aitinyo Barat/athabu",
+        "en": "Aitinyo Barat/athabu",
+        "slug": "aitinyo-baratathabu-9110010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110010",
+        "level": 3,
+        "name": {
+          "local": "Aitinyo Barat/athabu",
+          "en": "Aitinyo Barat/athabu",
+          "slug": "aitinyo-baratathabu-9110010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98056"
+    ],
+    "geo": {
+      "lat": "-1.379",
+      "lon": "132.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kambufatem Utara",
+      "en": "Kambufatem Utara",
+      "slug": "kambufatem-utara-9110010007"
+    },
+    "code": {
+      "id": "9110010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110010",
+      "level": 3,
+      "name": {
+        "local": "Aitinyo Barat/athabu",
+        "en": "Aitinyo Barat/athabu",
+        "slug": "aitinyo-baratathabu-9110010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110010",
+        "level": 3,
+        "name": {
+          "local": "Aitinyo Barat/athabu",
+          "en": "Aitinyo Barat/athabu",
+          "slug": "aitinyo-baratathabu-9110010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98056"
+    ],
+    "geo": {
+      "lat": "-1.363",
+      "lon": "132.286"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "7372011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bacukiki Barat",
+    "en": "Bacukiki Barat",
+    "slug": "bacukiki-barat-7372011"
+  },
+  "code": {
+    "id": "7372011",
+    "iso": null
+  },
+  "parent": {
+    "id": "7372",
+    "level": 2,
+    "name": {
+      "local": "Kota Parepare",
+      "en": "Parepare",
+      "slug": "parepare-7372"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7372",
+      "level": 2,
+      "name": {
+        "local": "Kota Parepare",
+        "en": "Parepare",
+        "slug": "parepare-7372"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.045",
+    "lon": "119.634"
+  },
+  "metadata": {},
+  "source": {}
+}

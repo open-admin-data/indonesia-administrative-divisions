@@ -1,0 +1,56 @@
+{
+  "id": "1218011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Silinda",
+    "en": "Silinda",
+    "slug": "silinda-1218011"
+  },
+  "code": {
+    "id": "1218011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1218",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Serdang Bedagai",
+      "en": "Serdang Bedagai",
+      "slug": "serdang-bedagai-1218"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1218",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Serdang Bedagai",
+        "en": "Serdang Bedagai",
+        "slug": "serdang-bedagai-1218"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.264",
+    "lon": "98.798"
+  },
+  "metadata": {},
+  "source": {}
+}

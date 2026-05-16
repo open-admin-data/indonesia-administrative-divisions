@@ -1,0 +1,338 @@
+[
+  {
+    "id": "3673030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cipocok Jaya",
+      "en": "Cipocok Jaya",
+      "slug": "cipocok-jaya-3673030"
+    },
+    "code": {
+      "id": "3673030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3673",
+        "level": 2,
+        "name": {
+          "local": "Kota Serang",
+          "en": "Serang",
+          "slug": "serang-3673"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.138",
+      "lon": "106.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3673010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Curug",
+      "en": "Curug",
+      "slug": "curug-3673010"
+    },
+    "code": {
+      "id": "3673010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3673",
+        "level": 2,
+        "name": {
+          "local": "Kota Serang",
+          "en": "Serang",
+          "slug": "serang-3673"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.183",
+      "lon": "106.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3673060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kasemen",
+      "en": "Kasemen",
+      "slug": "kasemen-3673060"
+    },
+    "code": {
+      "id": "3673060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3673",
+        "level": 2,
+        "name": {
+          "local": "Kota Serang",
+          "en": "Serang",
+          "slug": "serang-3673"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.043",
+      "lon": "106.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3673040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Serang",
+      "en": "Serang",
+      "slug": "serang-3673040"
+    },
+    "code": {
+      "id": "3673040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3673",
+        "level": 2,
+        "name": {
+          "local": "Kota Serang",
+          "en": "Serang",
+          "slug": "serang-3673"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.11",
+      "lon": "106.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3673050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taktakan",
+      "en": "Taktakan",
+      "slug": "taktakan-3673050"
+    },
+    "code": {
+      "id": "3673050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3673",
+        "level": 2,
+        "name": {
+          "local": "Kota Serang",
+          "en": "Serang",
+          "slug": "serang-3673"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.129",
+      "lon": "106.107"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3673020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Walantaka",
+      "en": "Walantaka",
+      "slug": "walantaka-3673020"
+    },
+    "code": {
+      "id": "3673020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3673",
+        "level": 2,
+        "name": {
+          "local": "Kota Serang",
+          "en": "Serang",
+          "slug": "serang-3673"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.144",
+      "lon": "106.228"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

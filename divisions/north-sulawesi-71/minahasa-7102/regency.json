@@ -1,0 +1,48 @@
+{
+  "id": "7102",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Minahasa",
+    "en": "Minahasa",
+    "slug": "minahasa-7102"
+  },
+  "code": {
+    "id": "7102",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Utara",
+      "en": "North Sulawesi",
+      "slug": "north-sulawesi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 25,
+    "village": 262
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.301",
+    "lon": "124.911"
+  },
+  "metadata": {},
+  "source": {}
+}

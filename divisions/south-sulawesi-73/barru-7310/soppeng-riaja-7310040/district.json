@@ -1,0 +1,56 @@
+{
+  "id": "7310040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Soppeng Riaja",
+    "en": "Soppeng Riaja",
+    "slug": "soppeng-riaja-7310040"
+  },
+  "code": {
+    "id": "7310040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barru",
+      "en": "Barru",
+      "slug": "barru-7310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barru",
+        "en": "Barru",
+        "slug": "barru-7310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.254",
+    "lon": "119.675"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6208011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seruyan Hilir Timur",
+    "en": "Seruyan Hilir Timur",
+    "slug": "seruyan-hilir-timur-6208011"
+  },
+  "code": {
+    "id": "6208011",
+    "iso": null
+  },
+  "parent": {
+    "id": "6208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seruyan",
+      "en": "Seruyan",
+      "slug": "seruyan-6208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seruyan",
+        "en": "Seruyan",
+        "slug": "seruyan-6208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.108",
+    "lon": "112.667"
+  },
+  "metadata": {},
+  "source": {}
+}

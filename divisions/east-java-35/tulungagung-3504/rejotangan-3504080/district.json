@@ -1,0 +1,56 @@
+{
+  "id": "3504080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rejotangan",
+    "en": "Rejotangan",
+    "slug": "rejotangan-3504080"
+  },
+  "code": {
+    "id": "3504080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulungagung",
+      "en": "Tulungagung",
+      "slug": "tulungagung-3504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulungagung",
+        "en": "Tulungagung",
+        "slug": "tulungagung-3504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.147",
+    "lon": "112.06"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7304042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tarowang",
+    "en": "Tarowang",
+    "slug": "tarowang-7304042"
+  },
+  "code": {
+    "id": "7304042",
+    "iso": null
+  },
+  "parent": {
+    "id": "7304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jeneponto",
+      "en": "Jeneponto",
+      "slug": "jeneponto-7304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jeneponto",
+        "en": "Jeneponto",
+        "slug": "jeneponto-7304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.588",
+    "lon": "119.867"
+  },
+  "metadata": {},
+  "source": {}
+}

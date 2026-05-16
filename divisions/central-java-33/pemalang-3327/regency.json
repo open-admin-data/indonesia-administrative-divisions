@@ -1,0 +1,48 @@
+{
+  "id": "3327",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pemalang",
+    "en": "Pemalang",
+    "slug": "pemalang-3327"
+  },
+  "code": {
+    "id": "3327",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 209
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.893",
+    "lon": "109.381"
+  },
+  "metadata": {},
+  "source": {}
+}

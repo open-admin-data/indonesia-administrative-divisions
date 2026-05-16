@@ -1,0 +1,56 @@
+{
+  "id": "2172040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjungpinang Barat",
+    "en": "Tanjungpinang Barat",
+    "slug": "tanjungpinang-barat-2172040"
+  },
+  "code": {
+    "id": "2172040",
+    "iso": null
+  },
+  "parent": {
+    "id": "2172",
+    "level": 2,
+    "name": {
+      "local": "Kota Tanjung Pinang",
+      "en": "Tanjung Pinang",
+      "slug": "tanjung-pinang-2172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tanjung Pinang",
+        "en": "Tanjung Pinang",
+        "slug": "tanjung-pinang-2172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.915",
+    "lon": "104.447"
+  },
+  "metadata": {},
+  "source": {}
+}

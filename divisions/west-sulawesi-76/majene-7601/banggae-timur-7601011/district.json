@@ -1,0 +1,56 @@
+{
+  "id": "7601011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banggae Timur",
+    "en": "Banggae Timur",
+    "slug": "banggae-timur-7601011"
+  },
+  "code": {
+    "id": "7601011",
+    "iso": null
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Majene",
+      "en": "Majene",
+      "slug": "majene-7601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majene",
+        "en": "Majene",
+        "slug": "majene-7601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.51",
+    "lon": "118.97"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1212050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pancur Batu",
+    "en": "Pancur Batu",
+    "slug": "pancur-batu-1212050"
+  },
+  "code": {
+    "id": "1212050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Deli Serdang",
+      "en": "Deli Serdang",
+      "slug": "deli-serdang-1212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Deli Serdang",
+        "en": "Deli Serdang",
+        "slug": "deli-serdang-1212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.487",
+    "lon": "98.581"
+  },
+  "metadata": {},
+  "source": {}
+}

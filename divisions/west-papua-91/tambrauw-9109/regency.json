@@ -1,0 +1,48 @@
+{
+  "id": "9109",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tambrauw",
+    "en": "Tambrauw",
+    "slug": "tambrauw-9109"
+  },
+  "code": {
+    "id": "9109",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 28,
+    "village": 190
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.782",
+    "lon": "132.394"
+  },
+  "metadata": {},
+  "source": {}
+}

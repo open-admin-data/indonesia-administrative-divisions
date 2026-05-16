@@ -1,0 +1,56 @@
+{
+  "id": "3514030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Puspo",
+    "en": "Puspo",
+    "slug": "puspo-3514030"
+  },
+  "code": {
+    "id": "3514030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3514",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pasuruan",
+      "en": "Pasuruan",
+      "slug": "pasuruan-3514"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3514",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pasuruan",
+        "en": "Pasuruan",
+        "slug": "pasuruan-3514"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.855",
+    "lon": "112.891"
+  },
+  "metadata": {},
+  "source": {}
+}

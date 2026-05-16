@@ -1,0 +1,56 @@
+{
+  "id": "5301060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Waikabubak",
+    "en": "Kota Waikabubak",
+    "slug": "kota-waikabubak-5301060"
+  },
+  "code": {
+    "id": "5301060",
+    "iso": null
+  },
+  "parent": {
+    "id": "5301",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Barat",
+      "en": "Sumba Barat",
+      "slug": "sumba-barat-5301"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Barat",
+        "en": "Sumba Barat",
+        "slug": "sumba-barat-5301"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.625",
+    "lon": "119.444"
+  },
+  "metadata": {},
+  "source": {}
+}

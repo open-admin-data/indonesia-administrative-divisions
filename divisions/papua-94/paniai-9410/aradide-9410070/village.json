@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9410070009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Abatadi",
+      "en": "Abatadi",
+      "slug": "abatadi-9410070009"
+    },
+    "code": {
+      "id": "9410070009",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410070",
+      "level": 3,
+      "name": {
+        "local": "Aradide",
+        "en": "Aradide",
+        "slug": "aradide-9410070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410070",
+        "level": 3,
+        "name": {
+          "local": "Aradide",
+          "en": "Aradide",
+          "slug": "aradide-9410070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98766"
+    ],
+    "geo": {
+      "lat": "-3.812",
+      "lon": "136.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9410070004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Toyaimoti",
+      "en": "Toyaimoti",
+      "slug": "toyaimoti-9410070004"
+    },
+    "code": {
+      "id": "9410070004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410070",
+      "level": 3,
+      "name": {
+        "local": "Aradide",
+        "en": "Aradide",
+        "slug": "aradide-9410070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410070",
+        "level": 3,
+        "name": {
+          "local": "Aradide",
+          "en": "Aradide",
+          "slug": "aradide-9410070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98766"
+    ],
+    "geo": {
+      "lat": "-3.814",
+      "lon": "136.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

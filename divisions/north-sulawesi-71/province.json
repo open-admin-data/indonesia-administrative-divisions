@@ -1,0 +1,31 @@
+{
+  "id": "71",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sulawesi Utara",
+    "en": "North Sulawesi",
+    "slug": "north-sulawesi-71"
+  },
+  "code": {
+    "id": "71",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 15,
+    "village": 1790,
+    "district": 171
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.47",
+    "lon": "124.845"
+  },
+  "metadata": {},
+  "source": {}
+}

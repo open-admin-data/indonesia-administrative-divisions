@@ -1,0 +1,56 @@
+{
+  "id": "6207031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batangkawa",
+    "en": "Batangkawa",
+    "slug": "batangkawa-6207031"
+  },
+  "code": {
+    "id": "6207031",
+    "iso": null
+  },
+  "parent": {
+    "id": "6207",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lamandau",
+      "en": "Lamandau",
+      "slug": "lamandau-6207"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamandau",
+        "en": "Lamandau",
+        "slug": "lamandau-6207"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.611",
+    "lon": "111.216"
+  },
+  "metadata": {},
+  "source": {}
+}

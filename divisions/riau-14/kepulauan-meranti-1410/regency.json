@@ -1,0 +1,48 @@
+{
+  "id": "1410",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kepulauan Meranti",
+    "en": "Kepulauan Meranti",
+    "slug": "kepulauan-meranti-1410"
+  },
+  "code": {
+    "id": "1410",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 101
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.001",
+    "lon": "102.726"
+  },
+  "metadata": {},
+  "source": {}
+}

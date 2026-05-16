@@ -1,0 +1,56 @@
+{
+  "id": "1410030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rangsang",
+    "en": "Rangsang",
+    "slug": "rangsang-1410030"
+  },
+  "code": {
+    "id": "1410030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1410",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Meranti",
+      "en": "Kepulauan Meranti",
+      "slug": "kepulauan-meranti-1410"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Meranti",
+        "en": "Kepulauan Meranti",
+        "slug": "kepulauan-meranti-1410"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.883",
+    "lon": "103.049"
+  },
+  "metadata": {},
+  "source": {}
+}

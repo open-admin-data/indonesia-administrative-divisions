@@ -1,0 +1,48 @@
+{
+  "id": "5307",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Alor",
+    "en": "Alor",
+    "slug": "alor-5307"
+  },
+  "code": {
+    "id": "5307",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 168
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.617",
+    "lon": "122.208"
+  },
+  "metadata": {},
+  "source": {}
+}

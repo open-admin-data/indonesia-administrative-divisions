@@ -1,0 +1,56 @@
+{
+  "id": "6301031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bumi Makmur",
+    "en": "Bumi Makmur",
+    "slug": "bumi-makmur-6301031"
+  },
+  "code": {
+    "id": "6301031",
+    "iso": null
+  },
+  "parent": {
+    "id": "6301",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanah Laut",
+      "en": "Tanah Laut",
+      "slug": "tanah-laut-6301"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanah Laut",
+        "en": "Tanah Laut",
+        "slug": "tanah-laut-6301"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.551",
+    "lon": "114.614"
+  },
+  "metadata": {},
+  "source": {}
+}

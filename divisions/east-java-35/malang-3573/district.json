@@ -1,0 +1,282 @@
+[
+  {
+    "id": "3573040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blimbing",
+      "en": "Blimbing",
+      "slug": "blimbing-3573040"
+    },
+    "code": {
+      "id": "3573040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573",
+      "level": 2,
+      "name": {
+        "local": "Kota Malang",
+        "en": "Malang",
+        "slug": "malang-3573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.955",
+      "lon": "112.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedungkandang",
+      "en": "Kedungkandang",
+      "slug": "kedungkandang-3573010"
+    },
+    "code": {
+      "id": "3573010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573",
+      "level": 2,
+      "name": {
+        "local": "Kota Malang",
+        "en": "Malang",
+        "slug": "malang-3573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.008",
+      "lon": "112.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Klojen",
+      "en": "Klojen",
+      "slug": "klojen-3573030"
+    },
+    "code": {
+      "id": "3573030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573",
+      "level": 2,
+      "name": {
+        "local": "Kota Malang",
+        "en": "Malang",
+        "slug": "malang-3573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.975",
+      "lon": "112.626"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lowokwaru",
+      "en": "Lowokwaru",
+      "slug": "lowokwaru-3573050"
+    },
+    "code": {
+      "id": "3573050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573",
+      "level": 2,
+      "name": {
+        "local": "Kota Malang",
+        "en": "Malang",
+        "slug": "malang-3573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.939",
+      "lon": "112.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukun",
+      "en": "Sukun",
+      "slug": "sukun-3573020"
+    },
+    "code": {
+      "id": "3573020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573",
+      "level": 2,
+      "name": {
+        "local": "Kota Malang",
+        "en": "Malang",
+        "slug": "malang-3573"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.991",
+      "lon": "112.606"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

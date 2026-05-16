@@ -1,0 +1,48 @@
+{
+  "id": "7308",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Maros",
+    "en": "Maros",
+    "slug": "maros-7308"
+  },
+  "code": {
+    "id": "7308",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 101
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.539",
+    "lon": "120.309"
+  },
+  "metadata": {},
+  "source": {}
+}

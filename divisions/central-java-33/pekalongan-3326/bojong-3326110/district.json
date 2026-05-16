@@ -1,0 +1,56 @@
+{
+  "id": "3326110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bojong",
+    "en": "Bojong",
+    "slug": "bojong-3326110"
+  },
+  "code": {
+    "id": "3326110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pekalongan",
+      "en": "Pekalongan",
+      "slug": "pekalongan-3326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pekalongan",
+        "en": "Pekalongan",
+        "slug": "pekalongan-3326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.969",
+    "lon": "109.581"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "32",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Jawa Barat",
+    "en": "West Java",
+    "slug": "west-java-32"
+  },
+  "code": {
+    "id": "32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 27,
+    "village": 5832,
+    "district": 627
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.902",
+    "lon": "107.619"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3318070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batangan",
+    "en": "Batangan",
+    "slug": "batangan-3318070"
+  },
+  "code": {
+    "id": "3318070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3318",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pati",
+      "en": "Pati",
+      "slug": "pati-3318"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3318",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pati",
+        "en": "Pati",
+        "slug": "pati-3318"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.713",
+    "lon": "111.203"
+  },
+  "metadata": {},
+  "source": {}
+}

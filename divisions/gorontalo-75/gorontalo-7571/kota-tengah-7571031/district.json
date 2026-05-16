@@ -1,0 +1,56 @@
+{
+  "id": "7571031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Tengah",
+    "en": "Kota Tengah",
+    "slug": "kota-tengah-7571031"
+  },
+  "code": {
+    "id": "7571031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7571",
+    "level": 2,
+    "name": {
+      "local": "Kota Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7571"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.564",
+    "lon": "123.055"
+  },
+  "metadata": {},
+  "source": {}
+}

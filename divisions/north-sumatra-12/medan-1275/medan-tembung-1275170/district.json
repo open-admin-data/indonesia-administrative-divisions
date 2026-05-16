@@ -1,0 +1,56 @@
+{
+  "id": "1275170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Medan Tembung",
+    "en": "Medan Tembung",
+    "slug": "medan-tembung-1275170"
+  },
+  "code": {
+    "id": "1275170",
+    "iso": null
+  },
+  "parent": {
+    "id": "1275",
+    "level": 2,
+    "name": {
+      "local": "Kota Medan",
+      "en": "Medan",
+      "slug": "medan-1275"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1275",
+      "level": 2,
+      "name": {
+        "local": "Kota Medan",
+        "en": "Medan",
+        "slug": "medan-1275"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.609",
+    "lon": "98.717"
+  },
+  "metadata": {},
+  "source": {}
+}

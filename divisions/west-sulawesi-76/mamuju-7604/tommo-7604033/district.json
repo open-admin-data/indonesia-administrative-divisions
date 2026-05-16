@@ -1,0 +1,56 @@
+{
+  "id": "7604033",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tommo",
+    "en": "Tommo",
+    "slug": "tommo-7604033"
+  },
+  "code": {
+    "id": "7604033",
+    "iso": null
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju",
+      "en": "Mamuju",
+      "slug": "mamuju-7604"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.276",
+    "lon": "119.436"
+  },
+  "metadata": {},
+  "source": {}
+}

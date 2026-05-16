@@ -1,0 +1,56 @@
+{
+  "id": "3213020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jalancagak",
+    "en": "Jalancagak",
+    "slug": "jalancagak-3213020"
+  },
+  "code": {
+    "id": "3213020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3213",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Subang",
+      "en": "Subang",
+      "slug": "subang-3213"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Subang",
+        "en": "Subang",
+        "slug": "subang-3213"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.669",
+    "lon": "107.703"
+  },
+  "metadata": {},
+  "source": {}
+}

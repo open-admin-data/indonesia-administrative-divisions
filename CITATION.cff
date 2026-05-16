@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "Indonesia Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-16"
+url: "https://github.com/open-admin-data/indonesia-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/indonesia-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - indonesia
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of Indonesia's administrative hierarchy:
+  34 provinces, 514 regency/citys, 7,215 districts, 80,534 villages.
+  Bilingual with coordinates and postal codes where available.

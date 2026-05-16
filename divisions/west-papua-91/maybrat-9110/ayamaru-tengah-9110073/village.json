@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9110073001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Fiane",
+      "en": "Fiane",
+      "slug": "fiane-9110073001"
+    },
+    "code": {
+      "id": "9110073001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110073",
+      "level": 3,
+      "name": {
+        "local": "Ayamaru Tengah",
+        "en": "Ayamaru Tengah",
+        "slug": "ayamaru-tengah-9110073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110073",
+        "level": 3,
+        "name": {
+          "local": "Ayamaru Tengah",
+          "en": "Ayamaru Tengah",
+          "slug": "ayamaru-tengah-9110073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98245"
+    ],
+    "geo": {
+      "lat": "-1.274",
+      "lon": "132.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110073004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Isme",
+      "en": "Isme",
+      "slug": "isme-9110073004"
+    },
+    "code": {
+      "id": "9110073004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110073",
+      "level": 3,
+      "name": {
+        "local": "Ayamaru Tengah",
+        "en": "Ayamaru Tengah",
+        "slug": "ayamaru-tengah-9110073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110073",
+        "level": 3,
+        "name": {
+          "local": "Ayamaru Tengah",
+          "en": "Ayamaru Tengah",
+          "slug": "ayamaru-tengah-9110073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98245"
+    ],
+    "geo": {
+      "lat": "-1.277",
+      "lon": "132.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110073002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kartapura",
+      "en": "Kartapura",
+      "slug": "kartapura-9110073002"
+    },
+    "code": {
+      "id": "9110073002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110073",
+      "level": 3,
+      "name": {
+        "local": "Ayamaru Tengah",
+        "en": "Ayamaru Tengah",
+        "slug": "ayamaru-tengah-9110073"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110073",
+        "level": 3,
+        "name": {
+          "local": "Ayamaru Tengah",
+          "en": "Ayamaru Tengah",
+          "slug": "ayamaru-tengah-9110073"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98245"
+    ],
+    "geo": {
+      "lat": "-1.258",
+      "lon": "132.209"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

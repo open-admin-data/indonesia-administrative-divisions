@@ -1,0 +1,56 @@
+{
+  "id": "1401052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Logas Tanah Darat",
+    "en": "Logas Tanah Darat",
+    "slug": "logas-tanah-darat-1401052"
+  },
+  "code": {
+    "id": "1401052",
+    "iso": null
+  },
+  "parent": {
+    "id": "1401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kuantan Singingi",
+      "en": "Kuantan Singingi",
+      "slug": "kuantan-singingi-1401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.25",
+    "lon": "101.604"
+  },
+  "metadata": {},
+  "source": {}
+}

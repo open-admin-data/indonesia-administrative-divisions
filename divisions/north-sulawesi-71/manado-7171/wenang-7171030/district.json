@@ -1,0 +1,56 @@
+{
+  "id": "7171030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wenang",
+    "en": "Wenang",
+    "slug": "wenang-7171030"
+  },
+  "code": {
+    "id": "7171030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7171",
+    "level": 2,
+    "name": {
+      "local": "Kota Manado",
+      "en": "Manado",
+      "slug": "manado-7171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.486",
+    "lon": "124.84"
+  },
+  "metadata": {},
+  "source": {}
+}

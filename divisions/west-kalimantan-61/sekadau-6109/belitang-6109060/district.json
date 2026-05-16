@@ -1,0 +1,56 @@
+{
+  "id": "6109060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belitang",
+    "en": "Belitang",
+    "slug": "belitang-6109060"
+  },
+  "code": {
+    "id": "6109060",
+    "iso": null
+  },
+  "parent": {
+    "id": "6109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sekadau",
+      "en": "Sekadau",
+      "slug": "sekadau-6109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sekadau",
+        "en": "Sekadau",
+        "slug": "sekadau-6109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.225",
+    "lon": "111.186"
+  },
+  "metadata": {},
+  "source": {}
+}

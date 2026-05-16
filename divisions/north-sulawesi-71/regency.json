@@ -1,0 +1,722 @@
+[
+  {
+    "id": "7172",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Bitung",
+      "en": "Bitung",
+      "slug": "bitung-7172"
+    },
+    "code": {
+      "id": "7172",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.445",
+      "lon": "125.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7101",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow",
+      "en": "Bolaang Mongondow",
+      "slug": "bolaang-mongondow-7101"
+    },
+    "code": {
+      "id": "7101",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 200
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.871",
+      "lon": "124.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7110",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Selatan",
+      "en": "Bolaang Mongondow Selatan",
+      "slug": "bolaang-mongondow-selatan-7110"
+    },
+    "code": {
+      "id": "7110",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.769",
+      "lon": "124.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7111",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Timur",
+      "en": "Bolaang Mongondow Timur",
+      "slug": "bolaang-mongondow-timur-7111"
+    },
+    "code": {
+      "id": "7111",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 80
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.384",
+      "lon": "124.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7107",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Utara",
+      "en": "Bolaang Mongondow Utara",
+      "slug": "bolaang-mongondow-utara-7107"
+    },
+    "code": {
+      "id": "7107",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.042",
+      "lon": "124.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kepulauan Sangihe",
+      "en": "Kepulauan Sangihe",
+      "slug": "kepulauan-sangihe-7103"
+    },
+    "code": {
+      "id": "7103",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 160
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.612",
+      "lon": "125.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kepulauan Talaud",
+      "en": "Kepulauan Talaud",
+      "slug": "kepulauan-talaud-7104"
+    },
+    "code": {
+      "id": "7104",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 19,
+      "village": 145
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.006",
+      "lon": "126.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7174",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Kotamobagu",
+      "en": "Kotamobagu",
+      "slug": "kotamobagu-7174"
+    },
+    "code": {
+      "id": "7174",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.743",
+      "lon": "124.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Manado",
+      "en": "Manado",
+      "slug": "manado-7171"
+    },
+    "code": {
+      "id": "7171",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 87
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.485",
+      "lon": "124.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Minahasa",
+      "en": "Minahasa",
+      "slug": "minahasa-7102"
+    },
+    "code": {
+      "id": "7102",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 25,
+      "village": 262
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.301",
+      "lon": "124.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7105",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Minahasa Selatan",
+      "en": "Minahasa Selatan",
+      "slug": "minahasa-selatan-7105"
+    },
+    "code": {
+      "id": "7105",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 172
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.213",
+      "lon": "124.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7109",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Minahasa Tenggara",
+      "en": "Minahasa Tenggara",
+      "slug": "minahasa-tenggara-7109"
+    },
+    "code": {
+      "id": "7109",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 141
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.745",
+      "lon": "125.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7106",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Minahasa Utara",
+      "en": "Minahasa Utara",
+      "slug": "minahasa-utara-7106"
+    },
+    "code": {
+      "id": "7106",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 123
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.459",
+      "lon": "124.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7108",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Siau Tagulandang Biaro",
+      "en": "Siau Tagulandang Biaro",
+      "slug": "siau-tagulandang-biaro-7108"
+    },
+    "code": {
+      "id": "7108",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.906",
+      "lon": "123.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Tomohon",
+      "en": "Tomohon",
+      "slug": "tomohon-7173"
+    },
+    "code": {
+      "id": "7173",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.315",
+      "lon": "124.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

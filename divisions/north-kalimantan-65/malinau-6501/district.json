@@ -1,0 +1,842 @@
+[
+  {
+    "id": "6501060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bahau Hulu",
+      "en": "Bahau Hulu",
+      "slug": "bahau-hulu-6501060"
+    },
+    "code": {
+      "id": "6501060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.166",
+      "lon": "115.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kayan Hilir",
+      "en": "Kayan Hilir",
+      "slug": "kayan-hilir-6501040"
+    },
+    "code": {
+      "id": "6501040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.882",
+      "lon": "115.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kayan Hulu",
+      "en": "Kayan Hulu",
+      "slug": "kayan-hulu-6501030"
+    },
+    "code": {
+      "id": "6501030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.781",
+      "lon": "114.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kayan Selatan",
+      "en": "Kayan Selatan",
+      "slug": "kayan-selatan-6501020"
+    },
+    "code": {
+      "id": "6501020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.498",
+      "lon": "114.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malinau Barat",
+      "en": "Malinau Barat",
+      "slug": "malinau-barat-6501140"
+    },
+    "code": {
+      "id": "6501140",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.356",
+      "lon": "116.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malinau Kota",
+      "en": "Malinau Kota",
+      "slug": "malinau-kota-6501150"
+    },
+    "code": {
+      "id": "6501150",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.554",
+      "lon": "116.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malinau Selatan",
+      "en": "Malinau Selatan",
+      "slug": "malinau-selatan-6501090"
+    },
+    "code": {
+      "id": "6501090",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.175",
+      "lon": "116.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malinau Selatan Hilir",
+      "en": "Malinau Selatan Hilir",
+      "slug": "malinau-selatan-hilir-6501100"
+    },
+    "code": {
+      "id": "6501100",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.353",
+      "lon": "116.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malinau Selatan Hulu",
+      "en": "Malinau Selatan Hulu",
+      "slug": "malinau-selatan-hulu-6501080"
+    },
+    "code": {
+      "id": "6501080",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.015",
+      "lon": "116.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malinau Utara",
+      "en": "Malinau Utara",
+      "slug": "malinau-utara-6501130"
+    },
+    "code": {
+      "id": "6501130",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.724",
+      "lon": "116.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mentarang",
+      "en": "Mentarang",
+      "slug": "mentarang-6501110"
+    },
+    "code": {
+      "id": "6501110",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.47",
+      "lon": "116.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mentarang Hulu",
+      "en": "Mentarang Hulu",
+      "slug": "mentarang-hulu-6501120"
+    },
+    "code": {
+      "id": "6501120",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.758",
+      "lon": "116.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pujungan",
+      "en": "Pujungan",
+      "slug": "pujungan-6501050"
+    },
+    "code": {
+      "id": "6501050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.674",
+      "lon": "115.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Boh",
+      "en": "Sungai Boh",
+      "slug": "sungai-boh-6501010"
+    },
+    "code": {
+      "id": "6501010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.435",
+      "lon": "115.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6501070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Tubu",
+      "en": "Sungai Tubu",
+      "slug": "sungai-tubu-6501070"
+    },
+    "code": {
+      "id": "6501070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malinau",
+        "en": "Malinau",
+        "slug": "malinau-6501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6501",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Malinau",
+          "en": "Malinau",
+          "slug": "malinau-6501"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.214",
+      "lon": "116.093"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

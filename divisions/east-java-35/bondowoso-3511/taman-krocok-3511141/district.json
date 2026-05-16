@@ -1,0 +1,56 @@
+{
+  "id": "3511141",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taman Krocok",
+    "en": "Taman Krocok",
+    "slug": "taman-krocok-3511141"
+  },
+  "code": {
+    "id": "3511141",
+    "iso": null
+  },
+  "parent": {
+    "id": "3511",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bondowoso",
+      "en": "Bondowoso",
+      "slug": "bondowoso-3511"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3511",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bondowoso",
+        "en": "Bondowoso",
+        "slug": "bondowoso-3511"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.855",
+    "lon": "113.872"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,898 @@
+[
+  {
+    "id": "1206082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ajibata",
+      "en": "Ajibata",
+      "slug": "ajibata-1206082"
+    },
+    "code": {
+      "id": "1206082",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.608",
+      "lon": "98.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balige",
+      "en": "Balige",
+      "slug": "balige-1206030"
+    },
+    "code": {
+      "id": "1206030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.307",
+      "lon": "99.081"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206083",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonatua Lunasi",
+      "en": "Bonatua Lunasi",
+      "slug": "bonatua-lunasi-1206083"
+    },
+    "code": {
+      "id": "1206083",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.533",
+      "lon": "99.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Borbor",
+      "en": "Borbor",
+      "slug": "borbor-1206051"
+    },
+    "code": {
+      "id": "1206051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.208",
+      "lon": "99.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Habinsaran",
+      "en": "Habinsaran",
+      "slug": "habinsaran-1206050"
+    },
+    "code": {
+      "id": "1206050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.357",
+      "lon": "99.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laguboti",
+      "en": "Laguboti",
+      "slug": "laguboti-1206040"
+    },
+    "code": {
+      "id": "1206040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.329",
+      "lon": "99.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lumban Julu",
+      "en": "Lumban Julu",
+      "slug": "lumban-julu-1206080"
+    },
+    "code": {
+      "id": "1206080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.568",
+      "lon": "99.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nassau",
+      "en": "Nassau",
+      "slug": "nassau-1206052"
+    },
+    "code": {
+      "id": "1206052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.336",
+      "lon": "99.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206073",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Parmaksian",
+      "en": "Parmaksian",
+      "slug": "parmaksian-1206073"
+    },
+    "code": {
+      "id": "1206073",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.489",
+      "lon": "99.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pintu Pohan Meranti",
+      "en": "Pintu Pohan Meranti",
+      "slug": "pintu-pohan-meranti-1206071"
+    },
+    "code": {
+      "id": "1206071",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.54",
+      "lon": "99.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Porsea",
+      "en": "Porsea",
+      "slug": "porsea-1206070"
+    },
+    "code": {
+      "id": "1206070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.478",
+      "lon": "99.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206072",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siantar Narumonda",
+      "en": "Siantar Narumonda",
+      "slug": "siantar-narumonda-1206072"
+    },
+    "code": {
+      "id": "1206072",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.458",
+      "lon": "99.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sigumpar",
+      "en": "Sigumpar",
+      "slug": "sigumpar-1206061"
+    },
+    "code": {
+      "id": "1206061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.39",
+      "lon": "99.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Silaen",
+      "en": "Silaen",
+      "slug": "silaen-1206060"
+    },
+    "code": {
+      "id": "1206060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.42",
+      "lon": "99.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tampahan",
+      "en": "Tampahan",
+      "slug": "tampahan-1206031"
+    },
+    "code": {
+      "id": "1206031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.308",
+      "lon": "99.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uluan",
+      "en": "Uluan",
+      "slug": "uluan-1206081"
+    },
+    "code": {
+      "id": "1206081",
+      "iso": null
+    },
+    "parent": {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Toba Samosir",
+          "en": "Toba Samosir",
+          "slug": "toba-samosir-1206"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.452",
+      "lon": "99.081"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

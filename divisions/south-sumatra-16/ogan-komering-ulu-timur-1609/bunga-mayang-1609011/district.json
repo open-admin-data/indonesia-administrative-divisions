@@ -1,0 +1,56 @@
+{
+  "id": "1609011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bunga Mayang",
+    "en": "Bunga Mayang",
+    "slug": "bunga-mayang-1609011"
+  },
+  "code": {
+    "id": "1609011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1609",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Timur",
+      "en": "Ogan Komering Ulu Timur",
+      "slug": "ogan-komering-ulu-timur-1609"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu Timur",
+        "en": "Ogan Komering Ulu Timur",
+        "slug": "ogan-komering-ulu-timur-1609"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.382",
+    "lon": "104.241"
+  },
+  "metadata": {},
+  "source": {}
+}

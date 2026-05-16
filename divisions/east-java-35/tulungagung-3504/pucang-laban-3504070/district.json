@@ -1,0 +1,56 @@
+{
+  "id": "3504070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pucang Laban",
+    "en": "Pucang Laban",
+    "slug": "pucang-laban-3504070"
+  },
+  "code": {
+    "id": "3504070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulungagung",
+      "en": "Tulungagung",
+      "slug": "tulungagung-3504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulungagung",
+        "en": "Tulungagung",
+        "slug": "tulungagung-3504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.24",
+    "lon": "112.001"
+  },
+  "metadata": {},
+  "source": {}
+}

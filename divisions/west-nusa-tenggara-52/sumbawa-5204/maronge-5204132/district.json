@@ -1,0 +1,56 @@
+{
+  "id": "5204132",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Maronge",
+    "en": "Maronge",
+    "slug": "maronge-5204132"
+  },
+  "code": {
+    "id": "5204132",
+    "iso": null
+  },
+  "parent": {
+    "id": "5204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumbawa",
+      "en": "Sumbawa",
+      "slug": "sumbawa-5204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumbawa",
+        "en": "Sumbawa",
+        "slug": "sumbawa-5204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.712",
+    "lon": "117.708"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7503040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Randangan",
+    "en": "Randangan",
+    "slug": "randangan-7503040"
+  },
+  "code": {
+    "id": "7503040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pohuwato",
+      "en": "Pohuwato",
+      "slug": "pohuwato-7503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.511",
+    "lon": "121.788"
+  },
+  "metadata": {},
+  "source": {}
+}

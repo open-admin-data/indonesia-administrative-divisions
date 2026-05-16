@@ -1,0 +1,56 @@
+{
+  "id": "3312160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sidoharjo",
+    "en": "Sidoharjo",
+    "slug": "sidoharjo-3312160"
+  },
+  "code": {
+    "id": "3312160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wonogiri",
+      "en": "Wonogiri",
+      "slug": "wonogiri-3312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wonogiri",
+        "en": "Wonogiri",
+        "slug": "wonogiri-3312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.861",
+    "lon": "111.057"
+  },
+  "metadata": {},
+  "source": {}
+}

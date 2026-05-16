@@ -1,0 +1,48 @@
+{
+  "id": "7172",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Bitung",
+    "en": "Bitung",
+    "slug": "bitung-7172"
+  },
+  "code": {
+    "id": "7172",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Utara",
+      "en": "North Sulawesi",
+      "slug": "north-sulawesi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 68
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.445",
+    "lon": "125.182"
+  },
+  "metadata": {},
+  "source": {}
+}

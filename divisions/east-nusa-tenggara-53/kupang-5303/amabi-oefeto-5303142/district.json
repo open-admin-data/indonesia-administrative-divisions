@@ -1,0 +1,56 @@
+{
+  "id": "5303142",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amabi Oefeto",
+    "en": "Amabi Oefeto",
+    "slug": "amabi-oefeto-5303142"
+  },
+  "code": {
+    "id": "5303142",
+    "iso": null
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kupang",
+      "en": "Kupang",
+      "slug": "kupang-5303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.149",
+    "lon": "123.923"
+  },
+  "metadata": {},
+  "source": {}
+}

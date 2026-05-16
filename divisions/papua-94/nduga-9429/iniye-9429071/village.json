@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9429071002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baklema",
+      "en": "Baklema",
+      "slug": "baklema-9429071002"
+    },
+    "code": {
+      "id": "9429071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9429071",
+      "level": 3,
+      "name": {
+        "local": "Iniye",
+        "en": "Iniye",
+        "slug": "iniye-9429071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9429",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nduga",
+          "en": "Nduga",
+          "slug": "nduga-9429"
+        }
+      },
+      {
+        "id": "9429071",
+        "level": 3,
+        "name": {
+          "local": "Iniye",
+          "en": "Iniye",
+          "slug": "iniye-9429071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99905"
+    ],
+    "geo": {
+      "lat": "-4.211",
+      "lon": "138.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9429071005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kosobak",
+      "en": "Kosobak",
+      "slug": "kosobak-9429071005"
+    },
+    "code": {
+      "id": "9429071005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9429071",
+      "level": 3,
+      "name": {
+        "local": "Iniye",
+        "en": "Iniye",
+        "slug": "iniye-9429071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9429",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nduga",
+          "en": "Nduga",
+          "slug": "nduga-9429"
+        }
+      },
+      {
+        "id": "9429071",
+        "level": 3,
+        "name": {
+          "local": "Iniye",
+          "en": "Iniye",
+          "slug": "iniye-9429071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99905"
+    ],
+    "geo": {
+      "lat": "-4.407",
+      "lon": "138.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

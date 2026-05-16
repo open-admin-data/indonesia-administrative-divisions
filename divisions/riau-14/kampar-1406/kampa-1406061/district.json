@@ -1,0 +1,56 @@
+{
+  "id": "1406061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kampa",
+    "en": "Kampa",
+    "slug": "kampa-1406061"
+  },
+  "code": {
+    "id": "1406061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1406",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kampar",
+      "en": "Kampar",
+      "slug": "kampar-1406"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kampar",
+        "en": "Kampar",
+        "slug": "kampar-1406"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.36",
+    "lon": "101.206"
+  },
+  "metadata": {},
+  "source": {}
+}

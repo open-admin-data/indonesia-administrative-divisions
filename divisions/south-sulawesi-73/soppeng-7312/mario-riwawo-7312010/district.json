@@ -1,0 +1,56 @@
+{
+  "id": "7312010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mario Riwawo",
+    "en": "Mario Riwawo",
+    "slug": "mario-riwawo-7312010"
+  },
+  "code": {
+    "id": "7312010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Soppeng",
+      "en": "Soppeng",
+      "slug": "soppeng-7312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Soppeng",
+        "en": "Soppeng",
+        "slug": "soppeng-7312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.477",
+    "lon": "119.924"
+  },
+  "metadata": {},
+  "source": {}
+}

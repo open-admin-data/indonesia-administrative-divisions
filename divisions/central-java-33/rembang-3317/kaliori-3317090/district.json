@@ -1,0 +1,56 @@
+{
+  "id": "3317090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaliori",
+    "en": "Kaliori",
+    "slug": "kaliori-3317090"
+  },
+  "code": {
+    "id": "3317090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3317",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rembang",
+      "en": "Rembang",
+      "slug": "rembang-3317"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.697",
+    "lon": "111.285"
+  },
+  "metadata": {},
+  "source": {}
+}

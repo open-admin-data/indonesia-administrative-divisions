@@ -1,0 +1,56 @@
+{
+  "id": "9109090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amberbaken",
+    "en": "Amberbaken",
+    "slug": "amberbaken-9109090"
+  },
+  "code": {
+    "id": "9109090",
+    "iso": null
+  },
+  "parent": {
+    "id": "9109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tambrauw",
+      "en": "Tambrauw",
+      "slug": "tambrauw-9109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tambrauw",
+        "en": "Tambrauw",
+        "slug": "tambrauw-9109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.66",
+    "lon": "133.016"
+  },
+  "metadata": {},
+  "source": {}
+}

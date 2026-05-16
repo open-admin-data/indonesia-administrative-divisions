@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1309124001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lansek Kadok",
+      "en": "Lansek Kadok",
+      "slug": "lansek-kadok-1309124001"
+    },
+    "code": {
+      "id": "1309124001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309124",
+      "level": 3,
+      "name": {
+        "local": "Rao Selatan",
+        "en": "Rao Selatan",
+        "slug": "rao-selatan-1309124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309124",
+        "level": 3,
+        "name": {
+          "local": "Rao Selatan",
+          "en": "Rao Selatan",
+          "slug": "rao-selatan-1309124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26356"
+    ],
+    "geo": {
+      "lat": "0.504",
+      "lon": "100.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309124003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuak Layang",
+      "en": "Lubuak Layang",
+      "slug": "lubuak-layang-1309124003"
+    },
+    "code": {
+      "id": "1309124003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309124",
+      "level": 3,
+      "name": {
+        "local": "Rao Selatan",
+        "en": "Rao Selatan",
+        "slug": "rao-selatan-1309124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309124",
+        "level": 3,
+        "name": {
+          "local": "Rao Selatan",
+          "en": "Rao Selatan",
+          "slug": "rao-selatan-1309124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26356"
+    ],
+    "geo": {
+      "lat": "0.564",
+      "lon": "100.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309124002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Betung",
+      "en": "Tanjung Betung",
+      "slug": "tanjung-betung-1309124002"
+    },
+    "code": {
+      "id": "1309124002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309124",
+      "level": 3,
+      "name": {
+        "local": "Rao Selatan",
+        "en": "Rao Selatan",
+        "slug": "rao-selatan-1309124"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309124",
+        "level": 3,
+        "name": {
+          "local": "Rao Selatan",
+          "en": "Rao Selatan",
+          "slug": "rao-selatan-1309124"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26356"
+    ],
+    "geo": {
+      "lat": "0.49",
+      "lon": "100.07"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

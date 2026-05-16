@@ -1,0 +1,56 @@
+{
+  "id": "7472020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wolio",
+    "en": "Wolio",
+    "slug": "wolio-7472020"
+  },
+  "code": {
+    "id": "7472020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7472",
+    "level": 2,
+    "name": {
+      "local": "Kota Baubau",
+      "en": "Baubau",
+      "slug": "baubau-7472"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7472",
+      "level": 2,
+      "name": {
+        "local": "Kota Baubau",
+        "en": "Baubau",
+        "slug": "baubau-7472"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.484",
+    "lon": "122.637"
+  },
+  "metadata": {},
+  "source": {}
+}

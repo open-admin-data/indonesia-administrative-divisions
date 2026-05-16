@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1310010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuk Gadang",
+      "en": "Lubuk Gadang",
+      "slug": "lubuk-gadang-1310010001"
+    },
+    "code": {
+      "id": "1310010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310010",
+      "level": 3,
+      "name": {
+        "local": "Sangir",
+        "en": "Sangir",
+        "slug": "sangir-1310010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310010",
+        "level": 3,
+        "name": {
+          "local": "Sangir",
+          "en": "Sangir",
+          "slug": "sangir-1310010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27778"
+    ],
+    "geo": {
+      "lat": "-1.511",
+      "lon": "101.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1310010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuk Gadang Selatan",
+      "en": "Lubuk Gadang Selatan",
+      "slug": "lubuk-gadang-selatan-1310010003"
+    },
+    "code": {
+      "id": "1310010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310010",
+      "level": 3,
+      "name": {
+        "local": "Sangir",
+        "en": "Sangir",
+        "slug": "sangir-1310010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310010",
+        "level": 3,
+        "name": {
+          "local": "Sangir",
+          "en": "Sangir",
+          "slug": "sangir-1310010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27778"
+    ],
+    "geo": {
+      "lat": "-1.625",
+      "lon": "101.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1310010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuk Gadang Timur",
+      "en": "Lubuk Gadang Timur",
+      "slug": "lubuk-gadang-timur-1310010002"
+    },
+    "code": {
+      "id": "1310010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310010",
+      "level": 3,
+      "name": {
+        "local": "Sangir",
+        "en": "Sangir",
+        "slug": "sangir-1310010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310010",
+        "level": 3,
+        "name": {
+          "local": "Sangir",
+          "en": "Sangir",
+          "slug": "sangir-1310010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27778"
+    ],
+    "geo": {
+      "lat": "-1.624",
+      "lon": "101.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1310010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuk Gadang Utara",
+      "en": "Lubuk Gadang Utara",
+      "slug": "lubuk-gadang-utara-1310010004"
+    },
+    "code": {
+      "id": "1310010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310010",
+      "level": 3,
+      "name": {
+        "local": "Sangir",
+        "en": "Sangir",
+        "slug": "sangir-1310010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310010",
+        "level": 3,
+        "name": {
+          "local": "Sangir",
+          "en": "Sangir",
+          "slug": "sangir-1310010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27778"
+    ],
+    "geo": {
+      "lat": "-1.511",
+      "lon": "101.275"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

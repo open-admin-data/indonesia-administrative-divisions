@@ -1,0 +1,56 @@
+{
+  "id": "5108030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Busungbiu",
+    "en": "Busungbiu",
+    "slug": "busungbiu-5108030"
+  },
+  "code": {
+    "id": "5108030",
+    "iso": null
+  },
+  "parent": {
+    "id": "5108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buleleng",
+      "en": "Buleleng",
+      "slug": "buleleng-5108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.313",
+    "lon": "114.961"
+  },
+  "metadata": {},
+  "source": {}
+}

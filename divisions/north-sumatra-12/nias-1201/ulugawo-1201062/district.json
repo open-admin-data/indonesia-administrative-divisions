@@ -1,0 +1,56 @@
+{
+  "id": "1201062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ulugawo",
+    "en": "Ulugawo",
+    "slug": "ulugawo-1201062"
+  },
+  "code": {
+    "id": "1201062",
+    "iso": null
+  },
+  "parent": {
+    "id": "1201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nias",
+      "en": "Nias",
+      "slug": "nias-1201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.99",
+    "lon": "97.729"
+  },
+  "metadata": {},
+  "source": {}
+}

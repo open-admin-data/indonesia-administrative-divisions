@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1212220003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Deli Tua",
+      "en": "Deli Tua",
+      "slug": "deli-tua-1212220003"
+    },
+    "code": {
+      "id": "1212220003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212220",
+      "level": 3,
+      "name": {
+        "local": "Deli Tua",
+        "en": "Deli Tua",
+        "slug": "deli-tua-1212220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212220",
+        "level": 3,
+        "name": {
+          "local": "Deli Tua",
+          "en": "Deli Tua",
+          "slug": "deli-tua-1212220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20355"
+    ],
+    "geo": {
+      "lat": "3.49",
+      "lon": "98.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212220001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Deli Tua Barat",
+      "en": "Deli Tua Barat",
+      "slug": "deli-tua-barat-1212220001"
+    },
+    "code": {
+      "id": "1212220001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212220",
+      "level": 3,
+      "name": {
+        "local": "Deli Tua",
+        "en": "Deli Tua",
+        "slug": "deli-tua-1212220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212220",
+        "level": 3,
+        "name": {
+          "local": "Deli Tua",
+          "en": "Deli Tua",
+          "slug": "deli-tua-1212220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20355"
+    ],
+    "geo": {
+      "lat": "3.485",
+      "lon": "98.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212220002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Deli Tua Timur",
+      "en": "Deli Tua Timur",
+      "slug": "deli-tua-timur-1212220002"
+    },
+    "code": {
+      "id": "1212220002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212220",
+      "level": 3,
+      "name": {
+        "local": "Deli Tua",
+        "en": "Deli Tua",
+        "slug": "deli-tua-1212220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212220",
+        "level": 3,
+        "name": {
+          "local": "Deli Tua",
+          "en": "Deli Tua",
+          "slug": "deli-tua-1212220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20355"
+    ],
+    "geo": {
+      "lat": "3.488",
+      "lon": "98.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212220005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kedai Durian",
+      "en": "Kedai Durian",
+      "slug": "kedai-durian-1212220005"
+    },
+    "code": {
+      "id": "1212220005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212220",
+      "level": 3,
+      "name": {
+        "local": "Deli Tua",
+        "en": "Deli Tua",
+        "slug": "deli-tua-1212220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212220",
+        "level": 3,
+        "name": {
+          "local": "Deli Tua",
+          "en": "Deli Tua",
+          "slug": "deli-tua-1212220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20355"
+    ],
+    "geo": {
+      "lat": "3.498",
+      "lon": "98.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212220004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mekar Sari",
+      "en": "Mekar Sari",
+      "slug": "mekar-sari-1212220004"
+    },
+    "code": {
+      "id": "1212220004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212220",
+      "level": 3,
+      "name": {
+        "local": "Deli Tua",
+        "en": "Deli Tua",
+        "slug": "deli-tua-1212220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212220",
+        "level": 3,
+        "name": {
+          "local": "Deli Tua",
+          "en": "Deli Tua",
+          "slug": "deli-tua-1212220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20355"
+    ],
+    "geo": {
+      "lat": "3.513",
+      "lon": "98.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212220006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suka Makmur",
+      "en": "Suka Makmur",
+      "slug": "suka-makmur-1212220006"
+    },
+    "code": {
+      "id": "1212220006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1212220",
+      "level": 3,
+      "name": {
+        "local": "Deli Tua",
+        "en": "Deli Tua",
+        "slug": "deli-tua-1212220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Deli Serdang",
+          "en": "Deli Serdang",
+          "slug": "deli-serdang-1212"
+        }
+      },
+      {
+        "id": "1212220",
+        "level": 3,
+        "name": {
+          "local": "Deli Tua",
+          "en": "Deli Tua",
+          "slug": "deli-tua-1212220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20355"
+    ],
+    "geo": {
+      "lat": "3.514",
+      "lon": "98.681"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

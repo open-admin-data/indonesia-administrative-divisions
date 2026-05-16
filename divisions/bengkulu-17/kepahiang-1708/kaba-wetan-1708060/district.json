@@ -1,0 +1,56 @@
+{
+  "id": "1708060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaba Wetan",
+    "en": "Kaba Wetan",
+    "slug": "kaba-wetan-1708060"
+  },
+  "code": {
+    "id": "1708060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1708",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepahiang",
+      "en": "Kepahiang",
+      "slug": "kepahiang-1708"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1708",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepahiang",
+        "en": "Kepahiang",
+        "slug": "kepahiang-1708"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.573",
+    "lon": "102.617"
+  },
+  "metadata": {},
+  "source": {}
+}

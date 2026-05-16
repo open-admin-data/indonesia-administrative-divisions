@@ -1,0 +1,48 @@
+{
+  "id": "7303",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bantaeng",
+    "en": "Bantaeng",
+    "slug": "bantaeng-7303"
+  },
+  "code": {
+    "id": "7303",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 66
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.553",
+    "lon": "119.967"
+  },
+  "metadata": {},
+  "source": {}
+}

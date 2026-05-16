@@ -1,0 +1,56 @@
+{
+  "id": "7505022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ponelo Kepulauan",
+    "en": "Ponelo Kepulauan",
+    "slug": "ponelo-kepulauan-7505022"
+  },
+  "code": {
+    "id": "7505022",
+    "iso": null
+  },
+  "parent": {
+    "id": "7505",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gorontalo Utara",
+      "en": "Gorontalo Utara",
+      "slug": "gorontalo-utara-7505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo Utara",
+        "en": "Gorontalo Utara",
+        "slug": "gorontalo-utara-7505"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.877",
+    "lon": "122.875"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7202031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nuhon",
+    "en": "Nuhon",
+    "slug": "nuhon-7202031"
+  },
+  "code": {
+    "id": "7202031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banggai",
+      "en": "Banggai",
+      "slug": "banggai-7202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banggai",
+        "en": "Banggai",
+        "slug": "banggai-7202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.02",
+    "lon": "122.06"
+  },
+  "metadata": {},
+  "source": {}
+}

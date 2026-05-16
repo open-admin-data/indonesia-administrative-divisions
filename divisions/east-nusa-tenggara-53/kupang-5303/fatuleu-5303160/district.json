@@ -1,0 +1,56 @@
+{
+  "id": "5303160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Fatuleu",
+    "en": "Fatuleu",
+    "slug": "fatuleu-5303160"
+  },
+  "code": {
+    "id": "5303160",
+    "iso": null
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kupang",
+      "en": "Kupang",
+      "slug": "kupang-5303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.998",
+    "lon": "124.012"
+  },
+  "metadata": {},
+  "source": {}
+}

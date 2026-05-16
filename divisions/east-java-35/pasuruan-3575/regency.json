@@ -1,0 +1,48 @@
+{
+  "id": "3575",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Pasuruan",
+    "en": "Pasuruan",
+    "slug": "pasuruan-3575"
+  },
+  "code": {
+    "id": "3575",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.647",
+    "lon": "112.909"
+  },
+  "metadata": {},
+  "source": {}
+}

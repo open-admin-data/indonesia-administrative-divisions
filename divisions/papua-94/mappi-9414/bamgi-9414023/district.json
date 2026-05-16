@@ -1,0 +1,56 @@
+{
+  "id": "9414023",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bamgi",
+    "en": "Bamgi",
+    "slug": "bamgi-9414023"
+  },
+  "code": {
+    "id": "9414023",
+    "iso": null
+  },
+  "parent": {
+    "id": "9414",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mappi",
+      "en": "Mappi",
+      "slug": "mappi-9414"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.97",
+    "lon": "139.406"
+  },
+  "metadata": {},
+  "source": {}
+}

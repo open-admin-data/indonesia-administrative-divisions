@@ -1,0 +1,48 @@
+{
+  "id": "3320",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Jepara",
+    "en": "Jepara",
+    "slug": "jepara-3320"
+  },
+  "code": {
+    "id": "3320",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 179
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.59",
+    "lon": "110.668"
+  },
+  "metadata": {},
+  "source": {}
+}

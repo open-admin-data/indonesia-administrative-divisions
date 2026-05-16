@@ -1,0 +1,56 @@
+{
+  "id": "7308023",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lau",
+    "en": "Lau",
+    "slug": "lau-7308023"
+  },
+  "code": {
+    "id": "7308023",
+    "iso": null
+  },
+  "parent": {
+    "id": "7308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maros",
+      "en": "Maros",
+      "slug": "maros-7308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.966",
+    "lon": "119.558"
+  },
+  "metadata": {},
+  "source": {}
+}

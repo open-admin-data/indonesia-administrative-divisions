@@ -1,0 +1,652 @@
+[
+  {
+    "id": "3201241003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Babakan",
+      "en": "Babakan",
+      "slug": "babakan-3201241003"
+    },
+    "code": {
+      "id": "3201241003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.449",
+      "lon": "106.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibentang",
+      "en": "Cibentang",
+      "slug": "cibentang-3201241006"
+    },
+    "code": {
+      "id": "3201241006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.44",
+      "lon": "106.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibeuteung Muara",
+      "en": "Cibeuteung Muara",
+      "slug": "cibeuteung-muara-3201241005"
+    },
+    "code": {
+      "id": "3201241005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.445",
+      "lon": "106.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibeuteung Udik",
+      "en": "Cibeuteung Udik",
+      "slug": "cibeuteung-udik-3201241002"
+    },
+    "code": {
+      "id": "3201241002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.485",
+      "lon": "106.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cihowe",
+      "en": "Cihowe",
+      "slug": "cihowe-3201241009"
+    },
+    "code": {
+      "id": "3201241009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.431",
+      "lon": "106.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ciseeng",
+      "en": "Ciseeng",
+      "slug": "ciseeng-3201241008"
+    },
+    "code": {
+      "id": "3201241008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.449",
+      "lon": "106.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karihkil",
+      "en": "Karihkil",
+      "slug": "karihkil-3201241001"
+    },
+    "code": {
+      "id": "3201241001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.486",
+      "lon": "106.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuripan",
+      "en": "Kuripan",
+      "slug": "kuripan-3201241010"
+    },
+    "code": {
+      "id": "3201241010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.42",
+      "lon": "106.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Parigi Mekar",
+      "en": "Parigi Mekar",
+      "slug": "parigi-mekar-3201241007"
+    },
+    "code": {
+      "id": "3201241007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.449",
+      "lon": "106.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201241004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Putat Nutug",
+      "en": "Putat Nutug",
+      "slug": "putat-nutug-3201241004"
+    },
+    "code": {
+      "id": "3201241004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201241",
+      "level": 3,
+      "name": {
+        "local": "Ciseeng",
+        "en": "Ciseeng",
+        "slug": "ciseeng-3201241"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201241",
+        "level": 3,
+        "name": {
+          "local": "Ciseeng",
+          "en": "Ciseeng",
+          "slug": "ciseeng-3201241"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16381"
+    ],
+    "geo": {
+      "lat": "-6.466",
+      "lon": "106.667"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

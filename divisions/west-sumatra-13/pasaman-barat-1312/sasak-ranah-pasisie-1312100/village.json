@@ -1,0 +1,67 @@
+[
+  {
+    "id": "1312100001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sasak",
+      "en": "Sasak",
+      "slug": "sasak-1312100001"
+    },
+    "code": {
+      "id": "1312100001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312100",
+      "level": 3,
+      "name": {
+        "local": "Sasak Ranah Pasisie",
+        "en": "Sasak Ranah Pasisie",
+        "slug": "sasak-ranah-pasisie-1312100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312100",
+        "level": 3,
+        "name": {
+          "local": "Sasak Ranah Pasisie",
+          "en": "Sasak Ranah Pasisie",
+          "slug": "sasak-ranah-pasisie-1312100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26367"
+    ],
+    "geo": {
+      "lat": "0.064",
+      "lon": "99.645"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

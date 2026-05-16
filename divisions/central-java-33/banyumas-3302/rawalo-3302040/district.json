@@ -1,0 +1,56 @@
+{
+  "id": "3302040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rawalo",
+    "en": "Rawalo",
+    "slug": "rawalo-3302040"
+  },
+  "code": {
+    "id": "3302040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banyumas",
+      "en": "Banyumas",
+      "slug": "banyumas-3302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.531",
+    "lon": "109.169"
+  },
+  "metadata": {},
+  "source": {}
+}

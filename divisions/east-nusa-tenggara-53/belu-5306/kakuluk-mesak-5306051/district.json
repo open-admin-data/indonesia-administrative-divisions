@@ -1,0 +1,56 @@
+{
+  "id": "5306051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kakuluk Mesak",
+    "en": "Kakuluk Mesak",
+    "slug": "kakuluk-mesak-5306051"
+  },
+  "code": {
+    "id": "5306051",
+    "iso": null
+  },
+  "parent": {
+    "id": "5306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belu",
+      "en": "Belu",
+      "slug": "belu-5306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belu",
+        "en": "Belu",
+        "slug": "belu-5306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.041",
+    "lon": "124.859"
+  },
+  "metadata": {},
+  "source": {}
+}

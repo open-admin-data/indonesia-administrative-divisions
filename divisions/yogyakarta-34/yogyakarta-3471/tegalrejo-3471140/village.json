@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3471140004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangwaru",
+      "en": "Karangwaru",
+      "slug": "karangwaru-3471140004"
+    },
+    "code": {
+      "id": "3471140004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471140",
+      "level": 3,
+      "name": {
+        "local": "Tegalrejo",
+        "en": "Tegalrejo",
+        "slug": "tegalrejo-3471140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471140",
+        "level": 3,
+        "name": {
+          "local": "Tegalrejo",
+          "en": "Tegalrejo",
+          "slug": "tegalrejo-3471140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55241"
+    ],
+    "geo": {
+      "lat": "-7.774",
+      "lon": "110.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471140003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kricak",
+      "en": "Kricak",
+      "slug": "kricak-3471140003"
+    },
+    "code": {
+      "id": "3471140003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471140",
+      "level": 3,
+      "name": {
+        "local": "Tegalrejo",
+        "en": "Tegalrejo",
+        "slug": "tegalrejo-3471140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471140",
+        "level": 3,
+        "name": {
+          "local": "Tegalrejo",
+          "en": "Tegalrejo",
+          "slug": "tegalrejo-3471140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55241"
+    ],
+    "geo": {
+      "lat": "-7.775",
+      "lon": "110.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471140001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tegalrejo",
+      "en": "Tegalrejo",
+      "slug": "tegalrejo-3471140001"
+    },
+    "code": {
+      "id": "3471140001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471140",
+      "level": 3,
+      "name": {
+        "local": "Tegalrejo",
+        "en": "Tegalrejo",
+        "slug": "tegalrejo-3471140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471140",
+        "level": 3,
+        "name": {
+          "local": "Tegalrejo",
+          "en": "Tegalrejo",
+          "slug": "tegalrejo-3471140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55241"
+    ],
+    "geo": {
+      "lat": "-7.78",
+      "lon": "110.356"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

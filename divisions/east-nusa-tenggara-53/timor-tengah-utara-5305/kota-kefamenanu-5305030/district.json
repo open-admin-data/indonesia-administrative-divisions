@@ -1,0 +1,56 @@
+{
+  "id": "5305030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Kefamenanu",
+    "en": "Kota Kefamenanu",
+    "slug": "kota-kefamenanu-5305030"
+  },
+  "code": {
+    "id": "5305030",
+    "iso": null
+  },
+  "parent": {
+    "id": "5305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Timor Tengah Utara",
+      "en": "Timor Tengah Utara",
+      "slug": "timor-tengah-utara-5305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Timor Tengah Utara",
+        "en": "Timor Tengah Utara",
+        "slug": "timor-tengah-utara-5305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.472",
+    "lon": "124.494"
+  },
+  "metadata": {},
+  "source": {}
+}

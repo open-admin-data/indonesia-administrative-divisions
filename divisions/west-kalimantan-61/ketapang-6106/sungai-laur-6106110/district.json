@@ -1,0 +1,56 @@
+{
+  "id": "6106110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Laur",
+    "en": "Sungai Laur",
+    "slug": "sungai-laur-6106110"
+  },
+  "code": {
+    "id": "6106110",
+    "iso": null
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ketapang",
+      "en": "Ketapang",
+      "slug": "ketapang-6106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ketapang",
+        "en": "Ketapang",
+        "slug": "ketapang-6106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.853",
+    "lon": "110.546"
+  },
+  "metadata": {},
+  "source": {}
+}

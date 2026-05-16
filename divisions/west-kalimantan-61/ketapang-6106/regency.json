@@ -1,0 +1,48 @@
+{
+  "id": "6106",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Ketapang",
+    "en": "Ketapang",
+    "slug": "ketapang-6106"
+  },
+  "code": {
+    "id": "6106",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 20,
+    "village": 258
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.879",
+    "lon": "112.925"
+  },
+  "metadata": {},
+  "source": {}
+}

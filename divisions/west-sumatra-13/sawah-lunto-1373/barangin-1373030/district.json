@@ -1,0 +1,56 @@
+{
+  "id": "1373030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Barangin",
+    "en": "Barangin",
+    "slug": "barangin-1373030"
+  },
+  "code": {
+    "id": "1373030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1373",
+    "level": 2,
+    "name": {
+      "local": "Kota Sawah Lunto",
+      "en": "Sawah Lunto",
+      "slug": "sawah-lunto-1373"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1373",
+      "level": 2,
+      "name": {
+        "local": "Kota Sawah Lunto",
+        "en": "Sawah Lunto",
+        "slug": "sawah-lunto-1373"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.662",
+    "lon": "100.736"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7211020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Labobo",
+    "en": "Labobo",
+    "slug": "labobo-7211020"
+  },
+  "code": {
+    "id": "7211020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7211",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banggai Laut",
+      "en": "Banggai Laut",
+      "slug": "banggai-laut-7211"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banggai Laut",
+        "en": "Banggai Laut",
+        "slug": "banggai-laut-7211"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.735",
+    "lon": "123.329"
+  },
+  "metadata": {},
+  "source": {}
+}

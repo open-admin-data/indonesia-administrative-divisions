@@ -1,0 +1,56 @@
+{
+  "id": "1408040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bengkalis",
+    "en": "Bengkalis",
+    "slug": "bengkalis-1408040"
+  },
+  "code": {
+    "id": "1408040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkalis",
+      "en": "Bengkalis",
+      "slug": "bengkalis-1408"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.429",
+    "lon": "102.253"
+  },
+  "metadata": {},
+  "source": {}
+}

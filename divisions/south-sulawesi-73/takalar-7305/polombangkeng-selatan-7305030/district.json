@@ -1,0 +1,56 @@
+{
+  "id": "7305030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Polombangkeng Selatan",
+    "en": "Polombangkeng Selatan",
+    "slug": "polombangkeng-selatan-7305030"
+  },
+  "code": {
+    "id": "7305030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Takalar",
+      "en": "Takalar",
+      "slug": "takalar-7305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Takalar",
+        "en": "Takalar",
+        "slug": "takalar-7305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.437",
+    "lon": "119.495"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1971040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taman Sari",
+    "en": "Taman Sari",
+    "slug": "taman-sari-1971040"
+  },
+  "code": {
+    "id": "1971040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1971",
+    "level": 2,
+    "name": {
+      "local": "Kota Pangkal Pinang",
+      "en": "Pangkal Pinang",
+      "slug": "pangkal-pinang-1971"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1971",
+      "level": 2,
+      "name": {
+        "local": "Kota Pangkal Pinang",
+        "en": "Pangkal Pinang",
+        "slug": "pangkal-pinang-1971"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.121",
+    "lon": "106.108"
+  },
+  "metadata": {},
+  "source": {}
+}

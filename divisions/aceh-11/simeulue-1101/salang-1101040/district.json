@@ -1,0 +1,56 @@
+{
+  "id": "1101040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salang",
+    "en": "Salang",
+    "slug": "salang-1101040"
+  },
+  "code": {
+    "id": "1101040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Simeulue",
+      "en": "Simeulue",
+      "slug": "simeulue-1101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.673",
+    "lon": "95.854"
+  },
+  "metadata": {},
+  "source": {}
+}

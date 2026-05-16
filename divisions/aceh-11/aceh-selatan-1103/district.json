@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "1103020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bakongan",
+      "en": "Bakongan",
+      "slug": "bakongan-1103020"
+    },
+    "code": {
+      "id": "1103020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.961",
+      "lon": "97.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bakongan Timur",
+      "en": "Bakongan Timur",
+      "slug": "bakongan-timur-1103021"
+    },
+    "code": {
+      "id": "1103021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.911",
+      "lon": "97.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kluet Selatan",
+      "en": "Kluet Selatan",
+      "slug": "kluet-selatan-1103030"
+    },
+    "code": {
+      "id": "1103030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.029",
+      "lon": "97.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kluet Tengah",
+      "en": "Kluet Tengah",
+      "slug": "kluet-tengah-1103042"
+    },
+    "code": {
+      "id": "1103042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.404",
+      "lon": "97.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kluet Timur",
+      "en": "Kluet Timur",
+      "slug": "kluet-timur-1103031"
+    },
+    "code": {
+      "id": "1103031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.231",
+      "lon": "97.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kluet Utara",
+      "en": "Kluet Utara",
+      "slug": "kluet-utara-1103040"
+    },
+    "code": {
+      "id": "1103040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.129",
+      "lon": "97.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Bahagia",
+      "en": "Kota Bahagia",
+      "slug": "kota-bahagia-1103022"
+    },
+    "code": {
+      "id": "1103022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.022",
+      "lon": "97.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Labuhan Haji",
+      "en": "Labuhan Haji",
+      "slug": "labuhan-haji-1103090"
+    },
+    "code": {
+      "id": "1103090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.637",
+      "lon": "97.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103092",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Labuhan Haji Barat",
+      "en": "Labuhan Haji Barat",
+      "slug": "labuhan-haji-barat-1103092"
+    },
+    "code": {
+      "id": "1103092",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.651",
+      "lon": "97.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Labuhan Haji Timur",
+      "en": "Labuhan Haji Timur",
+      "slug": "labuhan-haji-timur-1103091"
+    },
+    "code": {
+      "id": "1103091",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.619",
+      "lon": "97.082"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meukek",
+      "en": "Meukek",
+      "slug": "meukek-1103080"
+    },
+    "code": {
+      "id": "1103080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.579",
+      "lon": "97.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasie Raja",
+      "en": "Pasie Raja",
+      "slug": "pasie-raja-1103041"
+    },
+    "code": {
+      "id": "1103041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.23",
+      "lon": "97.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sama Dua",
+      "en": "Sama Dua",
+      "slug": "sama-dua-1103060"
+    },
+    "code": {
+      "id": "1103060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.355",
+      "lon": "97.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sawang",
+      "en": "Sawang",
+      "slug": "sawang-1103070"
+    },
+    "code": {
+      "id": "1103070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.435",
+      "lon": "97.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tapak Tuan",
+      "en": "Tapak Tuan",
+      "slug": "tapak-tuan-1103050"
+    },
+    "code": {
+      "id": "1103050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.288",
+      "lon": "97.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Trumon",
+      "en": "Trumon",
+      "slug": "trumon-1103010"
+    },
+    "code": {
+      "id": "1103010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.638",
+      "lon": "97.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Trumon Tengah",
+      "en": "Trumon Tengah",
+      "slug": "trumon-tengah-1103012"
+    },
+    "code": {
+      "id": "1103012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.894",
+      "lon": "97.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Trumon Timur",
+      "en": "Trumon Timur",
+      "slug": "trumon-timur-1103011"
+    },
+    "code": {
+      "id": "1103011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.884",
+      "lon": "97.811"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

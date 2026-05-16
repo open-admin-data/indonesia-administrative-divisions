@@ -1,0 +1,48 @@
+{
+  "id": "1707",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lebong",
+    "en": "Lebong",
+    "slug": "lebong-1707"
+  },
+  "code": {
+    "id": "1707",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 104
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.157",
+    "lon": "102.183"
+  },
+  "metadata": {},
+  "source": {}
+}

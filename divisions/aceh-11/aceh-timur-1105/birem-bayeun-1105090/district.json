@@ -1,0 +1,56 @@
+{
+  "id": "1105090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Birem Bayeun",
+    "en": "Birem Bayeun",
+    "slug": "birem-bayeun-1105090"
+  },
+  "code": {
+    "id": "1105090",
+    "iso": null
+  },
+  "parent": {
+    "id": "1105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Timur",
+      "en": "Aceh Timur",
+      "slug": "aceh-timur-1105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Timur",
+        "en": "Aceh Timur",
+        "slug": "aceh-timur-1105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.485",
+    "lon": "97.886"
+  },
+  "metadata": {},
+  "source": {}
+}

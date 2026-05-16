@@ -1,0 +1,56 @@
+{
+  "id": "6372010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Landasan Ulin",
+    "en": "Landasan Ulin",
+    "slug": "landasan-ulin-6372010"
+  },
+  "code": {
+    "id": "6372010",
+    "iso": null
+  },
+  "parent": {
+    "id": "6372",
+    "level": 2,
+    "name": {
+      "local": "Kota Banjar Baru",
+      "en": "Banjar Baru",
+      "slug": "banjar-baru-6372"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6372",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjar Baru",
+        "en": "Banjar Baru",
+        "slug": "banjar-baru-6372"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.452",
+    "lon": "114.793"
+  },
+  "metadata": {},
+  "source": {}
+}

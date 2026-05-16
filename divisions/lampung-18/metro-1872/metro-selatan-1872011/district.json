@@ -1,0 +1,56 @@
+{
+  "id": "1872011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Metro Selatan",
+    "en": "Metro Selatan",
+    "slug": "metro-selatan-1872011"
+  },
+  "code": {
+    "id": "1872011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1872",
+    "level": 2,
+    "name": {
+      "local": "Kota Metro",
+      "en": "Metro",
+      "slug": "metro-1872"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1872",
+      "level": 2,
+      "name": {
+        "local": "Kota Metro",
+        "en": "Metro",
+        "slug": "metro-1872"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.163",
+    "lon": "105.303"
+  },
+  "metadata": {},
+  "source": {}
+}

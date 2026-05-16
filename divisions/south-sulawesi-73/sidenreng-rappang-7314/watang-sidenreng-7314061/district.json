@@ -1,0 +1,56 @@
+{
+  "id": "7314061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Watang Sidenreng",
+    "en": "Watang Sidenreng",
+    "slug": "watang-sidenreng-7314061"
+  },
+  "code": {
+    "id": "7314061",
+    "iso": null
+  },
+  "parent": {
+    "id": "7314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sidenreng Rappang",
+      "en": "Sidenreng Rappang",
+      "slug": "sidenreng-rappang-7314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sidenreng Rappang",
+        "en": "Sidenreng Rappang",
+        "slug": "sidenreng-rappang-7314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.909",
+    "lon": "119.866"
+  },
+  "metadata": {},
+  "source": {}
+}

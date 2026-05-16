@@ -1,0 +1,56 @@
+{
+  "id": "2102061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Kijang",
+    "en": "Gunung Kijang",
+    "slug": "gunung-kijang-2102061"
+  },
+  "code": {
+    "id": "2102061",
+    "iso": null
+  },
+  "parent": {
+    "id": "2102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bintan",
+      "en": "Bintan",
+      "slug": "bintan-2102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.041",
+    "lon": "104.621"
+  },
+  "metadata": {},
+  "source": {}
+}

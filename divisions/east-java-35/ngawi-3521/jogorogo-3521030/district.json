@@ -1,0 +1,56 @@
+{
+  "id": "3521030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jogorogo",
+    "en": "Jogorogo",
+    "slug": "jogorogo-3521030"
+  },
+  "code": {
+    "id": "3521030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3521",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ngawi",
+      "en": "Ngawi",
+      "slug": "ngawi-3521"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3521",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngawi",
+        "en": "Ngawi",
+        "slug": "ngawi-3521"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.544",
+    "lon": "111.261"
+  },
+  "metadata": {},
+  "source": {}
+}

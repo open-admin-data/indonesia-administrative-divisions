@@ -1,0 +1,56 @@
+{
+  "id": "6405060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjung Redeb",
+    "en": "Tanjung Redeb",
+    "slug": "tanjung-redeb-6405060"
+  },
+  "code": {
+    "id": "6405060",
+    "iso": null
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Berau",
+      "en": "Berau",
+      "slug": "berau-6405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Berau",
+        "en": "Berau",
+        "slug": "berau-6405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.128",
+    "lon": "117.464"
+  },
+  "metadata": {},
+  "source": {}
+}

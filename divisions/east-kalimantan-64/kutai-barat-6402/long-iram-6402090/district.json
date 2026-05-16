@@ -1,0 +1,56 @@
+{
+  "id": "6402090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Long Iram",
+    "en": "Long Iram",
+    "slug": "long-iram-6402090"
+  },
+  "code": {
+    "id": "6402090",
+    "iso": null
+  },
+  "parent": {
+    "id": "6402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Barat",
+      "en": "Kutai Barat",
+      "slug": "kutai-barat-6402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Barat",
+        "en": "Kutai Barat",
+        "slug": "kutai-barat-6402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.059",
+    "lon": "115.628"
+  },
+  "metadata": {},
+  "source": {}
+}

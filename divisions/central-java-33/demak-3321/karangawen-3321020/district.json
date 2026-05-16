@@ -1,0 +1,56 @@
+{
+  "id": "3321020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karangawen",
+    "en": "Karangawen",
+    "slug": "karangawen-3321020"
+  },
+  "code": {
+    "id": "3321020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3321",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Demak",
+      "en": "Demak",
+      "slug": "demak-3321"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.073",
+    "lon": "110.565"
+  },
+  "metadata": {},
+  "source": {}
+}

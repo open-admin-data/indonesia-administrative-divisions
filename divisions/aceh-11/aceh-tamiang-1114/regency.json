@@ -1,0 +1,48 @@
+{
+  "id": "1114",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Aceh Tamiang",
+    "en": "Aceh Tamiang",
+    "slug": "aceh-tamiang-1114"
+  },
+  "code": {
+    "id": "1114",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 213
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.624",
+    "lon": "95.617"
+  },
+  "metadata": {},
+  "source": {}
+}

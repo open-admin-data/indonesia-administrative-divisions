@@ -1,0 +1,562 @@
+[
+  {
+    "id": "1709061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bang Haji",
+      "en": "Bang Haji",
+      "slug": "bang-haji-1709061"
+    },
+    "code": {
+      "id": "1709061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.598",
+      "lon": "102.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karang Tinggi",
+      "en": "Karang Tinggi",
+      "slug": "karang-tinggi-1709020"
+    },
+    "code": {
+      "id": "1709020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.764",
+      "lon": "102.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merigi Kelindang",
+      "en": "Merigi Kelindang",
+      "slug": "merigi-kelindang-1709031"
+    },
+    "code": {
+      "id": "1709031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.588",
+      "lon": "102.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merigi Sakti",
+      "en": "Merigi Sakti",
+      "slug": "merigi-sakti-1709041"
+    },
+    "code": {
+      "id": "1709041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.619",
+      "lon": "102.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pagar Jati",
+      "en": "Pagar Jati",
+      "slug": "pagar-jati-1709040"
+    },
+    "code": {
+      "id": "1709040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.597",
+      "lon": "102.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pematang Tiga",
+      "en": "Pematang Tiga",
+      "slug": "pematang-tiga-1709060"
+    },
+    "code": {
+      "id": "1709060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.577",
+      "lon": "102.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pondok Kelapa",
+      "en": "Pondok Kelapa",
+      "slug": "pondok-kelapa-1709050"
+    },
+    "code": {
+      "id": "1709050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.677",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pondok Kubang",
+      "en": "Pondok Kubang",
+      "slug": "pondok-kubang-1709051"
+    },
+    "code": {
+      "id": "1709051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.692",
+      "lon": "102.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taba Penanjung",
+      "en": "Taba Penanjung",
+      "slug": "taba-penanjung-1709030"
+    },
+    "code": {
+      "id": "1709030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.713",
+      "lon": "102.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talang Empat",
+      "en": "Talang Empat",
+      "slug": "talang-empat-1709010"
+    },
+    "code": {
+      "id": "1709010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1709",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Tengah",
+          "en": "Bengkulu Tengah",
+          "slug": "bengkulu-tengah-1709"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.806",
+      "lon": "102.381"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

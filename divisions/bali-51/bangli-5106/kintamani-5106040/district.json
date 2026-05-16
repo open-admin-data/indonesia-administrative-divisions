@@ -1,0 +1,56 @@
+{
+  "id": "5106040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kintamani",
+    "en": "Kintamani",
+    "slug": "kintamani-5106040"
+  },
+  "code": {
+    "id": "5106040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangli",
+      "en": "Bangli",
+      "slug": "bangli-5106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangli",
+        "en": "Bangli",
+        "slug": "bangli-5106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.25",
+    "lon": "115.345"
+  },
+  "metadata": {},
+  "source": {}
+}

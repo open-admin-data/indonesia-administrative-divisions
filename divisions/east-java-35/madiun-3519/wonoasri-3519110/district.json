@@ -1,0 +1,56 @@
+{
+  "id": "3519110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wonoasri",
+    "en": "Wonoasri",
+    "slug": "wonoasri-3519110"
+  },
+  "code": {
+    "id": "3519110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3519",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Madiun",
+      "en": "Madiun",
+      "slug": "madiun-3519"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.589",
+    "lon": "111.634"
+  },
+  "metadata": {},
+  "source": {}
+}

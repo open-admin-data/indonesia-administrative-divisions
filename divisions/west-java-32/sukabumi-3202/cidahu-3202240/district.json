@@ -1,0 +1,56 @@
+{
+  "id": "3202240",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cidahu",
+    "en": "Cidahu",
+    "slug": "cidahu-3202240"
+  },
+  "code": {
+    "id": "3202240",
+    "iso": null
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.763",
+    "lon": "106.734"
+  },
+  "metadata": {},
+  "source": {}
+}

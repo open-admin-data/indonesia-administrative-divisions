@@ -1,0 +1,56 @@
+{
+  "id": "6102030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Samalantan",
+    "en": "Samalantan",
+    "slug": "samalantan-6102030"
+  },
+  "code": {
+    "id": "6102030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkayang",
+      "en": "Bengkayang",
+      "slug": "bengkayang-6102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.789",
+    "lon": "109.243"
+  },
+  "metadata": {},
+  "source": {}
+}

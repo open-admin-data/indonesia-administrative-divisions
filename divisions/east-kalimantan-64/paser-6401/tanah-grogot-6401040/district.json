@@ -1,0 +1,56 @@
+{
+  "id": "6401040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanah Grogot",
+    "en": "Tanah Grogot",
+    "slug": "tanah-grogot-6401040"
+  },
+  "code": {
+    "id": "6401040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Paser",
+      "en": "Paser",
+      "slug": "paser-6401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.922",
+    "lon": "116.295"
+  },
+  "metadata": {},
+  "source": {}
+}

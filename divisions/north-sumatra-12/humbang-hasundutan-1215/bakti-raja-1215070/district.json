@@ -1,0 +1,56 @@
+{
+  "id": "1215070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bakti Raja",
+    "en": "Bakti Raja",
+    "slug": "bakti-raja-1215070"
+  },
+  "code": {
+    "id": "1215070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1215",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Humbang Hasundutan",
+      "en": "Humbang Hasundutan",
+      "slug": "humbang-hasundutan-1215"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1215",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Humbang Hasundutan",
+        "en": "Humbang Hasundutan",
+        "slug": "humbang-hasundutan-1215"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.335",
+    "lon": "98.825"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "7312031001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Belo",
+      "en": "Belo",
+      "slug": "belo-7312031001"
+    },
+    "code": {
+      "id": "7312031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7312031",
+      "level": 3,
+      "name": {
+        "local": "Ganra",
+        "en": "Ganra",
+        "slug": "ganra-7312031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Soppeng",
+          "en": "Soppeng",
+          "slug": "soppeng-7312"
+        }
+      },
+      {
+        "id": "7312031",
+        "level": 3,
+        "name": {
+          "local": "Ganra",
+          "en": "Ganra",
+          "slug": "ganra-7312031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90864"
+    ],
+    "geo": {
+      "lat": "-4.321",
+      "lon": "119.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7312031002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ganra",
+      "en": "Ganra",
+      "slug": "ganra-7312031002"
+    },
+    "code": {
+      "id": "7312031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7312031",
+      "level": 3,
+      "name": {
+        "local": "Ganra",
+        "en": "Ganra",
+        "slug": "ganra-7312031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Soppeng",
+          "en": "Soppeng",
+          "slug": "soppeng-7312"
+        }
+      },
+      {
+        "id": "7312031",
+        "level": 3,
+        "name": {
+          "local": "Ganra",
+          "en": "Ganra",
+          "slug": "ganra-7312031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90864"
+    ],
+    "geo": {
+      "lat": "-4.306",
+      "lon": "119.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7312031004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lompulle",
+      "en": "Lompulle",
+      "slug": "lompulle-7312031004"
+    },
+    "code": {
+      "id": "7312031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "7312031",
+      "level": 3,
+      "name": {
+        "local": "Ganra",
+        "en": "Ganra",
+        "slug": "ganra-7312031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Soppeng",
+          "en": "Soppeng",
+          "slug": "soppeng-7312"
+        }
+      },
+      {
+        "id": "7312031",
+        "level": 3,
+        "name": {
+          "local": "Ganra",
+          "en": "Ganra",
+          "slug": "ganra-7312031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90864"
+    ],
+    "geo": {
+      "lat": "-4.283",
+      "lon": "119.957"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

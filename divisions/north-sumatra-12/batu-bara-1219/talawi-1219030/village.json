@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1219030018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Benteng",
+      "en": "Benteng",
+      "slug": "benteng-1219030018"
+    },
+    "code": {
+      "id": "1219030018",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.174",
+      "lon": "99.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030020",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dahari Indah",
+      "en": "Dahari Indah",
+      "slug": "dahari-indah-1219030020"
+    },
+    "code": {
+      "id": "1219030020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.242",
+      "lon": "99.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dahari Selebar",
+      "en": "Dahari Selebar",
+      "slug": "dahari-selebar-1219030013"
+    },
+    "code": {
+      "id": "1219030013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.238",
+      "lon": "99.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Rante",
+      "en": "Gunung Rante",
+      "slug": "gunung-rante-1219030017"
+    },
+    "code": {
+      "id": "1219030017",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.163",
+      "lon": "99.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Indra Yaman",
+      "en": "Indra Yaman",
+      "slug": "indra-yaman-1219030019"
+    },
+    "code": {
+      "id": "1219030019",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.22",
+      "lon": "99.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Labuhan Ruku",
+      "en": "Labuhan Ruku",
+      "slug": "labuhan-ruku-1219030011"
+    },
+    "code": {
+      "id": "1219030011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.206",
+      "lon": "99.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mesjid Lama",
+      "en": "Mesjid Lama",
+      "slug": "mesjid-lama-1219030012"
+    },
+    "code": {
+      "id": "1219030012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.218",
+      "lon": "99.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Padang Genting",
+      "en": "Padang Genting",
+      "slug": "padang-genting-1219030010"
+    },
+    "code": {
+      "id": "1219030010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.201",
+      "lon": "99.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pahang",
+      "en": "Pahang",
+      "slug": "pahang-1219030009"
+    },
+    "code": {
+      "id": "1219030009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.178",
+      "lon": "99.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219030008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panjang",
+      "en": "Panjang",
+      "slug": "panjang-1219030008"
+    },
+    "code": {
+      "id": "1219030008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1219030",
+      "level": 3,
+      "name": {
+        "local": "Talawi",
+        "en": "Talawi",
+        "slug": "talawi-1219030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1219",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batu Bara",
+          "en": "Batu Bara",
+          "slug": "batu-bara-1219"
+        }
+      },
+      {
+        "id": "1219030",
+        "level": 3,
+        "name": {
+          "local": "Talawi",
+          "en": "Talawi",
+          "slug": "talawi-1219030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21652"
+    ],
+    "geo": {
+      "lat": "3.169",
+      "lon": "99.517"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

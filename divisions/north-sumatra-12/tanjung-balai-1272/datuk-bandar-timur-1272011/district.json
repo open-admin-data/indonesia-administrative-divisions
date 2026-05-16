@@ -1,0 +1,56 @@
+{
+  "id": "1272011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Datuk Bandar Timur",
+    "en": "Datuk Bandar Timur",
+    "slug": "datuk-bandar-timur-1272011"
+  },
+  "code": {
+    "id": "1272011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1272",
+    "level": 2,
+    "name": {
+      "local": "Kota Tanjung Balai",
+      "en": "Tanjung Balai",
+      "slug": "tanjung-balai-1272"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1272",
+      "level": 2,
+      "name": {
+        "local": "Kota Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1272"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.946",
+    "lon": "99.816"
+  },
+  "metadata": {},
+  "source": {}
+}

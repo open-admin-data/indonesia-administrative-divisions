@@ -1,0 +1,170 @@
+[
+  {
+    "id": "3579010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu",
+      "en": "Batu",
+      "slug": "batu-3579010"
+    },
+    "code": {
+      "id": "3579010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579",
+      "level": 2,
+      "name": {
+        "local": "Kota Batu",
+        "en": "Batu",
+        "slug": "batu-3579"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.891",
+      "lon": "112.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3579030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bumiaji",
+      "en": "Bumiaji",
+      "slug": "bumiaji-3579030"
+    },
+    "code": {
+      "id": "3579030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579",
+      "level": 2,
+      "name": {
+        "local": "Kota Batu",
+        "en": "Batu",
+        "slug": "batu-3579"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.805",
+      "lon": "112.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3579020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Junrejo",
+      "en": "Junrejo",
+      "slug": "junrejo-3579020"
+    },
+    "code": {
+      "id": "3579020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579",
+      "level": 2,
+      "name": {
+        "local": "Kota Batu",
+        "en": "Batu",
+        "slug": "batu-3579"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.903",
+      "lon": "112.541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

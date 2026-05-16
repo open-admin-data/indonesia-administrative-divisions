@@ -1,0 +1,450 @@
+[
+  {
+    "id": "3173050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cempaka Putih",
+      "en": "Cempaka Putih",
+      "slug": "cempaka-putih-3173050"
+    },
+    "code": {
+      "id": "3173050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.181",
+      "lon": "106.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gambir",
+      "en": "Gambir",
+      "slug": "gambir-3173080"
+    },
+    "code": {
+      "id": "3173080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.172",
+      "lon": "106.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Johar Baru",
+      "en": "Johar Baru",
+      "slug": "johar-baru-3173040"
+    },
+    "code": {
+      "id": "3173040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.183",
+      "lon": "106.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kemayoran",
+      "en": "Kemayoran",
+      "slug": "kemayoran-3173060"
+    },
+    "code": {
+      "id": "3173060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.163",
+      "lon": "106.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Menteng",
+      "en": "Menteng",
+      "slug": "menteng-3173020"
+    },
+    "code": {
+      "id": "3173020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.195",
+      "lon": "106.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sawah Besar",
+      "en": "Sawah Besar",
+      "slug": "sawah-besar-3173070"
+    },
+    "code": {
+      "id": "3173070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.156",
+      "lon": "106.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Senen",
+      "en": "Senen",
+      "slug": "senen-3173030"
+    },
+    "code": {
+      "id": "3173030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.185",
+      "lon": "106.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3173010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Abang",
+      "en": "Tanah Abang",
+      "slug": "tanah-abang-3173010"
+    },
+    "code": {
+      "id": "3173010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3173",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Pusat",
+          "en": "Jakarta Pusat",
+          "slug": "jakarta-pusat-3173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.205",
+      "lon": "106.807"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

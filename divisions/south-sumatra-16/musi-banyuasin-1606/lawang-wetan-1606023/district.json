@@ -1,0 +1,56 @@
+{
+  "id": "1606023",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lawang Wetan",
+    "en": "Lawang Wetan",
+    "slug": "lawang-wetan-1606023"
+  },
+  "code": {
+    "id": "1606023",
+    "iso": null
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Musi Banyuasin",
+      "en": "Musi Banyuasin",
+      "slug": "musi-banyuasin-1606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Musi Banyuasin",
+        "en": "Musi Banyuasin",
+        "slug": "musi-banyuasin-1606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.804",
+    "lon": "103.7"
+  },
+  "metadata": {},
+  "source": {}
+}

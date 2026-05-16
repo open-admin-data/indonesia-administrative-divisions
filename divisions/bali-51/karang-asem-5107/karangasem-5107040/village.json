@@ -1,0 +1,587 @@
+[
+  {
+    "id": "5107040008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit",
+      "en": "Bukit",
+      "slug": "bukit-5107040008"
+    },
+    "code": {
+      "id": "5107040008",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.411",
+      "lon": "115.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangasem",
+      "en": "Karangasem",
+      "slug": "karangasem-5107040005"
+    },
+    "code": {
+      "id": "5107040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.347",
+      "lon": "115.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Padang Kerta",
+      "en": "Padang Kerta",
+      "slug": "padang-kerta-5107040004"
+    },
+    "code": {
+      "id": "5107040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.429",
+      "lon": "115.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pertima",
+      "en": "Pertima",
+      "slug": "pertima-5107040002"
+    },
+    "code": {
+      "id": "5107040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.479",
+      "lon": "115.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seraya",
+      "en": "Seraya",
+      "slug": "seraya-5107040010"
+    },
+    "code": {
+      "id": "5107040010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.422",
+      "lon": "115.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seraya Barat",
+      "en": "Seraya Barat",
+      "slug": "seraya-barat-5107040009"
+    },
+    "code": {
+      "id": "5107040009",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.433",
+      "lon": "115.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seraya Timur",
+      "en": "Seraya Timur",
+      "slug": "seraya-timur-5107040011"
+    },
+    "code": {
+      "id": "5107040011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.41",
+      "lon": "115.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Subagan",
+      "en": "Subagan",
+      "slug": "subagan-5107040003"
+    },
+    "code": {
+      "id": "5107040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.464",
+      "lon": "115.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107040007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tegallinggah",
+      "en": "Tegallinggah",
+      "slug": "tegallinggah-5107040007"
+    },
+    "code": {
+      "id": "5107040007",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107040",
+      "level": 3,
+      "name": {
+        "local": "Karangasem",
+        "en": "Karangasem",
+        "slug": "karangasem-5107040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karang Asem",
+          "en": "Karang Asem",
+          "slug": "karang-asem-5107"
+        }
+      },
+      {
+        "id": "5107040",
+        "level": 3,
+        "name": {
+          "local": "Karangasem",
+          "en": "Karangasem",
+          "slug": "karangasem-5107040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80812"
+    ],
+    "geo": {
+      "lat": "-8.431",
+      "lon": "115.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

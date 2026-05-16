@@ -1,0 +1,56 @@
+{
+  "id": "7605030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasangkayu",
+    "en": "Pasangkayu",
+    "slug": "pasangkayu-7605030"
+  },
+  "code": {
+    "id": "7605030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju Utara",
+      "en": "Mamuju Utara",
+      "slug": "mamuju-utara-7605"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju Utara",
+        "en": "Mamuju Utara",
+        "slug": "mamuju-utara-7605"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.204",
+    "lon": "119.443"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,954 @@
+[
+  {
+    "id": "3402050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bambang Lipuro",
+      "en": "Bambang Lipuro",
+      "slug": "bambang-lipuro-3402050"
+    },
+    "code": {
+      "id": "3402050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.945",
+      "lon": "110.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banguntapan",
+      "en": "Banguntapan",
+      "slug": "banguntapan-3402130"
+    },
+    "code": {
+      "id": "3402130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.824",
+      "lon": "110.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bantul",
+      "en": "Bantul",
+      "slug": "bantul-3402070"
+    },
+    "code": {
+      "id": "3402070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.891",
+      "lon": "110.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dlingo",
+      "en": "Dlingo",
+      "slug": "dlingo-3402100"
+    },
+    "code": {
+      "id": "3402100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.919",
+      "lon": "110.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Imogiri",
+      "en": "Imogiri",
+      "slug": "imogiri-3402090"
+    },
+    "code": {
+      "id": "3402090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.938",
+      "lon": "110.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jetis",
+      "en": "Jetis",
+      "slug": "jetis-3402080"
+    },
+    "code": {
+      "id": "3402080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.91",
+      "lon": "110.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kasihan",
+      "en": "Kasihan",
+      "slug": "kasihan-3402150"
+    },
+    "code": {
+      "id": "3402150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.815",
+      "lon": "110.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kretek",
+      "en": "Kretek",
+      "slug": "kretek-3402030"
+    },
+    "code": {
+      "id": "3402030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.992",
+      "lon": "110.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pajangan",
+      "en": "Pajangan",
+      "slug": "pajangan-3402160"
+    },
+    "code": {
+      "id": "3402160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.872",
+      "lon": "110.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pandak",
+      "en": "Pandak",
+      "slug": "pandak-3402060"
+    },
+    "code": {
+      "id": "3402060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.924",
+      "lon": "110.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Piyungan",
+      "en": "Piyungan",
+      "slug": "piyungan-3402120"
+    },
+    "code": {
+      "id": "3402120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.845",
+      "lon": "110.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pleret",
+      "en": "Pleret",
+      "slug": "pleret-3402110"
+    },
+    "code": {
+      "id": "3402110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.877",
+      "lon": "110.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pundong",
+      "en": "Pundong",
+      "slug": "pundong-3402040"
+    },
+    "code": {
+      "id": "3402040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.971",
+      "lon": "110.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sanden",
+      "en": "Sanden",
+      "slug": "sanden-3402020"
+    },
+    "code": {
+      "id": "3402020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.981",
+      "lon": "110.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sedayu",
+      "en": "Sedayu",
+      "slug": "sedayu-3402170"
+    },
+    "code": {
+      "id": "3402170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.824",
+      "lon": "110.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sewon",
+      "en": "Sewon",
+      "slug": "sewon-3402140"
+    },
+    "code": {
+      "id": "3402140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.856",
+      "lon": "110.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Srandakan",
+      "en": "Srandakan",
+      "slug": "srandakan-3402010"
+    },
+    "code": {
+      "id": "3402010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.96",
+      "lon": "110.239"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

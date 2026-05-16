@@ -1,0 +1,506 @@
+[
+  {
+    "id": "3319070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bae",
+      "en": "Bae",
+      "slug": "bae-3319070"
+    },
+    "code": {
+      "id": "3319070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.779",
+      "lon": "110.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dawe",
+      "en": "Dawe",
+      "slug": "dawe-3319090"
+    },
+    "code": {
+      "id": "3319090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.702",
+      "lon": "110.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gebog",
+      "en": "Gebog",
+      "slug": "gebog-3319080"
+    },
+    "code": {
+      "id": "3319080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.705",
+      "lon": "110.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jati",
+      "en": "Jati",
+      "slug": "jati-3319030"
+    },
+    "code": {
+      "id": "3319030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.83",
+      "lon": "110.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jekulo",
+      "en": "Jekulo",
+      "slug": "jekulo-3319060"
+    },
+    "code": {
+      "id": "3319060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.802",
+      "lon": "110.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaliwungu",
+      "en": "Kaliwungu",
+      "slug": "kaliwungu-3319010"
+    },
+    "code": {
+      "id": "3319010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.791",
+      "lon": "110.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Kudus",
+      "en": "Kota Kudus",
+      "slug": "kota-kudus-3319020"
+    },
+    "code": {
+      "id": "3319020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.8",
+      "lon": "110.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mejobo",
+      "en": "Mejobo",
+      "slug": "mejobo-3319050"
+    },
+    "code": {
+      "id": "3319050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.834",
+      "lon": "110.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3319040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Undaan",
+      "en": "Undaan",
+      "slug": "undaan-3319040"
+    },
+    "code": {
+      "id": "3319040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3319",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kudus",
+          "en": "Kudus",
+          "slug": "kudus-3319"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.917",
+      "lon": "110.827"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

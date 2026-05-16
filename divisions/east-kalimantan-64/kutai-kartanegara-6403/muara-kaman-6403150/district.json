@@ -1,0 +1,56 @@
+{
+  "id": "6403150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Kaman",
+    "en": "Muara Kaman",
+    "slug": "muara-kaman-6403150"
+  },
+  "code": {
+    "id": "6403150",
+    "iso": null
+  },
+  "parent": {
+    "id": "6403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Kartanegara",
+      "en": "Kutai Kartanegara",
+      "slug": "kutai-kartanegara-6403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Kartanegara",
+        "en": "Kutai Kartanegara",
+        "slug": "kutai-kartanegara-6403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.115",
+    "lon": "116.836"
+  },
+  "metadata": {},
+  "source": {}
+}

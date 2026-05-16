@@ -1,0 +1,56 @@
+{
+  "id": "6201040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kotawaringin Lama",
+    "en": "Kotawaringin Lama",
+    "slug": "kotawaringin-lama-6201040"
+  },
+  "code": {
+    "id": "6201040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kotawaringin Barat",
+      "en": "Kotawaringin Barat",
+      "slug": "kotawaringin-barat-6201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Barat",
+        "en": "Kotawaringin Barat",
+        "slug": "kotawaringin-barat-6201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.456",
+    "lon": "111.423"
+  },
+  "metadata": {},
+  "source": {}
+}

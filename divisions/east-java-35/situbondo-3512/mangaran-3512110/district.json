@@ -1,0 +1,56 @@
+{
+  "id": "3512110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mangaran",
+    "en": "Mangaran",
+    "slug": "mangaran-3512110"
+  },
+  "code": {
+    "id": "3512110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3512",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Situbondo",
+      "en": "Situbondo",
+      "slug": "situbondo-3512"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.64",
+    "lon": "114.045"
+  },
+  "metadata": {},
+  "source": {}
+}

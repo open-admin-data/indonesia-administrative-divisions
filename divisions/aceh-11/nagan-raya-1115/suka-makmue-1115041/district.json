@@ -1,0 +1,56 @@
+{
+  "id": "1115041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suka Makmue",
+    "en": "Suka Makmue",
+    "slug": "suka-makmue-1115041"
+  },
+  "code": {
+    "id": "1115041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1115",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nagan Raya",
+      "en": "Nagan Raya",
+      "slug": "nagan-raya-1115"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1115",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nagan Raya",
+        "en": "Nagan Raya",
+        "slug": "nagan-raya-1115"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.182",
+    "lon": "96.322"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1171030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuta Alam",
+    "en": "Kuta Alam",
+    "slug": "kuta-alam-1171030"
+  },
+  "code": {
+    "id": "1171030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1171",
+    "level": 2,
+    "name": {
+      "local": "Kota Banda Aceh",
+      "en": "Banda Aceh",
+      "slug": "banda-aceh-1171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.571",
+    "lon": "95.331"
+  },
+  "metadata": {},
+  "source": {}
+}

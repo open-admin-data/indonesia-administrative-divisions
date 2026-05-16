@@ -1,0 +1,56 @@
+{
+  "id": "5205060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pekat",
+    "en": "Pekat",
+    "slug": "pekat-5205060"
+  },
+  "code": {
+    "id": "5205060",
+    "iso": null
+  },
+  "parent": {
+    "id": "5205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dompu",
+      "en": "Dompu",
+      "slug": "dompu-5205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dompu",
+        "en": "Dompu",
+        "slug": "dompu-5205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.298",
+    "lon": "117.931"
+  },
+  "metadata": {},
+  "source": {}
+}

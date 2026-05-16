@@ -1,0 +1,56 @@
+{
+  "id": "5310031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Doreng",
+    "en": "Doreng",
+    "slug": "doreng-5310031"
+  },
+  "code": {
+    "id": "5310031",
+    "iso": null
+  },
+  "parent": {
+    "id": "5310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sikka",
+      "en": "Sikka",
+      "slug": "sikka-5310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sikka",
+        "en": "Sikka",
+        "slug": "sikka-5310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.717",
+    "lon": "122.37"
+  },
+  "metadata": {},
+  "source": {}
+}

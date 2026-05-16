@@ -1,0 +1,48 @@
+{
+  "id": "7602",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Polewali Mandar",
+    "en": "Polewali Mandar",
+    "slug": "polewali-mandar-7602"
+  },
+  "code": {
+    "id": "7602",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Barat",
+      "en": "West Sulawesi",
+      "slug": "west-sulawesi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 163
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.69",
+    "lon": "118.885"
+  },
+  "metadata": {},
+  "source": {}
+}

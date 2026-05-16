@@ -1,0 +1,56 @@
+{
+  "id": "7405071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moramo Utara",
+    "en": "Moramo Utara",
+    "slug": "moramo-utara-7405071"
+  },
+  "code": {
+    "id": "7405071",
+    "iso": null
+  },
+  "parent": {
+    "id": "7405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Konawe Selatan",
+      "en": "Konawe Selatan",
+      "slug": "konawe-selatan-7405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Konawe Selatan",
+        "en": "Konawe Selatan",
+        "slug": "konawe-selatan-7405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.102",
+    "lon": "122.6"
+  },
+  "metadata": {},
+  "source": {}
+}

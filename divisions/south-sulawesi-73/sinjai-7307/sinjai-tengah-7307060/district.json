@@ -1,0 +1,56 @@
+{
+  "id": "7307060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sinjai Tengah",
+    "en": "Sinjai Tengah",
+    "slug": "sinjai-tengah-7307060"
+  },
+  "code": {
+    "id": "7307060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sinjai",
+      "en": "Sinjai",
+      "slug": "sinjai-7307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.186",
+    "lon": "120.124"
+  },
+  "metadata": {},
+  "source": {}
+}

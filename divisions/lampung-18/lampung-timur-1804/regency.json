@@ -1,0 +1,48 @@
+{
+  "id": "1804",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lampung Timur",
+    "en": "Lampung Timur",
+    "slug": "lampung-timur-1804"
+  },
+  "code": {
+    "id": "1804",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 24,
+    "village": 264
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.019",
+    "lon": "104.061"
+  },
+  "metadata": {},
+  "source": {}
+}

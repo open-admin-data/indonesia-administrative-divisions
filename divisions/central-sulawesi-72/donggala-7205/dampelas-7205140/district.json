@@ -1,0 +1,56 @@
+{
+  "id": "7205140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dampelas",
+    "en": "Dampelas",
+    "slug": "dampelas-7205140"
+  },
+  "code": {
+    "id": "7205140",
+    "iso": null
+  },
+  "parent": {
+    "id": "7205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Donggala",
+      "en": "Donggala",
+      "slug": "donggala-7205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.255",
+    "lon": "119.936"
+  },
+  "metadata": {},
+  "source": {}
+}

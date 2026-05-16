@@ -1,0 +1,48 @@
+{
+  "id": "1808",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tulangbawang",
+    "en": "Tulangbawang",
+    "slug": "tulangbawang-1808"
+  },
+  "code": {
+    "id": "1808",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 151
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.506",
+    "lon": "104.511"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9409092001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sansundi",
+      "en": "Sansundi",
+      "slug": "sansundi-9409092001"
+    },
+    "code": {
+      "id": "9409092001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9409092",
+      "level": 3,
+      "name": {
+        "local": "Bondifuar",
+        "en": "Bondifuar",
+        "slug": "bondifuar-9409092"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Biak Numfor",
+          "en": "Biak Numfor",
+          "slug": "biak-numfor-9409"
+        }
+      },
+      {
+        "id": "9409092",
+        "level": 3,
+        "name": {
+          "local": "Bondifuar",
+          "en": "Bondifuar",
+          "slug": "bondifuar-9409092"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98157"
+    ],
+    "geo": {
+      "lat": "-0.739",
+      "lon": "135.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9409092002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wopes",
+      "en": "Wopes",
+      "slug": "wopes-9409092002"
+    },
+    "code": {
+      "id": "9409092002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9409092",
+      "level": 3,
+      "name": {
+        "local": "Bondifuar",
+        "en": "Bondifuar",
+        "slug": "bondifuar-9409092"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Biak Numfor",
+          "en": "Biak Numfor",
+          "slug": "biak-numfor-9409"
+        }
+      },
+      {
+        "id": "9409092",
+        "level": 3,
+        "name": {
+          "local": "Bondifuar",
+          "en": "Bondifuar",
+          "slug": "bondifuar-9409092"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98157"
+    ],
+    "geo": {
+      "lat": "-0.739",
+      "lon": "135.837"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

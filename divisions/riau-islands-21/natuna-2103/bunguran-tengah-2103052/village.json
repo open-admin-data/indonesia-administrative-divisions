@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2103052003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Air Lengit",
+      "en": "Air Lengit",
+      "slug": "air-lengit-2103052003"
+    },
+    "code": {
+      "id": "2103052003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103052",
+      "level": 3,
+      "name": {
+        "local": "Bunguran Tengah",
+        "en": "Bunguran Tengah",
+        "slug": "bunguran-tengah-2103052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103052",
+        "level": 3,
+        "name": {
+          "local": "Bunguran Tengah",
+          "en": "Bunguran Tengah",
+          "slug": "bunguran-tengah-2103052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29762"
+    ],
+    "geo": {
+      "lat": "3.973",
+      "lon": "108.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2103052001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Harapan Jaya",
+      "en": "Harapan Jaya",
+      "slug": "harapan-jaya-2103052001"
+    },
+    "code": {
+      "id": "2103052001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103052",
+      "level": 3,
+      "name": {
+        "local": "Bunguran Tengah",
+        "en": "Bunguran Tengah",
+        "slug": "bunguran-tengah-2103052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103052",
+        "level": 3,
+        "name": {
+          "local": "Bunguran Tengah",
+          "en": "Bunguran Tengah",
+          "slug": "bunguran-tengah-2103052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29762"
+    ],
+    "geo": {
+      "lat": "3.879",
+      "lon": "108.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2103052002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tapau",
+      "en": "Tapau",
+      "slug": "tapau-2103052002"
+    },
+    "code": {
+      "id": "2103052002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103052",
+      "level": 3,
+      "name": {
+        "local": "Bunguran Tengah",
+        "en": "Bunguran Tengah",
+        "slug": "bunguran-tengah-2103052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103052",
+        "level": 3,
+        "name": {
+          "local": "Bunguran Tengah",
+          "en": "Bunguran Tengah",
+          "slug": "bunguran-tengah-2103052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29762"
+    ],
+    "geo": {
+      "lat": "3.914",
+      "lon": "108.25"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

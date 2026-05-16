@@ -1,0 +1,48 @@
+{
+  "id": "7305",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Takalar",
+    "en": "Takalar",
+    "slug": "takalar-7305"
+  },
+  "code": {
+    "id": "7305",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 99
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.425",
+    "lon": "119.441"
+  },
+  "metadata": {},
+  "source": {}
+}

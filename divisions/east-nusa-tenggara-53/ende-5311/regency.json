@@ -1,0 +1,48 @@
+{
+  "id": "5311",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Ende",
+    "en": "Ende",
+    "slug": "ende-5311"
+  },
+  "code": {
+    "id": "5311",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 273
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.661",
+    "lon": "120.261"
+  },
+  "metadata": {},
+  "source": {}
+}

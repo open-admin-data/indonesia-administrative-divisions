@@ -1,0 +1,48 @@
+{
+  "id": "5171",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Denpasar",
+    "en": "Denpasar",
+    "slug": "denpasar-5171"
+  },
+  "code": {
+    "id": "5171",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.654",
+    "lon": "115.217"
+  },
+  "metadata": {},
+  "source": {}
+}

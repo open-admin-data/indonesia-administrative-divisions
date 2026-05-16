@@ -1,0 +1,56 @@
+{
+  "id": "5320030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sabu Liae",
+    "en": "Sabu Liae",
+    "slug": "sabu-liae-5320030"
+  },
+  "code": {
+    "id": "5320030",
+    "iso": null
+  },
+  "parent": {
+    "id": "5320",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sabu Raijua",
+      "en": "Sabu Raijua",
+      "slug": "sabu-raijua-5320"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.584",
+    "lon": "121.871"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,898 @@
+[
+  {
+    "id": "7205130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balaesang",
+      "en": "Balaesang",
+      "slug": "balaesang-7205130"
+    },
+    "code": {
+      "id": "7205130",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.016",
+      "lon": "119.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205131",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balaesang Tanjung",
+      "en": "Balaesang Tanjung",
+      "slug": "balaesang-tanjung-7205131"
+    },
+    "code": {
+      "id": "7205131",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.023",
+      "lon": "119.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banawa",
+      "en": "Banawa",
+      "slug": "banawa-7205080"
+    },
+    "code": {
+      "id": "7205080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.735",
+      "lon": "119.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banawa Selatan",
+      "en": "Banawa Selatan",
+      "slug": "banawa-selatan-7205081"
+    },
+    "code": {
+      "id": "7205081",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.885",
+      "lon": "119.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banawa Tengah",
+      "en": "Banawa Tengah",
+      "slug": "banawa-tengah-7205082"
+    },
+    "code": {
+      "id": "7205082",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.761",
+      "lon": "119.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dampelas",
+      "en": "Dampelas",
+      "slug": "dampelas-7205140"
+    },
+    "code": {
+      "id": "7205140",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.255",
+      "lon": "119.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Labuan",
+      "en": "Labuan",
+      "slug": "labuan-7205090"
+    },
+    "code": {
+      "id": "7205090",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.62",
+      "lon": "119.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pinembani",
+      "en": "Pinembani",
+      "slug": "pinembani-7205051"
+    },
+    "code": {
+      "id": "7205051",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.093",
+      "lon": "119.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rio Pakava",
+      "en": "Rio Pakava",
+      "slug": "rio-pakava-7205041"
+    },
+    "code": {
+      "id": "7205041",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.299",
+      "lon": "119.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sindue",
+      "en": "Sindue",
+      "slug": "sindue-7205100"
+    },
+    "code": {
+      "id": "7205100",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.582",
+      "lon": "119.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205102",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sindue Tobata",
+      "en": "Sindue Tobata",
+      "slug": "sindue-tobata-7205102"
+    },
+    "code": {
+      "id": "7205102",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.37",
+      "lon": "119.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sindue Tombusabora",
+      "en": "Sindue Tombusabora",
+      "slug": "sindue-tombusabora-7205101"
+    },
+    "code": {
+      "id": "7205101",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.462",
+      "lon": "119.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sirenja",
+      "en": "Sirenja",
+      "slug": "sirenja-7205120"
+    },
+    "code": {
+      "id": "7205120",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.255",
+      "lon": "119.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sojol",
+      "en": "Sojol",
+      "slug": "sojol-7205160"
+    },
+    "code": {
+      "id": "7205160",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.516",
+      "lon": "119.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205161",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sojol Utara",
+      "en": "Sojol Utara",
+      "slug": "sojol-utara-7205161"
+    },
+    "code": {
+      "id": "7205161",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.683",
+      "lon": "120.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7205091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanantovea",
+      "en": "Tanantovea",
+      "slug": "tanantovea-7205091"
+    },
+    "code": {
+      "id": "7205091",
+      "iso": null
+    },
+    "parent": {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Donggala",
+          "en": "Donggala",
+          "slug": "donggala-7205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.72",
+      "lon": "119.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

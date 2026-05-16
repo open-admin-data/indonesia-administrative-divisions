@@ -1,0 +1,170 @@
+[
+  {
+    "id": "6474030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bontang Barat",
+      "en": "Bontang Barat",
+      "slug": "bontang-barat-6474030"
+    },
+    "code": {
+      "id": "6474030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6474",
+      "level": 2,
+      "name": {
+        "local": "Kota Bontang",
+        "en": "Bontang",
+        "slug": "bontang-6474"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6474",
+        "level": 2,
+        "name": {
+          "local": "Kota Bontang",
+          "en": "Bontang",
+          "slug": "bontang-6474"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.145",
+      "lon": "117.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6474010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bontang Selatan",
+      "en": "Bontang Selatan",
+      "slug": "bontang-selatan-6474010"
+    },
+    "code": {
+      "id": "6474010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6474",
+      "level": 2,
+      "name": {
+        "local": "Kota Bontang",
+        "en": "Bontang",
+        "slug": "bontang-6474"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6474",
+        "level": 2,
+        "name": {
+          "local": "Kota Bontang",
+          "en": "Bontang",
+          "slug": "bontang-6474"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.076",
+      "lon": "117.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6474020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bontang Utara",
+      "en": "Bontang Utara",
+      "slug": "bontang-utara-6474020"
+    },
+    "code": {
+      "id": "6474020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6474",
+      "level": 2,
+      "name": {
+        "local": "Kota Bontang",
+        "en": "Bontang",
+        "slug": "bontang-6474"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6474",
+        "level": 2,
+        "name": {
+          "local": "Kota Bontang",
+          "en": "Bontang",
+          "slug": "bontang-6474"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.157",
+      "lon": "117.493"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

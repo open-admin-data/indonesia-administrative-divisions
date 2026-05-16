@@ -1,0 +1,56 @@
+{
+  "id": "9436030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tigi",
+    "en": "Tigi",
+    "slug": "tigi-9436030"
+  },
+  "code": {
+    "id": "9436030",
+    "iso": null
+  },
+  "parent": {
+    "id": "9436",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Deiyai",
+      "en": "Deiyai",
+      "slug": "deiyai-9436"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9436",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Deiyai",
+        "en": "Deiyai",
+        "slug": "deiyai-9436"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.063",
+    "lon": "136.273"
+  },
+  "metadata": {},
+  "source": {}
+}

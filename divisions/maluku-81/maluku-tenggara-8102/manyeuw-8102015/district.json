@@ -1,0 +1,56 @@
+{
+  "id": "8102015",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manyeuw",
+    "en": "Manyeuw",
+    "slug": "manyeuw-8102015"
+  },
+  "code": {
+    "id": "8102015",
+    "iso": null
+  },
+  "parent": {
+    "id": "8102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tenggara",
+      "en": "Maluku Tenggara",
+      "slug": "maluku-tenggara-8102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tenggara",
+        "en": "Maluku Tenggara",
+        "slug": "maluku-tenggara-8102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.707",
+    "lon": "132.64"
+  },
+  "metadata": {},
+  "source": {}
+}

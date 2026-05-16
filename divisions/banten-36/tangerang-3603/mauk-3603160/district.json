@@ -1,0 +1,56 @@
+{
+  "id": "3603160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mauk",
+    "en": "Mauk",
+    "slug": "mauk-3603160"
+  },
+  "code": {
+    "id": "3603160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tangerang",
+      "en": "Tangerang",
+      "slug": "tangerang-3603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tangerang",
+        "en": "Tangerang",
+        "slug": "tangerang-3603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.053",
+    "lon": "106.516"
+  },
+  "metadata": {},
+  "source": {}
+}

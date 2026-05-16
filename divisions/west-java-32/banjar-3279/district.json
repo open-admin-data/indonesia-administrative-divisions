@@ -1,0 +1,226 @@
+[
+  {
+    "id": "3279010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjar",
+      "en": "Banjar",
+      "slug": "banjar-3279010"
+    },
+    "code": {
+      "id": "3279010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3279",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjar",
+        "en": "Banjar",
+        "slug": "banjar-3279"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3279",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjar",
+          "en": "Banjar",
+          "slug": "banjar-3279"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.377",
+      "lon": "108.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3279040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langensari",
+      "en": "Langensari",
+      "slug": "langensari-3279040"
+    },
+    "code": {
+      "id": "3279040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3279",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjar",
+        "en": "Banjar",
+        "slug": "banjar-3279"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3279",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjar",
+          "en": "Banjar",
+          "slug": "banjar-3279"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.371",
+      "lon": "108.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3279030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pataruman",
+      "en": "Pataruman",
+      "slug": "pataruman-3279030"
+    },
+    "code": {
+      "id": "3279030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3279",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjar",
+        "en": "Banjar",
+        "slug": "banjar-3279"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3279",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjar",
+          "en": "Banjar",
+          "slug": "banjar-3279"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.391",
+      "lon": "108.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3279020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwaharja",
+      "en": "Purwaharja",
+      "slug": "purwaharja-3279020"
+    },
+    "code": {
+      "id": "3279020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3279",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjar",
+        "en": "Banjar",
+        "slug": "banjar-3279"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3279",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjar",
+          "en": "Banjar",
+          "slug": "banjar-3279"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.349",
+      "lon": "108.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

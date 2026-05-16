@@ -1,0 +1,56 @@
+{
+  "id": "9426040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kirihi",
+    "en": "Kirihi",
+    "slug": "kirihi-9426040"
+  },
+  "code": {
+    "id": "9426040",
+    "iso": null
+  },
+  "parent": {
+    "id": "9426",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Waropen",
+      "en": "Waropen",
+      "slug": "waropen-9426"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9426",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Waropen",
+        "en": "Waropen",
+        "slug": "waropen-9426"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.048",
+    "lon": "136.814"
+  },
+  "metadata": {},
+  "source": {}
+}

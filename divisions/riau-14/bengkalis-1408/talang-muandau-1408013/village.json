@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1408013002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Beringin",
+      "en": "Beringin",
+      "slug": "beringin-1408013002"
+    },
+    "code": {
+      "id": "1408013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.056",
+      "lon": "101.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Pait Beringin",
+      "en": "Koto Pait Beringin",
+      "slug": "koto-pait-beringin-1408013004"
+    },
+    "code": {
+      "id": "1408013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.045",
+      "lon": "101.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Penaso",
+      "en": "Kuala Penaso",
+      "slug": "kuala-penaso-1408013003"
+    },
+    "code": {
+      "id": "1408013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.061",
+      "lon": "101.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Melibur",
+      "en": "Melibur",
+      "slug": "melibur-1408013001"
+    },
+    "code": {
+      "id": "1408013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.018",
+      "lon": "101.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Serai Wangi",
+      "en": "Serai Wangi",
+      "slug": "serai-wangi-1408013005"
+    },
+    "code": {
+      "id": "1408013005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.116",
+      "lon": "101.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tasik Serai",
+      "en": "Tasik Serai",
+      "slug": "tasik-serai-1408013008"
+    },
+    "code": {
+      "id": "1408013008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.226",
+      "lon": "101.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tasik Serai Barat",
+      "en": "Tasik Serai Barat",
+      "slug": "tasik-serai-barat-1408013009"
+    },
+    "code": {
+      "id": "1408013009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.226",
+      "lon": "101.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tasik Serai Timur",
+      "en": "Tasik Serai Timur",
+      "slug": "tasik-serai-timur-1408013007"
+    },
+    "code": {
+      "id": "1408013007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.131",
+      "lon": "101.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tasik Tebing Serai",
+      "en": "Tasik Tebing Serai",
+      "slug": "tasik-tebing-serai-1408013006"
+    },
+    "code": {
+      "id": "1408013006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408013",
+      "level": 3,
+      "name": {
+        "local": "Talang Muandau",
+        "en": "Talang Muandau",
+        "slug": "talang-muandau-1408013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      },
+      {
+        "id": "1408013",
+        "level": 3,
+        "name": {
+          "local": "Talang Muandau",
+          "en": "Talang Muandau",
+          "slug": "talang-muandau-1408013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28786"
+    ],
+    "geo": {
+      "lat": "1.075",
+      "lon": "101.565"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

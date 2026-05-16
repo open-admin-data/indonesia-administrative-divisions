@@ -1,0 +1,56 @@
+{
+  "id": "1109100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tangse",
+    "en": "Tangse",
+    "slug": "tangse-1109100"
+  },
+  "code": {
+    "id": "1109100",
+    "iso": null
+  },
+  "parent": {
+    "id": "1109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie",
+      "en": "Pidie",
+      "slug": "pidie-1109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie",
+        "en": "Pidie",
+        "slug": "pidie-1109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.035",
+    "lon": "95.937"
+  },
+  "metadata": {},
+  "source": {}
+}

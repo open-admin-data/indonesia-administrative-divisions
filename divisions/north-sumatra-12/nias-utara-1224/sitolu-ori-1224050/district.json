@@ -1,0 +1,56 @@
+{
+  "id": "1224050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sitolu Ori",
+    "en": "Sitolu Ori",
+    "slug": "sitolu-ori-1224050"
+  },
+  "code": {
+    "id": "1224050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1224",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nias Utara",
+      "en": "Nias Utara",
+      "slug": "nias-utara-1224"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1224",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias Utara",
+        "en": "Nias Utara",
+        "slug": "nias-utara-1224"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.401",
+    "lon": "97.457"
+  },
+  "metadata": {},
+  "source": {}
+}

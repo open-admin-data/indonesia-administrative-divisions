@@ -1,0 +1,48 @@
+{
+  "id": "7203",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Morowali",
+    "en": "Morowali",
+    "slug": "morowali-7203"
+  },
+  "code": {
+    "id": "7203",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tengah",
+      "en": "Central Sulawesi",
+      "slug": "central-sulawesi-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 125
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.678",
+    "lon": "119.753"
+  },
+  "metadata": {},
+  "source": {}
+}

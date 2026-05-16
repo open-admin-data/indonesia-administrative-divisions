@@ -1,0 +1,394 @@
+[
+  {
+    "id": "5104020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blahbatuh",
+      "en": "Blahbatuh",
+      "slug": "blahbatuh-5104020"
+    },
+    "code": {
+      "id": "5104020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gianyar",
+          "en": "Gianyar",
+          "slug": "gianyar-5104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.567",
+      "lon": "115.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5104030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gianyar",
+      "en": "Gianyar",
+      "slug": "gianyar-5104030"
+    },
+    "code": {
+      "id": "5104030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gianyar",
+          "en": "Gianyar",
+          "slug": "gianyar-5104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.512",
+      "lon": "115.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5104070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Payangan",
+      "en": "Payangan",
+      "slug": "payangan-5104070"
+    },
+    "code": {
+      "id": "5104070",
+      "iso": null
+    },
+    "parent": {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gianyar",
+          "en": "Gianyar",
+          "slug": "gianyar-5104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.395",
+      "lon": "115.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5104010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukawati",
+      "en": "Sukawati",
+      "slug": "sukawati-5104010"
+    },
+    "code": {
+      "id": "5104010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gianyar",
+          "en": "Gianyar",
+          "slug": "gianyar-5104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.583",
+      "lon": "115.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5104040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tampaksiring",
+      "en": "Tampaksiring",
+      "slug": "tampaksiring-5104040"
+    },
+    "code": {
+      "id": "5104040",
+      "iso": null
+    },
+    "parent": {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gianyar",
+          "en": "Gianyar",
+          "slug": "gianyar-5104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.444",
+      "lon": "115.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5104060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tegallalang",
+      "en": "Tegallalang",
+      "slug": "tegallalang-5104060"
+    },
+    "code": {
+      "id": "5104060",
+      "iso": null
+    },
+    "parent": {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gianyar",
+          "en": "Gianyar",
+          "slug": "gianyar-5104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.416",
+      "lon": "115.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5104050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ubud",
+      "en": "Ubud",
+      "slug": "ubud-5104050"
+    },
+    "code": {
+      "id": "5104050",
+      "iso": null
+    },
+    "parent": {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gianyar",
+          "en": "Gianyar",
+          "slug": "gianyar-5104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.517",
+      "lon": "115.256"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "1116060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jaya",
+    "en": "Jaya",
+    "slug": "jaya-1116060"
+  },
+  "code": {
+    "id": "1116060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1116",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Jaya",
+      "en": "Aceh Jaya",
+      "slug": "aceh-jaya-1116"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.152",
+    "lon": "95.463"
+  },
+  "metadata": {},
+  "source": {}
+}

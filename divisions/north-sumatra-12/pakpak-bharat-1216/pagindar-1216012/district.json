@@ -1,0 +1,56 @@
+{
+  "id": "1216012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagindar",
+    "en": "Pagindar",
+    "slug": "pagindar-1216012"
+  },
+  "code": {
+    "id": "1216012",
+    "iso": null
+  },
+  "parent": {
+    "id": "1216",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pakpak Bharat",
+      "en": "Pakpak Bharat",
+      "slug": "pakpak-bharat-1216"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pakpak Bharat",
+        "en": "Pakpak Bharat",
+        "slug": "pakpak-bharat-1216"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.416",
+    "lon": "98.167"
+  },
+  "metadata": {},
+  "source": {}
+}

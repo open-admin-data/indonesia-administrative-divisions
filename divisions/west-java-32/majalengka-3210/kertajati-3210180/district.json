@@ -1,0 +1,56 @@
+{
+  "id": "3210180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kertajati",
+    "en": "Kertajati",
+    "slug": "kertajati-3210180"
+  },
+  "code": {
+    "id": "3210180",
+    "iso": null
+  },
+  "parent": {
+    "id": "3210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Majalengka",
+      "en": "Majalengka",
+      "slug": "majalengka-3210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.638",
+    "lon": "108.129"
+  },
+  "metadata": {},
+  "source": {}
+}

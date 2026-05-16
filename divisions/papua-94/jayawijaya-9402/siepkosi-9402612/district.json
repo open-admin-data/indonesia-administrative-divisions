@@ -1,0 +1,56 @@
+{
+  "id": "9402612",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siepkosi",
+    "en": "Siepkosi",
+    "slug": "siepkosi-9402612"
+  },
+  "code": {
+    "id": "9402612",
+    "iso": null
+  },
+  "parent": {
+    "id": "9402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jayawijaya",
+      "en": "Jayawijaya",
+      "slug": "jayawijaya-9402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jayawijaya",
+        "en": "Jayawijaya",
+        "slug": "jayawijaya-9402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.093",
+    "lon": "139.154"
+  },
+  "metadata": {},
+  "source": {}
+}

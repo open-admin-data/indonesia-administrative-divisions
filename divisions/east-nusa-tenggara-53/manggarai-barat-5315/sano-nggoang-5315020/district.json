@@ -1,0 +1,56 @@
+{
+  "id": "5315020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sano Nggoang",
+    "en": "Sano Nggoang",
+    "slug": "sano-nggoang-5315020"
+  },
+  "code": {
+    "id": "5315020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5315",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Barat",
+      "en": "Manggarai Barat",
+      "slug": "manggarai-barat-5315"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Barat",
+        "en": "Manggarai Barat",
+        "slug": "manggarai-barat-5315"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.707",
+    "lon": "119.985"
+  },
+  "metadata": {},
+  "source": {}
+}

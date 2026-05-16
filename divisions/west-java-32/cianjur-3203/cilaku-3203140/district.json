@@ -1,0 +1,56 @@
+{
+  "id": "3203140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cilaku",
+    "en": "Cilaku",
+    "slug": "cilaku-3203140"
+  },
+  "code": {
+    "id": "3203140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cianjur",
+      "en": "Cianjur",
+      "slug": "cianjur-3203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.869",
+    "lon": "107.145"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "9171",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Sorong",
+    "en": "Sorong",
+    "slug": "sorong-9171"
+  },
+  "code": {
+    "id": "9171",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 40
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.563",
+    "lon": "140.693"
+  },
+  "metadata": {},
+  "source": {}
+}

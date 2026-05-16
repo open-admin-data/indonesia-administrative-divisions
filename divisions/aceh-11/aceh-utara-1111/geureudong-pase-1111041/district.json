@@ -1,0 +1,56 @@
+{
+  "id": "1111041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Geureudong Pase",
+    "en": "Geureudong Pase",
+    "slug": "geureudong-pase-1111041"
+  },
+  "code": {
+    "id": "1111041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Utara",
+      "en": "Aceh Utara",
+      "slug": "aceh-utara-1111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Utara",
+        "en": "Aceh Utara",
+        "slug": "aceh-utara-1111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.965",
+    "lon": "97.012"
+  },
+  "metadata": {},
+  "source": {}
+}

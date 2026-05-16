@@ -1,0 +1,56 @@
+{
+  "id": "1210101",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Sitember",
+    "en": "Gunung Sitember",
+    "slug": "gunung-sitember-1210101"
+  },
+  "code": {
+    "id": "1210101",
+    "iso": null
+  },
+  "parent": {
+    "id": "1210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dairi",
+      "en": "Dairi",
+      "slug": "dairi-1210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.938",
+    "lon": "98.147"
+  },
+  "metadata": {},
+  "source": {}
+}

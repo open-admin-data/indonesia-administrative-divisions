@@ -1,0 +1,56 @@
+{
+  "id": "1802011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Semaka",
+    "en": "Semaka",
+    "slug": "semaka-1802011"
+  },
+  "code": {
+    "id": "1802011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1802",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanggamus",
+      "en": "Tanggamus",
+      "slug": "tanggamus-1802"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanggamus",
+        "en": "Tanggamus",
+        "slug": "tanggamus-1802"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.485",
+    "lon": "104.465"
+  },
+  "metadata": {},
+  "source": {}
+}

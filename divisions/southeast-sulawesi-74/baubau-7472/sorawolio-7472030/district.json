@@ -1,0 +1,56 @@
+{
+  "id": "7472030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sorawolio",
+    "en": "Sorawolio",
+    "slug": "sorawolio-7472030"
+  },
+  "code": {
+    "id": "7472030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7472",
+    "level": 2,
+    "name": {
+      "local": "Kota Baubau",
+      "en": "Baubau",
+      "slug": "baubau-7472"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7472",
+      "level": 2,
+      "name": {
+        "local": "Kota Baubau",
+        "en": "Baubau",
+        "slug": "baubau-7472"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.427",
+    "lon": "122.711"
+  },
+  "metadata": {},
+  "source": {}
+}

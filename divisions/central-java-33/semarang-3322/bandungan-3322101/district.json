@@ -1,0 +1,56 @@
+{
+  "id": "3322101",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandungan",
+    "en": "Bandungan",
+    "slug": "bandungan-3322101"
+  },
+  "code": {
+    "id": "3322101",
+    "iso": null
+  },
+  "parent": {
+    "id": "3322",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Semarang",
+      "en": "Semarang",
+      "slug": "semarang-3322"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3322",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Semarang",
+        "en": "Semarang",
+        "slug": "semarang-3322"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.225",
+    "lon": "110.367"
+  },
+  "metadata": {},
+  "source": {}
+}

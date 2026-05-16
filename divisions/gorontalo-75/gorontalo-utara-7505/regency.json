@@ -1,0 +1,48 @@
+{
+  "id": "7505",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gorontalo Utara",
+    "en": "Gorontalo Utara",
+    "slug": "gorontalo-utara-7505"
+  },
+  "code": {
+    "id": "7505",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 121
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.791",
+    "lon": "122.869"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1504",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Batang Hari",
+    "en": "Batang Hari",
+    "slug": "batang-hari-1504"
+  },
+  "code": {
+    "id": "1504",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "Jambi",
+      "en": "Jambi",
+      "slug": "jambi-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.694",
+    "lon": "103.273"
+  },
+  "metadata": {},
+  "source": {}
+}

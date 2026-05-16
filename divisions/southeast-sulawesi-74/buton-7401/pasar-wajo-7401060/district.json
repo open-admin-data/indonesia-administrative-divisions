@@ -1,0 +1,56 @@
+{
+  "id": "7401060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasar Wajo",
+    "en": "Pasar Wajo",
+    "slug": "pasar-wajo-7401060"
+  },
+  "code": {
+    "id": "7401060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buton",
+      "en": "Buton",
+      "slug": "buton-7401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buton",
+        "en": "Buton",
+        "slug": "buton-7401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.426",
+    "lon": "122.827"
+  },
+  "metadata": {},
+  "source": {}
+}

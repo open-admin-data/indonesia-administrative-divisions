@@ -1,0 +1,56 @@
+{
+  "id": "7206032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Basidondo",
+    "en": "Basidondo",
+    "slug": "basidondo-7206032"
+  },
+  "code": {
+    "id": "7206032",
+    "iso": null
+  },
+  "parent": {
+    "id": "7206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toli-toli",
+      "en": "Toli-toli",
+      "slug": "toli-toli-7206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toli-toli",
+        "en": "Toli-toli",
+        "slug": "toli-toli-7206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.709",
+    "lon": "120.723"
+  },
+  "metadata": {},
+  "source": {}
+}

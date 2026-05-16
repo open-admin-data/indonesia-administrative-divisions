@@ -1,0 +1,31 @@
+{
+  "id": "73",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sulawesi Selatan",
+    "en": "South Sulawesi",
+    "slug": "south-sulawesi-73"
+  },
+  "code": {
+    "id": "73",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 24,
+    "village": 2975,
+    "district": 307
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.139",
+    "lon": "119.452"
+  },
+  "metadata": {},
+  "source": {}
+}

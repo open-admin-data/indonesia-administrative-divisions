@@ -1,0 +1,56 @@
+{
+  "id": "7471010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mandonga",
+    "en": "Mandonga",
+    "slug": "mandonga-7471010"
+  },
+  "code": {
+    "id": "7471010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7471",
+    "level": 2,
+    "name": {
+      "local": "Kota Kendari",
+      "en": "Kendari",
+      "slug": "kendari-7471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7471",
+      "level": 2,
+      "name": {
+        "local": "Kota Kendari",
+        "en": "Kendari",
+        "slug": "kendari-7471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.945",
+    "lon": "122.503"
+  },
+  "metadata": {},
+  "source": {}
+}

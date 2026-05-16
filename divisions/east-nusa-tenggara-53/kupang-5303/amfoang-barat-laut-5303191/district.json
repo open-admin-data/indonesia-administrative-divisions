@@ -1,0 +1,56 @@
+{
+  "id": "5303191",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amfoang Barat Laut",
+    "en": "Amfoang Barat Laut",
+    "slug": "amfoang-barat-laut-5303191"
+  },
+  "code": {
+    "id": "5303191",
+    "iso": null
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kupang",
+      "en": "Kupang",
+      "slug": "kupang-5303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.618",
+    "lon": "123.833"
+  },
+  "metadata": {},
+  "source": {}
+}

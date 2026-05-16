@@ -1,0 +1,56 @@
+{
+  "id": "3527050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Omben",
+    "en": "Omben",
+    "slug": "omben-3527050"
+  },
+  "code": {
+    "id": "3527050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3527",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sampang",
+      "en": "Sampang",
+      "slug": "sampang-3527"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.104",
+    "lon": "113.332"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1278020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunungsitoli Selatan",
+    "en": "Gunungsitoli Selatan",
+    "slug": "gunungsitoli-selatan-1278020"
+  },
+  "code": {
+    "id": "1278020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1278",
+    "level": 2,
+    "name": {
+      "local": "Kota Gunungsitoli",
+      "en": "Gunungsitoli",
+      "slug": "gunungsitoli-1278"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1278",
+      "level": 2,
+      "name": {
+        "local": "Kota Gunungsitoli",
+        "en": "Gunungsitoli",
+        "slug": "gunungsitoli-1278"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.215",
+    "lon": "97.621"
+  },
+  "metadata": {},
+  "source": {}
+}

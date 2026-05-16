@@ -1,0 +1,56 @@
+{
+  "id": "9107180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sayosa",
+    "en": "Sayosa",
+    "slug": "sayosa-9107180"
+  },
+  "code": {
+    "id": "9107180",
+    "iso": null
+  },
+  "parent": {
+    "id": "9107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sorong",
+      "en": "Sorong",
+      "slug": "sorong-9107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.027",
+    "lon": "131.765"
+  },
+  "metadata": {},
+  "source": {}
+}

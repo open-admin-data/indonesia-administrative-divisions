@@ -1,0 +1,56 @@
+{
+  "id": "3204140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Baleendah",
+    "en": "Baleendah",
+    "slug": "baleendah-3204140"
+  },
+  "code": {
+    "id": "3204140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.012",
+    "lon": "107.633"
+  },
+  "metadata": {},
+  "source": {}
+}

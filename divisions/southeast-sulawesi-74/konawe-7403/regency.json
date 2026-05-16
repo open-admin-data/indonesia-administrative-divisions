@@ -1,0 +1,48 @@
+{
+  "id": "7403",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Konawe",
+    "en": "Konawe",
+    "slug": "konawe-7403"
+  },
+  "code": {
+    "id": "7403",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi",
+      "slug": "southeast-sulawesi-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 29,
+    "village": 349
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.798",
+    "lon": "122.719"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5309040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Solor Barat",
+    "en": "Solor Barat",
+    "slug": "solor-barat-5309040"
+  },
+  "code": {
+    "id": "5309040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Flores Timur",
+      "en": "Flores Timur",
+      "slug": "flores-timur-5309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Flores Timur",
+        "en": "Flores Timur",
+        "slug": "flores-timur-5309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.523",
+    "lon": "122.949"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7503021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wanggarasi",
+    "en": "Wanggarasi",
+    "slug": "wanggarasi-7503021"
+  },
+  "code": {
+    "id": "7503021",
+    "iso": null
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pohuwato",
+      "en": "Pohuwato",
+      "slug": "pohuwato-7503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.682",
+    "lon": "121.704"
+  },
+  "metadata": {},
+  "source": {}
+}

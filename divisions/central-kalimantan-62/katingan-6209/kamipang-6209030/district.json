@@ -1,0 +1,56 @@
+{
+  "id": "6209030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kamipang",
+    "en": "Kamipang",
+    "slug": "kamipang-6209030"
+  },
+  "code": {
+    "id": "6209030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Katingan",
+      "en": "Katingan",
+      "slug": "katingan-6209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.318",
+    "lon": "113.431"
+  },
+  "metadata": {},
+  "source": {}
+}

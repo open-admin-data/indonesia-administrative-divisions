@@ -1,0 +1,48 @@
+{
+  "id": "3275",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Bekasi",
+    "en": "Bekasi",
+    "slug": "bekasi-3275"
+  },
+  "code": {
+    "id": "3275",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 55
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.236",
+    "lon": "106.994"
+  },
+  "metadata": {},
+  "source": {}
+}

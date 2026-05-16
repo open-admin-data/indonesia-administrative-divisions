@@ -1,0 +1,56 @@
+{
+  "id": "5308050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nubatukan",
+    "en": "Nubatukan",
+    "slug": "nubatukan-5308050"
+  },
+  "code": {
+    "id": "5308050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lembata",
+      "en": "Lembata",
+      "slug": "lembata-5308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lembata",
+        "en": "Lembata",
+        "slug": "lembata-5308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.41",
+    "lon": "123.404"
+  },
+  "metadata": {},
+  "source": {}
+}

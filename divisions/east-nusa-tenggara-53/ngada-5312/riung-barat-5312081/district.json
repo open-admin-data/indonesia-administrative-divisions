@@ -1,0 +1,56 @@
+{
+  "id": "5312081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Riung Barat",
+    "en": "Riung Barat",
+    "slug": "riung-barat-5312081"
+  },
+  "code": {
+    "id": "5312081",
+    "iso": null
+  },
+  "parent": {
+    "id": "5312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ngada",
+      "en": "Ngada",
+      "slug": "ngada-5312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.54",
+    "lon": "120.933"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1105082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Peunaron",
+    "en": "Peunaron",
+    "slug": "peunaron-1105082"
+  },
+  "code": {
+    "id": "1105082",
+    "iso": null
+  },
+  "parent": {
+    "id": "1105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Timur",
+      "en": "Aceh Timur",
+      "slug": "aceh-timur-1105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Timur",
+        "en": "Aceh Timur",
+        "slug": "aceh-timur-1105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.621",
+    "lon": "97.653"
+  },
+  "metadata": {},
+  "source": {}
+}

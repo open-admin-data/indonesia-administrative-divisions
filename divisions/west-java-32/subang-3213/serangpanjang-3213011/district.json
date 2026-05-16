@@ -1,0 +1,56 @@
+{
+  "id": "3213011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Serangpanjang",
+    "en": "Serangpanjang",
+    "slug": "serangpanjang-3213011"
+  },
+  "code": {
+    "id": "3213011",
+    "iso": null
+  },
+  "parent": {
+    "id": "3213",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Subang",
+      "en": "Subang",
+      "slug": "subang-3213"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Subang",
+        "en": "Subang",
+        "slug": "subang-3213"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.655",
+    "lon": "107.616"
+  },
+  "metadata": {},
+  "source": {}
+}

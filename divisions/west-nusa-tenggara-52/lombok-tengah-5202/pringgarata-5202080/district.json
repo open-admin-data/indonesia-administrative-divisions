@@ -1,0 +1,56 @@
+{
+  "id": "5202080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pringgarata",
+    "en": "Pringgarata",
+    "slug": "pringgarata-5202080"
+  },
+  "code": {
+    "id": "5202080",
+    "iso": null
+  },
+  "parent": {
+    "id": "5202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Tengah",
+      "en": "Lombok Tengah",
+      "slug": "lombok-tengah-5202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Tengah",
+        "en": "Lombok Tengah",
+        "slug": "lombok-tengah-5202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.596",
+    "lon": "116.237"
+  },
+  "metadata": {},
+  "source": {}
+}

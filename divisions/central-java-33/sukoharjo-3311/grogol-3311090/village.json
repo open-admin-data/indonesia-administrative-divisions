@@ -1,0 +1,912 @@
+[
+  {
+    "id": "3311090013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banaran",
+      "en": "Banaran",
+      "slug": "banaran-3311090013"
+    },
+    "code": {
+      "id": "3311090013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.577",
+      "lon": "110.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cemani",
+      "en": "Cemani",
+      "slug": "cemani-3311090014"
+    },
+    "code": {
+      "id": "3311090014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.583",
+      "lon": "110.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gedangan",
+      "en": "Gedangan",
+      "slug": "gedangan-3311090009"
+    },
+    "code": {
+      "id": "3311090009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.606",
+      "lon": "110.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Grogol",
+      "en": "Grogol",
+      "slug": "grogol-3311090006"
+    },
+    "code": {
+      "id": "3311090006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.615",
+      "lon": "110.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kadokan",
+      "en": "Kadokan",
+      "slug": "kadokan-3311090005"
+    },
+    "code": {
+      "id": "3311090005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.601",
+      "lon": "110.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kwarasan",
+      "en": "Kwarasan",
+      "slug": "kwarasan-3311090010"
+    },
+    "code": {
+      "id": "3311090010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.593",
+      "lon": "110.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Langenharjo",
+      "en": "Langenharjo",
+      "slug": "langenharjo-3311090008"
+    },
+    "code": {
+      "id": "3311090008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.612",
+      "lon": "110.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Madegondo",
+      "en": "Madegondo",
+      "slug": "madegondo-3311090007"
+    },
+    "code": {
+      "id": "3311090007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.6",
+      "lon": "110.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Manang",
+      "en": "Manang",
+      "slug": "manang-3311090012"
+    },
+    "code": {
+      "id": "3311090012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.591",
+      "lon": "110.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pandeyan",
+      "en": "Pandeyan",
+      "slug": "pandeyan-3311090003"
+    },
+    "code": {
+      "id": "3311090003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.641",
+      "lon": "110.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Parangjoro",
+      "en": "Parangjoro",
+      "slug": "parangjoro-3311090002"
+    },
+    "code": {
+      "id": "3311090002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.638",
+      "lon": "110.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pondok",
+      "en": "Pondok",
+      "slug": "pondok-3311090001"
+    },
+    "code": {
+      "id": "3311090001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.623",
+      "lon": "110.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sanggrahan",
+      "en": "Sanggrahan",
+      "slug": "sanggrahan-3311090011"
+    },
+    "code": {
+      "id": "3311090011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.591",
+      "lon": "110.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Telukan",
+      "en": "Telukan",
+      "slug": "telukan-3311090004"
+    },
+    "code": {
+      "id": "3311090004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311090",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3311090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      },
+      {
+        "id": "3311090",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3311090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57552"
+    ],
+    "geo": {
+      "lat": "-7.622",
+      "lon": "110.823"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

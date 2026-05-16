@@ -1,0 +1,56 @@
+{
+  "id": "6405080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Segah",
+    "en": "Segah",
+    "slug": "segah-6405080"
+  },
+  "code": {
+    "id": "6405080",
+    "iso": null
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Berau",
+      "en": "Berau",
+      "slug": "berau-6405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Berau",
+        "en": "Berau",
+        "slug": "berau-6405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.223",
+    "lon": "116.977"
+  },
+  "metadata": {},
+  "source": {}
+}

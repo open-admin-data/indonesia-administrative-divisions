@@ -1,0 +1,31 @@
+{
+  "id": "76",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sulawesi Barat",
+    "en": "West Sulawesi",
+    "slug": "west-sulawesi-76"
+  },
+  "code": {
+    "id": "76",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 6,
+    "village": 639,
+    "district": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.665",
+    "lon": "118.853"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5302081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kanatang",
+    "en": "Kanatang",
+    "slug": "kanatang-5302081"
+  },
+  "code": {
+    "id": "5302081",
+    "iso": null
+  },
+  "parent": {
+    "id": "5302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Timur",
+      "en": "Sumba Timur",
+      "slug": "sumba-timur-5302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Timur",
+        "en": "Sumba Timur",
+        "slug": "sumba-timur-5302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.574",
+    "lon": "120.164"
+  },
+  "metadata": {},
+  "source": {}
+}

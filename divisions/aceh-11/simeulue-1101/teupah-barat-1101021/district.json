@@ -1,0 +1,56 @@
+{
+  "id": "1101021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teupah Barat",
+    "en": "Teupah Barat",
+    "slug": "teupah-barat-1101021"
+  },
+  "code": {
+    "id": "1101021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Simeulue",
+      "en": "Simeulue",
+      "slug": "simeulue-1101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.448",
+    "lon": "96.22"
+  },
+  "metadata": {},
+  "source": {}
+}

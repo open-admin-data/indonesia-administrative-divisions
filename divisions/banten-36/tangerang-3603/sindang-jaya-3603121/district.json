@@ -1,0 +1,56 @@
+{
+  "id": "3603121",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sindang Jaya",
+    "en": "Sindang Jaya",
+    "slug": "sindang-jaya-3603121"
+  },
+  "code": {
+    "id": "3603121",
+    "iso": null
+  },
+  "parent": {
+    "id": "3603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tangerang",
+      "en": "Tangerang",
+      "slug": "tangerang-3603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tangerang",
+        "en": "Tangerang",
+        "slug": "tangerang-3603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.168",
+    "lon": "106.498"
+  },
+  "metadata": {},
+  "source": {}
+}

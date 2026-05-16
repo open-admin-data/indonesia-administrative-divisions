@@ -1,0 +1,56 @@
+{
+  "id": "3401030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panjatan",
+    "en": "Panjatan",
+    "slug": "panjatan-3401030"
+  },
+  "code": {
+    "id": "3401030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kulon Progo",
+      "en": "Kulon Progo",
+      "slug": "kulon-progo-3401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kulon Progo",
+        "en": "Kulon Progo",
+        "slug": "kulon-progo-3401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.917",
+    "lon": "110.152"
+  },
+  "metadata": {},
+  "source": {}
+}

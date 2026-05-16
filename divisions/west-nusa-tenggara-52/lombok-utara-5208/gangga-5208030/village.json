@@ -1,0 +1,197 @@
+[
+  {
+    "id": "5208030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Genggelang",
+      "en": "Genggelang",
+      "slug": "genggelang-5208030003"
+    },
+    "code": {
+      "id": "5208030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5208030",
+      "level": 3,
+      "name": {
+        "local": "Gangga",
+        "en": "Gangga",
+        "slug": "gangga-5208030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lombok Utara",
+          "en": "Lombok Utara",
+          "slug": "lombok-utara-5208"
+        }
+      },
+      {
+        "id": "5208030",
+        "level": 3,
+        "name": {
+          "local": "Gangga",
+          "en": "Gangga",
+          "slug": "gangga-5208030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83753"
+    ],
+    "geo": {
+      "lat": "-8.405",
+      "lon": "116.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5208030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gondang",
+      "en": "Gondang",
+      "slug": "gondang-5208030002"
+    },
+    "code": {
+      "id": "5208030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5208030",
+      "level": 3,
+      "name": {
+        "local": "Gangga",
+        "en": "Gangga",
+        "slug": "gangga-5208030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lombok Utara",
+          "en": "Lombok Utara",
+          "slug": "lombok-utara-5208"
+        }
+      },
+      {
+        "id": "5208030",
+        "level": 3,
+        "name": {
+          "local": "Gangga",
+          "en": "Gangga",
+          "slug": "gangga-5208030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83753"
+    ],
+    "geo": {
+      "lat": "-8.334",
+      "lon": "116.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5208030005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sambik Bangkol",
+      "en": "Sambik Bangkol",
+      "slug": "sambik-bangkol-5208030005"
+    },
+    "code": {
+      "id": "5208030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5208030",
+      "level": 3,
+      "name": {
+        "local": "Gangga",
+        "en": "Gangga",
+        "slug": "gangga-5208030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lombok Utara",
+          "en": "Lombok Utara",
+          "slug": "lombok-utara-5208"
+        }
+      },
+      {
+        "id": "5208030",
+        "level": 3,
+        "name": {
+          "local": "Gangga",
+          "en": "Gangga",
+          "slug": "gangga-5208030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83753"
+    ],
+    "geo": {
+      "lat": "-8.282",
+      "lon": "116.236"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

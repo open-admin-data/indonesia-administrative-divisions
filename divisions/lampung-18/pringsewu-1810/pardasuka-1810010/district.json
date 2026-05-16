@@ -1,0 +1,56 @@
+{
+  "id": "1810010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pardasuka",
+    "en": "Pardasuka",
+    "slug": "pardasuka-1810010"
+  },
+  "code": {
+    "id": "1810010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1810",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pringsewu",
+      "en": "Pringsewu",
+      "slug": "pringsewu-1810"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.497",
+    "lon": "104.915"
+  },
+  "metadata": {},
+  "source": {}
+}

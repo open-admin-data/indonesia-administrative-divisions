@@ -1,0 +1,56 @@
+{
+  "id": "7307080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bulupoddo",
+    "en": "Bulupoddo",
+    "slug": "bulupoddo-7307080"
+  },
+  "code": {
+    "id": "7307080",
+    "iso": null
+  },
+  "parent": {
+    "id": "7307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sinjai",
+      "en": "Sinjai",
+      "slug": "sinjai-7307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.1",
+    "lon": "120.135"
+  },
+  "metadata": {},
+  "source": {}
+}

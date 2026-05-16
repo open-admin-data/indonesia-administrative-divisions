@@ -1,0 +1,56 @@
+{
+  "id": "7325071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wasuponda",
+    "en": "Wasuponda",
+    "slug": "wasuponda-7325071"
+  },
+  "code": {
+    "id": "7325071",
+    "iso": null
+  },
+  "parent": {
+    "id": "7325",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Luwu Timur",
+      "en": "Luwu Timur",
+      "slug": "luwu-timur-7325"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.573",
+    "lon": "121.123"
+  },
+  "metadata": {},
+  "source": {}
+}

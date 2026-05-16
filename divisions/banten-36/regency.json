@@ -1,0 +1,386 @@
+[
+  {
+    "id": "3672",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Cilegon",
+      "en": "Cilegon",
+      "slug": "cilegon-3672"
+    },
+    "code": {
+      "id": "3672",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.01",
+      "lon": "106.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3602",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lebak",
+      "en": "Lebak",
+      "slug": "lebak-3602"
+    },
+    "code": {
+      "id": "3602",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 28,
+      "village": 342
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.361",
+      "lon": "106.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3601",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pandeglang",
+      "en": "Pandeglang",
+      "slug": "pandeglang-3601"
+    },
+    "code": {
+      "id": "3601",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 35,
+      "village": 327
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.317",
+      "lon": "106.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3604",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Serang",
+      "en": "Serang",
+      "slug": "serang-3604"
+    },
+    "code": {
+      "id": "3604",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 29,
+      "village": 316
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.115",
+      "lon": "106.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3673",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Serang",
+      "en": "Serang",
+      "slug": "serang-3673"
+    },
+    "code": {
+      "id": "3673",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.12",
+      "lon": "106.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3603",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tangerang",
+      "en": "Tangerang",
+      "slug": "tangerang-3603"
+    },
+    "code": {
+      "id": "3603",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 29,
+      "village": 261
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.27",
+      "lon": "106.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3671",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Tangerang",
+      "en": "Tangerang",
+      "slug": "tangerang-3671"
+    },
+    "code": {
+      "id": "3671",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 101
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.164",
+      "lon": "106.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3674",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Tangerang Selatan",
+      "en": "Tangerang Selatan",
+      "slug": "tangerang-selatan-3674"
+    },
+    "code": {
+      "id": "3674",
+      "iso": null
+    },
+    "parent": {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.322",
+      "lon": "106.708"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

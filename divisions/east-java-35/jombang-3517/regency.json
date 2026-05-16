@@ -1,0 +1,48 @@
+{
+  "id": "3517",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Jombang",
+    "en": "Jombang",
+    "slug": "jombang-3517"
+  },
+  "code": {
+    "id": "3517",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 290
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.556",
+    "lon": "112.235"
+  },
+  "metadata": {},
+  "source": {}
+}

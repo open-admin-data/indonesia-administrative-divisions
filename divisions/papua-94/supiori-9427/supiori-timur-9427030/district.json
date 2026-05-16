@@ -1,0 +1,56 @@
+{
+  "id": "9427030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Supiori Timur",
+    "en": "Supiori Timur",
+    "slug": "supiori-timur-9427030"
+  },
+  "code": {
+    "id": "9427030",
+    "iso": null
+  },
+  "parent": {
+    "id": "9427",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Supiori",
+      "en": "Supiori",
+      "slug": "supiori-9427"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9427",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Supiori",
+        "en": "Supiori",
+        "slug": "supiori-9427"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.785",
+    "lon": "135.722"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1905020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Rimba",
+    "en": "Simpang Rimba",
+    "slug": "simpang-rimba-1905020"
+  },
+  "code": {
+    "id": "1905020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1905",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Selatan",
+      "en": "Bangka Selatan",
+      "slug": "bangka-selatan-1905"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Selatan",
+        "en": "Bangka Selatan",
+        "slug": "bangka-selatan-1905"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.635",
+    "lon": "105.992"
+  },
+  "metadata": {},
+  "source": {}
+}

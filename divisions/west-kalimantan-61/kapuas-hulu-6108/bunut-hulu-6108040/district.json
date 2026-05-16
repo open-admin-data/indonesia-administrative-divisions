@@ -1,0 +1,56 @@
+{
+  "id": "6108040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bunut Hulu",
+    "en": "Bunut Hulu",
+    "slug": "bunut-hulu-6108040"
+  },
+  "code": {
+    "id": "6108040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kapuas Hulu",
+      "en": "Kapuas Hulu",
+      "slug": "kapuas-hulu-6108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kapuas Hulu",
+        "en": "Kapuas Hulu",
+        "slug": "kapuas-hulu-6108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.386",
+    "lon": "112.775"
+  },
+  "metadata": {},
+  "source": {}
+}

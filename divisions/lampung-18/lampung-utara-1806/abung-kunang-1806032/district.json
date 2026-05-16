@@ -1,0 +1,56 @@
+{
+  "id": "1806032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Abung  Kunang",
+    "en": "Abung  Kunang",
+    "slug": "abung-kunang-1806032"
+  },
+  "code": {
+    "id": "1806032",
+    "iso": null
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Utara",
+      "en": "Lampung Utara",
+      "slug": "lampung-utara-1806"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Utara",
+        "en": "Lampung Utara",
+        "slug": "lampung-utara-1806"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.886",
+    "lon": "104.804"
+  },
+  "metadata": {},
+  "source": {}
+}

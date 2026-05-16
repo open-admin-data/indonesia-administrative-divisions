@@ -1,0 +1,56 @@
+{
+  "id": "3214110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Campaka",
+    "en": "Campaka",
+    "slug": "campaka-3214110"
+  },
+  "code": {
+    "id": "3214110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3214",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Purwakarta",
+      "en": "Purwakarta",
+      "slug": "purwakarta-3214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.487",
+    "lon": "107.509"
+  },
+  "metadata": {},
+  "source": {}
+}

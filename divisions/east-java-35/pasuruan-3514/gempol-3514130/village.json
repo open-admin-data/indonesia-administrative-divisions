@@ -1,0 +1,912 @@
+[
+  {
+    "id": "3514130009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bulusari",
+      "en": "Bulusari",
+      "slug": "bulusari-3514130009"
+    },
+    "code": {
+      "id": "3514130009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.586",
+      "lon": "112.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Carat",
+      "en": "Carat",
+      "slug": "carat-3514130011"
+    },
+    "code": {
+      "id": "3514130011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.555",
+      "lon": "112.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gempol",
+      "en": "Gempol",
+      "slug": "gempol-3514130015"
+    },
+    "code": {
+      "id": "3514130015",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.603",
+      "lon": "112.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangrejo",
+      "en": "Karangrejo",
+      "slug": "karangrejo-3514130008"
+    },
+    "code": {
+      "id": "3514130008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.585",
+      "lon": "112.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kejapanan",
+      "en": "Kejapanan",
+      "slug": "kejapanan-3514130012"
+    },
+    "code": {
+      "id": "3514130012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.57",
+      "lon": "112.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kepulungan",
+      "en": "Kepulungan",
+      "slug": "kepulungan-3514130004"
+    },
+    "code": {
+      "id": "3514130004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.616",
+      "lon": "112.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Legok",
+      "en": "Legok",
+      "slug": "legok-3514130014"
+    },
+    "code": {
+      "id": "3514130014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.564",
+      "lon": "112.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ngerong",
+      "en": "Ngerong",
+      "slug": "ngerong-3514130006"
+    },
+    "code": {
+      "id": "3514130006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.6",
+      "lon": "112.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Randupitu",
+      "en": "Randupitu",
+      "slug": "randupitu-3514130005"
+    },
+    "code": {
+      "id": "3514130005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.615",
+      "lon": "112.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumber Suko",
+      "en": "Sumber Suko",
+      "slug": "sumber-suko-3514130002"
+    },
+    "code": {
+      "id": "3514130002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.632",
+      "lon": "112.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Watukosek",
+      "en": "Watukosek",
+      "slug": "watukosek-3514130010"
+    },
+    "code": {
+      "id": "3514130010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.571",
+      "lon": "112.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Winong",
+      "en": "Winong",
+      "slug": "winong-3514130013"
+    },
+    "code": {
+      "id": "3514130013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.575",
+      "lon": "112.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonosari",
+      "en": "Wonosari",
+      "slug": "wonosari-3514130003"
+    },
+    "code": {
+      "id": "3514130003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.611",
+      "lon": "112.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514130001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonosunyo",
+      "en": "Wonosunyo",
+      "slug": "wonosunyo-3514130001"
+    },
+    "code": {
+      "id": "3514130001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514130",
+      "level": 3,
+      "name": {
+        "local": "Gempol",
+        "en": "Gempol",
+        "slug": "gempol-3514130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514130",
+        "level": 3,
+        "name": {
+          "local": "Gempol",
+          "en": "Gempol",
+          "slug": "gempol-3514130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67155"
+    ],
+    "geo": {
+      "lat": "-7.62",
+      "lon": "112.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

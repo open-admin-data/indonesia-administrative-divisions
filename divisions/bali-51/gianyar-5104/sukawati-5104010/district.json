@@ -1,0 +1,56 @@
+{
+  "id": "5104010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukawati",
+    "en": "Sukawati",
+    "slug": "sukawati-5104010"
+  },
+  "code": {
+    "id": "5104010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gianyar",
+      "en": "Gianyar",
+      "slug": "gianyar-5104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.583",
+    "lon": "115.275"
+  },
+  "metadata": {},
+  "source": {}
+}

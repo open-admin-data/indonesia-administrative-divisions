@@ -1,0 +1,56 @@
+{
+  "id": "3519070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gemarang",
+    "en": "Gemarang",
+    "slug": "gemarang-3519070"
+  },
+  "code": {
+    "id": "3519070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3519",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Madiun",
+      "en": "Madiun",
+      "slug": "madiun-3519"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.661",
+    "lon": "111.741"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3329140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wanasari",
+    "en": "Wanasari",
+    "slug": "wanasari-3329140"
+  },
+  "code": {
+    "id": "3329140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3329",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Brebes",
+      "en": "Brebes",
+      "slug": "brebes-3329"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3329",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Brebes",
+        "en": "Brebes",
+        "slug": "brebes-3329"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.868",
+    "lon": "109.004"
+  },
+  "metadata": {},
+  "source": {}
+}

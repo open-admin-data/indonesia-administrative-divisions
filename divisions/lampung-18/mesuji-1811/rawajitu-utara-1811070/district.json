@@ -1,0 +1,56 @@
+{
+  "id": "1811070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rawajitu Utara",
+    "en": "Rawajitu Utara",
+    "slug": "rawajitu-utara-1811070"
+  },
+  "code": {
+    "id": "1811070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1811",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mesuji",
+      "en": "Mesuji",
+      "slug": "mesuji-1811"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1811",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mesuji",
+        "en": "Mesuji",
+        "slug": "mesuji-1811"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.132",
+    "lon": "105.662"
+  },
+  "metadata": {},
+  "source": {}
+}

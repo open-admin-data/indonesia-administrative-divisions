@@ -1,0 +1,56 @@
+{
+  "id": "1308070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kapur Ix",
+    "en": "Kapur Ix",
+    "slug": "kapur-ix-1308070"
+  },
+  "code": {
+    "id": "1308070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lima Puluh Kota",
+      "en": "Lima Puluh Kota",
+      "slug": "lima-puluh-kota-1308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lima Puluh Kota",
+        "en": "Lima Puluh Kota",
+        "slug": "lima-puluh-kota-1308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.234",
+    "lon": "100.465"
+  },
+  "metadata": {},
+  "source": {}
+}

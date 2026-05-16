@@ -1,0 +1,56 @@
+{
+  "id": "1207160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panai Hilir",
+    "en": "Panai Hilir",
+    "slug": "panai-hilir-1207160"
+  },
+  "code": {
+    "id": "1207160",
+    "iso": null
+  },
+  "parent": {
+    "id": "1207",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Labuhan Batu",
+      "en": "Labuhan Batu",
+      "slug": "labuhan-batu-1207"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu",
+        "en": "Labuhan Batu",
+        "slug": "labuhan-batu-1207"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.64",
+    "lon": "100.186"
+  },
+  "metadata": {},
+  "source": {}
+}

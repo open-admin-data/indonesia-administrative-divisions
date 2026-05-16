@@ -1,0 +1,56 @@
+{
+  "id": "8204032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mandioli Utara",
+    "en": "Mandioli Utara",
+    "slug": "mandioli-utara-8204032"
+  },
+  "code": {
+    "id": "8204032",
+    "iso": null
+  },
+  "parent": {
+    "id": "8204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Halmahera Selatan",
+      "en": "Halmahera Selatan",
+      "slug": "halmahera-selatan-8204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Selatan",
+        "en": "Halmahera Selatan",
+        "slug": "halmahera-selatan-8204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.66",
+    "lon": "127.222"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1113051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tripe Jaya",
+    "en": "Tripe Jaya",
+    "slug": "tripe-jaya-1113051"
+  },
+  "code": {
+    "id": "1113051",
+    "iso": null
+  },
+  "parent": {
+    "id": "1113",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gayo Lues",
+      "en": "Gayo Lues",
+      "slug": "gayo-lues-1113"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1113",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gayo Lues",
+        "en": "Gayo Lues",
+        "slug": "gayo-lues-1113"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.174",
+    "lon": "96.957"
+  },
+  "metadata": {},
+  "source": {}
+}

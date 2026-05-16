@@ -1,0 +1,56 @@
+{
+  "id": "3602191",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Curugbitung",
+    "en": "Curugbitung",
+    "slug": "curugbitung-3602191"
+  },
+  "code": {
+    "id": "3602191",
+    "iso": null
+  },
+  "parent": {
+    "id": "3602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lebak",
+      "en": "Lebak",
+      "slug": "lebak-3602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebak",
+        "en": "Lebak",
+        "slug": "lebak-3602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.444",
+    "lon": "106.4"
+  },
+  "metadata": {},
+  "source": {}
+}

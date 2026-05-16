@@ -1,0 +1,482 @@
+[
+  {
+    "id": "6471",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Balikpapan",
+      "en": "Balikpapan",
+      "slug": "balikpapan-6471"
+    },
+    "code": {
+      "id": "6471",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.276",
+      "lon": "116.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6405",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Berau",
+      "en": "Berau",
+      "slug": "berau-6405"
+    },
+    "code": {
+      "id": "6405",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 109
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.045",
+      "lon": "117.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6474",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Bontang",
+      "en": "Bontang",
+      "slug": "bontang-6474"
+    },
+    "code": {
+      "id": "6474",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 3,
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.07",
+      "lon": "117.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6402",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kutai Barat",
+      "en": "Kutai Barat",
+      "slug": "kutai-barat-6402"
+    },
+    "code": {
+      "id": "6402",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 16,
+      "village": 179
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.443",
+      "lon": "116.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kutai Kartanegara",
+      "en": "Kutai Kartanegara",
+      "slug": "kutai-kartanegara-6403"
+    },
+    "code": {
+      "id": "6403",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 18,
+      "village": 235
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.15",
+      "lon": "117.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6404",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kutai Timur",
+      "en": "Kutai Timur",
+      "slug": "kutai-timur-6404"
+    },
+    "code": {
+      "id": "6404",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 18,
+      "village": 133
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.943",
+      "lon": "116.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6411",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mahakam Hulu",
+      "en": "Mahakam Hulu",
+      "slug": "mahakam-hulu-6411"
+    },
+    "code": {
+      "id": "6411",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.506",
+      "lon": "115.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Paser",
+      "en": "Paser",
+      "slug": "paser-6401"
+    },
+    "code": {
+      "id": "6401",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 139
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.91",
+      "lon": "116.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6409",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Penajam Paser Utara",
+      "en": "Penajam Paser Utara",
+      "slug": "penajam-paser-utara-6409"
+    },
+    "code": {
+      "id": "6409",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.308",
+      "lon": "116.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6472",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Samarinda",
+      "en": "Samarinda",
+      "slug": "samarinda-6472"
+    },
+    "code": {
+      "id": "6472",
+      "iso": null
+    },
+    "parent": {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.491",
+      "lon": "117.146"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

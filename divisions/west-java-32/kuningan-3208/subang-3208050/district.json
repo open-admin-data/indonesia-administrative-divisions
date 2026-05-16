@@ -1,0 +1,56 @@
+{
+  "id": "3208050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Subang",
+    "en": "Subang",
+    "slug": "subang-3208050"
+  },
+  "code": {
+    "id": "3208050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kuningan",
+      "en": "Kuningan",
+      "slug": "kuningan-3208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuningan",
+        "en": "Kuningan",
+        "slug": "kuningan-3208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.128",
+    "lon": "108.541"
+  },
+  "metadata": {},
+  "source": {}
+}

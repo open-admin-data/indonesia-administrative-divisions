@@ -1,0 +1,56 @@
+{
+  "id": "3502080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mlarak",
+    "en": "Mlarak",
+    "slug": "mlarak-3502080"
+  },
+  "code": {
+    "id": "3502080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ponorogo",
+      "en": "Ponorogo",
+      "slug": "ponorogo-3502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ponorogo",
+        "en": "Ponorogo",
+        "slug": "ponorogo-3502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.918",
+    "lon": "111.523"
+  },
+  "metadata": {},
+  "source": {}
+}

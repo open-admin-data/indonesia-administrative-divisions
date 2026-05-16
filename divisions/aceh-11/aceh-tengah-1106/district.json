@@ -1,0 +1,786 @@
+[
+  {
+    "id": "1106011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Atu Lintang",
+      "en": "Atu Lintang",
+      "slug": "atu-lintang-1106011"
+    },
+    "code": {
+      "id": "1106011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.438",
+      "lon": "96.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bebesen",
+      "en": "Bebesen",
+      "slug": "bebesen-1106050"
+    },
+    "code": {
+      "id": "1106050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.638",
+      "lon": "96.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bies",
+      "en": "Bies",
+      "slug": "bies-1106041"
+    },
+    "code": {
+      "id": "1106041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.611",
+      "lon": "96.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bintang",
+      "en": "Bintang",
+      "slug": "bintang-1106020"
+    },
+    "code": {
+      "id": "1106020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.549",
+      "lon": "97.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Celala",
+      "en": "Celala",
+      "slug": "celala-1106062"
+    },
+    "code": {
+      "id": "1106062",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.535",
+      "lon": "96.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jagong Jeget",
+      "en": "Jagong Jeget",
+      "slug": "jagong-jeget-1106012"
+    },
+    "code": {
+      "id": "1106012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.376",
+      "lon": "96.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kebayakan",
+      "en": "Kebayakan",
+      "slug": "kebayakan-1106032"
+    },
+    "code": {
+      "id": "1106032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.659",
+      "lon": "96.87"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ketol",
+      "en": "Ketol",
+      "slug": "ketol-1106061"
+    },
+    "code": {
+      "id": "1106061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.803",
+      "lon": "96.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kute Panang",
+      "en": "Kute Panang",
+      "slug": "kute-panang-1106051"
+    },
+    "code": {
+      "id": "1106051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.684",
+      "lon": "96.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Linge",
+      "en": "Linge",
+      "slug": "linge-1106010"
+    },
+    "code": {
+      "id": "1106010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.363",
+      "lon": "97.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lut Tawar",
+      "en": "Lut Tawar",
+      "slug": "lut-tawar-1106031"
+    },
+    "code": {
+      "id": "1106031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.582",
+      "lon": "96.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pegasing",
+      "en": "Pegasing",
+      "slug": "pegasing-1106040"
+    },
+    "code": {
+      "id": "1106040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.501",
+      "lon": "96.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106063",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rusip Antara",
+      "en": "Rusip Antara",
+      "slug": "rusip-antara-1106063"
+    },
+    "code": {
+      "id": "1106063",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.726",
+      "lon": "96.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Silih Nara",
+      "en": "Silih Nara",
+      "slug": "silih-nara-1106060"
+    },
+    "code": {
+      "id": "1106060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Tengah",
+          "en": "Aceh Tengah",
+          "slug": "aceh-tengah-1106"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 33
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.623",
+      "lon": "96.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

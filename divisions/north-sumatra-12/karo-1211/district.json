@@ -1,0 +1,954 @@
+[
+  {
+    "id": "1211130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Barusjahe",
+      "en": "Barusjahe",
+      "slug": "barusjahe-1211130"
+    },
+    "code": {
+      "id": "1211130",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.129",
+      "lon": "98.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berastagi",
+      "en": "Berastagi",
+      "slug": "berastagi-1211100"
+    },
+    "code": {
+      "id": "1211100",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.19",
+      "lon": "98.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dolat Rayat",
+      "en": "Dolat Rayat",
+      "slug": "dolat-rayat-1211111"
+    },
+    "code": {
+      "id": "1211111",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.169",
+      "lon": "98.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Juhar",
+      "en": "Juhar",
+      "slug": "juhar-1211040"
+    },
+    "code": {
+      "id": "1211040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.999",
+      "lon": "98.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kabanjahe",
+      "en": "Kabanjahe",
+      "slug": "kabanjahe-1211090"
+    },
+    "code": {
+      "id": "1211090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.107",
+      "lon": "98.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuta Buluh",
+      "en": "Kuta Buluh",
+      "slug": "kuta-buluh-1211060"
+    },
+    "code": {
+      "id": "1211060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.202",
+      "lon": "98.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Laubaleng",
+      "en": "Laubaleng",
+      "slug": "laubaleng-1211020"
+    },
+    "code": {
+      "id": "1211020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.163",
+      "lon": "98.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mardingding",
+      "en": "Mardingding",
+      "slug": "mardingding-1211010"
+    },
+    "code": {
+      "id": "1211010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.234",
+      "lon": "98.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merdeka",
+      "en": "Merdeka",
+      "slug": "merdeka-1211082"
+    },
+    "code": {
+      "id": "1211082",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.207",
+      "lon": "98.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merek",
+      "en": "Merek",
+      "slug": "merek-1211120"
+    },
+    "code": {
+      "id": "1211120",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.958",
+      "lon": "98.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Munte",
+      "en": "Munte",
+      "slug": "munte-1211050"
+    },
+    "code": {
+      "id": "1211050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.05",
+      "lon": "98.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Naman Teran",
+      "en": "Naman Teran",
+      "slug": "naman-teran-1211081"
+    },
+    "code": {
+      "id": "1211081",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.198",
+      "lon": "98.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Payung",
+      "en": "Payung",
+      "slug": "payung-1211070"
+    },
+    "code": {
+      "id": "1211070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.133",
+      "lon": "98.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simpang Empat",
+      "en": "Simpang Empat",
+      "slug": "simpang-empat-1211080"
+    },
+    "code": {
+      "id": "1211080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.142",
+      "lon": "98.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tiga Binanga",
+      "en": "Tiga Binanga",
+      "slug": "tiga-binanga-1211030"
+    },
+    "code": {
+      "id": "1211030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.093",
+      "lon": "98.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tiganderket",
+      "en": "Tiganderket",
+      "slug": "tiganderket-1211071"
+    },
+    "code": {
+      "id": "1211071",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.203",
+      "lon": "98.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tigapanah",
+      "en": "Tigapanah",
+      "slug": "tigapanah-1211110"
+    },
+    "code": {
+      "id": "1211110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karo",
+          "en": "Karo",
+          "slug": "karo-1211"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.081",
+      "lon": "98.502"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

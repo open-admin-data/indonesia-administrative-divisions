@@ -1,0 +1,48 @@
+{
+  "id": "1401",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kuantan Singingi",
+    "en": "Kuantan Singingi",
+    "slug": "kuantan-singingi-1401"
+  },
+  "code": {
+    "id": "1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 229
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.314",
+    "lon": "101.018"
+  },
+  "metadata": {},
+  "source": {}
+}

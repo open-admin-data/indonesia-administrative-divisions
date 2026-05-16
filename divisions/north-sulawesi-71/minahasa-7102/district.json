@@ -1,0 +1,1402 @@
+[
+  {
+    "id": "7102230",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Eris",
+      "en": "Eris",
+      "slug": "eris-7102230"
+    },
+    "code": {
+      "id": "7102230",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.234",
+      "lon": "124.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kakas",
+      "en": "Kakas",
+      "slug": "kakas-7102210"
+    },
+    "code": {
+      "id": "7102210",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.136",
+      "lon": "124.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102211",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kakas Barat",
+      "en": "Kakas Barat",
+      "slug": "kakas-barat-7102211"
+    },
+    "code": {
+      "id": "7102211",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.133",
+      "lon": "124.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawangkoan",
+      "en": "Kawangkoan",
+      "slug": "kawangkoan-7102120"
+    },
+    "code": {
+      "id": "7102120",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.211",
+      "lon": "124.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102121",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawangkoan Barat",
+      "en": "Kawangkoan Barat",
+      "slug": "kawangkoan-barat-7102121"
+    },
+    "code": {
+      "id": "7102121",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.19",
+      "lon": "124.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102122",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawangkoan Utara",
+      "en": "Kawangkoan Utara",
+      "slug": "kawangkoan-utara-7102122"
+    },
+    "code": {
+      "id": "7102122",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.227",
+      "lon": "124.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102240",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kombi",
+      "en": "Kombi",
+      "slug": "kombi-7102240"
+    },
+    "code": {
+      "id": "7102240",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.255",
+      "lon": "125.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102092",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langowan Barat",
+      "en": "Langowan Barat",
+      "slug": "langowan-barat-7102092"
+    },
+    "code": {
+      "id": "7102092",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.134",
+      "lon": "124.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102093",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langowan Selatan",
+      "en": "Langowan Selatan",
+      "slug": "langowan-selatan-7102093"
+    },
+    "code": {
+      "id": "7102093",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.083",
+      "lon": "124.883"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langowan Timur",
+      "en": "Langowan Timur",
+      "slug": "langowan-timur-7102091"
+    },
+    "code": {
+      "id": "7102091",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.149",
+      "lon": "124.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102094",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Langowan Utara",
+      "en": "Langowan Utara",
+      "slug": "langowan-utara-7102094"
+    },
+    "code": {
+      "id": "7102094",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.17",
+      "lon": "124.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembean Timur",
+      "en": "Lembean Timur",
+      "slug": "lembean-timur-7102220"
+    },
+    "code": {
+      "id": "7102220",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.174",
+      "lon": "124.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102172",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mandolang",
+      "en": "Mandolang",
+      "slug": "mandolang-7102172"
+    },
+    "code": {
+      "id": "7102172",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.415",
+      "lon": "124.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pineleng",
+      "en": "Pineleng",
+      "slug": "pineleng-7102170"
+    },
+    "code": {
+      "id": "7102170",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.4",
+      "lon": "124.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Remboken",
+      "en": "Remboken",
+      "slug": "remboken-7102200"
+    },
+    "code": {
+      "id": "7102200",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.235",
+      "lon": "124.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sonder",
+      "en": "Sonder",
+      "slug": "sonder-7102130"
+    },
+    "code": {
+      "id": "7102130",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.266",
+      "lon": "124.765"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tombariri",
+      "en": "Tombariri",
+      "slug": "tombariri-7102160"
+    },
+    "code": {
+      "id": "7102160",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.376",
+      "lon": "124.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102161",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tombariri Timur",
+      "en": "Tombariri Timur",
+      "slug": "tombariri-timur-7102161"
+    },
+    "code": {
+      "id": "7102161",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.344",
+      "lon": "124.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102171",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tombulu",
+      "en": "Tombulu",
+      "slug": "tombulu-7102171"
+    },
+    "code": {
+      "id": "7102171",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.403",
+      "lon": "124.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tompaso",
+      "en": "Tompaso",
+      "slug": "tompaso-7102110"
+    },
+    "code": {
+      "id": "7102110",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.183",
+      "lon": "124.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tompaso Barat",
+      "en": "Tompaso Barat",
+      "slug": "tompaso-barat-7102111"
+    },
+    "code": {
+      "id": "7102111",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.161",
+      "lon": "124.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tondano Barat",
+      "en": "Tondano Barat",
+      "slug": "tondano-barat-7102190"
+    },
+    "code": {
+      "id": "7102190",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.305",
+      "lon": "124.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102191",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tondano Selatan",
+      "en": "Tondano Selatan",
+      "slug": "tondano-selatan-7102191"
+    },
+    "code": {
+      "id": "7102191",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.269",
+      "lon": "124.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102250",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tondano Timur",
+      "en": "Tondano Timur",
+      "slug": "tondano-timur-7102250"
+    },
+    "code": {
+      "id": "7102250",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.29",
+      "lon": "124.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102251",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tondano Utara",
+      "en": "Tondano Utara",
+      "slug": "tondano-utara-7102251"
+    },
+    "code": {
+      "id": "7102251",
+      "iso": null
+    },
+    "parent": {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Minahasa",
+          "en": "Minahasa",
+          "slug": "minahasa-7102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.329",
+      "lon": "124.916"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

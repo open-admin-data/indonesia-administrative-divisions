@@ -1,0 +1,56 @@
+{
+  "id": "6306030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Telaga Langsat",
+    "en": "Telaga Langsat",
+    "slug": "telaga-langsat-6306030"
+  },
+  "code": {
+    "id": "6306030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Selatan",
+      "en": "Hulu Sungai Selatan",
+      "slug": "hulu-sungai-selatan-6306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Selatan",
+        "en": "Hulu Sungai Selatan",
+        "slug": "hulu-sungai-selatan-6306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.742",
+    "lon": "115.367"
+  },
+  "metadata": {},
+  "source": {}
+}

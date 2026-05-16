@@ -1,0 +1,56 @@
+{
+  "id": "7313030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pammana",
+    "en": "Pammana",
+    "slug": "pammana-7313030"
+  },
+  "code": {
+    "id": "7313030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wajo",
+      "en": "Wajo",
+      "slug": "wajo-7313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.211",
+    "lon": "120.097"
+  },
+  "metadata": {},
+  "source": {}
+}

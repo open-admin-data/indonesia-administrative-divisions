@@ -1,0 +1,56 @@
+{
+  "id": "6106121",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Dua",
+    "en": "Simpang Dua",
+    "slug": "simpang-dua-6106121"
+  },
+  "code": {
+    "id": "6106121",
+    "iso": null
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ketapang",
+      "en": "Ketapang",
+      "slug": "ketapang-6106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ketapang",
+        "en": "Ketapang",
+        "slug": "ketapang-6106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.753",
+    "lon": "110.211"
+  },
+  "metadata": {},
+  "source": {}
+}

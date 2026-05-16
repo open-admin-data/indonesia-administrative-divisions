@@ -1,0 +1,626 @@
+[
+  {
+    "id": "6311",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Balangan",
+      "en": "Balangan",
+      "slug": "balangan-6311"
+    },
+    "code": {
+      "id": "6311",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 151
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.364",
+      "lon": "115.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6303",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Banjar",
+      "en": "Banjar",
+      "slug": "banjar-6303"
+    },
+    "code": {
+      "id": "6303",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 19,
+      "village": 286
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.409",
+      "lon": "114.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6372",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Banjar Baru",
+      "en": "Banjar Baru",
+      "slug": "banjar-baru-6372"
+    },
+    "code": {
+      "id": "6372",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.439",
+      "lon": "114.831"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Banjarmasin",
+      "en": "Banjarmasin",
+      "slug": "banjarmasin-6371"
+    },
+    "code": {
+      "id": "6371",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.327",
+      "lon": "114.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6304",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Barito Kuala",
+      "en": "Barito Kuala",
+      "slug": "barito-kuala-6304"
+    },
+    "code": {
+      "id": "6304",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 199
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.978",
+      "lon": "114.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6306",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Hulu Sungai Selatan",
+      "en": "Hulu Sungai Selatan",
+      "slug": "hulu-sungai-selatan-6306"
+    },
+    "code": {
+      "id": "6306",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 148
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.787",
+      "lon": "115.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Hulu Sungai Tengah",
+      "en": "Hulu Sungai Tengah",
+      "slug": "hulu-sungai-tengah-6307"
+    },
+    "code": {
+      "id": "6307",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 165
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "115.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6308",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Hulu Sungai Utara",
+      "en": "Hulu Sungai Utara",
+      "slug": "hulu-sungai-utara-6308"
+    },
+    "code": {
+      "id": "6308",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 215
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.419",
+      "lon": "115.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6302",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kota Baru",
+      "en": "Kota Baru",
+      "slug": "kota-baru-6302"
+    },
+    "code": {
+      "id": "6302",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 21,
+      "village": 197
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.236",
+      "lon": "116.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6309",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tabalong",
+      "en": "Tabalong",
+      "slug": "tabalong-6309"
+    },
+    "code": {
+      "id": "6309",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 129
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.164",
+      "lon": "115.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6310",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tanah Bumbu",
+      "en": "Tanah Bumbu",
+      "slug": "tanah-bumbu-6310"
+    },
+    "code": {
+      "id": "6310",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 144
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.483",
+      "lon": "115.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6301",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tanah Laut",
+      "en": "Tanah Laut",
+      "slug": "tanah-laut-6301"
+    },
+    "code": {
+      "id": "6301",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 133
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.799",
+      "lon": "114.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6305",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tapin",
+      "en": "Tapin",
+      "slug": "tapin-6305"
+    },
+    "code": {
+      "id": "6305",
+      "iso": null
+    },
+    "parent": {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 132
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.932",
+      "lon": "115.163"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

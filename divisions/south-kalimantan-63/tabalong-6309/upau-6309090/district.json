@@ -1,0 +1,56 @@
+{
+  "id": "6309090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Upau",
+    "en": "Upau",
+    "slug": "upau-6309090"
+  },
+  "code": {
+    "id": "6309090",
+    "iso": null
+  },
+  "parent": {
+    "id": "6309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tabalong",
+      "en": "Tabalong",
+      "slug": "tabalong-6309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabalong",
+        "en": "Tabalong",
+        "slug": "tabalong-6309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.071",
+    "lon": "115.622"
+  },
+  "metadata": {},
+  "source": {}
+}

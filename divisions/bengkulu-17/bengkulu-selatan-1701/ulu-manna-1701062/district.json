@@ -1,0 +1,56 @@
+{
+  "id": "1701062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ulu Manna",
+    "en": "Ulu Manna",
+    "slug": "ulu-manna-1701062"
+  },
+  "code": {
+    "id": "1701062",
+    "iso": null
+  },
+  "parent": {
+    "id": "1701",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Selatan",
+      "en": "Bengkulu Selatan",
+      "slug": "bengkulu-selatan-1701"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Selatan",
+        "en": "Bengkulu Selatan",
+        "slug": "bengkulu-selatan-1701"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.27",
+    "lon": "103.023"
+  },
+  "metadata": {},
+  "source": {}
+}

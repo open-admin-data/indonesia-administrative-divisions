@@ -1,0 +1,912 @@
+[
+  {
+    "id": "1606040010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bailangu",
+      "en": "Bailangu",
+      "slug": "bailangu-1606040010"
+    },
+    "code": {
+      "id": "1606040010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.904",
+      "lon": "103.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040025",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bailangu Timur",
+      "en": "Bailangu Timur",
+      "slug": "bailangu-timur-1606040025"
+    },
+    "code": {
+      "id": "1606040025",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-3.037",
+      "lon": "103.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Balai Agung",
+      "en": "Balai Agung",
+      "slug": "balai-agung-1606040006"
+    },
+    "code": {
+      "id": "1606040006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.867",
+      "lon": "103.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040023",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bandar Jaya",
+      "en": "Bandar Jaya",
+      "slug": "bandar-jaya-1606040023"
+    },
+    "code": {
+      "id": "1606040023",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.726",
+      "lon": "103.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kayuara",
+      "en": "Kayuara",
+      "slug": "kayuara-1606040008"
+    },
+    "code": {
+      "id": "1606040008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.945",
+      "lon": "103.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lumpatan",
+      "en": "Lumpatan",
+      "slug": "lumpatan-1606040009"
+    },
+    "code": {
+      "id": "1606040009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.92",
+      "lon": "103.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040024",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lumpatan Ii",
+      "en": "Lumpatan Ii",
+      "slug": "lumpatan-ii-1606040024"
+    },
+    "code": {
+      "id": "1606040024",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.861",
+      "lon": "103.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040022",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Teladan",
+      "en": "Muara Teladan",
+      "slug": "muara-teladan-1606040022"
+    },
+    "code": {
+      "id": "1606040022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.803",
+      "lon": "103.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rimbah Ukur",
+      "en": "Rimbah Ukur",
+      "slug": "rimbah-ukur-1606040001"
+    },
+    "code": {
+      "id": "1606040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.985",
+      "lon": "103.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Serasan Jaya",
+      "en": "Serasan Jaya",
+      "slug": "serasan-jaya-1606040007"
+    },
+    "code": {
+      "id": "1606040007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.901",
+      "lon": "103.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Soak Baru",
+      "en": "Soak Baru",
+      "slug": "soak-baru-1606040005"
+    },
+    "code": {
+      "id": "1606040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.926",
+      "lon": "103.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukarami",
+      "en": "Sukarami",
+      "slug": "sukarami-1606040004"
+    },
+    "code": {
+      "id": "1606040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.887",
+      "lon": "103.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Batang/ C.6",
+      "en": "Sungai Batang/ C.6",
+      "slug": "sungai-batang-c6-1606040003"
+    },
+    "code": {
+      "id": "1606040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.961",
+      "lon": "103.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Medak",
+      "en": "Sungai Medak",
+      "slug": "sungai-medak-1606040002"
+    },
+    "code": {
+      "id": "1606040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606040",
+      "level": 3,
+      "name": {
+        "local": "Sekayu",
+        "en": "Sekayu",
+        "slug": "sekayu-1606040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606040",
+        "level": 3,
+        "name": {
+          "local": "Sekayu",
+          "en": "Sekayu",
+          "slug": "sekayu-1606040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30711"
+    ],
+    "geo": {
+      "lat": "-2.955",
+      "lon": "103.769"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

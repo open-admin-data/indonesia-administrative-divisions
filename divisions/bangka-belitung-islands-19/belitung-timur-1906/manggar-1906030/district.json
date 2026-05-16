@@ -1,0 +1,56 @@
+{
+  "id": "1906030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manggar",
+    "en": "Manggar",
+    "slug": "manggar-1906030"
+  },
+  "code": {
+    "id": "1906030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1906",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belitung Timur",
+      "en": "Belitung Timur",
+      "slug": "belitung-timur-1906"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belitung Timur",
+        "en": "Belitung Timur",
+        "slug": "belitung-timur-1906"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.733",
+    "lon": "108.469"
+  },
+  "metadata": {},
+  "source": {}
+}

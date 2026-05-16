@@ -1,0 +1,56 @@
+{
+  "id": "1473012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Sembilan",
+    "en": "Sungai Sembilan",
+    "slug": "sungai-sembilan-1473012"
+  },
+  "code": {
+    "id": "1473012",
+    "iso": null
+  },
+  "parent": {
+    "id": "1473",
+    "level": 2,
+    "name": {
+      "local": "Kota D U M A I",
+      "en": "D U M A I",
+      "slug": "d-u-m-a-i-1473"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1473",
+      "level": 2,
+      "name": {
+        "local": "Kota D U M A I",
+        "en": "D U M A I",
+        "slug": "d-u-m-a-i-1473"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.923",
+    "lon": "101.198"
+  },
+  "metadata": {},
+  "source": {}
+}

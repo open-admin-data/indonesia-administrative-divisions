@@ -1,0 +1,506 @@
+[
+  {
+    "id": "5108040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjar",
+      "en": "Banjar",
+      "slug": "banjar-5108040"
+    },
+    "code": {
+      "id": "5108040",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.237",
+      "lon": "115.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buleleng",
+      "en": "Buleleng",
+      "slug": "buleleng-5108060"
+    },
+    "code": {
+      "id": "5108060",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.126",
+      "lon": "115.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Busungbiu",
+      "en": "Busungbiu",
+      "slug": "busungbiu-5108030"
+    },
+    "code": {
+      "id": "5108030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.313",
+      "lon": "114.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gerokgak",
+      "en": "Gerokgak",
+      "slug": "gerokgak-5108010"
+    },
+    "code": {
+      "id": "5108010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.205",
+      "lon": "114.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kubutambahan",
+      "en": "Kubutambahan",
+      "slug": "kubutambahan-5108080"
+    },
+    "code": {
+      "id": "5108080",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.155",
+      "lon": "115.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sawan",
+      "en": "Sawan",
+      "slug": "sawan-5108070"
+    },
+    "code": {
+      "id": "5108070",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.154",
+      "lon": "115.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seririt",
+      "en": "Seririt",
+      "slug": "seririt-5108020"
+    },
+    "code": {
+      "id": "5108020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.259",
+      "lon": "114.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukasada",
+      "en": "Sukasada",
+      "slug": "sukasada-5108050"
+    },
+    "code": {
+      "id": "5108050",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.219",
+      "lon": "115.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tejakula",
+      "en": "Tejakula",
+      "slug": "tejakula-5108090"
+    },
+    "code": {
+      "id": "5108090",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buleleng",
+        "en": "Buleleng",
+        "slug": "buleleng-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.138",
+      "lon": "115.355"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

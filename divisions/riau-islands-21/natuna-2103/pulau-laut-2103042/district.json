@@ -1,0 +1,56 @@
+{
+  "id": "2103042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Laut",
+    "en": "Pulau Laut",
+    "slug": "pulau-laut-2103042"
+  },
+  "code": {
+    "id": "2103042",
+    "iso": null
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Natuna",
+      "en": "Natuna",
+      "slug": "natuna-2103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Natuna",
+        "en": "Natuna",
+        "slug": "natuna-2103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.654",
+    "lon": "107.872"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3529240",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Arjasa",
+    "en": "Arjasa",
+    "slug": "arjasa-3529240"
+  },
+  "code": {
+    "id": "3529240",
+    "iso": null
+  },
+  "parent": {
+    "id": "3529",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumenep",
+      "en": "Sumenep",
+      "slug": "sumenep-3529"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3529",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumenep",
+        "en": "Sumenep",
+        "slug": "sumenep-3529"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.924",
+    "lon": "115.301"
+  },
+  "metadata": {},
+  "source": {}
+}

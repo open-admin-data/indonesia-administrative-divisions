@@ -1,0 +1,56 @@
+{
+  "id": "1118080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Baru",
+    "en": "Bandar Baru",
+    "slug": "bandar-baru-1118080"
+  },
+  "code": {
+    "id": "1118080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1118",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie Jaya",
+      "en": "Pidie Jaya",
+      "slug": "pidie-jaya-1118"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1118",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie Jaya",
+        "en": "Pidie Jaya",
+        "slug": "pidie-jaya-1118"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.188",
+    "lon": "96.089"
+  },
+  "metadata": {},
+  "source": {}
+}

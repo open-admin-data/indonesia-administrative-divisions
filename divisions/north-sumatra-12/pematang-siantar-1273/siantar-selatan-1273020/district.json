@@ -1,0 +1,56 @@
+{
+  "id": "1273020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siantar Selatan",
+    "en": "Siantar Selatan",
+    "slug": "siantar-selatan-1273020"
+  },
+  "code": {
+    "id": "1273020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1273",
+    "level": 2,
+    "name": {
+      "local": "Kota Pematang Siantar",
+      "en": "Pematang Siantar",
+      "slug": "pematang-siantar-1273"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1273",
+      "level": 2,
+      "name": {
+        "local": "Kota Pematang Siantar",
+        "en": "Pematang Siantar",
+        "slug": "pematang-siantar-1273"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.948",
+    "lon": "99.057"
+  },
+  "metadata": {},
+  "source": {}
+}

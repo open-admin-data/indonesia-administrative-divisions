@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3404070001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Catur Tunggal",
+      "en": "Catur Tunggal",
+      "slug": "catur-tunggal-3404070001"
+    },
+    "code": {
+      "id": "3404070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404070",
+      "level": 3,
+      "name": {
+        "local": "Depok",
+        "en": "Depok",
+        "slug": "depok-3404070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      },
+      {
+        "id": "3404070",
+        "level": 3,
+        "name": {
+          "local": "Depok",
+          "en": "Depok",
+          "slug": "depok-3404070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55598"
+    ],
+    "geo": {
+      "lat": "-7.782",
+      "lon": "110.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404070003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Condong Catur",
+      "en": "Condong Catur",
+      "slug": "condong-catur-3404070003"
+    },
+    "code": {
+      "id": "3404070003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404070",
+      "level": 3,
+      "name": {
+        "local": "Depok",
+        "en": "Depok",
+        "slug": "depok-3404070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      },
+      {
+        "id": "3404070",
+        "level": 3,
+        "name": {
+          "local": "Depok",
+          "en": "Depok",
+          "slug": "depok-3404070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55598"
+    ],
+    "geo": {
+      "lat": "-7.756",
+      "lon": "110.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404070002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Maguwoharjo",
+      "en": "Maguwoharjo",
+      "slug": "maguwoharjo-3404070002"
+    },
+    "code": {
+      "id": "3404070002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3404070",
+      "level": 3,
+      "name": {
+        "local": "Depok",
+        "en": "Depok",
+        "slug": "depok-3404070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3404",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sleman",
+          "en": "Sleman",
+          "slug": "sleman-3404"
+        }
+      },
+      {
+        "id": "3404070",
+        "level": 3,
+        "name": {
+          "local": "Depok",
+          "en": "Depok",
+          "slug": "depok-3404070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55598"
+    ],
+    "geo": {
+      "lat": "-7.767",
+      "lon": "110.432"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

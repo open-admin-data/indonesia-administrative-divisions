@@ -1,0 +1,56 @@
+{
+  "id": "9108034",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salawati Barat",
+    "en": "Salawati Barat",
+    "slug": "salawati-barat-9108034"
+  },
+  "code": {
+    "id": "9108034",
+    "iso": null
+  },
+  "parent": {
+    "id": "9108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Raja Ampat",
+      "en": "Raja Ampat",
+      "slug": "raja-ampat-9108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Raja Ampat",
+        "en": "Raja Ampat",
+        "slug": "raja-ampat-9108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.039",
+    "lon": "130.78"
+  },
+  "metadata": {},
+  "source": {}
+}

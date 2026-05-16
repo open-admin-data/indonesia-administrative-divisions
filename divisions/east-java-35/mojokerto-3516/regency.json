@@ -1,0 +1,48 @@
+{
+  "id": "3516",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mojokerto",
+    "en": "Mojokerto",
+    "slug": "mojokerto-3516"
+  },
+  "code": {
+    "id": "3516",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 285
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.463",
+    "lon": "112.433"
+  },
+  "metadata": {},
+  "source": {}
+}

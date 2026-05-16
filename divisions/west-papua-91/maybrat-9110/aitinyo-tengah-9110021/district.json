@@ -1,0 +1,56 @@
+{
+  "id": "9110021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aitinyo Tengah",
+    "en": "Aitinyo Tengah",
+    "slug": "aitinyo-tengah-9110021"
+  },
+  "code": {
+    "id": "9110021",
+    "iso": null
+  },
+  "parent": {
+    "id": "9110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maybrat",
+      "en": "Maybrat",
+      "slug": "maybrat-9110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maybrat",
+        "en": "Maybrat",
+        "slug": "maybrat-9110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.435",
+    "lon": "132.301"
+  },
+  "metadata": {},
+  "source": {}
+}

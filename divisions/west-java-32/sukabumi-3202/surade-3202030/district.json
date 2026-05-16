@@ -1,0 +1,56 @@
+{
+  "id": "3202030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Surade",
+    "en": "Surade",
+    "slug": "surade-3202030"
+  },
+  "code": {
+    "id": "3202030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.332",
+    "lon": "106.549"
+  },
+  "metadata": {},
+  "source": {}
+}

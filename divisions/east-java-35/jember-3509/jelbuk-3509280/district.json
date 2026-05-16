@@ -1,0 +1,56 @@
+{
+  "id": "3509280",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jelbuk",
+    "en": "Jelbuk",
+    "slug": "jelbuk-3509280"
+  },
+  "code": {
+    "id": "3509280",
+    "iso": null
+  },
+  "parent": {
+    "id": "3509",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jember",
+      "en": "Jember",
+      "slug": "jember-3509"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jember",
+        "en": "Jember",
+        "slug": "jember-3509"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.046",
+    "lon": "113.731"
+  },
+  "metadata": {},
+  "source": {}
+}

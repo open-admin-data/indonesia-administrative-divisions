@@ -1,0 +1,56 @@
+{
+  "id": "1702021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sindang Beliti Ilir",
+    "en": "Sindang Beliti Ilir",
+    "slug": "sindang-beliti-ilir-1702021"
+  },
+  "code": {
+    "id": "1702021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1702",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rejang Lebong",
+      "en": "Rejang Lebong",
+      "slug": "rejang-lebong-1702"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rejang Lebong",
+        "en": "Rejang Lebong",
+        "slug": "rejang-lebong-1702"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.472",
+    "lon": "102.892"
+  },
+  "metadata": {},
+  "source": {}
+}

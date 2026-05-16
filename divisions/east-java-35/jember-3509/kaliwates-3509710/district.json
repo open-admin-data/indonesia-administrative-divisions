@@ -1,0 +1,56 @@
+{
+  "id": "3509710",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaliwates",
+    "en": "Kaliwates",
+    "slug": "kaliwates-3509710"
+  },
+  "code": {
+    "id": "3509710",
+    "iso": null
+  },
+  "parent": {
+    "id": "3509",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jember",
+      "en": "Jember",
+      "slug": "jember-3509"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jember",
+        "en": "Jember",
+        "slug": "jember-3509"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.174",
+    "lon": "113.677"
+  },
+  "metadata": {},
+  "source": {}
+}

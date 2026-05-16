@@ -1,0 +1,56 @@
+{
+  "id": "1114070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karang Baru",
+    "en": "Karang Baru",
+    "slug": "karang-baru-1114070"
+  },
+  "code": {
+    "id": "1114070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1114",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tamiang",
+      "en": "Aceh Tamiang",
+      "slug": "aceh-tamiang-1114"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1114",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tamiang",
+        "en": "Aceh Tamiang",
+        "slug": "aceh-tamiang-1114"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.337",
+    "lon": "98.027"
+  },
+  "metadata": {},
+  "source": {}
+}

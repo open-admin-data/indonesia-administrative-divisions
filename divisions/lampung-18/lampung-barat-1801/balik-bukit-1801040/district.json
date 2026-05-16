@@ -1,0 +1,56 @@
+{
+  "id": "1801040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Balik Bukit",
+    "en": "Balik Bukit",
+    "slug": "balik-bukit-1801040"
+  },
+  "code": {
+    "id": "1801040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Barat",
+      "en": "Lampung Barat",
+      "slug": "lampung-barat-1801"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.019",
+    "lon": "104.062"
+  },
+  "metadata": {},
+  "source": {}
+}

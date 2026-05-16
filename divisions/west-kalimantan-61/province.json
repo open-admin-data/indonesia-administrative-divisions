@@ -1,0 +1,31 @@
+{
+  "id": "61",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kalimantan Barat",
+    "en": "West Kalimantan",
+    "slug": "west-kalimantan-61"
+  },
+  "code": {
+    "id": "61",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 14,
+    "village": 2073,
+    "district": 174
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.061",
+    "lon": "109.353"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,618 @@
+[
+  {
+    "id": "1311012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asam Jujuhan",
+      "en": "Asam Jujuhan",
+      "slug": "asam-jujuhan-1311012"
+    },
+    "code": {
+      "id": "1311012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.504",
+      "lon": "101.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ix Koto",
+      "en": "Ix Koto",
+      "slug": "ix-koto-1311041"
+    },
+    "code": {
+      "id": "1311041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.029",
+      "lon": "101.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koto Baru",
+      "en": "Koto Baru",
+      "slug": "koto-baru-1311020"
+    },
+    "code": {
+      "id": "1311020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.122",
+      "lon": "101.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koto Besar",
+      "en": "Koto Besar",
+      "slug": "koto-besar-1311011"
+    },
+    "code": {
+      "id": "1311011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.229",
+      "lon": "101.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Koto Salak",
+      "en": "Koto Salak",
+      "slug": "koto-salak-1311021"
+    },
+    "code": {
+      "id": "1311021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.157",
+      "lon": "101.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padang Laweh",
+      "en": "Padang Laweh",
+      "slug": "padang-laweh-1311023"
+    },
+    "code": {
+      "id": "1311023",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.035",
+      "lon": "101.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Punjung",
+      "en": "Pulau Punjung",
+      "slug": "pulau-punjung-1311040"
+    },
+    "code": {
+      "id": "1311040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.004",
+      "lon": "101.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sitiung",
+      "en": "Sitiung",
+      "slug": "sitiung-1311030"
+    },
+    "code": {
+      "id": "1311030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.006",
+      "lon": "101.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Rumbai",
+      "en": "Sungai Rumbai",
+      "slug": "sungai-rumbai-1311010"
+    },
+    "code": {
+      "id": "1311010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.221",
+      "lon": "101.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Timpeh",
+      "en": "Timpeh",
+      "slug": "timpeh-1311031"
+    },
+    "code": {
+      "id": "1311031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.903",
+      "lon": "101.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tiumang",
+      "en": "Tiumang",
+      "slug": "tiumang-1311022"
+    },
+    "code": {
+      "id": "1311022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.053",
+      "lon": "101.744"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

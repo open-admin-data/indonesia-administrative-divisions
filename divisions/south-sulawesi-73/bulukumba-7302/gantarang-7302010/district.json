@@ -1,0 +1,56 @@
+{
+  "id": "7302010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gantarang",
+    "en": "Gantarang",
+    "slug": "gantarang-7302010"
+  },
+  "code": {
+    "id": "7302010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bulukumba",
+      "en": "Bulukumba",
+      "slug": "bulukumba-7302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bulukumba",
+        "en": "Bulukumba",
+        "slug": "bulukumba-7302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.499",
+    "lon": "120.13"
+  },
+  "metadata": {},
+  "source": {}
+}

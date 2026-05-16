@@ -1,0 +1,56 @@
+{
+  "id": "6212040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Patangkep Tutui",
+    "en": "Patangkep Tutui",
+    "slug": "patangkep-tutui-6212040"
+  },
+  "code": {
+    "id": "6212040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6212",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barito Timur",
+      "en": "Barito Timur",
+      "slug": "barito-timur-6212"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6212",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barito Timur",
+        "en": "Barito Timur",
+        "slug": "barito-timur-6212"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.001",
+    "lon": "115.351"
+  },
+  "metadata": {},
+  "source": {}
+}

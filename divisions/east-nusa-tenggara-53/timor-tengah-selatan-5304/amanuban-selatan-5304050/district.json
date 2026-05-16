@@ -1,0 +1,56 @@
+{
+  "id": "5304050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amanuban Selatan",
+    "en": "Amanuban Selatan",
+    "slug": "amanuban-selatan-5304050"
+  },
+  "code": {
+    "id": "5304050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Timor Tengah Selatan",
+      "en": "Timor Tengah Selatan",
+      "slug": "timor-tengah-selatan-5304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Timor Tengah Selatan",
+        "en": "Timor Tengah Selatan",
+        "slug": "timor-tengah-selatan-5304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.051",
+    "lon": "124.257"
+  },
+  "metadata": {},
+  "source": {}
+}

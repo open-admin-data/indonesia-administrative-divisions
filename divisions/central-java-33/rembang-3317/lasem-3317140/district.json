@@ -1,0 +1,56 @@
+{
+  "id": "3317140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lasem",
+    "en": "Lasem",
+    "slug": "lasem-3317140"
+  },
+  "code": {
+    "id": "3317140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3317",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rembang",
+      "en": "Rembang",
+      "slug": "rembang-3317"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.682",
+    "lon": "111.465"
+  },
+  "metadata": {},
+  "source": {}
+}

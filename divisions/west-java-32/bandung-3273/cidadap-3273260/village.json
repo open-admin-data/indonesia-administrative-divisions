@@ -1,0 +1,132 @@
+[
+  {
+    "id": "3273260002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ciumbuleuit",
+      "en": "Ciumbuleuit",
+      "slug": "ciumbuleuit-3273260002"
+    },
+    "code": {
+      "id": "3273260002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3273260",
+      "level": 3,
+      "name": {
+        "local": "Cidadap",
+        "en": "Cidadap",
+        "slug": "cidadap-3273260"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3273",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3273"
+        }
+      },
+      {
+        "id": "3273260",
+        "level": 3,
+        "name": {
+          "local": "Cidadap",
+          "en": "Cidadap",
+          "slug": "cidadap-3273260"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40141"
+    ],
+    "geo": {
+      "lat": "-6.859",
+      "lon": "107.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3273260001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hegarmanah",
+      "en": "Hegarmanah",
+      "slug": "hegarmanah-3273260001"
+    },
+    "code": {
+      "id": "3273260001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3273260",
+      "level": 3,
+      "name": {
+        "local": "Cidadap",
+        "en": "Cidadap",
+        "slug": "cidadap-3273260"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3273",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3273"
+        }
+      },
+      {
+        "id": "3273260",
+        "level": 3,
+        "name": {
+          "local": "Cidadap",
+          "en": "Cidadap",
+          "slug": "cidadap-3273260"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40141"
+    ],
+    "geo": {
+      "lat": "-6.873",
+      "lon": "107.599"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

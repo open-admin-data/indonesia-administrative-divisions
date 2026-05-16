@@ -1,0 +1,48 @@
+{
+  "id": "7411",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kolaka Timur",
+    "en": "Kolaka Timur",
+    "slug": "kolaka-timur-7411"
+  },
+  "code": {
+    "id": "7411",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi",
+      "slug": "southeast-sulawesi-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 132
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.001",
+    "lon": "121.862"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3511060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukosari",
+    "en": "Sukosari",
+    "slug": "sukosari-3511060"
+  },
+  "code": {
+    "id": "3511060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3511",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bondowoso",
+      "en": "Bondowoso",
+      "slug": "bondowoso-3511"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3511",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bondowoso",
+        "en": "Bondowoso",
+        "slug": "bondowoso-3511"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.938",
+    "lon": "113.955"
+  },
+  "metadata": {},
+  "source": {}
+}

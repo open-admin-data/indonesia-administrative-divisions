@@ -1,0 +1,898 @@
+[
+  {
+    "id": "3316110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarejo",
+      "en": "Banjarejo",
+      "slug": "banjarejo-3316110"
+    },
+    "code": {
+      "id": "3316110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.05",
+      "lon": "111.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bogorejo",
+      "en": "Bogorejo",
+      "slug": "bogorejo-3316080"
+    },
+    "code": {
+      "id": "3316080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.928",
+      "lon": "111.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cepu",
+      "en": "Cepu",
+      "slug": "cepu-3316050"
+    },
+    "code": {
+      "id": "3316050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.167",
+      "lon": "111.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Japah",
+      "en": "Japah",
+      "slug": "japah-3316130"
+    },
+    "code": {
+      "id": "3316130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.922",
+      "lon": "111.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jati",
+      "en": "Jati",
+      "slug": "jati-3316010"
+    },
+    "code": {
+      "id": "3316010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.223",
+      "lon": "111.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jepon",
+      "en": "Jepon",
+      "slug": "jepon-3316090"
+    },
+    "code": {
+      "id": "3316090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.998",
+      "lon": "111.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jiken",
+      "en": "Jiken",
+      "slug": "jiken-3316070"
+    },
+    "code": {
+      "id": "3316070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.007",
+      "lon": "111.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedungtuban",
+      "en": "Kedungtuban",
+      "slug": "kedungtuban-3316040"
+    },
+    "code": {
+      "id": "3316040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.169",
+      "lon": "111.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Blora",
+      "en": "Kota Blora",
+      "slug": "kota-blora-3316100"
+    },
+    "code": {
+      "id": "3316100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.961",
+      "lon": "111.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kradenan",
+      "en": "Kradenan",
+      "slug": "kradenan-3316030"
+    },
+    "code": {
+      "id": "3316030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.282",
+      "lon": "111.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kunduran",
+      "en": "Kunduran",
+      "slug": "kunduran-3316150"
+    },
+    "code": {
+      "id": "3316150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.071",
+      "lon": "111.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngawen",
+      "en": "Ngawen",
+      "slug": "ngawen-3316140"
+    },
+    "code": {
+      "id": "3316140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.033",
+      "lon": "111.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Randublatung",
+      "en": "Randublatung",
+      "slug": "randublatung-3316020"
+    },
+    "code": {
+      "id": "3316020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.205",
+      "lon": "111.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sambong",
+      "en": "Sambong",
+      "slug": "sambong-3316060"
+    },
+    "code": {
+      "id": "3316060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.092",
+      "lon": "111.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Todanan",
+      "en": "Todanan",
+      "slug": "todanan-3316160"
+    },
+    "code": {
+      "id": "3316160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.929",
+      "lon": "111.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3316120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tunjungan",
+      "en": "Tunjungan",
+      "slug": "tunjungan-3316120"
+    },
+    "code": {
+      "id": "3316120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3316",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Blora",
+          "en": "Blora",
+          "slug": "blora-3316"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.938",
+      "lon": "111.389"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

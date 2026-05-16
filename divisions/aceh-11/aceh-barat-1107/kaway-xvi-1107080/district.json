@@ -1,0 +1,56 @@
+{
+  "id": "1107080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaway Xvi",
+    "en": "Kaway Xvi",
+    "slug": "kaway-xvi-1107080"
+  },
+  "code": {
+    "id": "1107080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Barat",
+      "en": "Aceh Barat",
+      "slug": "aceh-barat-1107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Barat",
+        "en": "Aceh Barat",
+        "slug": "aceh-barat-1107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.272",
+    "lon": "96.21"
+  },
+  "metadata": {},
+  "source": {}
+}

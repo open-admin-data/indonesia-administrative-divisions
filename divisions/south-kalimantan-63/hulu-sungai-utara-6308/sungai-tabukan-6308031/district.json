@@ -1,0 +1,56 @@
+{
+  "id": "6308031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Tabukan",
+    "en": "Sungai Tabukan",
+    "slug": "sungai-tabukan-6308031"
+  },
+  "code": {
+    "id": "6308031",
+    "iso": null
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Utara",
+      "en": "Hulu Sungai Utara",
+      "slug": "hulu-sungai-utara-6308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Utara",
+        "en": "Hulu Sungai Utara",
+        "slug": "hulu-sungai-utara-6308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.449",
+    "lon": "115.18"
+  },
+  "metadata": {},
+  "source": {}
+}

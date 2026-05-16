@@ -1,0 +1,56 @@
+{
+  "id": "1372020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjung Harapan",
+    "en": "Tanjung Harapan",
+    "slug": "tanjung-harapan-1372020"
+  },
+  "code": {
+    "id": "1372020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1372",
+    "level": 2,
+    "name": {
+      "local": "Kota Solok",
+      "en": "Solok",
+      "slug": "solok-1372"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1372",
+      "level": 2,
+      "name": {
+        "local": "Kota Solok",
+        "en": "Solok",
+        "slug": "solok-1372"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.767",
+    "lon": "100.661"
+  },
+  "metadata": {},
+  "source": {}
+}

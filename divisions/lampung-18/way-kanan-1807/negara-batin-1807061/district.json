@@ -1,0 +1,56 @@
+{
+  "id": "1807061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Negara Batin",
+    "en": "Negara Batin",
+    "slug": "negara-batin-1807061"
+  },
+  "code": {
+    "id": "1807061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1807",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Way Kanan",
+      "en": "Way Kanan",
+      "slug": "way-kanan-1807"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.321",
+    "lon": "104.891"
+  },
+  "metadata": {},
+  "source": {}
+}

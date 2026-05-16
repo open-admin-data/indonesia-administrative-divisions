@@ -1,0 +1,56 @@
+{
+  "id": "3322120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bringin",
+    "en": "Bringin",
+    "slug": "bringin-3322120"
+  },
+  "code": {
+    "id": "3322120",
+    "iso": null
+  },
+  "parent": {
+    "id": "3322",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Semarang",
+      "en": "Semarang",
+      "slug": "semarang-3322"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3322",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Semarang",
+        "en": "Semarang",
+        "slug": "semarang-3322"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.233",
+    "lon": "110.559"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7206061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dako Pamean",
+    "en": "Dako Pamean",
+    "slug": "dako-pamean-7206061"
+  },
+  "code": {
+    "id": "7206061",
+    "iso": null
+  },
+  "parent": {
+    "id": "7206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toli-toli",
+      "en": "Toli-toli",
+      "slug": "toli-toli-7206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toli-toli",
+        "en": "Toli-toli",
+        "slug": "toli-toli-7206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.257",
+    "lon": "120.895"
+  },
+  "metadata": {},
+  "source": {}
+}

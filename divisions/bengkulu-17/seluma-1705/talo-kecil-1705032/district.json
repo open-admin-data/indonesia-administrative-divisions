@@ -1,0 +1,56 @@
+{
+  "id": "1705032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Talo Kecil",
+    "en": "Talo Kecil",
+    "slug": "talo-kecil-1705032"
+  },
+  "code": {
+    "id": "1705032",
+    "iso": null
+  },
+  "parent": {
+    "id": "1705",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seluma",
+      "en": "Seluma",
+      "slug": "seluma-1705"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.216",
+    "lon": "102.738"
+  },
+  "metadata": {},
+  "source": {}
+}

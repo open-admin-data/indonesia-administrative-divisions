@@ -1,0 +1,56 @@
+{
+  "id": "3213191",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukasari",
+    "en": "Sukasari",
+    "slug": "sukasari-3213191"
+  },
+  "code": {
+    "id": "3213191",
+    "iso": null
+  },
+  "parent": {
+    "id": "3213",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Subang",
+      "en": "Subang",
+      "slug": "subang-3213"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Subang",
+        "en": "Subang",
+        "slug": "subang-3213"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.277",
+    "lon": "107.761"
+  },
+  "metadata": {},
+  "source": {}
+}

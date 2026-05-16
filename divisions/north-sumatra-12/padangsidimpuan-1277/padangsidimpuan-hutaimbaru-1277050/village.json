@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1277050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Padang",
+      "en": "Huta Padang",
+      "slug": "huta-padang-1277050008"
+    },
+    "code": {
+      "id": "1277050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.456",
+      "lon": "99.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutaimbaru",
+      "en": "Hutaimbaru",
+      "slug": "hutaimbaru-1277050002"
+    },
+    "code": {
+      "id": "1277050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.403",
+      "lon": "99.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lembah Lubuk Manik",
+      "en": "Lembah Lubuk Manik",
+      "slug": "lembah-lubuk-manik-1277050005"
+    },
+    "code": {
+      "id": "1277050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.427",
+      "lon": "99.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuk Raya",
+      "en": "Lubuk Raya",
+      "slug": "lubuk-raya-1277050009"
+    },
+    "code": {
+      "id": "1277050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.441",
+      "lon": "99.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Palopat Maria",
+      "en": "Palopat Maria",
+      "slug": "palopat-maria-1277050003"
+    },
+    "code": {
+      "id": "1277050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.409",
+      "lon": "99.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Partihaman Saroha",
+      "en": "Partihaman Saroha",
+      "slug": "partihaman-saroha-1277050001"
+    },
+    "code": {
+      "id": "1277050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.39",
+      "lon": "99.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sabungan Jae",
+      "en": "Sabungan Jae",
+      "slug": "sabungan-jae-1277050004"
+    },
+    "code": {
+      "id": "1277050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.409",
+      "lon": "99.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sabungan Sipabangun",
+      "en": "Sabungan Sipabangun",
+      "slug": "sabungan-sipabangun-1277050006"
+    },
+    "code": {
+      "id": "1277050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.418",
+      "lon": "99.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Singali",
+      "en": "Singali",
+      "slug": "singali-1277050007"
+    },
+    "code": {
+      "id": "1277050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.416",
+      "lon": "99.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tinjoman",
+      "en": "Tinjoman",
+      "slug": "tinjoman-1277050010"
+    },
+    "code": {
+      "id": "1277050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1277050",
+      "level": 3,
+      "name": {
+        "local": "Padangsidimpuan Hutaimbaru",
+        "en": "Padangsidimpuan Hutaimbaru",
+        "slug": "padangsidimpuan-hutaimbaru-1277050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1277",
+        "level": 2,
+        "name": {
+          "local": "Kota Padangsidimpuan",
+          "en": "Padangsidimpuan",
+          "slug": "padangsidimpuan-1277"
+        }
+      },
+      {
+        "id": "1277050",
+        "level": 3,
+        "name": {
+          "local": "Padangsidimpuan Hutaimbaru",
+          "en": "Padangsidimpuan Hutaimbaru",
+          "slug": "padangsidimpuan-hutaimbaru-1277050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22729"
+    ],
+    "geo": {
+      "lat": "1.428",
+      "lon": "99.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

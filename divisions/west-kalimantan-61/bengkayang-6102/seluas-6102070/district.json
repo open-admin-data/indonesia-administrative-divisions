@@ -1,0 +1,56 @@
+{
+  "id": "6102070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seluas",
+    "en": "Seluas",
+    "slug": "seluas-6102070"
+  },
+  "code": {
+    "id": "6102070",
+    "iso": null
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkayang",
+      "en": "Bengkayang",
+      "slug": "bengkayang-6102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.207",
+    "lon": "109.753"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1409030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kubu",
+    "en": "Kubu",
+    "slug": "kubu-1409030"
+  },
+  "code": {
+    "id": "1409030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1409",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rokan Hilir",
+      "en": "Rokan Hilir",
+      "slug": "rokan-hilir-1409"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rokan Hilir",
+        "en": "Rokan Hilir",
+        "slug": "rokan-hilir-1409"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.064",
+    "lon": "100.536"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9102041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Yamor",
+    "en": "Yamor",
+    "slug": "yamor-9102041"
+  },
+  "code": {
+    "id": "9102041",
+    "iso": null
+  },
+  "parent": {
+    "id": "9102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kaimana",
+      "en": "Kaimana",
+      "slug": "kaimana-9102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.881",
+    "lon": "134.756"
+  },
+  "metadata": {},
+  "source": {}
+}

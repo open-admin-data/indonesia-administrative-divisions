@@ -1,0 +1,56 @@
+{
+  "id": "3172090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulo Gadung",
+    "en": "Pulo Gadung",
+    "slug": "pulo-gadung-3172090"
+  },
+  "code": {
+    "id": "3172090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3172",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Timur",
+      "en": "Jakarta Timur",
+      "slug": "jakarta-timur-3172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3172",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Timur",
+        "en": "Jakarta Timur",
+        "slug": "jakarta-timur-3172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.191",
+    "lon": "106.892"
+  },
+  "metadata": {},
+  "source": {}
+}

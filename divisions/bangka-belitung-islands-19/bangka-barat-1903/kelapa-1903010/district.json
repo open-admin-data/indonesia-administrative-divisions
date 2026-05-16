@@ -1,0 +1,56 @@
+{
+  "id": "1903010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelapa",
+    "en": "Kelapa",
+    "slug": "kelapa-1903010"
+  },
+  "code": {
+    "id": "1903010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Barat",
+      "en": "Bangka Barat",
+      "slug": "bangka-barat-1903"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Barat",
+        "en": "Bangka Barat",
+        "slug": "bangka-barat-1903"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.887",
+    "lon": "105.619"
+  },
+  "metadata": {},
+  "source": {}
+}

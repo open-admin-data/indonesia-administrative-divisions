@@ -1,0 +1,912 @@
+[
+  {
+    "id": "3210050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Argalingga",
+      "en": "Argalingga",
+      "slug": "argalingga-3210050009"
+    },
+    "code": {
+      "id": "3210050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.889",
+      "lon": "108.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Argamukti",
+      "en": "Argamukti",
+      "slug": "argamukti-3210050008"
+    },
+    "code": {
+      "id": "3210050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.911",
+      "lon": "108.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibunut",
+      "en": "Cibunut",
+      "slug": "cibunut-3210050002"
+    },
+    "code": {
+      "id": "3210050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.928",
+      "lon": "108.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cikaracak",
+      "en": "Cikaracak",
+      "slug": "cikaracak-3210050014"
+    },
+    "code": {
+      "id": "3210050014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.889",
+      "lon": "108.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunungwangi",
+      "en": "Gunungwangi",
+      "slug": "gunungwangi-3210050011"
+    },
+    "code": {
+      "id": "3210050011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.882",
+      "lon": "108.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Haurseah",
+      "en": "Haurseah",
+      "slug": "haurseah-3210050010"
+    },
+    "code": {
+      "id": "3210050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.889",
+      "lon": "108.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Heubeulisuk",
+      "en": "Heubeulisuk",
+      "slug": "heubeulisuk-3210050013"
+    },
+    "code": {
+      "id": "3210050013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.859",
+      "lon": "108.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mekarwangi",
+      "en": "Mekarwangi",
+      "slug": "mekarwangi-3210050012"
+    },
+    "code": {
+      "id": "3210050012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.872",
+      "lon": "108.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sadasari",
+      "en": "Sadasari",
+      "slug": "sadasari-3210050006"
+    },
+    "code": {
+      "id": "3210050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.889",
+      "lon": "108.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sagara",
+      "en": "Sagara",
+      "slug": "sagara-3210050001"
+    },
+    "code": {
+      "id": "3210050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.919",
+      "lon": "108.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukadana",
+      "en": "Sukadana",
+      "slug": "sukadana-3210050007"
+    },
+    "code": {
+      "id": "3210050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.898",
+      "lon": "108.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukasari Kaler",
+      "en": "Sukasari Kaler",
+      "slug": "sukasari-kaler-3210050005"
+    },
+    "code": {
+      "id": "3210050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.907",
+      "lon": "108.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukasari Kidul",
+      "en": "Sukasari Kidul",
+      "slug": "sukasari-kidul-3210050004"
+    },
+    "code": {
+      "id": "3210050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.909",
+      "lon": "108.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tejamulya",
+      "en": "Tejamulya",
+      "slug": "tejamulya-3210050003"
+    },
+    "code": {
+      "id": "3210050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210050",
+      "level": 3,
+      "name": {
+        "local": "Argapura",
+        "en": "Argapura",
+        "slug": "argapura-3210050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      },
+      {
+        "id": "3210050",
+        "level": 3,
+        "name": {
+          "local": "Argapura",
+          "en": "Argapura",
+          "slug": "argapura-3210050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45462"
+    ],
+    "geo": {
+      "lat": "-6.923",
+      "lon": "108.33"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

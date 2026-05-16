@@ -1,0 +1,56 @@
+{
+  "id": "9104080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Moskona Selatan",
+    "en": "Moskona Selatan",
+    "slug": "moskona-selatan-9104080"
+  },
+  "code": {
+    "id": "9104080",
+    "iso": null
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Bintuni",
+      "en": "Teluk Bintuni",
+      "slug": "teluk-bintuni-9104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Bintuni",
+        "en": "Teluk Bintuni",
+        "slug": "teluk-bintuni-9104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.714",
+    "lon": "132.892"
+  },
+  "metadata": {},
+  "source": {}
+}

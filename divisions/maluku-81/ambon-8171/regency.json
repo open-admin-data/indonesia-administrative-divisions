@@ -1,0 +1,48 @@
+{
+  "id": "8171",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Ambon",
+    "en": "Ambon",
+    "slug": "ambon-8171"
+  },
+  "code": {
+    "id": "8171",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.694",
+    "lon": "128.181"
+  },
+  "metadata": {},
+  "source": {}
+}

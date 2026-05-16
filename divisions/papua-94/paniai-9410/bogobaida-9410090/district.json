@@ -1,0 +1,56 @@
+{
+  "id": "9410090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bogobaida",
+    "en": "Bogobaida",
+    "slug": "bogobaida-9410090"
+  },
+  "code": {
+    "id": "9410090",
+    "iso": null
+  },
+  "parent": {
+    "id": "9410",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Paniai",
+      "en": "Paniai",
+      "slug": "paniai-9410"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paniai",
+        "en": "Paniai",
+        "slug": "paniai-9410"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.594",
+    "lon": "136.37"
+  },
+  "metadata": {},
+  "source": {}
+}

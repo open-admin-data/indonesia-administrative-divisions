@@ -1,0 +1,56 @@
+{
+  "id": "1116011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasie Raya",
+    "en": "Pasie Raya",
+    "slug": "pasie-raya-1116011"
+  },
+  "code": {
+    "id": "1116011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1116",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Jaya",
+      "en": "Aceh Jaya",
+      "slug": "aceh-jaya-1116"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.613",
+    "lon": "95.944"
+  },
+  "metadata": {},
+  "source": {}
+}

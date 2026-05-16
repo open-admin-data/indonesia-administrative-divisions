@@ -1,0 +1,56 @@
+{
+  "id": "1102010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Banyak",
+    "en": "Pulau Banyak",
+    "slug": "pulau-banyak-1102010"
+  },
+  "code": {
+    "id": "1102010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Singkil",
+      "en": "Aceh Singkil",
+      "slug": "aceh-singkil-1102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.26",
+    "lon": "97.375"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7404061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Latambaga",
+    "en": "Latambaga",
+    "slug": "latambaga-7404061"
+  },
+  "code": {
+    "id": "7404061",
+    "iso": null
+  },
+  "parent": {
+    "id": "7404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kolaka",
+      "en": "Kolaka",
+      "slug": "kolaka-7404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kolaka",
+        "en": "Kolaka",
+        "slug": "kolaka-7404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.963",
+    "lon": "121.593"
+  },
+  "metadata": {},
+  "source": {}
+}

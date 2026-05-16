@@ -1,0 +1,56 @@
+{
+  "id": "7202030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bunta",
+    "en": "Bunta",
+    "slug": "bunta-7202030"
+  },
+  "code": {
+    "id": "7202030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banggai",
+      "en": "Banggai",
+      "slug": "banggai-7202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banggai",
+        "en": "Banggai",
+        "slug": "banggai-7202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.912",
+    "lon": "122.319"
+  },
+  "metadata": {},
+  "source": {}
+}

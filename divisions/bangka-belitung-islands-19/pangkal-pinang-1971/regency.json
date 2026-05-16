@@ -1,0 +1,48 @@
+{
+  "id": "1971",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Pangkal Pinang",
+    "en": "Pangkal Pinang",
+    "slug": "pangkal-pinang-1971"
+  },
+  "code": {
+    "id": "1971",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Kepulauan Bangka Belitung",
+      "en": "Bangka Belitung Islands",
+      "slug": "bangka-belitung-islands-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 42
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.141",
+    "lon": "106.116"
+  },
+  "metadata": {},
+  "source": {}
+}

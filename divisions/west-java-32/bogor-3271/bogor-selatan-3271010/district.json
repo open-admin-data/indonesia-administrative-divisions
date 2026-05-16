@@ -1,0 +1,56 @@
+{
+  "id": "3271010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bogor Selatan",
+    "en": "Bogor Selatan",
+    "slug": "bogor-selatan-3271010"
+  },
+  "code": {
+    "id": "3271010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3271",
+    "level": 2,
+    "name": {
+      "local": "Kota Bogor",
+      "en": "Bogor",
+      "slug": "bogor-3271"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3271",
+      "level": 2,
+      "name": {
+        "local": "Kota Bogor",
+        "en": "Bogor",
+        "slug": "bogor-3271"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.643",
+    "lon": "106.81"
+  },
+  "metadata": {},
+  "source": {}
+}

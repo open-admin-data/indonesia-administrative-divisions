@@ -1,0 +1,56 @@
+{
+  "id": "1213010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bohorok",
+    "en": "Bohorok",
+    "slug": "bohorok-1213010"
+  },
+  "code": {
+    "id": "1213010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1213",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Langkat",
+      "en": "Langkat",
+      "slug": "langkat-1213"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.435",
+    "lon": "98.074"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1808041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Penawar Aji",
+    "en": "Penawar Aji",
+    "slug": "penawar-aji-1808041"
+  },
+  "code": {
+    "id": "1808041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1808",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulangbawang",
+      "en": "Tulangbawang",
+      "slug": "tulangbawang-1808"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1808",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulangbawang",
+        "en": "Tulangbawang",
+        "slug": "tulangbawang-1808"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.283",
+    "lon": "105.485"
+  },
+  "metadata": {},
+  "source": {}
+}

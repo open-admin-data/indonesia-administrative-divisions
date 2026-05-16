@@ -1,0 +1,56 @@
+{
+  "id": "6403140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Marang Kayu",
+    "en": "Marang Kayu",
+    "slug": "marang-kayu-6403140"
+  },
+  "code": {
+    "id": "6403140",
+    "iso": null
+  },
+  "parent": {
+    "id": "6403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Kartanegara",
+      "en": "Kutai Kartanegara",
+      "slug": "kutai-kartanegara-6403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Kartanegara",
+        "en": "Kutai Kartanegara",
+        "slug": "kutai-kartanegara-6403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.061",
+    "lon": "117.296"
+  },
+  "metadata": {},
+  "source": {}
+}

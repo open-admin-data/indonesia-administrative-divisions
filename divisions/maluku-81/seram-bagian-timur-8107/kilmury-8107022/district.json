@@ -1,0 +1,56 @@
+{
+  "id": "8107022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kilmury",
+    "en": "Kilmury",
+    "slug": "kilmury-8107022"
+  },
+  "code": {
+    "id": "8107022",
+    "iso": null
+  },
+  "parent": {
+    "id": "8107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seram Bagian Timur",
+      "en": "Seram Bagian Timur",
+      "slug": "seram-bagian-timur-8107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seram Bagian Timur",
+        "en": "Seram Bagian Timur",
+        "slug": "seram-bagian-timur-8107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.637",
+    "lon": "130.571"
+  },
+  "metadata": {},
+  "source": {}
+}

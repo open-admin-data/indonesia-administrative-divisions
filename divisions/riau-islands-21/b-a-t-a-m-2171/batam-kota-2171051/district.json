@@ -1,0 +1,56 @@
+{
+  "id": "2171051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batam Kota",
+    "en": "Batam Kota",
+    "slug": "batam-kota-2171051"
+  },
+  "code": {
+    "id": "2171051",
+    "iso": null
+  },
+  "parent": {
+    "id": "2171",
+    "level": 2,
+    "name": {
+      "local": "Kota B A T A M",
+      "en": "B A T A M",
+      "slug": "b-a-t-a-m-2171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2171",
+      "level": 2,
+      "name": {
+        "local": "Kota B A T A M",
+        "en": "B A T A M",
+        "slug": "b-a-t-a-m-2171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.118",
+    "lon": "104.061"
+  },
+  "metadata": {},
+  "source": {}
+}

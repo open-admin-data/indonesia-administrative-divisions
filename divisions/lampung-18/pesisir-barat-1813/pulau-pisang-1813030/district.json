@@ -1,0 +1,56 @@
+{
+  "id": "1813030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Pisang",
+    "en": "Pulau Pisang",
+    "slug": "pulau-pisang-1813030"
+  },
+  "code": {
+    "id": "1813030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1813",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pesisir Barat",
+      "en": "Pesisir Barat",
+      "slug": "pesisir-barat-1813"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1813",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesisir Barat",
+        "en": "Pesisir Barat",
+        "slug": "pesisir-barat-1813"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.121",
+    "lon": "103.846"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9413022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kombut",
+    "en": "Kombut",
+    "slug": "kombut-9413022"
+  },
+  "code": {
+    "id": "9413022",
+    "iso": null
+  },
+  "parent": {
+    "id": "9413",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Boven Digoel",
+      "en": "Boven Digoel",
+      "slug": "boven-digoel-9413"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9413",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Boven Digoel",
+        "en": "Boven Digoel",
+        "slug": "boven-digoel-9413"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.972",
+    "lon": "140.857"
+  },
+  "metadata": {},
+  "source": {}
+}

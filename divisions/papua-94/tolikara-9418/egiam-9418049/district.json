@@ -1,0 +1,56 @@
+{
+  "id": "9418049",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Egiam",
+    "en": "Egiam",
+    "slug": "egiam-9418049"
+  },
+  "code": {
+    "id": "9418049",
+    "iso": null
+  },
+  "parent": {
+    "id": "9418",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tolikara",
+      "en": "Tolikara",
+      "slug": "tolikara-9418"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9418",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tolikara",
+        "en": "Tolikara",
+        "slug": "tolikara-9418"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.295",
+    "lon": "138.221"
+  },
+  "metadata": {},
+  "source": {}
+}

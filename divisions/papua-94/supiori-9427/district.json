@@ -1,0 +1,282 @@
+[
+  {
+    "id": "9427011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kepulauan Aruri",
+      "en": "Kepulauan Aruri",
+      "slug": "kepulauan-aruri-9427011"
+    },
+    "code": {
+      "id": "9427011",
+      "iso": null
+    },
+    "parent": {
+      "id": "9427",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Supiori",
+        "en": "Supiori",
+        "slug": "supiori-9427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9427",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Supiori",
+          "en": "Supiori",
+          "slug": "supiori-9427"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.8",
+      "lon": "135.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9427021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Supiori Barat",
+      "en": "Supiori Barat",
+      "slug": "supiori-barat-9427021"
+    },
+    "code": {
+      "id": "9427021",
+      "iso": null
+    },
+    "parent": {
+      "id": "9427",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Supiori",
+        "en": "Supiori",
+        "slug": "supiori-9427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9427",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Supiori",
+          "en": "Supiori",
+          "slug": "supiori-9427"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.097",
+      "lon": "134.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9427010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Supiori Selatan",
+      "en": "Supiori Selatan",
+      "slug": "supiori-selatan-9427010"
+    },
+    "code": {
+      "id": "9427010",
+      "iso": null
+    },
+    "parent": {
+      "id": "9427",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Supiori",
+        "en": "Supiori",
+        "slug": "supiori-9427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9427",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Supiori",
+          "en": "Supiori",
+          "slug": "supiori-9427"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.802",
+      "lon": "135.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9427030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Supiori Timur",
+      "en": "Supiori Timur",
+      "slug": "supiori-timur-9427030"
+    },
+    "code": {
+      "id": "9427030",
+      "iso": null
+    },
+    "parent": {
+      "id": "9427",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Supiori",
+        "en": "Supiori",
+        "slug": "supiori-9427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9427",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Supiori",
+          "en": "Supiori",
+          "slug": "supiori-9427"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.785",
+      "lon": "135.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9427020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Supiori Utara",
+      "en": "Supiori Utara",
+      "slug": "supiori-utara-9427020"
+    },
+    "code": {
+      "id": "9427020",
+      "iso": null
+    },
+    "parent": {
+      "id": "9427",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Supiori",
+        "en": "Supiori",
+        "slug": "supiori-9427"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9427",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Supiori",
+          "en": "Supiori",
+          "slug": "supiori-9427"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.73",
+      "lon": "135.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

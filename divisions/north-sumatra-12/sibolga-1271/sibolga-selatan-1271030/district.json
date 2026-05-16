@@ -1,0 +1,56 @@
+{
+  "id": "1271030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sibolga Selatan",
+    "en": "Sibolga Selatan",
+    "slug": "sibolga-selatan-1271030"
+  },
+  "code": {
+    "id": "1271030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1271",
+    "level": 2,
+    "name": {
+      "local": "Kota Sibolga",
+      "en": "Sibolga",
+      "slug": "sibolga-1271"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1271",
+      "level": 2,
+      "name": {
+        "local": "Kota Sibolga",
+        "en": "Sibolga",
+        "slug": "sibolga-1271"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.731",
+    "lon": "98.799"
+  },
+  "metadata": {},
+  "source": {}
+}

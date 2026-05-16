@@ -1,0 +1,56 @@
+{
+  "id": "6309030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelua",
+    "en": "Kelua",
+    "slug": "kelua-6309030"
+  },
+  "code": {
+    "id": "6309030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tabalong",
+      "en": "Tabalong",
+      "slug": "tabalong-6309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabalong",
+        "en": "Tabalong",
+        "slug": "tabalong-6309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.253",
+    "lon": "115.286"
+  },
+  "metadata": {},
+  "source": {}
+}

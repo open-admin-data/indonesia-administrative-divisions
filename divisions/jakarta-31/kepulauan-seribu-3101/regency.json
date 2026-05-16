@@ -1,0 +1,48 @@
+{
+  "id": "3101",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kepulauan Seribu",
+    "en": "Kepulauan Seribu",
+    "slug": "kepulauan-seribu-3101"
+  },
+  "code": {
+    "id": "3101",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Dki Jakarta",
+      "en": "Jakarta",
+      "slug": "jakarta-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 2,
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.746",
+    "lon": "106.613"
+  },
+  "metadata": {},
+  "source": {}
+}

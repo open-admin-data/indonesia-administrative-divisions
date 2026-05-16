@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1872022003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hadimulyo Barat",
+      "en": "Hadimulyo Barat",
+      "slug": "hadimulyo-barat-1872022003"
+    },
+    "code": {
+      "id": "1872022003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872022",
+      "level": 3,
+      "name": {
+        "local": "Metro Pusat",
+        "en": "Metro Pusat",
+        "slug": "metro-pusat-1872022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      },
+      {
+        "id": "1872022",
+        "level": 3,
+        "name": {
+          "local": "Metro Pusat",
+          "en": "Metro Pusat",
+          "slug": "metro-pusat-1872022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34111"
+    ],
+    "geo": {
+      "lat": "-5.105",
+      "lon": "105.298"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872022004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hadimulyo Timur",
+      "en": "Hadimulyo Timur",
+      "slug": "hadimulyo-timur-1872022004"
+    },
+    "code": {
+      "id": "1872022004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872022",
+      "level": 3,
+      "name": {
+        "local": "Metro Pusat",
+        "en": "Metro Pusat",
+        "slug": "metro-pusat-1872022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      },
+      {
+        "id": "1872022",
+        "level": 3,
+        "name": {
+          "local": "Metro Pusat",
+          "en": "Metro Pusat",
+          "slug": "metro-pusat-1872022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34111"
+    ],
+    "geo": {
+      "lat": "-5.095",
+      "lon": "105.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872022002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Imopuro",
+      "en": "Imopuro",
+      "slug": "imopuro-1872022002"
+    },
+    "code": {
+      "id": "1872022002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872022",
+      "level": 3,
+      "name": {
+        "local": "Metro Pusat",
+        "en": "Metro Pusat",
+        "slug": "metro-pusat-1872022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      },
+      {
+        "id": "1872022",
+        "level": 3,
+        "name": {
+          "local": "Metro Pusat",
+          "en": "Metro Pusat",
+          "slug": "metro-pusat-1872022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34111"
+    ],
+    "geo": {
+      "lat": "-5.114",
+      "lon": "105.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872022001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Metro",
+      "en": "Metro",
+      "slug": "metro-1872022001"
+    },
+    "code": {
+      "id": "1872022001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872022",
+      "level": 3,
+      "name": {
+        "local": "Metro Pusat",
+        "en": "Metro Pusat",
+        "slug": "metro-pusat-1872022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      },
+      {
+        "id": "1872022",
+        "level": 3,
+        "name": {
+          "local": "Metro Pusat",
+          "en": "Metro Pusat",
+          "slug": "metro-pusat-1872022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34111"
+    ],
+    "geo": {
+      "lat": "-5.125",
+      "lon": "105.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872022005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Yosomulyo",
+      "en": "Yosomulyo",
+      "slug": "yosomulyo-1872022005"
+    },
+    "code": {
+      "id": "1872022005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872022",
+      "level": 3,
+      "name": {
+        "local": "Metro Pusat",
+        "en": "Metro Pusat",
+        "slug": "metro-pusat-1872022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      },
+      {
+        "id": "1872022",
+        "level": 3,
+        "name": {
+          "local": "Metro Pusat",
+          "en": "Metro Pusat",
+          "slug": "metro-pusat-1872022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34111"
+    ],
+    "geo": {
+      "lat": "-5.1",
+      "lon": "105.328"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

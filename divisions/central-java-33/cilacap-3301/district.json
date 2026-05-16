@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "3301150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adipala",
+      "en": "Adipala",
+      "slug": "adipala-3301150"
+    },
+    "code": {
+      "id": "3301150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.659",
+      "lon": "109.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bantarsari",
+      "en": "Bantarsari",
+      "slug": "bantarsari-3301110"
+    },
+    "code": {
+      "id": "3301110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.574",
+      "lon": "108.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binangun",
+      "en": "Binangun",
+      "slug": "binangun-3301190"
+    },
+    "code": {
+      "id": "3301190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.675",
+      "lon": "109.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301710",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cilacap Selatan",
+      "en": "Cilacap Selatan",
+      "slug": "cilacap-selatan-3301710"
+    },
+    "code": {
+      "id": "3301710",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.73",
+      "lon": "108.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301720",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cilacap Tengah",
+      "en": "Cilacap Tengah",
+      "slug": "cilacap-tengah-3301720"
+    },
+    "code": {
+      "id": "3301720",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.692",
+      "lon": "108.994"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301730",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cilacap Utara",
+      "en": "Cilacap Utara",
+      "slug": "cilacap-utara-3301730"
+    },
+    "code": {
+      "id": "3301730",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.669",
+      "lon": "109.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cimanggu",
+      "en": "Cimanggu",
+      "slug": "cimanggu-3301040"
+    },
+    "code": {
+      "id": "3301040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.304",
+      "lon": "108.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cipari",
+      "en": "Cipari",
+      "slug": "cipari-3301060"
+    },
+    "code": {
+      "id": "3301060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.409",
+      "lon": "108.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dayeuhluhur",
+      "en": "Dayeuhluhur",
+      "slug": "dayeuhluhur-3301010"
+    },
+    "code": {
+      "id": "3301010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.245",
+      "lon": "108.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gandrungmangu",
+      "en": "Gandrungmangu",
+      "slug": "gandrungmangu-3301100"
+    },
+    "code": {
+      "id": "3301100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.508",
+      "lon": "108.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jeruklegi",
+      "en": "Jeruklegi",
+      "slug": "jeruklegi-3301130"
+    },
+    "code": {
+      "id": "3301130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.594",
+      "lon": "109.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301121",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kampung Laut",
+      "en": "Kampung Laut",
+      "slug": "kampung-laut-3301121"
+    },
+    "code": {
+      "id": "3301121",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.663",
+      "lon": "108.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangpucung",
+      "en": "Karangpucung",
+      "slug": "karangpucung-3301050"
+    },
+    "code": {
+      "id": "3301050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.376",
+      "lon": "108.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawunganten",
+      "en": "Kawunganten",
+      "slug": "kawunganten-3301120"
+    },
+    "code": {
+      "id": "3301120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.601",
+      "lon": "108.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedungreja",
+      "en": "Kedungreja",
+      "slug": "kedungreja-3301080"
+    },
+    "code": {
+      "id": "3301080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.512",
+      "lon": "108.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kesugihan",
+      "en": "Kesugihan",
+      "slug": "kesugihan-3301140"
+    },
+    "code": {
+      "id": "3301140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.632",
+      "lon": "109.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kroya",
+      "en": "Kroya",
+      "slug": "kroya-3301180"
+    },
+    "code": {
+      "id": "3301180",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.621",
+      "lon": "109.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Majenang",
+      "en": "Majenang",
+      "slug": "majenang-3301030"
+    },
+    "code": {
+      "id": "3301030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.258",
+      "lon": "108.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maos",
+      "en": "Maos",
+      "slug": "maos-3301160"
+    },
+    "code": {
+      "id": "3301160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.601",
+      "lon": "109.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nusawungu",
+      "en": "Nusawungu",
+      "slug": "nusawungu-3301200"
+    },
+    "code": {
+      "id": "3301200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.675",
+      "lon": "109.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Patimuan",
+      "en": "Patimuan",
+      "slug": "patimuan-3301090"
+    },
+    "code": {
+      "id": "3301090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.619",
+      "lon": "108.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sampang",
+      "en": "Sampang",
+      "slug": "sampang-3301170"
+    },
+    "code": {
+      "id": "3301170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.582",
+      "lon": "109.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sidareja",
+      "en": "Sidareja",
+      "slug": "sidareja-3301070"
+    },
+    "code": {
+      "id": "3301070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.457",
+      "lon": "108.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3301020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wanareja",
+      "en": "Wanareja",
+      "slug": "wanareja-3301020"
+    },
+    "code": {
+      "id": "3301020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cilacap",
+          "en": "Cilacap",
+          "slug": "cilacap-3301"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.315",
+      "lon": "108.673"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

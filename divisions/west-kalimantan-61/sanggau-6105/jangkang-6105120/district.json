@@ -1,0 +1,56 @@
+{
+  "id": "6105120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jangkang",
+    "en": "Jangkang",
+    "slug": "jangkang-6105120"
+  },
+  "code": {
+    "id": "6105120",
+    "iso": null
+  },
+  "parent": {
+    "id": "6105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sanggau",
+      "en": "Sanggau",
+      "slug": "sanggau-6105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sanggau",
+        "en": "Sanggau",
+        "slug": "sanggau-6105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.494",
+    "lon": "110.857"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7109020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pusomaen",
+    "en": "Pusomaen",
+    "slug": "pusomaen-7109020"
+  },
+  "code": {
+    "id": "7109020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa Tenggara",
+      "en": "Minahasa Tenggara",
+      "slug": "minahasa-tenggara-7109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa Tenggara",
+        "en": "Minahasa Tenggara",
+        "slug": "minahasa-tenggara-7109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.008",
+    "lon": "124.893"
+  },
+  "metadata": {},
+  "source": {}
+}

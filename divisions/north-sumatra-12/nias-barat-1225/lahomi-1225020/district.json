@@ -1,0 +1,56 @@
+{
+  "id": "1225020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lahomi",
+    "en": "Lahomi",
+    "slug": "lahomi-1225020"
+  },
+  "code": {
+    "id": "1225020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1225",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nias Barat",
+      "en": "Nias Barat",
+      "slug": "nias-barat-1225"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1225",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias Barat",
+        "en": "Nias Barat",
+        "slug": "nias-barat-1225"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.975",
+    "lon": "97.507"
+  },
+  "metadata": {},
+  "source": {}
+}

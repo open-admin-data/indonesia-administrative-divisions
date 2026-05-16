@@ -1,0 +1,56 @@
+{
+  "id": "5312020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bajawa",
+    "en": "Bajawa",
+    "slug": "bajawa-5312020"
+  },
+  "code": {
+    "id": "5312020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ngada",
+      "en": "Ngada",
+      "slug": "ngada-5312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.814",
+    "lon": "120.977"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "3402",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bantul",
+      "en": "Bantul",
+      "slug": "bantul-3402"
+    },
+    "code": {
+      "id": "3402",
+      "iso": null
+    },
+    "parent": {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.886",
+      "lon": "110.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3403",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Gunung Kidul",
+      "en": "Gunung Kidul",
+      "slug": "gunung-kidul-3403"
+    },
+    "code": {
+      "id": "3403",
+      "iso": null
+    },
+    "parent": {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 18,
+      "village": 130
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.964",
+      "lon": "110.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3401",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kulon Progo",
+      "en": "Kulon Progo",
+      "slug": "kulon-progo-3401"
+    },
+    "code": {
+      "id": "3401",
+      "iso": null
+    },
+    "parent": {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.858",
+      "lon": "110.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3404",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sleman",
+      "en": "Sleman",
+      "slug": "sleman-3404"
+    },
+    "code": {
+      "id": "3404",
+      "iso": null
+    },
+    "parent": {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 86
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.717",
+      "lon": "110.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-3471"
+    },
+    "code": {
+      "id": "3471",
+      "iso": null
+    },
+    "parent": {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.8",
+      "lon": "110.391"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

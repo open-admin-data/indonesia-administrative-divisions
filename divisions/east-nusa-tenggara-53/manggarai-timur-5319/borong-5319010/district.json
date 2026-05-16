@@ -1,0 +1,56 @@
+{
+  "id": "5319010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Borong",
+    "en": "Borong",
+    "slug": "borong-5319010"
+  },
+  "code": {
+    "id": "5319010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5319",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Timur",
+      "en": "Manggarai Timur",
+      "slug": "manggarai-timur-5319"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Timur",
+        "en": "Manggarai Timur",
+        "slug": "manggarai-timur-5319"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.732",
+    "lon": "120.622"
+  },
+  "metadata": {},
+  "source": {}
+}

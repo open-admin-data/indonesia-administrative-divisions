@@ -1,0 +1,56 @@
+{
+  "id": "1203100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batang Toru",
+    "en": "Batang Toru",
+    "slug": "batang-toru-1203100"
+  },
+  "code": {
+    "id": "1203100",
+    "iso": null
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapanuli Selatan",
+      "en": "Tapanuli Selatan",
+      "slug": "tapanuli-selatan-1203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapanuli Selatan",
+        "en": "Tapanuli Selatan",
+        "slug": "tapanuli-selatan-1203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.561",
+    "lon": "99.089"
+  },
+  "metadata": {},
+  "source": {}
+}

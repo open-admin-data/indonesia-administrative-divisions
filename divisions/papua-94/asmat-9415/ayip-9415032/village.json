@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9415032003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Comoro",
+      "en": "Comoro",
+      "slug": "comoro-9415032003"
+    },
+    "code": {
+      "id": "9415032003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9415032",
+      "level": 3,
+      "name": {
+        "local": "Ayip",
+        "en": "Ayip",
+        "slug": "ayip-9415032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9415",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asmat",
+          "en": "Asmat",
+          "slug": "asmat-9415"
+        }
+      },
+      {
+        "id": "9415032",
+        "level": 3,
+        "name": {
+          "local": "Ayip",
+          "en": "Ayip",
+          "slug": "ayip-9415032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99776"
+    ],
+    "geo": {
+      "lat": "-5.895",
+      "lon": "138.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9415032005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kawet",
+      "en": "Kawet",
+      "slug": "kawet-9415032005"
+    },
+    "code": {
+      "id": "9415032005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9415032",
+      "level": 3,
+      "name": {
+        "local": "Ayip",
+        "en": "Ayip",
+        "slug": "ayip-9415032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9415",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asmat",
+          "en": "Asmat",
+          "slug": "asmat-9415"
+        }
+      },
+      {
+        "id": "9415032",
+        "level": 3,
+        "name": {
+          "local": "Ayip",
+          "en": "Ayip",
+          "slug": "ayip-9415032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99776"
+    ],
+    "geo": {
+      "lat": "-5.909",
+      "lon": "138.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9415032006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mausi",
+      "en": "Mausi",
+      "slug": "mausi-9415032006"
+    },
+    "code": {
+      "id": "9415032006",
+      "iso": null
+    },
+    "parent": {
+      "id": "9415032",
+      "level": 3,
+      "name": {
+        "local": "Ayip",
+        "en": "Ayip",
+        "slug": "ayip-9415032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9415",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asmat",
+          "en": "Asmat",
+          "slug": "asmat-9415"
+        }
+      },
+      {
+        "id": "9415032",
+        "level": 3,
+        "name": {
+          "local": "Ayip",
+          "en": "Ayip",
+          "slug": "ayip-9415032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99776"
+    ],
+    "geo": {
+      "lat": "-5.903",
+      "lon": "138.759"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "3603",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tangerang",
+    "en": "Tangerang",
+    "slug": "tangerang-3603"
+  },
+  "code": {
+    "id": "3603",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "Banten",
+      "en": "Banten",
+      "slug": "banten-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 29,
+    "village": 261
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.27",
+    "lon": "106.484"
+  },
+  "metadata": {},
+  "source": {}
+}

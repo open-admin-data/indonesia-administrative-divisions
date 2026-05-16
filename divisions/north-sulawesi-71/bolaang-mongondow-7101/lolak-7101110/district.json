@@ -1,0 +1,56 @@
+{
+  "id": "7101110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lolak",
+    "en": "Lolak",
+    "slug": "lolak-7101110"
+  },
+  "code": {
+    "id": "7101110",
+    "iso": null
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow",
+      "en": "Bolaang Mongondow",
+      "slug": "bolaang-mongondow-7101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow",
+        "en": "Bolaang Mongondow",
+        "slug": "bolaang-mongondow-7101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.789",
+    "lon": "123.987"
+  },
+  "metadata": {},
+  "source": {}
+}

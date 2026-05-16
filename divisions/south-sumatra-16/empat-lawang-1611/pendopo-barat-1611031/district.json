@@ -1,0 +1,56 @@
+{
+  "id": "1611031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pendopo Barat",
+    "en": "Pendopo Barat",
+    "slug": "pendopo-barat-1611031"
+  },
+  "code": {
+    "id": "1611031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1611",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Empat Lawang",
+      "en": "Empat Lawang",
+      "slug": "empat-lawang-1611"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1611",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Empat Lawang",
+        "en": "Empat Lawang",
+        "slug": "empat-lawang-1611"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.761",
+    "lon": "102.922"
+  },
+  "metadata": {},
+  "source": {}
+}

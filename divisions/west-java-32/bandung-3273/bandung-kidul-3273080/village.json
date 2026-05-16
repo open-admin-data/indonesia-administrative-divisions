@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3273080003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batununggal",
+      "en": "Batununggal",
+      "slug": "batununggal-3273080003"
+    },
+    "code": {
+      "id": "3273080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3273080",
+      "level": 3,
+      "name": {
+        "local": "Bandung Kidul",
+        "en": "Bandung Kidul",
+        "slug": "bandung-kidul-3273080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3273",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3273"
+        }
+      },
+      {
+        "id": "3273080",
+        "level": 3,
+        "name": {
+          "local": "Bandung Kidul",
+          "en": "Bandung Kidul",
+          "slug": "bandung-kidul-3273080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40266"
+    ],
+    "geo": {
+      "lat": "-6.952",
+      "lon": "107.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3273080004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kujangsari",
+      "en": "Kujangsari",
+      "slug": "kujangsari-3273080004"
+    },
+    "code": {
+      "id": "3273080004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3273080",
+      "level": 3,
+      "name": {
+        "local": "Bandung Kidul",
+        "en": "Bandung Kidul",
+        "slug": "bandung-kidul-3273080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3273",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3273"
+        }
+      },
+      {
+        "id": "3273080",
+        "level": 3,
+        "name": {
+          "local": "Bandung Kidul",
+          "en": "Bandung Kidul",
+          "slug": "bandung-kidul-3273080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40266"
+    ],
+    "geo": {
+      "lat": "-6.962",
+      "lon": "107.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3273080001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wates",
+      "en": "Wates",
+      "slug": "wates-3273080001"
+    },
+    "code": {
+      "id": "3273080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3273080",
+      "level": 3,
+      "name": {
+        "local": "Bandung Kidul",
+        "en": "Bandung Kidul",
+        "slug": "bandung-kidul-3273080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3273",
+        "level": 2,
+        "name": {
+          "local": "Kota Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3273"
+        }
+      },
+      {
+        "id": "3273080",
+        "level": 3,
+        "name": {
+          "local": "Bandung Kidul",
+          "en": "Bandung Kidul",
+          "slug": "bandung-kidul-3273080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40266"
+    ],
+    "geo": {
+      "lat": "-6.958",
+      "lon": "107.617"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

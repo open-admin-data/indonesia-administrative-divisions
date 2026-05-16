@@ -1,0 +1,48 @@
+{
+  "id": "6171",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Pontianak",
+    "en": "Pontianak",
+    "slug": "pontianak-6171"
+  },
+  "code": {
+    "id": "6171",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.022",
+    "lon": "109.338"
+  },
+  "metadata": {},
+  "source": {}
+}

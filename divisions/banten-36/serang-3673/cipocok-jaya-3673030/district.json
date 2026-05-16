@@ -1,0 +1,56 @@
+{
+  "id": "3673030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cipocok Jaya",
+    "en": "Cipocok Jaya",
+    "slug": "cipocok-jaya-3673030"
+  },
+  "code": {
+    "id": "3673030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3673",
+    "level": 2,
+    "name": {
+      "local": "Kota Serang",
+      "en": "Serang",
+      "slug": "serang-3673"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.138",
+    "lon": "106.165"
+  },
+  "metadata": {},
+  "source": {}
+}

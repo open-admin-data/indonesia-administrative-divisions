@@ -1,0 +1,56 @@
+{
+  "id": "7411060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Loea",
+    "en": "Loea",
+    "slug": "loea-7411060"
+  },
+  "code": {
+    "id": "7411060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7411",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kolaka Timur",
+      "en": "Kolaka Timur",
+      "slug": "kolaka-timur-7411"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7411",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kolaka Timur",
+        "en": "Kolaka Timur",
+        "slug": "kolaka-timur-7411"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.092",
+    "lon": "121.877"
+  },
+  "metadata": {},
+  "source": {}
+}

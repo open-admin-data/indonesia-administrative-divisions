@@ -1,0 +1,56 @@
+{
+  "id": "8202030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Weda",
+    "en": "Weda",
+    "slug": "weda-8202030"
+  },
+  "code": {
+    "id": "8202030",
+    "iso": null
+  },
+  "parent": {
+    "id": "8202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Halmahera Tengah",
+      "en": "Halmahera Tengah",
+      "slug": "halmahera-tengah-8202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Tengah",
+        "en": "Halmahera Tengah",
+        "slug": "halmahera-tengah-8202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.338",
+    "lon": "127.85"
+  },
+  "metadata": {},
+  "source": {}
+}

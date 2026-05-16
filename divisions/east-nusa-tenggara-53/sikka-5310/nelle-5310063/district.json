@@ -1,0 +1,56 @@
+{
+  "id": "5310063",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nelle",
+    "en": "Nelle",
+    "slug": "nelle-5310063"
+  },
+  "code": {
+    "id": "5310063",
+    "iso": null
+  },
+  "parent": {
+    "id": "5310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sikka",
+      "en": "Sikka",
+      "slug": "sikka-5310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sikka",
+        "en": "Sikka",
+        "slug": "sikka-5310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.683",
+    "lon": "122.219"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1171031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuta Raja",
+    "en": "Kuta Raja",
+    "slug": "kuta-raja-1171031"
+  },
+  "code": {
+    "id": "1171031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1171",
+    "level": 2,
+    "name": {
+      "local": "Kota Banda Aceh",
+      "en": "Banda Aceh",
+      "slug": "banda-aceh-1171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.568",
+    "lon": "95.316"
+  },
+  "metadata": {},
+  "source": {}
+}

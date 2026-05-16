@@ -1,0 +1,48 @@
+{
+  "id": "8108",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Maluku Barat Daya",
+    "en": "Maluku Barat Daya",
+    "slug": "maluku-barat-daya-8108"
+  },
+  "code": {
+    "id": "8108",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 109
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.148",
+    "lon": "127.802"
+  },
+  "metadata": {},
+  "source": {}
+}

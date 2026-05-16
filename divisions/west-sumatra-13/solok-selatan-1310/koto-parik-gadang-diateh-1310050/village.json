@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1310050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakan Rabaa",
+      "en": "Pakan Rabaa",
+      "slug": "pakan-rabaa-1310050001"
+    },
+    "code": {
+      "id": "1310050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310050",
+      "level": 3,
+      "name": {
+        "local": "Koto Parik Gadang Diateh",
+        "en": "Koto Parik Gadang Diateh",
+        "slug": "koto-parik-gadang-diateh-1310050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310050",
+        "level": 3,
+        "name": {
+          "local": "Koto Parik Gadang Diateh",
+          "en": "Koto Parik Gadang Diateh",
+          "slug": "koto-parik-gadang-diateh-1310050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27775"
+    ],
+    "geo": {
+      "lat": "-1.421",
+      "lon": "101.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1310050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakan Rabaa Tengah",
+      "en": "Pakan Rabaa Tengah",
+      "slug": "pakan-rabaa-tengah-1310050004"
+    },
+    "code": {
+      "id": "1310050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310050",
+      "level": 3,
+      "name": {
+        "local": "Koto Parik Gadang Diateh",
+        "en": "Koto Parik Gadang Diateh",
+        "slug": "koto-parik-gadang-diateh-1310050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310050",
+        "level": 3,
+        "name": {
+          "local": "Koto Parik Gadang Diateh",
+          "en": "Koto Parik Gadang Diateh",
+          "slug": "koto-parik-gadang-diateh-1310050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27775"
+    ],
+    "geo": {
+      "lat": "-1.408",
+      "lon": "100.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1310050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakan Rabaa Timur",
+      "en": "Pakan Rabaa Timur",
+      "slug": "pakan-rabaa-timur-1310050002"
+    },
+    "code": {
+      "id": "1310050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310050",
+      "level": 3,
+      "name": {
+        "local": "Koto Parik Gadang Diateh",
+        "en": "Koto Parik Gadang Diateh",
+        "slug": "koto-parik-gadang-diateh-1310050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310050",
+        "level": 3,
+        "name": {
+          "local": "Koto Parik Gadang Diateh",
+          "en": "Koto Parik Gadang Diateh",
+          "slug": "koto-parik-gadang-diateh-1310050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27775"
+    ],
+    "geo": {
+      "lat": "-1.303",
+      "lon": "101.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1310050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakan Rabaa Utara",
+      "en": "Pakan Rabaa Utara",
+      "slug": "pakan-rabaa-utara-1310050003"
+    },
+    "code": {
+      "id": "1310050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1310050",
+      "level": 3,
+      "name": {
+        "local": "Koto Parik Gadang Diateh",
+        "en": "Koto Parik Gadang Diateh",
+        "slug": "koto-parik-gadang-diateh-1310050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok Selatan",
+          "en": "Solok Selatan",
+          "slug": "solok-selatan-1310"
+        }
+      },
+      {
+        "id": "1310050",
+        "level": 3,
+        "name": {
+          "local": "Koto Parik Gadang Diateh",
+          "en": "Koto Parik Gadang Diateh",
+          "slug": "koto-parik-gadang-diateh-1310050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27775"
+    ],
+    "geo": {
+      "lat": "-1.351",
+      "lon": "100.924"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

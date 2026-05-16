@@ -1,0 +1,31 @@
+{
+  "id": "16",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sumatera Selatan",
+    "en": "South Sumatra",
+    "slug": "south-sumatra-16"
+  },
+  "code": {
+    "id": "16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 17,
+    "village": 3263,
+    "district": 236
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.977",
+    "lon": "104.751"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3674070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Serpong Utara",
+    "en": "Serpong Utara",
+    "slug": "serpong-utara-3674070"
+  },
+  "code": {
+    "id": "3674070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3674",
+    "level": 2,
+    "name": {
+      "local": "Kota Tangerang Selatan",
+      "en": "Tangerang Selatan",
+      "slug": "tangerang-selatan-3674"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3674",
+      "level": 2,
+      "name": {
+        "local": "Kota Tangerang Selatan",
+        "en": "Tangerang Selatan",
+        "slug": "tangerang-selatan-3674"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.257",
+    "lon": "106.665"
+  },
+  "metadata": {},
+  "source": {}
+}

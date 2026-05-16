@@ -1,0 +1,56 @@
+{
+  "id": "3403051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Girisubo",
+    "en": "Girisubo",
+    "slug": "girisubo-3403051"
+  },
+  "code": {
+    "id": "3403051",
+    "iso": null
+  },
+  "parent": {
+    "id": "3403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gunung Kidul",
+      "en": "Gunung Kidul",
+      "slug": "gunung-kidul-3403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gunung Kidul",
+        "en": "Gunung Kidul",
+        "slug": "gunung-kidul-3403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.16",
+    "lon": "110.761"
+  },
+  "metadata": {},
+  "source": {}
+}

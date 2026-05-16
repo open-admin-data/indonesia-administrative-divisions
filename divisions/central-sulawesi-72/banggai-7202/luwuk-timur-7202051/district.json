@@ -1,0 +1,56 @@
+{
+  "id": "7202051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Luwuk Timur",
+    "en": "Luwuk Timur",
+    "slug": "luwuk-timur-7202051"
+  },
+  "code": {
+    "id": "7202051",
+    "iso": null
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banggai",
+      "en": "Banggai",
+      "slug": "banggai-7202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banggai",
+        "en": "Banggai",
+        "slug": "banggai-7202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.837",
+    "lon": "122.995"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "3325020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bandar",
+      "en": "Bandar",
+      "slug": "bandar-3325020"
+    },
+    "code": {
+      "id": "3325020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.057",
+      "lon": "109.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyuputih",
+      "en": "Banyuputih",
+      "slug": "banyuputih-3325081"
+    },
+    "code": {
+      "id": "3325081",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.958",
+      "lon": "109.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batang",
+      "en": "Batang",
+      "slug": "batang-3325110"
+    },
+    "code": {
+      "id": "3325110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.912",
+      "lon": "109.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bawang",
+      "en": "Bawang",
+      "slug": "bawang-3325050"
+    },
+    "code": {
+      "id": "3325050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.131",
+      "lon": "109.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blado",
+      "en": "Blado",
+      "slug": "blado-3325030"
+    },
+    "code": {
+      "id": "3325030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.11",
+      "lon": "109.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gringsing",
+      "en": "Gringsing",
+      "slug": "gringsing-3325070"
+    },
+    "code": {
+      "id": "3325070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.959",
+      "lon": "109.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kandeman",
+      "en": "Kandeman",
+      "slug": "kandeman-3325101"
+    },
+    "code": {
+      "id": "3325101",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.926",
+      "lon": "109.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Limpung",
+      "en": "Limpung",
+      "slug": "limpung-3325080"
+    },
+    "code": {
+      "id": "3325080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.022",
+      "lon": "109.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pecalungan",
+      "en": "Pecalungan",
+      "slug": "pecalungan-3325091"
+    },
+    "code": {
+      "id": "3325091",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.02",
+      "lon": "109.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Reban",
+      "en": "Reban",
+      "slug": "reban-3325040"
+    },
+    "code": {
+      "id": "3325040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.112",
+      "lon": "109.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Subah",
+      "en": "Subah",
+      "slug": "subah-3325090"
+    },
+    "code": {
+      "id": "3325090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.963",
+      "lon": "109.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tersono",
+      "en": "Tersono",
+      "slug": "tersono-3325060"
+    },
+    "code": {
+      "id": "3325060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.036",
+      "lon": "109.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tulis",
+      "en": "Tulis",
+      "slug": "tulis-3325100"
+    },
+    "code": {
+      "id": "3325100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.952",
+      "lon": "109.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Warung Asem",
+      "en": "Warung Asem",
+      "slug": "warung-asem-3325120"
+    },
+    "code": {
+      "id": "3325120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.949",
+      "lon": "109.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3325010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wonotunggal",
+      "en": "Wonotunggal",
+      "slug": "wonotunggal-3325010"
+    },
+    "code": {
+      "id": "3325010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3325",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Batang",
+          "en": "Batang",
+          "slug": "batang-3325"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.033",
+      "lon": "109.749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

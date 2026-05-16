@@ -1,0 +1,56 @@
+{
+  "id": "1106012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jagong Jeget",
+    "en": "Jagong Jeget",
+    "slug": "jagong-jeget-1106012"
+  },
+  "code": {
+    "id": "1106012",
+    "iso": null
+  },
+  "parent": {
+    "id": "1106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tengah",
+      "en": "Aceh Tengah",
+      "slug": "aceh-tengah-1106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.376",
+    "lon": "96.724"
+  },
+  "metadata": {},
+  "source": {}
+}

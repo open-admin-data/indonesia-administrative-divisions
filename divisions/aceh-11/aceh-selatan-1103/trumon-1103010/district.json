@@ -1,0 +1,56 @@
+{
+  "id": "1103010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Trumon",
+    "en": "Trumon",
+    "slug": "trumon-1103010"
+  },
+  "code": {
+    "id": "1103010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Selatan",
+      "en": "Aceh Selatan",
+      "slug": "aceh-selatan-1103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.638",
+    "lon": "97.708"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6307070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Labuan Amas Utara",
+    "en": "Labuan Amas Utara",
+    "slug": "labuan-amas-utara-6307070"
+  },
+  "code": {
+    "id": "6307070",
+    "iso": null
+  },
+  "parent": {
+    "id": "6307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Tengah",
+      "en": "Hulu Sungai Tengah",
+      "slug": "hulu-sungai-tengah-6307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.592",
+    "lon": "115.242"
+  },
+  "metadata": {},
+  "source": {}
+}

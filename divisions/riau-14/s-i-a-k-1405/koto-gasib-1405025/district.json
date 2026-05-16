@@ -1,0 +1,56 @@
+{
+  "id": "1405025",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Koto Gasib",
+    "en": "Koto Gasib",
+    "slug": "koto-gasib-1405025"
+  },
+  "code": {
+    "id": "1405025",
+    "iso": null
+  },
+  "parent": {
+    "id": "1405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten S I A K",
+      "en": "S I A K",
+      "slug": "s-i-a-k-1405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten S I A K",
+        "en": "S I A K",
+        "slug": "s-i-a-k-1405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.752",
+    "lon": "101.808"
+  },
+  "metadata": {},
+  "source": {}
+}

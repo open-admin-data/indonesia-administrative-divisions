@@ -1,0 +1,48 @@
+{
+  "id": "1110",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bireuen",
+    "en": "Bireuen",
+    "slug": "bireuen-1110"
+  },
+  "code": {
+    "id": "1110",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 609
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.271",
+    "lon": "97.815"
+  },
+  "metadata": {},
+  "source": {}
+}

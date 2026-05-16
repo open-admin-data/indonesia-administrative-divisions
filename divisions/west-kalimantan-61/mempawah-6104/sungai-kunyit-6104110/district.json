@@ -1,0 +1,56 @@
+{
+  "id": "6104110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Kunyit",
+    "en": "Sungai Kunyit",
+    "slug": "sungai-kunyit-6104110"
+  },
+  "code": {
+    "id": "6104110",
+    "iso": null
+  },
+  "parent": {
+    "id": "6104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mempawah",
+      "en": "Mempawah",
+      "slug": "mempawah-6104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mempawah",
+        "en": "Mempawah",
+        "slug": "mempawah-6104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.519",
+    "lon": "108.963"
+  },
+  "metadata": {},
+  "source": {}
+}

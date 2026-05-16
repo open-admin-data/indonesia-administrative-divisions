@@ -1,0 +1,56 @@
+{
+  "id": "9413051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ambatkwi",
+    "en": "Ambatkwi",
+    "slug": "ambatkwi-9413051"
+  },
+  "code": {
+    "id": "9413051",
+    "iso": null
+  },
+  "parent": {
+    "id": "9413",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Boven Digoel",
+      "en": "Boven Digoel",
+      "slug": "boven-digoel-9413"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9413",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Boven Digoel",
+        "en": "Boven Digoel",
+        "slug": "boven-digoel-9413"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.418",
+    "lon": "140.658"
+  },
+  "metadata": {},
+  "source": {}
+}

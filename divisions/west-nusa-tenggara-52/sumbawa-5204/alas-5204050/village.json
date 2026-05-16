@@ -1,0 +1,522 @@
+[
+  {
+    "id": "5204050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baru",
+      "en": "Baru",
+      "slug": "baru-5204050007"
+    },
+    "code": {
+      "id": "5204050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.53",
+      "lon": "116.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dalam",
+      "en": "Dalam",
+      "slug": "dalam-5204050010"
+    },
+    "code": {
+      "id": "5204050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.504",
+      "lon": "116.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Juranalas",
+      "en": "Juranalas",
+      "slug": "juranalas-5204050009"
+    },
+    "code": {
+      "id": "5204050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.533",
+      "lon": "117.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalimango",
+      "en": "Kalimango",
+      "slug": "kalimango-5204050008"
+    },
+    "code": {
+      "id": "5204050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.553",
+      "lon": "117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204050019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Labuhan Alas",
+      "en": "Labuhan Alas",
+      "slug": "labuhan-alas-5204050019"
+    },
+    "code": {
+      "id": "5204050019",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.512",
+      "lon": "117.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Luar",
+      "en": "Luar",
+      "slug": "luar-5204050006"
+    },
+    "code": {
+      "id": "5204050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.518",
+      "lon": "116.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204050013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marenteh",
+      "en": "Marenteh",
+      "slug": "marenteh-5204050013"
+    },
+    "code": {
+      "id": "5204050013",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.512",
+      "lon": "117.013"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204050011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Bungin",
+      "en": "Pulau Bungin",
+      "slug": "pulau-bungin-5204050011"
+    },
+    "code": {
+      "id": "5204050011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204050",
+      "level": 3,
+      "name": {
+        "local": "Alas",
+        "en": "Alas",
+        "slug": "alas-5204050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204050",
+        "level": 3,
+        "name": {
+          "local": "Alas",
+          "en": "Alas",
+          "slug": "alas-5204050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84353"
+    ],
+    "geo": {
+      "lat": "-8.477",
+      "lon": "116.995"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "1471020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bukit Raya",
+    "en": "Bukit Raya",
+    "slug": "bukit-raya-1471020"
+  },
+  "code": {
+    "id": "1471020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1471",
+    "level": 2,
+    "name": {
+      "local": "Kota Pekanbaru",
+      "en": "Pekanbaru",
+      "slug": "pekanbaru-1471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.466",
+    "lon": "101.471"
+  },
+  "metadata": {},
+  "source": {}
+}

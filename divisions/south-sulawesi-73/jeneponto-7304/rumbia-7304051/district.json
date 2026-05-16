@@ -1,0 +1,56 @@
+{
+  "id": "7304051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rumbia",
+    "en": "Rumbia",
+    "slug": "rumbia-7304051"
+  },
+  "code": {
+    "id": "7304051",
+    "iso": null
+  },
+  "parent": {
+    "id": "7304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jeneponto",
+      "en": "Jeneponto",
+      "slug": "jeneponto-7304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jeneponto",
+        "en": "Jeneponto",
+        "slug": "jeneponto-7304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.457",
+    "lon": "119.885"
+  },
+  "metadata": {},
+  "source": {}
+}

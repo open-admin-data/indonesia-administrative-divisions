@@ -1,0 +1,48 @@
+{
+  "id": "1106",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Aceh Tengah",
+    "en": "Aceh Tengah",
+    "slug": "aceh-tengah-1106"
+  },
+  "code": {
+    "id": "1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 295
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.297",
+    "lon": "95.611"
+  },
+  "metadata": {},
+  "source": {}
+}

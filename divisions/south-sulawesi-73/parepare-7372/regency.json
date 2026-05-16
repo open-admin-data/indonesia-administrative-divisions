@@ -1,0 +1,48 @@
+{
+  "id": "7372",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Parepare",
+    "en": "Parepare",
+    "slug": "parepare-7372"
+  },
+  "code": {
+    "id": "7372",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.028",
+    "lon": "119.633"
+  },
+  "metadata": {},
+  "source": {}
+}

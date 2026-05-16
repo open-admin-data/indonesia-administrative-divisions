@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3601191007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cigadung",
+      "en": "Cigadung",
+      "slug": "cigadung-3601191007"
+    },
+    "code": {
+      "id": "3601191007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3601191",
+      "level": 3,
+      "name": {
+        "local": "Karangtanjung",
+        "en": "Karangtanjung",
+        "slug": "karangtanjung-3601191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pandeglang",
+          "en": "Pandeglang",
+          "slug": "pandeglang-3601"
+        }
+      },
+      {
+        "id": "3601191",
+        "level": 3,
+        "name": {
+          "local": "Karangtanjung",
+          "en": "Karangtanjung",
+          "slug": "karangtanjung-3601191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42231"
+    ],
+    "geo": {
+      "lat": "-6.283",
+      "lon": "106.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3601191005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kadumerak",
+      "en": "Kadumerak",
+      "slug": "kadumerak-3601191005"
+    },
+    "code": {
+      "id": "3601191005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3601191",
+      "level": 3,
+      "name": {
+        "local": "Karangtanjung",
+        "en": "Karangtanjung",
+        "slug": "karangtanjung-3601191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pandeglang",
+          "en": "Pandeglang",
+          "slug": "pandeglang-3601"
+        }
+      },
+      {
+        "id": "3601191",
+        "level": 3,
+        "name": {
+          "local": "Karangtanjung",
+          "en": "Karangtanjung",
+          "slug": "karangtanjung-3601191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42231"
+    ],
+    "geo": {
+      "lat": "-6.294",
+      "lon": "106.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3601191006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pagadungan",
+      "en": "Pagadungan",
+      "slug": "pagadungan-3601191006"
+    },
+    "code": {
+      "id": "3601191006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3601191",
+      "level": 3,
+      "name": {
+        "local": "Karangtanjung",
+        "en": "Karangtanjung",
+        "slug": "karangtanjung-3601191"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "Banten",
+          "en": "Banten",
+          "slug": "banten-36"
+        }
+      },
+      {
+        "id": "3601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pandeglang",
+          "en": "Pandeglang",
+          "slug": "pandeglang-3601"
+        }
+      },
+      {
+        "id": "3601191",
+        "level": 3,
+        "name": {
+          "local": "Karangtanjung",
+          "en": "Karangtanjung",
+          "slug": "karangtanjung-3601191"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42231"
+    ],
+    "geo": {
+      "lat": "-6.296",
+      "lon": "106.14"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

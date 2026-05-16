@@ -1,0 +1,48 @@
+{
+  "id": "6309",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tabalong",
+    "en": "Tabalong",
+    "slug": "tabalong-6309"
+  },
+  "code": {
+    "id": "6309",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Selatan",
+      "en": "South Kalimantan",
+      "slug": "south-kalimantan-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 129
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.164",
+    "lon": "115.382"
+  },
+  "metadata": {},
+  "source": {}
+}

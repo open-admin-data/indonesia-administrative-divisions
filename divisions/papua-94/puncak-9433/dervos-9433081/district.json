@@ -1,0 +1,56 @@
+{
+  "id": "9433081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dervos",
+    "en": "Dervos",
+    "slug": "dervos-9433081"
+  },
+  "code": {
+    "id": "9433081",
+    "iso": null
+  },
+  "parent": {
+    "id": "9433",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Puncak",
+      "en": "Puncak",
+      "slug": "puncak-9433"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9433",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Puncak",
+        "en": "Puncak",
+        "slug": "puncak-9433"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.193",
+    "lon": "137.421"
+  },
+  "metadata": {},
+  "source": {}
+}

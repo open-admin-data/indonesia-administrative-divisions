@@ -1,0 +1,56 @@
+{
+  "id": "9107062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Saengkeduk",
+    "en": "Saengkeduk",
+    "slug": "saengkeduk-9107062"
+  },
+  "code": {
+    "id": "9107062",
+    "iso": null
+  },
+  "parent": {
+    "id": "9107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sorong",
+      "en": "Sorong",
+      "slug": "sorong-9107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.765",
+    "lon": "132.009"
+  },
+  "metadata": {},
+  "source": {}
+}

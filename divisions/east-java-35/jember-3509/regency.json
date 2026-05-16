@@ -1,0 +1,48 @@
+{
+  "id": "3509",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Jember",
+    "en": "Jember",
+    "slug": "jember-3509"
+  },
+  "code": {
+    "id": "3509",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 31,
+    "village": 235
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.17",
+    "lon": "113.702"
+  },
+  "metadata": {},
+  "source": {}
+}

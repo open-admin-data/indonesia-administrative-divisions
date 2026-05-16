@@ -1,0 +1,48 @@
+{
+  "id": "8107",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Seram Bagian Timur",
+    "en": "Seram Bagian Timur",
+    "slug": "seram-bagian-timur-8107"
+  },
+  "code": {
+    "id": "8107",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 190
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.775",
+    "lon": "134.215"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "3518",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Nganjuk",
+    "en": "Nganjuk",
+    "slug": "nganjuk-3518"
+  },
+  "code": {
+    "id": "3518",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 20,
+    "village": 240
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.602",
+    "lon": "111.902"
+  },
+  "metadata": {},
+  "source": {}
+}

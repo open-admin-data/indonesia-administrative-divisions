@@ -1,0 +1,48 @@
+{
+  "id": "7601",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Majene",
+    "en": "Majene",
+    "slug": "majene-7601"
+  },
+  "code": {
+    "id": "7601",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Barat",
+      "en": "West Sulawesi",
+      "slug": "west-sulawesi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.174",
+    "lon": "119.377"
+  },
+  "metadata": {},
+  "source": {}
+}

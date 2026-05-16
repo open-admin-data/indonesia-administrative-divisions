@@ -1,0 +1,56 @@
+{
+  "id": "3508100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rowokangkung",
+    "en": "Rowokangkung",
+    "slug": "rowokangkung-3508100"
+  },
+  "code": {
+    "id": "3508100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3508",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lumajang",
+      "en": "Lumajang",
+      "slug": "lumajang-3508"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3508",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lumajang",
+        "en": "Lumajang",
+        "slug": "lumajang-3508"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.184",
+    "lon": "113.321"
+  },
+  "metadata": {},
+  "source": {}
+}

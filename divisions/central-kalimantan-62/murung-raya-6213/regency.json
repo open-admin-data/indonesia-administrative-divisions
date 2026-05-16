@@ -1,0 +1,48 @@
+{
+  "id": "6213",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Murung Raya",
+    "en": "Murung Raya",
+    "slug": "murung-raya-6213"
+  },
+  "code": {
+    "id": "6213",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Tengah",
+      "en": "Central Kalimantan",
+      "slug": "central-kalimantan-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 123
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.115",
+    "lon": "115.169"
+  },
+  "metadata": {},
+  "source": {}
+}

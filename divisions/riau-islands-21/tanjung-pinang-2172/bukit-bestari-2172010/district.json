@@ -1,0 +1,56 @@
+{
+  "id": "2172010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bukit Bestari",
+    "en": "Bukit Bestari",
+    "slug": "bukit-bestari-2172010"
+  },
+  "code": {
+    "id": "2172010",
+    "iso": null
+  },
+  "parent": {
+    "id": "2172",
+    "level": 2,
+    "name": {
+      "local": "Kota Tanjung Pinang",
+      "en": "Tanjung Pinang",
+      "slug": "tanjung-pinang-2172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tanjung Pinang",
+        "en": "Tanjung Pinang",
+        "slug": "tanjung-pinang-2172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.886",
+    "lon": "104.478"
+  },
+  "metadata": {},
+  "source": {}
+}

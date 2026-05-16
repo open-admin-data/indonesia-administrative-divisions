@@ -1,0 +1,56 @@
+{
+  "id": "7111010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nuangan",
+    "en": "Nuangan",
+    "slug": "nuangan-7111010"
+  },
+  "code": {
+    "id": "7111010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Timur",
+      "en": "Bolaang Mongondow Timur",
+      "slug": "bolaang-mongondow-timur-7111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow Timur",
+        "en": "Bolaang Mongondow Timur",
+        "slug": "bolaang-mongondow-timur-7111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.62",
+    "lon": "124.506"
+  },
+  "metadata": {},
+  "source": {}
+}

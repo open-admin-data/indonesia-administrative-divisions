@@ -1,0 +1,56 @@
+{
+  "id": "7107030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bolang Itang Timur",
+    "en": "Bolang Itang Timur",
+    "slug": "bolang-itang-timur-7107030"
+  },
+  "code": {
+    "id": "7107030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Utara",
+      "en": "Bolaang Mongondow Utara",
+      "slug": "bolaang-mongondow-utara-7107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow Utara",
+        "en": "Bolaang Mongondow Utara",
+        "slug": "bolaang-mongondow-utara-7107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.769",
+    "lon": "123.448"
+  },
+  "metadata": {},
+  "source": {}
+}

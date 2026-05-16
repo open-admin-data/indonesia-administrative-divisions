@@ -1,0 +1,170 @@
+[
+  {
+    "id": "3572020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kepanjenkidul",
+      "en": "Kepanjenkidul",
+      "slug": "kepanjenkidul-3572020"
+    },
+    "code": {
+      "id": "3572020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572",
+      "level": 2,
+      "name": {
+        "local": "Kota Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.082",
+      "lon": "112.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3572030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sananwetan",
+      "en": "Sananwetan",
+      "slug": "sananwetan-3572030"
+    },
+    "code": {
+      "id": "3572030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572",
+      "level": 2,
+      "name": {
+        "local": "Kota Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.105",
+      "lon": "112.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3572010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukorejo",
+      "en": "Sukorejo",
+      "slug": "sukorejo-3572010"
+    },
+    "code": {
+      "id": "3572010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3572",
+      "level": 2,
+      "name": {
+        "local": "Kota Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3572"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3572",
+        "level": 2,
+        "name": {
+          "local": "Kota Blitar",
+          "en": "Blitar",
+          "slug": "blitar-3572"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.098",
+      "lon": "112.148"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

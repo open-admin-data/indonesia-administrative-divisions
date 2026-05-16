@@ -1,0 +1,56 @@
+{
+  "id": "3513240",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumberasih",
+    "en": "Sumberasih",
+    "slug": "sumberasih-3513240"
+  },
+  "code": {
+    "id": "3513240",
+    "iso": null
+  },
+  "parent": {
+    "id": "3513",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Probolinggo",
+      "en": "Probolinggo",
+      "slug": "probolinggo-3513"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3513",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Probolinggo",
+        "en": "Probolinggo",
+        "slug": "probolinggo-3513"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.744",
+    "lon": "113.194"
+  },
+  "metadata": {},
+  "source": {}
+}

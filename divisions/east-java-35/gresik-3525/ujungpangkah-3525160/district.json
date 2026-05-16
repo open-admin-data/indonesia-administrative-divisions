@@ -1,0 +1,56 @@
+{
+  "id": "3525160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ujungpangkah",
+    "en": "Ujungpangkah",
+    "slug": "ujungpangkah-3525160"
+  },
+  "code": {
+    "id": "3525160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3525",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gresik",
+      "en": "Gresik",
+      "slug": "gresik-3525"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3525",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gresik",
+        "en": "Gresik",
+        "slug": "gresik-3525"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.911",
+    "lon": "112.542"
+  },
+  "metadata": {},
+  "source": {}
+}

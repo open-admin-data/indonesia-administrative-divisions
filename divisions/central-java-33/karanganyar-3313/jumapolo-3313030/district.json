@@ -1,0 +1,56 @@
+{
+  "id": "3313030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jumapolo",
+    "en": "Jumapolo",
+    "slug": "jumapolo-3313030"
+  },
+  "code": {
+    "id": "3313030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Karanganyar",
+      "en": "Karanganyar",
+      "slug": "karanganyar-3313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.709",
+    "lon": "111.006"
+  },
+  "metadata": {},
+  "source": {}
+}

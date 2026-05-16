@@ -1,0 +1,56 @@
+{
+  "id": "1110061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Juang",
+    "en": "Kota Juang",
+    "slug": "kota-juang-1110061"
+  },
+  "code": {
+    "id": "1110061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bireuen",
+      "en": "Bireuen",
+      "slug": "bireuen-1110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.191",
+    "lon": "96.712"
+  },
+  "metadata": {},
+  "source": {}
+}

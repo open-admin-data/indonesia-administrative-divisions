@@ -1,0 +1,56 @@
+{
+  "id": "1203080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Angkola Selatan",
+    "en": "Angkola Selatan",
+    "slug": "angkola-selatan-1203080"
+  },
+  "code": {
+    "id": "1203080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapanuli Selatan",
+      "en": "Tapanuli Selatan",
+      "slug": "tapanuli-selatan-1203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapanuli Selatan",
+        "en": "Tapanuli Selatan",
+        "slug": "tapanuli-selatan-1203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.323",
+    "lon": "99.168"
+  },
+  "metadata": {},
+  "source": {}
+}

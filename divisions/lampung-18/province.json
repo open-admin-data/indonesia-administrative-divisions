@@ -1,0 +1,31 @@
+{
+  "id": "18",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Lampung",
+    "en": "Lampung",
+    "slug": "lampung-18"
+  },
+  "code": {
+    "id": "18",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 15,
+    "village": 2642,
+    "district": 228
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.441",
+    "lon": "105.258"
+  },
+  "metadata": {},
+  "source": {}
+}

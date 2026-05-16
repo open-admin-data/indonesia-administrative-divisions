@@ -1,0 +1,56 @@
+{
+  "id": "6571020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tarakan Tengah",
+    "en": "Tarakan Tengah",
+    "slug": "tarakan-tengah-6571020"
+  },
+  "code": {
+    "id": "6571020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6571",
+    "level": 2,
+    "name": {
+      "local": "Kota Tarakan",
+      "en": "Tarakan",
+      "slug": "tarakan-6571"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6571",
+      "level": 2,
+      "name": {
+        "local": "Kota Tarakan",
+        "en": "Tarakan",
+        "slug": "tarakan-6571"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.341",
+    "lon": "117.622"
+  },
+  "metadata": {},
+  "source": {}
+}

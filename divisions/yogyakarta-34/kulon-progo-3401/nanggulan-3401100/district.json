@@ -1,0 +1,56 @@
+{
+  "id": "3401100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nanggulan",
+    "en": "Nanggulan",
+    "slug": "nanggulan-3401100"
+  },
+  "code": {
+    "id": "3401100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kulon Progo",
+      "en": "Kulon Progo",
+      "slug": "kulon-progo-3401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kulon Progo",
+        "en": "Kulon Progo",
+        "slug": "kulon-progo-3401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.779",
+    "lon": "110.199"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9411071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kalome",
+    "en": "Kalome",
+    "slug": "kalome-9411071"
+  },
+  "code": {
+    "id": "9411071",
+    "iso": null
+  },
+  "parent": {
+    "id": "9411",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Puncak Jaya",
+      "en": "Puncak Jaya",
+      "slug": "puncak-jaya-9411"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9411",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Puncak Jaya",
+        "en": "Puncak Jaya",
+        "slug": "puncak-jaya-9411"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.447",
+    "lon": "137.843"
+  },
+  "metadata": {},
+  "source": {}
+}

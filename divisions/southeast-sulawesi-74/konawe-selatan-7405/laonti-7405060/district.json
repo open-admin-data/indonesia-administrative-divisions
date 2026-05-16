@@ -1,0 +1,56 @@
+{
+  "id": "7405060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Laonti",
+    "en": "Laonti",
+    "slug": "laonti-7405060"
+  },
+  "code": {
+    "id": "7405060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Konawe Selatan",
+      "en": "Konawe Selatan",
+      "slug": "konawe-selatan-7405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Konawe Selatan",
+        "en": "Konawe Selatan",
+        "slug": "konawe-selatan-7405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.225",
+    "lon": "122.826"
+  },
+  "metadata": {},
+  "source": {}
+}

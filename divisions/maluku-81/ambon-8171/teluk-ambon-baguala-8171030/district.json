@@ -1,0 +1,56 @@
+{
+  "id": "8171030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Ambon Baguala",
+    "en": "Teluk Ambon Baguala",
+    "slug": "teluk-ambon-baguala-8171030"
+  },
+  "code": {
+    "id": "8171030",
+    "iso": null
+  },
+  "parent": {
+    "id": "8171",
+    "level": 2,
+    "name": {
+      "local": "Kota Ambon",
+      "en": "Ambon",
+      "slug": "ambon-8171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8171",
+      "level": 2,
+      "name": {
+        "local": "Kota Ambon",
+        "en": "Ambon",
+        "slug": "ambon-8171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.629",
+    "lon": "128.233"
+  },
+  "metadata": {},
+  "source": {}
+}

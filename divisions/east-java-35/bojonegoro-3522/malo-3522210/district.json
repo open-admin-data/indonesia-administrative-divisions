@@ -1,0 +1,56 @@
+{
+  "id": "3522210",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malo",
+    "en": "Malo",
+    "slug": "malo-3522210"
+  },
+  "code": {
+    "id": "3522210",
+    "iso": null
+  },
+  "parent": {
+    "id": "3522",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bojonegoro",
+      "en": "Bojonegoro",
+      "slug": "bojonegoro-3522"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3522",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bojonegoro",
+        "en": "Bojonegoro",
+        "slug": "bojonegoro-3522"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.116",
+    "lon": "111.715"
+  },
+  "metadata": {},
+  "source": {}
+}

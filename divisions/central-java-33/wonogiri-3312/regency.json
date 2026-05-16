@@ -1,0 +1,48 @@
+{
+  "id": "3312",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Wonogiri",
+    "en": "Wonogiri",
+    "slug": "wonogiri-3312"
+  },
+  "code": {
+    "id": "3312",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 25,
+    "village": 275
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.815",
+    "lon": "110.926"
+  },
+  "metadata": {},
+  "source": {}
+}

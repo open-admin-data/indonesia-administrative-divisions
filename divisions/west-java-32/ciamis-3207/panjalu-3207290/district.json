@@ -1,0 +1,56 @@
+{
+  "id": "3207290",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panjalu",
+    "en": "Panjalu",
+    "slug": "panjalu-3207290"
+  },
+  "code": {
+    "id": "3207290",
+    "iso": null
+  },
+  "parent": {
+    "id": "3207",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ciamis",
+      "en": "Ciamis",
+      "slug": "ciamis-3207"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.137",
+    "lon": "108.273"
+  },
+  "metadata": {},
+  "source": {}
+}

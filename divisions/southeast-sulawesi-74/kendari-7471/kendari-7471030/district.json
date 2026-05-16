@@ -1,0 +1,56 @@
+{
+  "id": "7471030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kendari",
+    "en": "Kendari",
+    "slug": "kendari-7471030"
+  },
+  "code": {
+    "id": "7471030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7471",
+    "level": 2,
+    "name": {
+      "local": "Kota Kendari",
+      "en": "Kendari",
+      "slug": "kendari-7471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7471",
+      "level": 2,
+      "name": {
+        "local": "Kota Kendari",
+        "en": "Kendari",
+        "slug": "kendari-7471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.959",
+    "lon": "122.602"
+  },
+  "metadata": {},
+  "source": {}
+}

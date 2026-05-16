@@ -1,0 +1,56 @@
+{
+  "id": "7310050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mallusetasi",
+    "en": "Mallusetasi",
+    "slug": "mallusetasi-7310050"
+  },
+  "code": {
+    "id": "7310050",
+    "iso": null
+  },
+  "parent": {
+    "id": "7310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barru",
+      "en": "Barru",
+      "slug": "barru-7310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barru",
+        "en": "Barru",
+        "slug": "barru-7310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.163",
+    "lon": "119.68"
+  },
+  "metadata": {},
+  "source": {}
+}

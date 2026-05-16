@@ -1,0 +1,56 @@
+{
+  "id": "6404052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sandaran",
+    "en": "Sandaran",
+    "slug": "sandaran-6404052"
+  },
+  "code": {
+    "id": "6404052",
+    "iso": null
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Timur",
+      "en": "Kutai Timur",
+      "slug": "kutai-timur-6404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Timur",
+        "en": "Kutai Timur",
+        "slug": "kutai-timur-6404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.023",
+    "lon": "118.577"
+  },
+  "metadata": {},
+  "source": {}
+}

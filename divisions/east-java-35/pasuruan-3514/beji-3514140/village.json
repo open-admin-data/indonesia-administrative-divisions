@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3514140001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baujeng",
+      "en": "Baujeng",
+      "slug": "baujeng-3514140001"
+    },
+    "code": {
+      "id": "3514140001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.618",
+      "lon": "112.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Beji",
+      "en": "Beji",
+      "slug": "beji-3514140006"
+    },
+    "code": {
+      "id": "3514140006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.597",
+      "lon": "112.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cangkring Malang",
+      "en": "Cangkring Malang",
+      "slug": "cangkring-malang-3514140010"
+    },
+    "code": {
+      "id": "3514140010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.581",
+      "lon": "112.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gajahbendo",
+      "en": "Gajahbendo",
+      "slug": "gajahbendo-3514140005"
+    },
+    "code": {
+      "id": "3514140005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.6",
+      "lon": "112.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Glanggang",
+      "en": "Glanggang",
+      "slug": "glanggang-3514140014"
+    },
+    "code": {
+      "id": "3514140014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.588",
+      "lon": "112.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Gangsir",
+      "en": "Gunung Gangsir",
+      "slug": "gunung-gangsir-3514140009"
+    },
+    "code": {
+      "id": "3514140009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.588",
+      "lon": "112.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Sari",
+      "en": "Gunung Sari",
+      "slug": "gunung-sari-3514140007"
+    },
+    "code": {
+      "id": "3514140007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.608",
+      "lon": "112.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kedung Boto",
+      "en": "Kedung Boto",
+      "slug": "kedung-boto-3514140013"
+    },
+    "code": {
+      "id": "3514140013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.577",
+      "lon": "112.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kedung Ringin",
+      "en": "Kedung Ringin",
+      "slug": "kedung-ringin-3514140011"
+    },
+    "code": {
+      "id": "3514140011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.582",
+      "lon": "112.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pagak",
+      "en": "Pagak",
+      "slug": "pagak-3514140012"
+    },
+    "code": {
+      "id": "3514140012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.585",
+      "lon": "112.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidowayah",
+      "en": "Sidowayah",
+      "slug": "sidowayah-3514140004"
+    },
+    "code": {
+      "id": "3514140004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.612",
+      "lon": "112.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3514140008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonokoyo",
+      "en": "Wonokoyo",
+      "slug": "wonokoyo-3514140008"
+    },
+    "code": {
+      "id": "3514140008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3514140",
+      "level": 3,
+      "name": {
+        "local": "Beji",
+        "en": "Beji",
+        "slug": "beji-3514140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3514",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasuruan",
+          "en": "Pasuruan",
+          "slug": "pasuruan-3514"
+        }
+      },
+      {
+        "id": "3514140",
+        "level": 3,
+        "name": {
+          "local": "Beji",
+          "en": "Beji",
+          "slug": "beji-3514140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67154"
+    ],
+    "geo": {
+      "lat": "-7.594",
+      "lon": "112.718"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

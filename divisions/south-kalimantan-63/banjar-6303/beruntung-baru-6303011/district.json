@@ -1,0 +1,56 @@
+{
+  "id": "6303011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Beruntung Baru",
+    "en": "Beruntung Baru",
+    "slug": "beruntung-baru-6303011"
+  },
+  "code": {
+    "id": "6303011",
+    "iso": null
+  },
+  "parent": {
+    "id": "6303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banjar",
+      "en": "Banjar",
+      "slug": "banjar-6303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banjar",
+        "en": "Banjar",
+        "slug": "banjar-6303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.495",
+    "lon": "114.654"
+  },
+  "metadata": {},
+  "source": {}
+}

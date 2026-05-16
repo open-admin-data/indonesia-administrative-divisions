@@ -1,0 +1,48 @@
+{
+  "id": "1310",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Solok Selatan",
+    "en": "Solok Selatan",
+    "slug": "solok-selatan-1310"
+  },
+  "code": {
+    "id": "1310",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.953",
+    "lon": "101.494"
+  },
+  "metadata": {},
+  "source": {}
+}

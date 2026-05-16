@@ -1,0 +1,587 @@
+[
+  {
+    "id": "3211101005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banjarsari",
+      "en": "Banjarsari",
+      "slug": "banjarsari-3211101005"
+    },
+    "code": {
+      "id": "3211101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.951",
+      "lon": "108.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cimanintin",
+      "en": "Cimanintin",
+      "slug": "cimanintin-3211101003"
+    },
+    "code": {
+      "id": "3211101003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.911",
+      "lon": "108.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cipeundeuy",
+      "en": "Cipeundeuy",
+      "slug": "cipeundeuy-3211101002"
+    },
+    "code": {
+      "id": "3211101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.932",
+      "lon": "108.184"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kirisik",
+      "en": "Kirisik",
+      "slug": "kirisik-3211101001"
+    },
+    "code": {
+      "id": "3211101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.961",
+      "lon": "108.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pawenang",
+      "en": "Pawenang",
+      "slug": "pawenang-3211101009"
+    },
+    "code": {
+      "id": "3211101009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.937",
+      "lon": "108.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sarimekar",
+      "en": "Sarimekar",
+      "slug": "sarimekar-3211101006"
+    },
+    "code": {
+      "id": "3211101006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.954",
+      "lon": "108.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sirnasari",
+      "en": "Sirnasari",
+      "slug": "sirnasari-3211101008"
+    },
+    "code": {
+      "id": "3211101008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.937",
+      "lon": "108.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukamanah",
+      "en": "Sukamanah",
+      "slug": "sukamanah-3211101004"
+    },
+    "code": {
+      "id": "3211101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.922",
+      "lon": "108.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211101007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tarikolot",
+      "en": "Tarikolot",
+      "slug": "tarikolot-3211101007"
+    },
+    "code": {
+      "id": "3211101007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211101",
+      "level": 3,
+      "name": {
+        "local": "Jatinunggal",
+        "en": "Jatinunggal",
+        "slug": "jatinunggal-3211101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211101",
+        "level": 3,
+        "name": {
+          "local": "Jatinunggal",
+          "en": "Jatinunggal",
+          "slug": "jatinunggal-3211101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45376"
+    ],
+    "geo": {
+      "lat": "-6.952",
+      "lon": "108.116"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

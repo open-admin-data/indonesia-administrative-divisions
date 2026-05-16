@@ -1,0 +1,56 @@
+{
+  "id": "1222020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Torgamba",
+    "en": "Torgamba",
+    "slug": "torgamba-1222020"
+  },
+  "code": {
+    "id": "1222020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1222",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Labuhan Batu Selatan",
+      "en": "Labuhan Batu Selatan",
+      "slug": "labuhan-batu-selatan-1222"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.726",
+    "lon": "100.226"
+  },
+  "metadata": {},
+  "source": {}
+}

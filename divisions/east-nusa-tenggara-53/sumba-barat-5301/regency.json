@@ -1,0 +1,48 @@
+{
+  "id": "5301",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sumba Barat",
+    "en": "Sumba Barat",
+    "slug": "sumba-barat-5301"
+  },
+  "code": {
+    "id": "5301",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 73
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.073",
+    "lon": "123.864"
+  },
+  "metadata": {},
+  "source": {}
+}

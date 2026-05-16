@@ -1,0 +1,56 @@
+{
+  "id": "1709061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bang Haji",
+    "en": "Bang Haji",
+    "slug": "bang-haji-1709061"
+  },
+  "code": {
+    "id": "1709061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1709",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Tengah",
+      "en": "Bengkulu Tengah",
+      "slug": "bengkulu-tengah-1709"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.598",
+    "lon": "102.328"
+  },
+  "metadata": {},
+  "source": {}
+}

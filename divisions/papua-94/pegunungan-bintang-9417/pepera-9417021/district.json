@@ -1,0 +1,56 @@
+{
+  "id": "9417021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pepera",
+    "en": "Pepera",
+    "slug": "pepera-9417021"
+  },
+  "code": {
+    "id": "9417021",
+    "iso": null
+  },
+  "parent": {
+    "id": "9417",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pegunungan Bintang",
+      "en": "Pegunungan Bintang",
+      "slug": "pegunungan-bintang-9417"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9417",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pegunungan Bintang",
+        "en": "Pegunungan Bintang",
+        "slug": "pegunungan-bintang-9417"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.914",
+    "lon": "140.749"
+  },
+  "metadata": {},
+  "source": {}
+}

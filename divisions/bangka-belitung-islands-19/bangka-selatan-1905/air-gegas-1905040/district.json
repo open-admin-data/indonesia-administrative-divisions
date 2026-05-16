@@ -1,0 +1,56 @@
+{
+  "id": "1905040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Air Gegas",
+    "en": "Air Gegas",
+    "slug": "air-gegas-1905040"
+  },
+  "code": {
+    "id": "1905040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1905",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Selatan",
+      "en": "Bangka Selatan",
+      "slug": "bangka-selatan-1905"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Selatan",
+        "en": "Bangka Selatan",
+        "slug": "bangka-selatan-1905"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.732",
+    "lon": "106.433"
+  },
+  "metadata": {},
+  "source": {}
+}

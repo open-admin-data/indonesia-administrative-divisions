@@ -1,0 +1,56 @@
+{
+  "id": "1671040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ilir Barat I",
+    "en": "Ilir Barat I",
+    "slug": "ilir-barat-i-1671040"
+  },
+  "code": {
+    "id": "1671040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1671",
+    "level": 2,
+    "name": {
+      "local": "Kota Palembang",
+      "en": "Palembang",
+      "slug": "palembang-1671"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1671",
+      "level": 2,
+      "name": {
+        "local": "Kota Palembang",
+        "en": "Palembang",
+        "slug": "palembang-1671"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.967",
+    "lon": "104.688"
+  },
+  "metadata": {},
+  "source": {}
+}

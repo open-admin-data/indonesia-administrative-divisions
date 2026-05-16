@@ -1,0 +1,56 @@
+{
+  "id": "6102050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ledo",
+    "en": "Ledo",
+    "slug": "ledo-6102050"
+  },
+  "code": {
+    "id": "6102050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkayang",
+      "en": "Bengkayang",
+      "slug": "bengkayang-6102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.005",
+    "lon": "109.583"
+  },
+  "metadata": {},
+  "source": {}
+}

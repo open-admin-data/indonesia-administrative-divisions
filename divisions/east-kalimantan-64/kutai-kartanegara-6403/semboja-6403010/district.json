@@ -1,0 +1,56 @@
+{
+  "id": "6403010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Semboja",
+    "en": "Semboja",
+    "slug": "semboja-6403010"
+  },
+  "code": {
+    "id": "6403010",
+    "iso": null
+  },
+  "parent": {
+    "id": "6403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Kartanegara",
+      "en": "Kutai Kartanegara",
+      "slug": "kutai-kartanegara-6403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Kartanegara",
+        "en": "Kutai Kartanegara",
+        "slug": "kutai-kartanegara-6403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.993",
+    "lon": "117.043"
+  },
+  "metadata": {},
+  "source": {}
+}

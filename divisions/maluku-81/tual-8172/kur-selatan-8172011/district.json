@@ -1,0 +1,56 @@
+{
+  "id": "8172011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kur Selatan",
+    "en": "Kur Selatan",
+    "slug": "kur-selatan-8172011"
+  },
+  "code": {
+    "id": "8172011",
+    "iso": null
+  },
+  "parent": {
+    "id": "8172",
+    "level": 2,
+    "name": {
+      "local": "Kota Tual",
+      "en": "Tual",
+      "slug": "tual-8172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tual",
+        "en": "Tual",
+        "slug": "tual-8172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.5",
+    "lon": "131.971"
+  },
+  "metadata": {},
+  "source": {}
+}

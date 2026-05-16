@@ -1,0 +1,56 @@
+{
+  "id": "6110051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pinoh Selatan",
+    "en": "Pinoh Selatan",
+    "slug": "pinoh-selatan-6110051"
+  },
+  "code": {
+    "id": "6110051",
+    "iso": null
+  },
+  "parent": {
+    "id": "6110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Melawi",
+      "en": "Melawi",
+      "slug": "melawi-6110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.625",
+    "lon": "111.843"
+  },
+  "metadata": {},
+  "source": {}
+}

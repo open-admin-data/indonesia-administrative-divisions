@@ -1,0 +1,618 @@
+[
+  {
+    "id": "1571011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alam Barajo",
+      "en": "Alam Barajo",
+      "slug": "alam-barajo-1571011"
+    },
+    "code": {
+      "id": "1571011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.627",
+      "lon": "103.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danau Sipin",
+      "en": "Danau Sipin",
+      "slug": "danau-sipin-1571051"
+    },
+    "code": {
+      "id": "1571051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.6",
+      "lon": "103.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danau Teluk",
+      "en": "Danau Teluk",
+      "slug": "danau-teluk-1571060"
+    },
+    "code": {
+      "id": "1571060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.568",
+      "lon": "103.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jambi Selatan",
+      "en": "Jambi Selatan",
+      "slug": "jambi-selatan-1571020"
+    },
+    "code": {
+      "id": "1571020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.633",
+      "lon": "103.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jambi Timur",
+      "en": "Jambi Timur",
+      "slug": "jambi-timur-1571080"
+    },
+    "code": {
+      "id": "1571080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.585",
+      "lon": "103.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jelutung",
+      "en": "Jelutung",
+      "slug": "jelutung-1571030"
+    },
+    "code": {
+      "id": "1571030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.619",
+      "lon": "103.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Baru",
+      "en": "Kota Baru",
+      "slug": "kota-baru-1571010"
+    },
+    "code": {
+      "id": "1571010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.648",
+      "lon": "103.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paal Merah",
+      "en": "Paal Merah",
+      "slug": "paal-merah-1571021"
+    },
+    "code": {
+      "id": "1571021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.636",
+      "lon": "103.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasar Jambi",
+      "en": "Pasar Jambi",
+      "slug": "pasar-jambi-1571040"
+    },
+    "code": {
+      "id": "1571040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.594",
+      "lon": "103.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pelayangan",
+      "en": "Pelayangan",
+      "slug": "pelayangan-1571070"
+    },
+    "code": {
+      "id": "1571070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.567",
+      "lon": "103.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Telanaipura",
+      "en": "Telanaipura",
+      "slug": "telanaipura-1571050"
+    },
+    "code": {
+      "id": "1571050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1571",
+      "level": 2,
+      "name": {
+        "local": "Kota Jambi",
+        "en": "Jambi",
+        "slug": "jambi-1571"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1571",
+        "level": 2,
+        "name": {
+          "local": "Kota Jambi",
+          "en": "Jambi",
+          "slug": "jambi-1571"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.593",
+      "lon": "103.574"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

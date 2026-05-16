@@ -1,0 +1,56 @@
+{
+  "id": "2104040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lingga Utara",
+    "en": "Lingga Utara",
+    "slug": "lingga-utara-2104040"
+  },
+  "code": {
+    "id": "2104040",
+    "iso": null
+  },
+  "parent": {
+    "id": "2104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lingga",
+      "en": "Lingga",
+      "slug": "lingga-2104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.151",
+    "lon": "104.775"
+  },
+  "metadata": {},
+  "source": {}
+}

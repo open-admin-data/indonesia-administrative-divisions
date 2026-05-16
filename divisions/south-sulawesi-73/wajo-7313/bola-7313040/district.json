@@ -1,0 +1,56 @@
+{
+  "id": "7313040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bola",
+    "en": "Bola",
+    "slug": "bola-7313040"
+  },
+  "code": {
+    "id": "7313040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wajo",
+      "en": "Wajo",
+      "slug": "wajo-7313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.202",
+    "lon": "120.257"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3203100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagelaran",
+    "en": "Pagelaran",
+    "slug": "pagelaran-3203100"
+  },
+  "code": {
+    "id": "3203100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cianjur",
+      "en": "Cianjur",
+      "slug": "cianjur-3203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.16",
+    "lon": "107.186"
+  },
+  "metadata": {},
+  "source": {}
+}

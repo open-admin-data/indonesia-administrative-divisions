@@ -1,0 +1,56 @@
+{
+  "id": "3171080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pancoran",
+    "en": "Pancoran",
+    "slug": "pancoran-3171080"
+  },
+  "code": {
+    "id": "3171080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3171",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Selatan",
+      "en": "Jakarta Selatan",
+      "slug": "jakarta-selatan-3171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.258",
+    "lon": "106.844"
+  },
+  "metadata": {},
+  "source": {}
+}

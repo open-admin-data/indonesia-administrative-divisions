@@ -1,0 +1,56 @@
+{
+  "id": "3504040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Campur Darat",
+    "en": "Campur Darat",
+    "slug": "campur-darat-3504040"
+  },
+  "code": {
+    "id": "3504040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulungagung",
+      "en": "Tulungagung",
+      "slug": "tulungagung-3504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulungagung",
+        "en": "Tulungagung",
+        "slug": "tulungagung-3504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.175",
+    "lon": "111.863"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1805042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bumi Ratu Nuban",
+    "en": "Bumi Ratu Nuban",
+    "slug": "bumi-ratu-nuban-1805042"
+  },
+  "code": {
+    "id": "1805042",
+    "iso": null
+  },
+  "parent": {
+    "id": "1805",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Tengah",
+      "en": "Lampung Tengah",
+      "slug": "lampung-tengah-1805"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Tengah",
+        "en": "Lampung Tengah",
+        "slug": "lampung-tengah-1805"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.094",
+    "lon": "105.208"
+  },
+  "metadata": {},
+  "source": {}
+}

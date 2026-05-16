@@ -1,0 +1,674 @@
+[
+  {
+    "id": "6102",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bengkayang",
+      "en": "Bengkayang",
+      "slug": "bengkayang-6102"
+    },
+    "code": {
+      "id": "6102",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 120
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.351",
+      "lon": "108.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6108",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kapuas Hulu",
+      "en": "Kapuas Hulu",
+      "slug": "kapuas-hulu-6108"
+    },
+    "code": {
+      "id": "6108",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 23,
+      "village": 273
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.375",
+      "lon": "109.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6111",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kayong Utara",
+      "en": "Kayong Utara",
+      "slug": "kayong-utara-6111"
+    },
+    "code": {
+      "id": "6111",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.253",
+      "lon": "109.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6106",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Ketapang",
+      "en": "Ketapang",
+      "slug": "ketapang-6106"
+    },
+    "code": {
+      "id": "6106",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 20,
+      "village": 258
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.879",
+      "lon": "112.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kubu Raya",
+      "en": "Kubu Raya",
+      "slug": "kubu-raya-6112"
+    },
+    "code": {
+      "id": "6112",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 116
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.127",
+      "lon": "109.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Landak",
+      "en": "Landak",
+      "slug": "landak-6103"
+    },
+    "code": {
+      "id": "6103",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 149
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.123",
+      "lon": "110.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Melawi",
+      "en": "Melawi",
+      "slug": "melawi-6110"
+    },
+    "code": {
+      "id": "6110",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 167
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.377",
+      "lon": "111.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6104",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mempawah",
+      "en": "Mempawah",
+      "slug": "mempawah-6104"
+    },
+    "code": {
+      "id": "6104",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.844",
+      "lon": "109.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6171",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Pontianak",
+      "en": "Pontianak",
+      "slug": "pontianak-6171"
+    },
+    "code": {
+      "id": "6171",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.022",
+      "lon": "109.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6101",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sambas",
+      "en": "Sambas",
+      "slug": "sambas-6101"
+    },
+    "code": {
+      "id": "6101",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 19,
+      "village": 184
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.361",
+      "lon": "109.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6105",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sanggau",
+      "en": "Sanggau",
+      "slug": "sanggau-6105"
+    },
+    "code": {
+      "id": "6105",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 163
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.079",
+      "lon": "111.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6109",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sekadau",
+      "en": "Sekadau",
+      "slug": "sekadau-6109"
+    },
+    "code": {
+      "id": "6109",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 83
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.007",
+      "lon": "110.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6172",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Singkawang",
+      "en": "Singkawang",
+      "slug": "singkawang-6172"
+    },
+    "code": {
+      "id": "6172",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.905",
+      "lon": "108.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6107",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sintang",
+      "en": "Sintang",
+      "slug": "sintang-6107"
+    },
+    "code": {
+      "id": "6107",
+      "iso": null
+    },
+    "parent": {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 398
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.869",
+      "lon": "109.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

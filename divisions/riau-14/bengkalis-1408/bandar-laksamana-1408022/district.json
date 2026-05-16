@@ -1,0 +1,56 @@
+{
+  "id": "1408022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Laksamana",
+    "en": "Bandar Laksamana",
+    "slug": "bandar-laksamana-1408022"
+  },
+  "code": {
+    "id": "1408022",
+    "iso": null
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkalis",
+      "en": "Bengkalis",
+      "slug": "bengkalis-1408"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.524",
+    "lon": "101.749"
+  },
+  "metadata": {},
+  "source": {}
+}

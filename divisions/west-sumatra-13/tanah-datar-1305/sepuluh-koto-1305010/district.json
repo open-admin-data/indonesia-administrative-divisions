@@ -1,0 +1,56 @@
+{
+  "id": "1305010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sepuluh Koto",
+    "en": "Sepuluh Koto",
+    "slug": "sepuluh-koto-1305010"
+  },
+  "code": {
+    "id": "1305010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanah Datar",
+      "en": "Tanah Datar",
+      "slug": "tanah-datar-1305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanah Datar",
+        "en": "Tanah Datar",
+        "slug": "tanah-datar-1305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.475",
+    "lon": "100.385"
+  },
+  "metadata": {},
+  "source": {}
+}

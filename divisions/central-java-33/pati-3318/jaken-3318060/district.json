@@ -1,0 +1,56 @@
+{
+  "id": "3318060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jaken",
+    "en": "Jaken",
+    "slug": "jaken-3318060"
+  },
+  "code": {
+    "id": "3318060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3318",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pati",
+      "en": "Pati",
+      "slug": "pati-3318"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3318",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pati",
+        "en": "Pati",
+        "slug": "pati-3318"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.803",
+    "lon": "111.223"
+  },
+  "metadata": {},
+  "source": {}
+}

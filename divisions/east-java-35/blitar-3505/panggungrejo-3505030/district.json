@@ -1,0 +1,56 @@
+{
+  "id": "3505030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Panggungrejo",
+    "en": "Panggungrejo",
+    "slug": "panggungrejo-3505030"
+  },
+  "code": {
+    "id": "3505030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Blitar",
+      "en": "Blitar",
+      "slug": "blitar-3505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3505"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.263",
+    "lon": "112.26"
+  },
+  "metadata": {},
+  "source": {}
+}

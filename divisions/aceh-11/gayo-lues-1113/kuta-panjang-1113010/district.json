@@ -1,0 +1,56 @@
+{
+  "id": "1113010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuta Panjang",
+    "en": "Kuta Panjang",
+    "slug": "kuta-panjang-1113010"
+  },
+  "code": {
+    "id": "1113010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1113",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gayo Lues",
+      "en": "Gayo Lues",
+      "slug": "gayo-lues-1113"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1113",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gayo Lues",
+        "en": "Gayo Lues",
+        "slug": "gayo-lues-1113"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.881",
+    "lon": "97.223"
+  },
+  "metadata": {},
+  "source": {}
+}

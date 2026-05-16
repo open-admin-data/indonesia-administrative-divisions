@@ -1,0 +1,56 @@
+{
+  "id": "1105150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nurussalam",
+    "en": "Nurussalam",
+    "slug": "nurussalam-1105150"
+  },
+  "code": {
+    "id": "1105150",
+    "iso": null
+  },
+  "parent": {
+    "id": "1105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Timur",
+      "en": "Aceh Timur",
+      "slug": "aceh-timur-1105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Timur",
+        "en": "Aceh Timur",
+        "slug": "aceh-timur-1105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.97",
+    "lon": "97.665"
+  },
+  "metadata": {},
+  "source": {}
+}

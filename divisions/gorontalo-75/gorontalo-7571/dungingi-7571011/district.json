@@ -1,0 +1,56 @@
+{
+  "id": "7571011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dungingi",
+    "en": "Dungingi",
+    "slug": "dungingi-7571011"
+  },
+  "code": {
+    "id": "7571011",
+    "iso": null
+  },
+  "parent": {
+    "id": "7571",
+    "level": 2,
+    "name": {
+      "local": "Kota Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7571"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7571",
+      "level": 2,
+      "name": {
+        "local": "Kota Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7571"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.561",
+    "lon": "123.038"
+  },
+  "metadata": {},
+  "source": {}
+}

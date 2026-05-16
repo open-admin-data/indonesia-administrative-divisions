@@ -1,0 +1,56 @@
+{
+  "id": "3316040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kedungtuban",
+    "en": "Kedungtuban",
+    "slug": "kedungtuban-3316040"
+  },
+  "code": {
+    "id": "3316040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3316",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Blora",
+      "en": "Blora",
+      "slug": "blora-3316"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blora",
+        "en": "Blora",
+        "slug": "blora-3316"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.169",
+    "lon": "111.5"
+  },
+  "metadata": {},
+  "source": {}
+}

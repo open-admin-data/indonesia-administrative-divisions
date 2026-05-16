@@ -1,0 +1,48 @@
+{
+  "id": "3402",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bantul",
+    "en": "Bantul",
+    "slug": "bantul-3402"
+  },
+  "code": {
+    "id": "3402",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "Di Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.886",
+    "lon": "110.328"
+  },
+  "metadata": {},
+  "source": {}
+}

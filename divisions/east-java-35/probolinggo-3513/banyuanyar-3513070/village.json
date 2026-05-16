@@ -1,0 +1,912 @@
+[
+  {
+    "id": "3513070014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alassapi",
+      "en": "Alassapi",
+      "slug": "alassapi-3513070014"
+    },
+    "code": {
+      "id": "3513070014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.821",
+      "lon": "113.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banyuanyar Kidul",
+      "en": "Banyuanyar Kidul",
+      "slug": "banyuanyar-kidul-3513070010"
+    },
+    "code": {
+      "id": "3513070010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.848",
+      "lon": "113.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banyuanyar Tengah",
+      "en": "Banyuanyar Tengah",
+      "slug": "banyuanyar-tengah-3513070012"
+    },
+    "code": {
+      "id": "3513070012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.835",
+      "lon": "113.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Blado Wetan",
+      "en": "Blado Wetan",
+      "slug": "blado-wetan-3513070011"
+    },
+    "code": {
+      "id": "3513070011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.844",
+      "lon": "113.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gading Kulon",
+      "en": "Gading Kulon",
+      "slug": "gading-kulon-3513070004"
+    },
+    "code": {
+      "id": "3513070004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.872",
+      "lon": "113.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gununggeni",
+      "en": "Gununggeni",
+      "slug": "gununggeni-3513070001"
+    },
+    "code": {
+      "id": "3513070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.9",
+      "lon": "113.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Klenang Kidul",
+      "en": "Klenang Kidul",
+      "slug": "klenang-kidul-3513070005"
+    },
+    "code": {
+      "id": "3513070005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.858",
+      "lon": "113.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Klenang Lor",
+      "en": "Klenang Lor",
+      "slug": "klenang-lor-3513070006"
+    },
+    "code": {
+      "id": "3513070006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.841",
+      "lon": "113.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Liprak Kidul",
+      "en": "Liprak Kidul",
+      "slug": "liprak-kidul-3513070002"
+    },
+    "code": {
+      "id": "3513070002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.867",
+      "lon": "113.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Liprak Kulon",
+      "en": "Liprak Kulon",
+      "slug": "liprak-kulon-3513070009"
+    },
+    "code": {
+      "id": "3513070009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.854",
+      "lon": "113.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Liprak Wetan",
+      "en": "Liprak Wetan",
+      "slug": "liprak-wetan-3513070008"
+    },
+    "code": {
+      "id": "3513070008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.834",
+      "lon": "113.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pendil",
+      "en": "Pendil",
+      "slug": "pendil-3513070013"
+    },
+    "code": {
+      "id": "3513070013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.828",
+      "lon": "113.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sentulan",
+      "en": "Sentulan",
+      "slug": "sentulan-3513070003"
+    },
+    "code": {
+      "id": "3513070003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.874",
+      "lon": "113.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3513070007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tarokan",
+      "en": "Tarokan",
+      "slug": "tarokan-3513070007"
+    },
+    "code": {
+      "id": "3513070007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3513070",
+      "level": 3,
+      "name": {
+        "local": "Banyuanyar",
+        "en": "Banyuanyar",
+        "slug": "banyuanyar-3513070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3513",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Probolinggo",
+          "en": "Probolinggo",
+          "slug": "probolinggo-3513"
+        }
+      },
+      {
+        "id": "3513070",
+        "level": 3,
+        "name": {
+          "local": "Banyuanyar",
+          "en": "Banyuanyar",
+          "slug": "banyuanyar-3513070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67275"
+    ],
+    "geo": {
+      "lat": "-7.847",
+      "lon": "113.318"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3510070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gambiran",
+    "en": "Gambiran",
+    "slug": "gambiran-3510070"
+  },
+  "code": {
+    "id": "3510070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3510",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banyuwangi",
+      "en": "Banyuwangi",
+      "slug": "banyuwangi-3510"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3510",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyuwangi",
+        "en": "Banyuwangi",
+        "slug": "banyuwangi-3510"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.419",
+    "lon": "114.167"
+  },
+  "metadata": {},
+  "source": {}
+}

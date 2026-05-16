@@ -1,0 +1,56 @@
+{
+  "id": "1671060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ilir Timur Ii",
+    "en": "Ilir Timur Ii",
+    "slug": "ilir-timur-ii-1671060"
+  },
+  "code": {
+    "id": "1671060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1671",
+    "level": 2,
+    "name": {
+      "local": "Kota Palembang",
+      "en": "Palembang",
+      "slug": "palembang-1671"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1671",
+      "level": 2,
+      "name": {
+        "local": "Kota Palembang",
+        "en": "Palembang",
+        "slug": "palembang-1671"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.959",
+    "lon": "104.789"
+  },
+  "metadata": {},
+  "source": {}
+}

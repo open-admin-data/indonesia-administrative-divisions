@@ -1,0 +1,56 @@
+{
+  "id": "3525080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Duduksampeyan",
+    "en": "Duduksampeyan",
+    "slug": "duduksampeyan-3525080"
+  },
+  "code": {
+    "id": "3525080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3525",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gresik",
+      "en": "Gresik",
+      "slug": "gresik-3525"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3525",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gresik",
+        "en": "Gresik",
+        "slug": "gresik-3525"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.155",
+    "lon": "112.524"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3524040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sambeng",
+    "en": "Sambeng",
+    "slug": "sambeng-3524040"
+  },
+  "code": {
+    "id": "3524040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3524",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lamongan",
+      "en": "Lamongan",
+      "slug": "lamongan-3524"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.289",
+    "lon": "112.286"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "3506141",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Badas",
+      "en": "Badas",
+      "slug": "badas-3506141"
+    },
+    "code": {
+      "id": "3506141",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.726",
+      "lon": "112.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyakan",
+      "en": "Banyakan",
+      "slug": "banyakan-3506210"
+    },
+    "code": {
+      "id": "3506210",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.786",
+      "lon": "111.918"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gampengrejo",
+      "en": "Gampengrejo",
+      "slug": "gampengrejo-3506200"
+    },
+    "code": {
+      "id": "3506200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.756",
+      "lon": "112.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Grogol",
+      "en": "Grogol",
+      "slug": "grogol-3506220"
+    },
+    "code": {
+      "id": "3506220",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.756",
+      "lon": "111.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gurah",
+      "en": "Gurah",
+      "slug": "gurah-3506100"
+    },
+    "code": {
+      "id": "3506100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.823",
+      "lon": "112.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kandangan",
+      "en": "Kandangan",
+      "slug": "kandangan-3506130"
+    },
+    "code": {
+      "id": "3506130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.75",
+      "lon": "112.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kandat",
+      "en": "Kandat",
+      "slug": "kandat-3506060"
+    },
+    "code": {
+      "id": "3506060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.917",
+      "lon": "112.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506191",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kayen Kidul",
+      "en": "Kayen Kidul",
+      "slug": "kayen-kidul-3506191"
+    },
+    "code": {
+      "id": "3506191",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.742",
+      "lon": "112.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kepung",
+      "en": "Kepung",
+      "slug": "kepung-3506120"
+    },
+    "code": {
+      "id": "3506120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.843",
+      "lon": "112.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kras",
+      "en": "Kras",
+      "slug": "kras-3506040"
+    },
+    "code": {
+      "id": "3506040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.966",
+      "lon": "111.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kunjang",
+      "en": "Kunjang",
+      "slug": "kunjang-3506150"
+    },
+    "code": {
+      "id": "3506150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.66",
+      "lon": "112.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mojo",
+      "en": "Mojo",
+      "slug": "mojo-3506010"
+    },
+    "code": {
+      "id": "3506010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.905",
+      "lon": "111.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngadiluwih",
+      "en": "Ngadiluwih",
+      "slug": "ngadiluwih-3506030"
+    },
+    "code": {
+      "id": "3506030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.897",
+      "lon": "111.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngancar",
+      "en": "Ngancar",
+      "slug": "ngancar-3506080"
+    },
+    "code": {
+      "id": "3506080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.937",
+      "lon": "112.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506201",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngasem",
+      "en": "Ngasem",
+      "slug": "ngasem-3506201"
+    },
+    "code": {
+      "id": "3506201",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.802",
+      "lon": "112.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pagu",
+      "en": "Pagu",
+      "slug": "pagu-3506190"
+    },
+    "code": {
+      "id": "3506190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.78",
+      "lon": "112.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Papar",
+      "en": "Papar",
+      "slug": "papar-3506180"
+    },
+    "code": {
+      "id": "3506180",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.705",
+      "lon": "112.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pare",
+      "en": "Pare",
+      "slug": "pare-3506140"
+    },
+    "code": {
+      "id": "3506140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.784",
+      "lon": "112.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Plemahan",
+      "en": "Plemahan",
+      "slug": "plemahan-3506160"
+    },
+    "code": {
+      "id": "3506160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.709",
+      "lon": "112.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Plosoklaten",
+      "en": "Plosoklaten",
+      "slug": "plosoklaten-3506090"
+    },
+    "code": {
+      "id": "3506090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.873",
+      "lon": "112.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Puncu",
+      "en": "Puncu",
+      "slug": "puncu-3506110"
+    },
+    "code": {
+      "id": "3506110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.851",
+      "lon": "112.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwoasri",
+      "en": "Purwoasri",
+      "slug": "purwoasri-3506170"
+    },
+    "code": {
+      "id": "3506170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.636",
+      "lon": "112.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ringinrejo",
+      "en": "Ringinrejo",
+      "slug": "ringinrejo-3506050"
+    },
+    "code": {
+      "id": "3506050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.968",
+      "lon": "112.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semen",
+      "en": "Semen",
+      "slug": "semen-3506020"
+    },
+    "code": {
+      "id": "3506020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.836",
+      "lon": "111.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506230",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tarokan",
+      "en": "Tarokan",
+      "slug": "tarokan-3506230"
+    },
+    "code": {
+      "id": "3506230",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.725",
+      "lon": "111.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wates",
+      "en": "Wates",
+      "slug": "wates-3506070"
+    },
+    "code": {
+      "id": "3506070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.903",
+      "lon": "112.104"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

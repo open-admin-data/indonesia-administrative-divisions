@@ -1,0 +1,56 @@
+{
+  "id": "1174020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Dua",
+    "en": "Muara Dua",
+    "slug": "muara-dua-1174020"
+  },
+  "code": {
+    "id": "1174020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1174",
+    "level": 2,
+    "name": {
+      "local": "Kota Lhokseumawe",
+      "en": "Lhokseumawe",
+      "slug": "lhokseumawe-1174"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1174",
+      "level": 2,
+      "name": {
+        "local": "Kota Lhokseumawe",
+        "en": "Lhokseumawe",
+        "slug": "lhokseumawe-1174"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.162",
+    "lon": "97.129"
+  },
+  "metadata": {},
+  "source": {}
+}

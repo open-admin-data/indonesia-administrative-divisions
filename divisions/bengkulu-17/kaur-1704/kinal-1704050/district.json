@@ -1,0 +1,56 @@
+{
+  "id": "1704050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kinal",
+    "en": "Kinal",
+    "slug": "kinal-1704050"
+  },
+  "code": {
+    "id": "1704050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kaur",
+      "en": "Kaur",
+      "slug": "kaur-1704"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaur",
+        "en": "Kaur",
+        "slug": "kaur-1704"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.529",
+    "lon": "103.304"
+  },
+  "metadata": {},
+  "source": {}
+}

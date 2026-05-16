@@ -1,0 +1,48 @@
+{
+  "id": "8103",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Maluku Tengah",
+    "en": "Maluku Tengah",
+    "slug": "maluku-tengah-8103"
+  },
+  "code": {
+    "id": "8103",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 186
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.97",
+    "lon": "131.312"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "3319",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kudus",
+    "en": "Kudus",
+    "slug": "kudus-3319"
+  },
+  "code": {
+    "id": "3319",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 128
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.806",
+    "lon": "110.842"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7174020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kotamobagu Timur",
+    "en": "Kotamobagu Timur",
+    "slug": "kotamobagu-timur-7174020"
+  },
+  "code": {
+    "id": "7174020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7174",
+    "level": 2,
+    "name": {
+      "local": "Kota Kotamobagu",
+      "en": "Kotamobagu",
+      "slug": "kotamobagu-7174"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7174",
+      "level": 2,
+      "name": {
+        "local": "Kota Kotamobagu",
+        "en": "Kotamobagu",
+        "slug": "kotamobagu-7174"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.734",
+    "lon": "124.331"
+  },
+  "metadata": {},
+  "source": {}
+}

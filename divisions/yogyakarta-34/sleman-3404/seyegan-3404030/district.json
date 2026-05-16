@@ -1,0 +1,56 @@
+{
+  "id": "3404030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seyegan",
+    "en": "Seyegan",
+    "slug": "seyegan-3404030"
+  },
+  "code": {
+    "id": "3404030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sleman",
+      "en": "Sleman",
+      "slug": "sleman-3404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.73",
+    "lon": "110.299"
+  },
+  "metadata": {},
+  "source": {}
+}

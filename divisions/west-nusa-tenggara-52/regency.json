@@ -1,0 +1,482 @@
+[
+  {
+    "id": "5206",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bima",
+      "en": "Bima",
+      "slug": "bima-5206"
+    },
+    "code": {
+      "id": "5206",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 18,
+      "village": 178
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.557",
+      "lon": "118.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5272",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Bima",
+      "en": "Bima",
+      "slug": "bima-5272"
+    },
+    "code": {
+      "id": "5272",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.462",
+      "lon": "118.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5205",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Dompu",
+      "en": "Dompu",
+      "slug": "dompu-5205"
+    },
+    "code": {
+      "id": "5205",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 77
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.534",
+      "lon": "118.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5201",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lombok Barat",
+      "en": "Lombok Barat",
+      "slug": "lombok-barat-5201"
+    },
+    "code": {
+      "id": "5201",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 113
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.681",
+      "lon": "116.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5202",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lombok Tengah",
+      "en": "Lombok Tengah",
+      "slug": "lombok-tengah-5202"
+    },
+    "code": {
+      "id": "5202",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 123
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.706",
+      "lon": "116.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5203",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lombok Timur",
+      "en": "Lombok Timur",
+      "slug": "lombok-timur-5203"
+    },
+    "code": {
+      "id": "5203",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 20,
+      "village": 242
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.651",
+      "lon": "116.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5208",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lombok Utara",
+      "en": "Lombok Utara",
+      "slug": "lombok-utara-5208"
+    },
+    "code": {
+      "id": "5208",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.356",
+      "lon": "116.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5271",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Mataram",
+      "en": "Mataram",
+      "slug": "mataram-5271"
+    },
+    "code": {
+      "id": "5271",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 49
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.583",
+      "lon": "116.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sumbawa",
+      "en": "Sumbawa",
+      "slug": "sumbawa-5204"
+    },
+    "code": {
+      "id": "5204",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 24,
+      "village": 151
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.49",
+      "lon": "117.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5207",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sumbawa Barat",
+      "en": "Sumbawa Barat",
+      "slug": "sumbawa-barat-5207"
+    },
+    "code": {
+      "id": "5207",
+      "iso": null
+    },
+    "parent": {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.754",
+      "lon": "116.854"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

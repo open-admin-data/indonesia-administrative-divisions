@@ -1,0 +1,56 @@
+{
+  "id": "1905030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toboali",
+    "en": "Toboali",
+    "slug": "toboali-1905030"
+  },
+  "code": {
+    "id": "1905030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1905",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Selatan",
+      "en": "Bangka Selatan",
+      "slug": "bangka-selatan-1905"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Selatan",
+        "en": "Bangka Selatan",
+        "slug": "bangka-selatan-1905"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.925",
+    "lon": "106.472"
+  },
+  "metadata": {},
+  "source": {}
+}

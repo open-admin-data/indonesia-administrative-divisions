@@ -1,0 +1,56 @@
+{
+  "id": "1402031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rakit Kulim",
+    "en": "Rakit Kulim",
+    "slug": "rakit-kulim-1402031"
+  },
+  "code": {
+    "id": "1402031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indragiri Hulu",
+      "en": "Indragiri Hulu",
+      "slug": "indragiri-hulu-1402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indragiri Hulu",
+        "en": "Indragiri Hulu",
+        "slug": "indragiri-hulu-1402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.627",
+    "lon": "102.188"
+  },
+  "metadata": {},
+  "source": {}
+}

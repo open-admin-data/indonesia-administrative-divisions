@@ -1,0 +1,48 @@
+{
+  "id": "1174",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Lhokseumawe",
+    "en": "Lhokseumawe",
+    "slug": "lhokseumawe-1174"
+  },
+  "code": {
+    "id": "1174",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 68
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.469",
+    "lon": "97.966"
+  },
+  "metadata": {},
+  "source": {}
+}

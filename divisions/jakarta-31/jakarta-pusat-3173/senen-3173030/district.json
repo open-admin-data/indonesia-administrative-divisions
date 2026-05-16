@@ -1,0 +1,56 @@
+{
+  "id": "3173030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Senen",
+    "en": "Senen",
+    "slug": "senen-3173030"
+  },
+  "code": {
+    "id": "3173030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3173",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Pusat",
+      "en": "Jakarta Pusat",
+      "slug": "jakarta-pusat-3173"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3173",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Pusat",
+        "en": "Jakarta Pusat",
+        "slug": "jakarta-pusat-3173"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.185",
+    "lon": "106.845"
+  },
+  "metadata": {},
+  "source": {}
+}

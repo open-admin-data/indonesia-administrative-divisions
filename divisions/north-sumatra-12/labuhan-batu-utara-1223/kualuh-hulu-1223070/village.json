@@ -1,0 +1,847 @@
+[
+  {
+    "id": "1223070006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aek Kanopan",
+      "en": "Aek Kanopan",
+      "slug": "aek-kanopan-1223070006"
+    },
+    "code": {
+      "id": "1223070006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.567",
+      "lon": "99.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aek Kanopan Timur",
+      "en": "Aek Kanopan Timur",
+      "slug": "aek-kanopan-timur-1223070010"
+    },
+    "code": {
+      "id": "1223070010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.575",
+      "lon": "99.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Beringin",
+      "en": "Kuala Beringin",
+      "slug": "kuala-beringin-1223070001"
+    },
+    "code": {
+      "id": "1223070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.485",
+      "lon": "99.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Parpaudangan",
+      "en": "Parpaudangan",
+      "slug": "parpaudangan-1223070005"
+    },
+    "code": {
+      "id": "1223070005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.548",
+      "lon": "99.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Hanna",
+      "en": "Perkebunan Hanna",
+      "slug": "perkebunan-hanna-1223070009"
+    },
+    "code": {
+      "id": "1223070009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.537",
+      "lon": "99.718"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Kanopan Ulu",
+      "en": "Perkebunan Kanopan Ulu",
+      "slug": "perkebunan-kanopan-ulu-1223070004"
+    },
+    "code": {
+      "id": "1223070004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.578",
+      "lon": "99.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Labuhan Haji",
+      "en": "Perkebunan Labuhan Haji",
+      "slug": "perkebunan-labuhan-haji-1223070008"
+    },
+    "code": {
+      "id": "1223070008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.55",
+      "lon": "99.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Londut",
+      "en": "Perkebunan Londut",
+      "slug": "perkebunan-londut-1223070003"
+    },
+    "code": {
+      "id": "1223070003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.563",
+      "lon": "99.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Membang Muda",
+      "en": "Perkebunan Membang Muda",
+      "slug": "perkebunan-membang-muda-1223070007"
+    },
+    "code": {
+      "id": "1223070007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.557",
+      "lon": "99.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulo Dogom",
+      "en": "Pulo Dogom",
+      "slug": "pulo-dogom-1223070002"
+    },
+    "code": {
+      "id": "1223070002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.553",
+      "lon": "99.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sono Martani",
+      "en": "Sono Martani",
+      "slug": "sono-martani-1223070013"
+    },
+    "code": {
+      "id": "1223070013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.591",
+      "lon": "99.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukarame",
+      "en": "Sukarame",
+      "slug": "sukarame-1223070011"
+    },
+    "code": {
+      "id": "1223070011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.591",
+      "lon": "99.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223070012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukarame Baru",
+      "en": "Sukarame Baru",
+      "slug": "sukarame-baru-1223070012"
+    },
+    "code": {
+      "id": "1223070012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223070",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hulu",
+        "en": "Kualuh Hulu",
+        "slug": "kualuh-hulu-1223070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223070",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hulu",
+          "en": "Kualuh Hulu",
+          "slug": "kualuh-hulu-1223070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21711"
+    ],
+    "geo": {
+      "lat": "2.596",
+      "lon": "99.773"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

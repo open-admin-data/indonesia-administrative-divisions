@@ -1,0 +1,56 @@
+{
+  "id": "1305040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rambatan",
+    "en": "Rambatan",
+    "slug": "rambatan-1305040"
+  },
+  "code": {
+    "id": "1305040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanah Datar",
+      "en": "Tanah Datar",
+      "slug": "tanah-datar-1305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanah Datar",
+        "en": "Tanah Datar",
+        "slug": "tanah-datar-1305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.539",
+    "lon": "100.575"
+  },
+  "metadata": {},
+  "source": {}
+}

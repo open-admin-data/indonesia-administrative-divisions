@@ -1,0 +1,56 @@
+{
+  "id": "7102110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tompaso",
+    "en": "Tompaso",
+    "slug": "tompaso-7102110"
+  },
+  "code": {
+    "id": "7102110",
+    "iso": null
+  },
+  "parent": {
+    "id": "7102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa",
+      "en": "Minahasa",
+      "slug": "minahasa-7102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.183",
+    "lon": "124.814"
+  },
+  "metadata": {},
+  "source": {}
+}

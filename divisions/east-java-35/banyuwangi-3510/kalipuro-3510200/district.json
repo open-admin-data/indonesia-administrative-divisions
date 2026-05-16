@@ -1,0 +1,56 @@
+{
+  "id": "3510200",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kalipuro",
+    "en": "Kalipuro",
+    "slug": "kalipuro-3510200"
+  },
+  "code": {
+    "id": "3510200",
+    "iso": null
+  },
+  "parent": {
+    "id": "3510",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banyuwangi",
+      "en": "Banyuwangi",
+      "slug": "banyuwangi-3510"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3510",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyuwangi",
+        "en": "Banyuwangi",
+        "slug": "banyuwangi-3510"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.127",
+    "lon": "114.331"
+  },
+  "metadata": {},
+  "source": {}
+}

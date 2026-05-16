@@ -1,0 +1,618 @@
+[
+  {
+    "id": "1102032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danau Paris",
+      "en": "Danau Paris",
+      "slug": "danau-paris-1102032"
+    },
+    "code": {
+      "id": "1102032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.313",
+      "lon": "98.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunung Meriah",
+      "en": "Gunung Meriah",
+      "slug": "gunung-meriah-1102031"
+    },
+    "code": {
+      "id": "1102031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.394",
+      "lon": "97.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102043",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Baharu",
+      "en": "Kota Baharu",
+      "slug": "kota-baharu-1102043"
+    },
+    "code": {
+      "id": "1102043",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.463",
+      "lon": "97.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Baru",
+      "en": "Kuala Baru",
+      "slug": "kuala-baru-1102022"
+    },
+    "code": {
+      "id": "1102022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.361",
+      "lon": "97.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Banyak",
+      "en": "Pulau Banyak",
+      "slug": "pulau-banyak-1102010"
+    },
+    "code": {
+      "id": "1102010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.26",
+      "lon": "97.375"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Banyak Barat",
+      "en": "Pulau Banyak Barat",
+      "slug": "pulau-banyak-barat-1102011"
+    },
+    "code": {
+      "id": "1102011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.158",
+      "lon": "97.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simpang Kanan",
+      "en": "Simpang Kanan",
+      "slug": "simpang-kanan-1102030"
+    },
+    "code": {
+      "id": "1102030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.408",
+      "lon": "98.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkil",
+      "en": "Singkil",
+      "slug": "singkil-1102020"
+    },
+    "code": {
+      "id": "1102020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.335",
+      "lon": "97.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkil Utara",
+      "en": "Singkil Utara",
+      "slug": "singkil-utara-1102021"
+    },
+    "code": {
+      "id": "1102021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.245",
+      "lon": "98.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkohor",
+      "en": "Singkohor",
+      "slug": "singkohor-1102042"
+    },
+    "code": {
+      "id": "1102042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.5",
+      "lon": "97.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102033",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suro",
+      "en": "Suro",
+      "slug": "suro-1102033"
+    },
+    "code": {
+      "id": "1102033",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.53",
+      "lon": "98.024"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "6202050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Hanaut",
+    "en": "Pulau Hanaut",
+    "slug": "pulau-hanaut-6202050"
+  },
+  "code": {
+    "id": "6202050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kotawaringin Timur",
+      "en": "Kotawaringin Timur",
+      "slug": "kotawaringin-timur-6202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Timur",
+        "en": "Kotawaringin Timur",
+        "slug": "kotawaringin-timur-6202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.887",
+    "lon": "113.04"
+  },
+  "metadata": {},
+  "source": {}
+}

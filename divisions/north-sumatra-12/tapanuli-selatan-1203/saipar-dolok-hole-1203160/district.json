@@ -1,0 +1,56 @@
+{
+  "id": "1203160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Saipar Dolok Hole",
+    "en": "Saipar Dolok Hole",
+    "slug": "saipar-dolok-hole-1203160"
+  },
+  "code": {
+    "id": "1203160",
+    "iso": null
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapanuli Selatan",
+      "en": "Tapanuli Selatan",
+      "slug": "tapanuli-selatan-1203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapanuli Selatan",
+        "en": "Tapanuli Selatan",
+        "slug": "tapanuli-selatan-1203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.826",
+    "lon": "99.422"
+  },
+  "metadata": {},
+  "source": {}
+}

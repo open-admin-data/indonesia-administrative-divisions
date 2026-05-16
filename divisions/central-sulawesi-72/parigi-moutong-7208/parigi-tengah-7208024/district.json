@@ -1,0 +1,56 @@
+{
+  "id": "7208024",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Parigi Tengah",
+    "en": "Parigi Tengah",
+    "slug": "parigi-tengah-7208024"
+  },
+  "code": {
+    "id": "7208024",
+    "iso": null
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Parigi Moutong",
+      "en": "Parigi Moutong",
+      "slug": "parigi-moutong-7208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Parigi Moutong",
+        "en": "Parigi Moutong",
+        "slug": "parigi-moutong-7208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.78",
+    "lon": "120.08"
+  },
+  "metadata": {},
+  "source": {}
+}

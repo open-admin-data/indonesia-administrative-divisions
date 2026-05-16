@@ -1,0 +1,56 @@
+{
+  "id": "6109050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belitang Hilir",
+    "en": "Belitang Hilir",
+    "slug": "belitang-hilir-6109050"
+  },
+  "code": {
+    "id": "6109050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sekadau",
+      "en": "Sekadau",
+      "slug": "sekadau-6109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sekadau",
+        "en": "Sekadau",
+        "slug": "sekadau-6109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.244",
+    "lon": "111.086"
+  },
+  "metadata": {},
+  "source": {}
+}

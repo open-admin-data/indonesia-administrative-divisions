@@ -1,0 +1,56 @@
+{
+  "id": "1103090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Labuhan Haji",
+    "en": "Labuhan Haji",
+    "slug": "labuhan-haji-1103090"
+  },
+  "code": {
+    "id": "1103090",
+    "iso": null
+  },
+  "parent": {
+    "id": "1103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Selatan",
+      "en": "Aceh Selatan",
+      "slug": "aceh-selatan-1103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Selatan",
+        "en": "Aceh Selatan",
+        "slug": "aceh-selatan-1103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.637",
+    "lon": "97.066"
+  },
+  "metadata": {},
+  "source": {}
+}

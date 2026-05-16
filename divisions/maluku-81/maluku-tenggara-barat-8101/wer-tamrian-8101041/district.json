@@ -1,0 +1,56 @@
+{
+  "id": "8101041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wer Tamrian",
+    "en": "Wer Tamrian",
+    "slug": "wer-tamrian-8101041"
+  },
+  "code": {
+    "id": "8101041",
+    "iso": null
+  },
+  "parent": {
+    "id": "8101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tenggara Barat",
+      "en": "Maluku Tenggara Barat",
+      "slug": "maluku-tenggara-barat-8101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tenggara Barat",
+        "en": "Maluku Tenggara Barat",
+        "slug": "maluku-tenggara-barat-8101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.742",
+    "lon": "131.398"
+  },
+  "metadata": {},
+  "source": {}
+}

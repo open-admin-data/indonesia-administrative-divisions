@@ -1,0 +1,56 @@
+{
+  "id": "3214050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukatani",
+    "en": "Sukatani",
+    "slug": "sukatani-3214050"
+  },
+  "code": {
+    "id": "3214050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3214",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Purwakarta",
+      "en": "Purwakarta",
+      "slug": "purwakarta-3214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.6",
+    "lon": "107.381"
+  },
+  "metadata": {},
+  "source": {}
+}

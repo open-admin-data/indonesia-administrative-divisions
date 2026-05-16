@@ -1,0 +1,56 @@
+{
+  "id": "1503030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pelawan",
+    "en": "Pelawan",
+    "slug": "pelawan-1503030"
+  },
+  "code": {
+    "id": "1503030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sarolangun",
+      "en": "Sarolangun",
+      "slug": "sarolangun-1503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sarolangun",
+        "en": "Sarolangun",
+        "slug": "sarolangun-1503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.419",
+    "lon": "102.75"
+  },
+  "metadata": {},
+  "source": {}
+}

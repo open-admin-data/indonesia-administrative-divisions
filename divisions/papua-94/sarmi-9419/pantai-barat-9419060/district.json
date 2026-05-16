@@ -1,0 +1,56 @@
+{
+  "id": "9419060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pantai Barat",
+    "en": "Pantai Barat",
+    "slug": "pantai-barat-9419060"
+  },
+  "code": {
+    "id": "9419060",
+    "iso": null
+  },
+  "parent": {
+    "id": "9419",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sarmi",
+      "en": "Sarmi",
+      "slug": "sarmi-9419"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9419",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sarmi",
+        "en": "Sarmi",
+        "slug": "sarmi-9419"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.774",
+    "lon": "138.411"
+  },
+  "metadata": {},
+  "source": {}
+}

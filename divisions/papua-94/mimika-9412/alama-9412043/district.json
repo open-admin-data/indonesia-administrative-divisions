@@ -1,0 +1,56 @@
+{
+  "id": "9412043",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Alama",
+    "en": "Alama",
+    "slug": "alama-9412043"
+  },
+  "code": {
+    "id": "9412043",
+    "iso": null
+  },
+  "parent": {
+    "id": "9412",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mimika",
+      "en": "Mimika",
+      "slug": "mimika-9412"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mimika",
+        "en": "Mimika",
+        "slug": "mimika-9412"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.455",
+    "lon": "137.136"
+  },
+  "metadata": {},
+  "source": {}
+}

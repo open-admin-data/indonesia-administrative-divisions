@@ -1,0 +1,434 @@
+[
+  {
+    "id": "5103",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Badung",
+      "en": "Badung",
+      "slug": "badung-5103"
+    },
+    "code": {
+      "id": "5103",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 55
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.602",
+      "lon": "115.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5106",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bangli",
+      "en": "Bangli",
+      "slug": "bangli-5106"
+    },
+    "code": {
+      "id": "5106",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.462",
+      "lon": "115.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Buleleng",
+      "en": "Buleleng",
+      "slug": "buleleng-5108"
+    },
+    "code": {
+      "id": "5108",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 140
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.125",
+      "lon": "115.093"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5171",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Denpasar",
+      "en": "Denpasar",
+      "slug": "denpasar-5171"
+    },
+    "code": {
+      "id": "5171",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 42
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.654",
+      "lon": "115.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5104",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Gianyar",
+      "en": "Gianyar",
+      "slug": "gianyar-5104"
+    },
+    "code": {
+      "id": "5104",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 61
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.541",
+      "lon": "115.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5101",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Jembrana",
+      "en": "Jembrana",
+      "slug": "jembrana-5101"
+    },
+    "code": {
+      "id": "5101",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 45
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.357",
+      "lon": "114.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5107",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Karang Asem",
+      "en": "Karang Asem",
+      "slug": "karang-asem-5107"
+    },
+    "code": {
+      "id": "5107",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.439",
+      "lon": "115.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5105",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Klungkung",
+      "en": "Klungkung",
+      "slug": "klungkung-5105"
+    },
+    "code": {
+      "id": "5105",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.534",
+      "lon": "115.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tabanan",
+      "en": "Tabanan",
+      "slug": "tabanan-5102"
+    },
+    "code": {
+      "id": "5102",
+      "iso": null
+    },
+    "parent": {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 117
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.539",
+      "lon": "115.131"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

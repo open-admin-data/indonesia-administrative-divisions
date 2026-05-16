@@ -1,0 +1,56 @@
+{
+  "id": "9409030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Padaido",
+    "en": "Padaido",
+    "slug": "padaido-9409030"
+  },
+  "code": {
+    "id": "9409030",
+    "iso": null
+  },
+  "parent": {
+    "id": "9409",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Biak Numfor",
+      "en": "Biak Numfor",
+      "slug": "biak-numfor-9409"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Biak Numfor",
+        "en": "Biak Numfor",
+        "slug": "biak-numfor-9409"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.255",
+    "lon": "136.371"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9429061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dal",
+    "en": "Dal",
+    "slug": "dal-9429061"
+  },
+  "code": {
+    "id": "9429061",
+    "iso": null
+  },
+  "parent": {
+    "id": "9429",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nduga",
+      "en": "Nduga",
+      "slug": "nduga-9429"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9429",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nduga",
+        "en": "Nduga",
+        "slug": "nduga-9429"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.134",
+    "lon": "138.346"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9433071001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Babe",
+      "en": "Babe",
+      "slug": "babe-9433071001"
+    },
+    "code": {
+      "id": "9433071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433071",
+      "level": 3,
+      "name": {
+        "local": "Beoga Barat",
+        "en": "Beoga Barat",
+        "slug": "beoga-barat-9433071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433071",
+        "level": 3,
+        "name": {
+          "local": "Beoga Barat",
+          "en": "Beoga Barat",
+          "slug": "beoga-barat-9433071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98952"
+    ],
+    "geo": {
+      "lat": "-3.905",
+      "lon": "137.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9433071004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kelmabet",
+      "en": "Kelmabet",
+      "slug": "kelmabet-9433071004"
+    },
+    "code": {
+      "id": "9433071004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433071",
+      "level": 3,
+      "name": {
+        "local": "Beoga Barat",
+        "en": "Beoga Barat",
+        "slug": "beoga-barat-9433071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433071",
+        "level": 3,
+        "name": {
+          "local": "Beoga Barat",
+          "en": "Beoga Barat",
+          "slug": "beoga-barat-9433071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98952"
+    ],
+    "geo": {
+      "lat": "-3.871",
+      "lon": "137.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9433071002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nungai",
+      "en": "Nungai",
+      "slug": "nungai-9433071002"
+    },
+    "code": {
+      "id": "9433071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433071",
+      "level": 3,
+      "name": {
+        "local": "Beoga Barat",
+        "en": "Beoga Barat",
+        "slug": "beoga-barat-9433071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433071",
+        "level": 3,
+        "name": {
+          "local": "Beoga Barat",
+          "en": "Beoga Barat",
+          "slug": "beoga-barat-9433071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98952"
+    ],
+    "geo": {
+      "lat": "-3.817",
+      "lon": "137.425"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

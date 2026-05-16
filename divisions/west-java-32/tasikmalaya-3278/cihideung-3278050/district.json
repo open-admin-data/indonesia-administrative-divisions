@@ -1,0 +1,56 @@
+{
+  "id": "3278050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cihideung",
+    "en": "Cihideung",
+    "slug": "cihideung-3278050"
+  },
+  "code": {
+    "id": "3278050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3278",
+    "level": 2,
+    "name": {
+      "local": "Kota Tasikmalaya",
+      "en": "Tasikmalaya",
+      "slug": "tasikmalaya-3278"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3278",
+      "level": 2,
+      "name": {
+        "local": "Kota Tasikmalaya",
+        "en": "Tasikmalaya",
+        "slug": "tasikmalaya-3278"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.338",
+    "lon": "108.211"
+  },
+  "metadata": {},
+  "source": {}
+}

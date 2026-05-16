@@ -1,0 +1,56 @@
+{
+  "id": "1601131",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lubuk Raja",
+    "en": "Lubuk Raja",
+    "slug": "lubuk-raja-1601131"
+  },
+  "code": {
+    "id": "1601131",
+    "iso": null
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu",
+      "en": "Ogan Komering Ulu",
+      "slug": "ogan-komering-ulu-1601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.128",
+    "lon": "104.291"
+  },
+  "metadata": {},
+  "source": {}
+}

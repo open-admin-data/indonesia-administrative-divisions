@@ -1,0 +1,56 @@
+{
+  "id": "3505110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kesamben",
+    "en": "Kesamben",
+    "slug": "kesamben-3505110"
+  },
+  "code": {
+    "id": "3505110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Blitar",
+      "en": "Blitar",
+      "slug": "blitar-3505"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Blitar",
+        "en": "Blitar",
+        "slug": "blitar-3505"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.15",
+    "lon": "112.37"
+  },
+  "metadata": {},
+  "source": {}
+}

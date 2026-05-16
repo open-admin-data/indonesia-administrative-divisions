@@ -1,0 +1,56 @@
+{
+  "id": "3312070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tirtomoyo",
+    "en": "Tirtomoyo",
+    "slug": "tirtomoyo-3312070"
+  },
+  "code": {
+    "id": "3312070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wonogiri",
+      "en": "Wonogiri",
+      "slug": "wonogiri-3312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wonogiri",
+        "en": "Wonogiri",
+        "slug": "wonogiri-3312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.962",
+    "lon": "111.077"
+  },
+  "metadata": {},
+  "source": {}
+}

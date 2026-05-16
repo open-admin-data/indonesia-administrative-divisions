@@ -1,0 +1,48 @@
+{
+  "id": "3173",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Jakarta Pusat",
+    "en": "Jakarta Pusat",
+    "slug": "jakarta-pusat-3173"
+  },
+  "code": {
+    "id": "3173",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Dki Jakarta",
+      "en": "Jakarta",
+      "slug": "jakarta-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.184",
+    "lon": "106.737"
+  },
+  "metadata": {},
+  "source": {}
+}

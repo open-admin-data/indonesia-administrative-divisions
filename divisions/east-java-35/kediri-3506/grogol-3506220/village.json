@@ -1,0 +1,522 @@
+[
+  {
+    "id": "3506220005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bakalan",
+      "en": "Bakalan",
+      "slug": "bakalan-3506220005"
+    },
+    "code": {
+      "id": "3506220005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.764",
+      "lon": "111.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Datengan",
+      "en": "Datengan",
+      "slug": "datengan-3506220006"
+    },
+    "code": {
+      "id": "3506220006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.745",
+      "lon": "111.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gambyok",
+      "en": "Gambyok",
+      "slug": "gambyok-3506220007"
+    },
+    "code": {
+      "id": "3506220007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.735",
+      "lon": "111.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Grogol",
+      "en": "Grogol",
+      "slug": "grogol-3506220002"
+    },
+    "code": {
+      "id": "3506220002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.772",
+      "lon": "111.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalipang",
+      "en": "Kalipang",
+      "slug": "kalipang-3506220001"
+    },
+    "code": {
+      "id": "3506220001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.772",
+      "lon": "111.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sonorejo",
+      "en": "Sonorejo",
+      "slug": "sonorejo-3506220004"
+    },
+    "code": {
+      "id": "3506220004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.746",
+      "lon": "111.979"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumberjo",
+      "en": "Sumberjo",
+      "slug": "sumberjo-3506220008"
+    },
+    "code": {
+      "id": "3506220008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.722",
+      "lon": "111.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3506220003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonoasri",
+      "en": "Wonoasri",
+      "slug": "wonoasri-3506220003"
+    },
+    "code": {
+      "id": "3506220003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3506220",
+      "level": 3,
+      "name": {
+        "local": "Grogol",
+        "en": "Grogol",
+        "slug": "grogol-3506220"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3506",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kediri",
+          "en": "Kediri",
+          "slug": "kediri-3506"
+        }
+      },
+      {
+        "id": "3506220",
+        "level": 3,
+        "name": {
+          "local": "Grogol",
+          "en": "Grogol",
+          "slug": "grogol-3506220"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64151"
+    ],
+    "geo": {
+      "lat": "-7.747",
+      "lon": "111.969"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

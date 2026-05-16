@@ -1,0 +1,506 @@
+[
+  {
+    "id": "7307080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulupoddo",
+      "en": "Bulupoddo",
+      "slug": "bulupoddo-7307080"
+    },
+    "code": {
+      "id": "7307080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.1",
+      "lon": "120.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Sembilan",
+      "en": "Pulau Sembilan",
+      "slug": "pulau-sembilan-7307090"
+    },
+    "code": {
+      "id": "7307090",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.082",
+      "lon": "120.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinjai Barat",
+      "en": "Sinjai Barat",
+      "slug": "sinjai-barat-7307010"
+    },
+    "code": {
+      "id": "7307010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.239",
+      "lon": "120.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinjai Borong",
+      "en": "Sinjai Borong",
+      "slug": "sinjai-borong-7307020"
+    },
+    "code": {
+      "id": "7307020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.299",
+      "lon": "120.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinjai Selatan",
+      "en": "Sinjai Selatan",
+      "slug": "sinjai-selatan-7307030"
+    },
+    "code": {
+      "id": "7307030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.237",
+      "lon": "120.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinjai Tengah",
+      "en": "Sinjai Tengah",
+      "slug": "sinjai-tengah-7307060"
+    },
+    "code": {
+      "id": "7307060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.186",
+      "lon": "120.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinjai Timur",
+      "en": "Sinjai Timur",
+      "slug": "sinjai-timur-7307050"
+    },
+    "code": {
+      "id": "7307050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.181",
+      "lon": "120.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinjai Utara",
+      "en": "Sinjai Utara",
+      "slug": "sinjai-utara-7307070"
+    },
+    "code": {
+      "id": "7307070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.115",
+      "lon": "120.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7307040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tellu Limpoe",
+      "en": "Tellu Limpoe",
+      "slug": "tellu-limpoe-7307040"
+    },
+    "code": {
+      "id": "7307040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sinjai",
+          "en": "Sinjai",
+          "slug": "sinjai-7307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.263",
+      "lon": "120.238"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

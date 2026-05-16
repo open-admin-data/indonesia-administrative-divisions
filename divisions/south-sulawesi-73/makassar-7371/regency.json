@@ -1,0 +1,48 @@
+{
+  "id": "7371",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Makassar",
+    "en": "Makassar",
+    "slug": "makassar-7371"
+  },
+  "code": {
+    "id": "7371",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 148
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.133",
+    "lon": "119.408"
+  },
+  "metadata": {},
+  "source": {}
+}

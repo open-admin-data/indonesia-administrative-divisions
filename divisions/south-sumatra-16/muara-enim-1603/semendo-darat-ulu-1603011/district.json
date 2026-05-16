@@ -1,0 +1,56 @@
+{
+  "id": "1603011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Semendo Darat Ulu",
+    "en": "Semendo Darat Ulu",
+    "slug": "semendo-darat-ulu-1603011"
+  },
+  "code": {
+    "id": "1603011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Muara Enim",
+      "en": "Muara Enim",
+      "slug": "muara-enim-1603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Muara Enim",
+        "en": "Muara Enim",
+        "slug": "muara-enim-1603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.276",
+    "lon": "103.49"
+  },
+  "metadata": {},
+  "source": {}
+}

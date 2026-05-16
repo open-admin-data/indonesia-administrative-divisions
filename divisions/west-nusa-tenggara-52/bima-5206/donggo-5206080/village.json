@@ -1,0 +1,587 @@
+[
+  {
+    "id": "5206080012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bumi Pajo",
+      "en": "Bumi Pajo",
+      "slug": "bumi-pajo-5206080012"
+    },
+    "code": {
+      "id": "5206080012",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.407",
+      "lon": "118.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Doridungga",
+      "en": "Doridungga",
+      "slug": "doridungga-5206080005"
+    },
+    "code": {
+      "id": "5206080005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.439",
+      "lon": "118.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kala",
+      "en": "Kala",
+      "slug": "kala-5206080008"
+    },
+    "code": {
+      "id": "5206080008",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.412",
+      "lon": "118.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mbawa",
+      "en": "Mbawa",
+      "slug": "mbawa-5206080003"
+    },
+    "code": {
+      "id": "5206080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.454",
+      "lon": "118.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mpili",
+      "en": "Mpili",
+      "slug": "mpili-5206080013"
+    },
+    "code": {
+      "id": "5206080013",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.424",
+      "lon": "118.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ndano Nae",
+      "en": "Ndano Nae",
+      "slug": "ndano-nae-5206080014"
+    },
+    "code": {
+      "id": "5206080014",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.453",
+      "lon": "118.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "O'o",
+      "en": "O'o",
+      "slug": "oo-5206080004"
+    },
+    "code": {
+      "id": "5206080004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.424",
+      "lon": "118.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Palama",
+      "en": "Palama",
+      "slug": "palama-5206080002"
+    },
+    "code": {
+      "id": "5206080002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.467",
+      "lon": "118.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5206080001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rora",
+      "en": "Rora",
+      "slug": "rora-5206080001"
+    },
+    "code": {
+      "id": "5206080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5206080",
+      "level": 3,
+      "name": {
+        "local": "Donggo",
+        "en": "Donggo",
+        "slug": "donggo-5206080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bima",
+          "en": "Bima",
+          "slug": "bima-5206"
+        }
+      },
+      {
+        "id": "5206080",
+        "level": 3,
+        "name": {
+          "local": "Donggo",
+          "en": "Donggo",
+          "slug": "donggo-5206080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84162"
+    ],
+    "geo": {
+      "lat": "-8.459",
+      "lon": "118.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

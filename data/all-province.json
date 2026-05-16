@@ -1,0 +1,1056 @@
+[
+  {
+    "id": "11",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    },
+    "code": {
+      "id": "11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 23,
+      "village": 6509,
+      "district": 289
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.571",
+      "lon": "95.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sumatera Utara",
+      "en": "North Sumatra",
+      "slug": "north-sumatra-12"
+    },
+    "code": {
+      "id": "12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 33,
+      "village": 6102,
+      "district": 448
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.581",
+      "lon": "98.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    },
+    "code": {
+      "id": "13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 19,
+      "village": 1160,
+      "district": 179
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.938",
+      "lon": "100.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    },
+    "code": {
+      "id": "14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 12,
+      "village": 1876,
+      "district": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.518",
+      "lon": "101.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Jambi",
+      "en": "Jambi",
+      "slug": "jambi-15"
+    },
+    "code": {
+      "id": "15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 11,
+      "village": 1562,
+      "district": 141
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.604",
+      "lon": "103.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sumatera Selatan",
+      "en": "South Sumatra",
+      "slug": "south-sumatra-16"
+    },
+    "code": {
+      "id": "16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 17,
+      "village": 3263,
+      "district": 236
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.977",
+      "lon": "104.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-17"
+    },
+    "code": {
+      "id": "17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 10,
+      "village": 1515,
+      "district": 128
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.821",
+      "lon": "102.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    },
+    "code": {
+      "id": "18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 15,
+      "village": 2642,
+      "district": 228
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.441",
+      "lon": "105.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kepulauan Bangka Belitung",
+      "en": "Bangka Belitung Islands",
+      "slug": "bangka-belitung-islands-19"
+    },
+    "code": {
+      "id": "19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 7,
+      "village": 366,
+      "district": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.153",
+      "lon": "106.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kepulauan Riau",
+      "en": "Riau Islands",
+      "slug": "riau-islands-21"
+    },
+    "code": {
+      "id": "21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 7,
+      "village": 395,
+      "district": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.876",
+      "lon": "104.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Dki Jakarta",
+      "en": "Jakarta",
+      "slug": "jakarta-31"
+    },
+    "code": {
+      "id": "31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 6,
+      "village": 254,
+      "district": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.178",
+      "lon": "106.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    },
+    "code": {
+      "id": "32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 27,
+      "village": 5832,
+      "district": 627
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.902",
+      "lon": "107.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    },
+    "code": {
+      "id": "33",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 35,
+      "village": 8008,
+      "district": 573
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.993",
+      "lon": "110.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Di Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-34"
+    },
+    "code": {
+      "id": "34",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 5,
+      "village": 414,
+      "district": 78
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.795",
+      "lon": "110.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    },
+    "code": {
+      "id": "35",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 38,
+      "village": 7856,
+      "district": 666
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.246",
+      "lon": "112.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Banten",
+      "en": "Banten",
+      "slug": "banten-36"
+    },
+    "code": {
+      "id": "36",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 8,
+      "village": 1501,
+      "district": 155
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.174",
+      "lon": "106.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali-51"
+    },
+    "code": {
+      "id": "51",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 9,
+      "village": 653,
+      "district": 57
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.668",
+      "lon": "115.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nusa Tenggara Barat",
+      "en": "West Nusa Tenggara",
+      "slug": "west-nusa-tenggara-52"
+    },
+    "code": {
+      "id": "52",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 10,
+      "village": 1062,
+      "district": 116
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.581",
+      "lon": "116.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    },
+    "code": {
+      "id": "53",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 22,
+      "village": 3202,
+      "district": 307
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.171",
+      "lon": "123.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    },
+    "code": {
+      "id": "61",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 14,
+      "village": 2073,
+      "district": 174
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.061",
+      "lon": "109.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kalimantan Tengah",
+      "en": "Central Kalimantan",
+      "slug": "central-kalimantan-62"
+    },
+    "code": {
+      "id": "62",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 14,
+      "village": 1537,
+      "district": 136
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.217",
+      "lon": "113.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kalimantan Selatan",
+      "en": "South Kalimantan",
+      "slug": "south-kalimantan-63"
+    },
+    "code": {
+      "id": "63",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 13,
+      "village": 1971,
+      "district": 152
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.484",
+      "lon": "114.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "64",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kalimantan Timur",
+      "en": "East Kalimantan",
+      "slug": "east-kalimantan-64"
+    },
+    "code": {
+      "id": "64",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 10,
+      "village": 1002,
+      "district": 103
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.501",
+      "lon": "117.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "65",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Kalimantan Utara",
+      "en": "North Kalimantan",
+      "slug": "north-kalimantan-65"
+    },
+    "code": {
+      "id": "65",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 5,
+      "village": 466,
+      "district": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.842",
+      "lon": "117.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sulawesi Utara",
+      "en": "North Sulawesi",
+      "slug": "north-sulawesi-71"
+    },
+    "code": {
+      "id": "71",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 15,
+      "village": 1790,
+      "district": 171
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.47",
+      "lon": "124.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sulawesi Tengah",
+      "en": "Central Sulawesi",
+      "slug": "central-sulawesi-72"
+    },
+    "code": {
+      "id": "72",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 13,
+      "village": 1953,
+      "district": 175
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.891",
+      "lon": "119.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    },
+    "code": {
+      "id": "73",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 24,
+      "village": 2975,
+      "district": 307
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.139",
+      "lon": "119.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi",
+      "slug": "southeast-sulawesi-74"
+    },
+    "code": {
+      "id": "74",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 17,
+      "village": 2301,
+      "district": 222
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.025",
+      "lon": "122.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "75",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-75"
+    },
+    "code": {
+      "id": "75",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 6,
+      "village": 722,
+      "district": 77
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.524",
+      "lon": "123.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "76",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Sulawesi Barat",
+      "en": "West Sulawesi",
+      "slug": "west-sulawesi-76"
+    },
+    "code": {
+      "id": "76",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 6,
+      "village": 639,
+      "district": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.665",
+      "lon": "118.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "81",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    },
+    "code": {
+      "id": "81",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 11,
+      "village": 1180,
+      "district": 118
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.694",
+      "lon": "128.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "82",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Maluku Utara",
+      "en": "North Maluku",
+      "slug": "north-maluku-82"
+    },
+    "code": {
+      "id": "82",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 10,
+      "village": 1155,
+      "district": 116
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.756",
+      "lon": "127.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "91",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    },
+    "code": {
+      "id": "91",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 13,
+      "village": 1732,
+      "district": 217
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.536",
+      "lon": "140.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "94",
+    "level": 1,
+    "level_name": {
+      "local": "Provinsi",
+      "en": "Province"
+    },
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    },
+    "code": {
+      "id": "94",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "regency": 29,
+      "village": 4866,
+      "district": 567
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.363",
+      "lon": "135.504"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

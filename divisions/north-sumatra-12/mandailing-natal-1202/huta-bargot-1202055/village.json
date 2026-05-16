@@ -1,0 +1,912 @@
+[
+  {
+    "id": "1202055004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangun Sejati",
+      "en": "Bangun Sejati",
+      "slug": "bangun-sejati-1202055004"
+    },
+    "code": {
+      "id": "1202055004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.891",
+      "lon": "99.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Binanga",
+      "en": "Binanga",
+      "slug": "binanga-1202055013"
+    },
+    "code": {
+      "id": "1202055013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.897",
+      "lon": "99.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Bargot Dolok",
+      "en": "Huta Bargot Dolok",
+      "slug": "huta-bargot-dolok-1202055001"
+    },
+    "code": {
+      "id": "1202055001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.86",
+      "lon": "99.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Bargot Lombang",
+      "en": "Huta Bargot Lombang",
+      "slug": "huta-bargot-lombang-1202055005"
+    },
+    "code": {
+      "id": "1202055005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.867",
+      "lon": "99.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Bargot Nauli",
+      "en": "Huta Bargot Nauli",
+      "slug": "huta-bargot-nauli-1202055002"
+    },
+    "code": {
+      "id": "1202055002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.903",
+      "lon": "99.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Bargot Setia",
+      "en": "Huta Bargot Setia",
+      "slug": "huta-bargot-setia-1202055006"
+    },
+    "code": {
+      "id": "1202055006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.842",
+      "lon": "99.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutanaingkan",
+      "en": "Hutanaingkan",
+      "slug": "hutanaingkan-1202055012"
+    },
+    "code": {
+      "id": "1202055012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.878",
+      "lon": "99.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hutarimbaru",
+      "en": "Hutarimbaru",
+      "slug": "hutarimbaru-1202055010"
+    },
+    "code": {
+      "id": "1202055010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.866",
+      "lon": "99.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kumpulan Setia",
+      "en": "Kumpulan Setia",
+      "slug": "kumpulan-setia-1202055011"
+    },
+    "code": {
+      "id": "1202055011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.883",
+      "lon": "99.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mondan",
+      "en": "Mondan",
+      "slug": "mondan-1202055007"
+    },
+    "code": {
+      "id": "1202055007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.9",
+      "lon": "99.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasar Huta Bargot",
+      "en": "Pasar Huta Bargot",
+      "slug": "pasar-huta-bargot-1202055003"
+    },
+    "code": {
+      "id": "1202055003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.873",
+      "lon": "99.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Saba Padang",
+      "en": "Saba Padang",
+      "slug": "saba-padang-1202055014"
+    },
+    "code": {
+      "id": "1202055014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.873",
+      "lon": "99.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sayur Maincat",
+      "en": "Sayur Maincat",
+      "slug": "sayur-maincat-1202055008"
+    },
+    "code": {
+      "id": "1202055008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.889",
+      "lon": "99.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202055009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simalagi",
+      "en": "Simalagi",
+      "slug": "simalagi-1202055009"
+    },
+    "code": {
+      "id": "1202055009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1202055",
+      "level": 3,
+      "name": {
+        "local": "Huta Bargot",
+        "en": "Huta Bargot",
+        "slug": "huta-bargot-1202055"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mandailing Natal",
+          "en": "Mandailing Natal",
+          "slug": "mandailing-natal-1202"
+        }
+      },
+      {
+        "id": "1202055",
+        "level": 3,
+        "name": {
+          "local": "Huta Bargot",
+          "en": "Huta Bargot",
+          "slug": "huta-bargot-1202055"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22978"
+    ],
+    "geo": {
+      "lat": "0.879",
+      "lon": "99.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "9105",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Manokwari",
+    "en": "Manokwari",
+    "slug": "manokwari-9105"
+  },
+  "code": {
+    "id": "9105",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 163
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.874",
+    "lon": "136.237"
+  },
+  "metadata": {},
+  "source": {}
+}

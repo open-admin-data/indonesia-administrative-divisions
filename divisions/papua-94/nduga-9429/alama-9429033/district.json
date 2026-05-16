@@ -1,0 +1,56 @@
+{
+  "id": "9429033",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Alama",
+    "en": "Alama",
+    "slug": "alama-9429033"
+  },
+  "code": {
+    "id": "9429033",
+    "iso": null
+  },
+  "parent": {
+    "id": "9429",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nduga",
+      "en": "Nduga",
+      "slug": "nduga-9429"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9429",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nduga",
+        "en": "Nduga",
+        "slug": "nduga-9429"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.262",
+    "lon": "137.892"
+  },
+  "metadata": {},
+  "source": {}
+}

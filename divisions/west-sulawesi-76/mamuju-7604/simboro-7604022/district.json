@@ -1,0 +1,56 @@
+{
+  "id": "7604022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simboro",
+    "en": "Simboro",
+    "slug": "simboro-7604022"
+  },
+  "code": {
+    "id": "7604022",
+    "iso": null
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju",
+      "en": "Mamuju",
+      "slug": "mamuju-7604"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.709",
+    "lon": "118.838"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1302031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Airpura",
+    "en": "Airpura",
+    "slug": "airpura-1302031"
+  },
+  "code": {
+    "id": "1302031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pesisir Selatan",
+      "en": "Pesisir Selatan",
+      "slug": "pesisir-selatan-1302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesisir Selatan",
+        "en": "Pesisir Selatan",
+        "slug": "pesisir-selatan-1302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.919",
+    "lon": "101.008"
+  },
+  "metadata": {},
+  "source": {}
+}

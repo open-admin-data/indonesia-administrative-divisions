@@ -1,0 +1,56 @@
+{
+  "id": "8102012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kei Kecil Barat",
+    "en": "Kei Kecil Barat",
+    "slug": "kei-kecil-barat-8102012"
+  },
+  "code": {
+    "id": "8102012",
+    "iso": null
+  },
+  "parent": {
+    "id": "8102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tenggara",
+      "en": "Maluku Tenggara",
+      "slug": "maluku-tenggara-8102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tenggara",
+        "en": "Maluku Tenggara",
+        "slug": "maluku-tenggara-8102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.909",
+    "lon": "132.583"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "6171011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangka Belitung Darat",
+      "en": "Bangka Belitung Darat",
+      "slug": "bangka-belitung-darat-6171011002"
+    },
+    "code": {
+      "id": "6171011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6171011",
+      "level": 3,
+      "name": {
+        "local": "Pontianak Tenggara",
+        "en": "Pontianak Tenggara",
+        "slug": "pontianak-tenggara-6171011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6171",
+        "level": 2,
+        "name": {
+          "local": "Kota Pontianak",
+          "en": "Pontianak",
+          "slug": "pontianak-6171"
+        }
+      },
+      {
+        "id": "6171011",
+        "level": 3,
+        "name": {
+          "local": "Pontianak Tenggara",
+          "en": "Pontianak Tenggara",
+          "slug": "pontianak-tenggara-6171011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78124"
+    ],
+    "geo": {
+      "lat": "-0.08",
+      "lon": "109.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6171011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangka Belitung Laut",
+      "en": "Bangka Belitung Laut",
+      "slug": "bangka-belitung-laut-6171011001"
+    },
+    "code": {
+      "id": "6171011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6171011",
+      "level": 3,
+      "name": {
+        "local": "Pontianak Tenggara",
+        "en": "Pontianak Tenggara",
+        "slug": "pontianak-tenggara-6171011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6171",
+        "level": 2,
+        "name": {
+          "local": "Kota Pontianak",
+          "en": "Pontianak",
+          "slug": "pontianak-6171"
+        }
+      },
+      {
+        "id": "6171011",
+        "level": 3,
+        "name": {
+          "local": "Pontianak Tenggara",
+          "en": "Pontianak Tenggara",
+          "slug": "pontianak-tenggara-6171011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78124"
+    ],
+    "geo": {
+      "lat": "-0.055",
+      "lon": "109.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6171011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bansir Darat",
+      "en": "Bansir Darat",
+      "slug": "bansir-darat-6171011004"
+    },
+    "code": {
+      "id": "6171011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6171011",
+      "level": 3,
+      "name": {
+        "local": "Pontianak Tenggara",
+        "en": "Pontianak Tenggara",
+        "slug": "pontianak-tenggara-6171011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6171",
+        "level": 2,
+        "name": {
+          "local": "Kota Pontianak",
+          "en": "Pontianak",
+          "slug": "pontianak-6171"
+        }
+      },
+      {
+        "id": "6171011",
+        "level": 3,
+        "name": {
+          "local": "Pontianak Tenggara",
+          "en": "Pontianak Tenggara",
+          "slug": "pontianak-tenggara-6171011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78124"
+    ],
+    "geo": {
+      "lat": "-0.075",
+      "lon": "109.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6171011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bansir Laut",
+      "en": "Bansir Laut",
+      "slug": "bansir-laut-6171011003"
+    },
+    "code": {
+      "id": "6171011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6171011",
+      "level": 3,
+      "name": {
+        "local": "Pontianak Tenggara",
+        "en": "Pontianak Tenggara",
+        "slug": "pontianak-tenggara-6171011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6171",
+        "level": 2,
+        "name": {
+          "local": "Kota Pontianak",
+          "en": "Pontianak",
+          "slug": "pontianak-6171"
+        }
+      },
+      {
+        "id": "6171011",
+        "level": 3,
+        "name": {
+          "local": "Pontianak Tenggara",
+          "en": "Pontianak Tenggara",
+          "slug": "pontianak-tenggara-6171011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78124"
+    ],
+    "geo": {
+      "lat": "-0.059",
+      "lon": "109.346"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

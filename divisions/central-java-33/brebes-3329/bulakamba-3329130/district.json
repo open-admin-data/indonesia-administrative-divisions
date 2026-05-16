@@ -1,0 +1,56 @@
+{
+  "id": "3329130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bulakamba",
+    "en": "Bulakamba",
+    "slug": "bulakamba-3329130"
+  },
+  "code": {
+    "id": "3329130",
+    "iso": null
+  },
+  "parent": {
+    "id": "3329",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Brebes",
+      "en": "Brebes",
+      "slug": "brebes-3329"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3329",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Brebes",
+        "en": "Brebes",
+        "slug": "brebes-3329"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.881",
+    "lon": "108.941"
+  },
+  "metadata": {},
+  "source": {}
+}

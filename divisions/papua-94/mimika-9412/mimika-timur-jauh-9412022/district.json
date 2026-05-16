@@ -1,0 +1,56 @@
+{
+  "id": "9412022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mimika Timur Jauh",
+    "en": "Mimika Timur Jauh",
+    "slug": "mimika-timur-jauh-9412022"
+  },
+  "code": {
+    "id": "9412022",
+    "iso": null
+  },
+  "parent": {
+    "id": "9412",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mimika",
+      "en": "Mimika",
+      "slug": "mimika-9412"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mimika",
+        "en": "Mimika",
+        "slug": "mimika-9412"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.747",
+    "lon": "137.101"
+  },
+  "metadata": {},
+  "source": {}
+}

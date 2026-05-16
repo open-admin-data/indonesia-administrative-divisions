@@ -1,0 +1,56 @@
+{
+  "id": "8107020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seram Timur",
+    "en": "Seram Timur",
+    "slug": "seram-timur-8107020"
+  },
+  "code": {
+    "id": "8107020",
+    "iso": null
+  },
+  "parent": {
+    "id": "8107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seram Bagian Timur",
+      "en": "Seram Bagian Timur",
+      "slug": "seram-bagian-timur-8107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seram Bagian Timur",
+        "en": "Seram Bagian Timur",
+        "slug": "seram-bagian-timur-8107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.851",
+    "lon": "130.859"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1204050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kolang",
+    "en": "Kolang",
+    "slug": "kolang-1204050"
+  },
+  "code": {
+    "id": "1204050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapanuli Tengah",
+      "en": "Tapanuli Tengah",
+      "slug": "tapanuli-tengah-1204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapanuli Tengah",
+        "en": "Tapanuli Tengah",
+        "slug": "tapanuli-tengah-1204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.866",
+    "lon": "98.696"
+  },
+  "metadata": {},
+  "source": {}
+}

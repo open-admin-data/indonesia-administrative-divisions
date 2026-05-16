@@ -1,0 +1,618 @@
+[
+  {
+    "id": "7604023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balabalakang",
+      "en": "Balabalakang",
+      "slug": "balabalakang-7604023"
+    },
+    "code": {
+      "id": "7604023",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.083",
+      "lon": "117.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonehau",
+      "en": "Bonehau",
+      "slug": "bonehau-7604041"
+    },
+    "code": {
+      "id": "7604041",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.588",
+      "lon": "119.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalukku",
+      "en": "Kalukku",
+      "slug": "kalukku-7604030"
+    },
+    "code": {
+      "id": "7604030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.598",
+      "lon": "119.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalumpang",
+      "en": "Kalumpang",
+      "slug": "kalumpang-7604040"
+    },
+    "code": {
+      "id": "7604040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.528",
+      "lon": "119.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mamuju",
+      "en": "Mamuju",
+      "slug": "mamuju-7604020"
+    },
+    "code": {
+      "id": "7604020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.706",
+      "lon": "118.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Papalang",
+      "en": "Papalang",
+      "slug": "papalang-7604031"
+    },
+    "code": {
+      "id": "7604031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.43",
+      "lon": "119.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sampaga",
+      "en": "Sampaga",
+      "slug": "sampaga-7604032"
+    },
+    "code": {
+      "id": "7604032",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.373",
+      "lon": "119.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simboro",
+      "en": "Simboro",
+      "slug": "simboro-7604022"
+    },
+    "code": {
+      "id": "7604022",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.709",
+      "lon": "118.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tapalang",
+      "en": "Tapalang",
+      "slug": "tapalang-7604010"
+    },
+    "code": {
+      "id": "7604010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.868",
+      "lon": "118.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tapalang Barat",
+      "en": "Tapalang Barat",
+      "slug": "tapalang-barat-7604011"
+    },
+    "code": {
+      "id": "7604011",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.768",
+      "lon": "118.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604033",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tommo",
+      "en": "Tommo",
+      "slug": "tommo-7604033"
+    },
+    "code": {
+      "id": "7604033",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.276",
+      "lon": "119.436"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

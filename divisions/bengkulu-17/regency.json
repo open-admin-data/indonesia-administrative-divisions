@@ -1,0 +1,482 @@
+[
+  {
+    "id": "1771",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Bengkulu",
+      "en": "Bengkulu",
+      "slug": "bengkulu-1771"
+    },
+    "code": {
+      "id": "1771",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.793",
+      "lon": "102.261"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1701",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bengkulu Selatan",
+      "en": "Bengkulu Selatan",
+      "slug": "bengkulu-selatan-1701"
+    },
+    "code": {
+      "id": "1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 159
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.44",
+      "lon": "102.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1709",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bengkulu Tengah",
+      "en": "Bengkulu Tengah",
+      "slug": "bengkulu-tengah-1709"
+    },
+    "code": {
+      "id": "1709",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 143
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.773",
+      "lon": "102.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bengkulu Utara",
+      "en": "Bengkulu Utara",
+      "slug": "bengkulu-utara-1703"
+    },
+    "code": {
+      "id": "1703",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 19,
+      "village": 220
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.437",
+      "lon": "102.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1704",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kaur",
+      "en": "Kaur",
+      "slug": "kaur-1704"
+    },
+    "code": {
+      "id": "1704",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 195
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.759",
+      "lon": "103.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1708",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kepahiang",
+      "en": "Kepahiang",
+      "slug": "kepahiang-1708"
+    },
+    "code": {
+      "id": "1708",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 117
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.625",
+      "lon": "102.556"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lebong",
+      "en": "Lebong",
+      "slug": "lebong-1707"
+    },
+    "code": {
+      "id": "1707",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.157",
+      "lon": "102.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mukomuko",
+      "en": "Mukomuko",
+      "slug": "mukomuko-1706"
+    },
+    "code": {
+      "id": "1706",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 152
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.553",
+      "lon": "101.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1702",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Rejang Lebong",
+      "en": "Rejang Lebong",
+      "slug": "rejang-lebong-1702"
+    },
+    "code": {
+      "id": "1702",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 156
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.478",
+      "lon": "102.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Seluma",
+      "en": "Seluma",
+      "slug": "seluma-1705"
+    },
+    "code": {
+      "id": "1705",
+      "iso": null
+    },
+    "parent": {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 202
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.078",
+      "lon": "102.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

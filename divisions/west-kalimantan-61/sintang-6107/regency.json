@@ -1,0 +1,48 @@
+{
+  "id": "6107",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sintang",
+    "en": "Sintang",
+    "slug": "sintang-6107"
+  },
+  "code": {
+    "id": "6107",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 398
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.869",
+    "lon": "109.497"
+  },
+  "metadata": {},
+  "source": {}
+}

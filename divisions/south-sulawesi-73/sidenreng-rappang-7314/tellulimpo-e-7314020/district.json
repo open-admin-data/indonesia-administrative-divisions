@@ -1,0 +1,56 @@
+{
+  "id": "7314020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tellulimpo E",
+    "en": "Tellulimpo E",
+    "slug": "tellulimpo-e-7314020"
+  },
+  "code": {
+    "id": "7314020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sidenreng Rappang",
+      "en": "Sidenreng Rappang",
+      "slug": "sidenreng-rappang-7314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sidenreng Rappang",
+        "en": "Sidenreng Rappang",
+        "slug": "sidenreng-rappang-7314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.022",
+    "lon": "119.788"
+  },
+  "metadata": {},
+  "source": {}
+}

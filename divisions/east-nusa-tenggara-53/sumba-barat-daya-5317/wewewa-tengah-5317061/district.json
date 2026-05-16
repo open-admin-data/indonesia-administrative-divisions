@@ -1,0 +1,56 @@
+{
+  "id": "5317061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wewewa Tengah",
+    "en": "Wewewa Tengah",
+    "slug": "wewewa-tengah-5317061"
+  },
+  "code": {
+    "id": "5317061",
+    "iso": null
+  },
+  "parent": {
+    "id": "5317",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Barat Daya",
+      "en": "Sumba Barat Daya",
+      "slug": "sumba-barat-daya-5317"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Barat Daya",
+        "en": "Sumba Barat Daya",
+        "slug": "sumba-barat-daya-5317"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.529",
+    "lon": "119.299"
+  },
+  "metadata": {},
+  "source": {}
+}

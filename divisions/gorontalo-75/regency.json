@@ -1,0 +1,290 @@
+[
+  {
+    "id": "7501",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Boalemo",
+      "en": "Boalemo",
+      "slug": "boalemo-7501"
+    },
+    "code": {
+      "id": "7501",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 82
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.629",
+      "lon": "122.981"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7504",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bone Bolango",
+      "en": "Bone Bolango",
+      "slug": "bone-bolango-7504"
+    },
+    "code": {
+      "id": "7504",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 18,
+      "village": 163
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.706",
+      "lon": "121.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7502",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7502"
+    },
+    "code": {
+      "id": "7502",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 19,
+      "village": 202
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.529",
+      "lon": "122.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7571",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7571"
+    },
+    "code": {
+      "id": "7571",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.532",
+      "lon": "123.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7505",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Gorontalo Utara",
+      "en": "Gorontalo Utara",
+      "slug": "gorontalo-utara-7505"
+    },
+    "code": {
+      "id": "7505",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 121
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.791",
+      "lon": "122.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pohuwato",
+      "en": "Pohuwato",
+      "slug": "pohuwato-7503"
+    },
+    "code": {
+      "id": "7503",
+      "iso": null
+    },
+    "parent": {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.557",
+      "lon": "123.144"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

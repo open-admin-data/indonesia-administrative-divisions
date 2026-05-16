@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3526030005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batah Barat",
+      "en": "Batah Barat",
+      "slug": "batah-barat-3526030005"
+    },
+    "code": {
+      "id": "3526030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.174",
+      "lon": "112.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batah Timur",
+      "en": "Batah Timur",
+      "slug": "batah-timur-3526030006"
+    },
+    "code": {
+      "id": "3526030006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.175",
+      "lon": "112.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Janteh",
+      "en": "Janteh",
+      "slug": "janteh-3526030010"
+    },
+    "code": {
+      "id": "3526030010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.142",
+      "lon": "112.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Entang",
+      "en": "Karang Entang",
+      "slug": "karang-entang-3526030009"
+    },
+    "code": {
+      "id": "3526030009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.151",
+      "lon": "112.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karanganyar",
+      "en": "Karanganyar",
+      "slug": "karanganyar-3526030004"
+    },
+    "code": {
+      "id": "3526030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.171",
+      "lon": "112.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ketetang",
+      "en": "Ketetang",
+      "slug": "ketetang-3526030012"
+    },
+    "code": {
+      "id": "3526030012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.144",
+      "lon": "112.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kwanyar Barat",
+      "en": "Kwanyar Barat",
+      "slug": "kwanyar-barat-3526030002"
+    },
+    "code": {
+      "id": "3526030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.159",
+      "lon": "112.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Morombuh",
+      "en": "Morombuh",
+      "slug": "morombuh-3526030013"
+    },
+    "code": {
+      "id": "3526030013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.125",
+      "lon": "112.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pandanan",
+      "en": "Pandanan",
+      "slug": "pandanan-3526030008"
+    },
+    "code": {
+      "id": "3526030008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.157",
+      "lon": "112.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paoran",
+      "en": "Paoran",
+      "slug": "paoran-3526030015"
+    },
+    "code": {
+      "id": "3526030015",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.136",
+      "lon": "112.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasanggrahan",
+      "en": "Pasanggrahan",
+      "slug": "pasanggrahan-3526030003"
+    },
+    "code": {
+      "id": "3526030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.162",
+      "lon": "112.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3526030014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumur Kuning",
+      "en": "Sumur Kuning",
+      "slug": "sumur-kuning-3526030014"
+    },
+    "code": {
+      "id": "3526030014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3526030",
+      "level": 3,
+      "name": {
+        "local": "Kwanyar",
+        "en": "Kwanyar",
+        "slug": "kwanyar-3526030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3526",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangkalan",
+          "en": "Bangkalan",
+          "slug": "bangkalan-3526"
+        }
+      },
+      {
+        "id": "3526030",
+        "level": 3,
+        "name": {
+          "local": "Kwanyar",
+          "en": "Kwanyar",
+          "slug": "kwanyar-3526030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "69164"
+    ],
+    "geo": {
+      "lat": "-7.126",
+      "lon": "112.885"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "7171052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tuminting",
+    "en": "Tuminting",
+    "slug": "tuminting-7171052"
+  },
+  "code": {
+    "id": "7171052",
+    "iso": null
+  },
+  "parent": {
+    "id": "7171",
+    "level": 2,
+    "name": {
+      "local": "Kota Manado",
+      "en": "Manado",
+      "slug": "manado-7171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.511",
+    "lon": "124.856"
+  },
+  "metadata": {},
+  "source": {}
+}

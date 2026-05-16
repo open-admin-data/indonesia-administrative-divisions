@@ -1,0 +1,31 @@
+{
+  "id": "34",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Di Yogyakarta",
+    "en": "Yogyakarta",
+    "slug": "yogyakarta-34"
+  },
+  "code": {
+    "id": "34",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 5,
+    "village": 414,
+    "district": 78
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.795",
+    "lon": "110.367"
+  },
+  "metadata": {},
+  "source": {}
+}

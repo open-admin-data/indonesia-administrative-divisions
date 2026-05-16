@@ -1,0 +1,48 @@
+{
+  "id": "7209",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tojo Una-una",
+    "en": "Tojo Una-una",
+    "slug": "tojo-una-una-7209"
+  },
+  "code": {
+    "id": "7209",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tengah",
+      "en": "Central Sulawesi",
+      "slug": "central-sulawesi-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 142
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.915",
+    "lon": "121.589"
+  },
+  "metadata": {},
+  "source": {}
+}

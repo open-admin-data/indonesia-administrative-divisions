@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1307090001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gadut",
+      "en": "Gadut",
+      "slug": "gadut-1307090001"
+    },
+    "code": {
+      "id": "1307090001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307090",
+      "level": 3,
+      "name": {
+        "local": "Tilatang Kamang",
+        "en": "Tilatang Kamang",
+        "slug": "tilatang-kamang-1307090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307090",
+        "level": 3,
+        "name": {
+          "local": "Tilatang Kamang",
+          "en": "Tilatang Kamang",
+          "slug": "tilatang-kamang-1307090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26153"
+    ],
+    "geo": {
+      "lat": "-0.262",
+      "lon": "100.355"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307090002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kapau",
+      "en": "Kapau",
+      "slug": "kapau-1307090002"
+    },
+    "code": {
+      "id": "1307090002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307090",
+      "level": 3,
+      "name": {
+        "local": "Tilatang Kamang",
+        "en": "Tilatang Kamang",
+        "slug": "tilatang-kamang-1307090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307090",
+        "level": 3,
+        "name": {
+          "local": "Tilatang Kamang",
+          "en": "Tilatang Kamang",
+          "slug": "tilatang-kamang-1307090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26153"
+    ],
+    "geo": {
+      "lat": "-0.274",
+      "lon": "100.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307090003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Tangah",
+      "en": "Koto Tangah",
+      "slug": "koto-tangah-1307090003"
+    },
+    "code": {
+      "id": "1307090003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307090",
+      "level": 3,
+      "name": {
+        "local": "Tilatang Kamang",
+        "en": "Tilatang Kamang",
+        "slug": "tilatang-kamang-1307090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307090",
+        "level": 3,
+        "name": {
+          "local": "Tilatang Kamang",
+          "en": "Tilatang Kamang",
+          "slug": "tilatang-kamang-1307090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26153"
+    ],
+    "geo": {
+      "lat": "-0.244",
+      "lon": "100.389"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "1113040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rikit Gaib",
+    "en": "Rikit Gaib",
+    "slug": "rikit-gaib-1113040"
+  },
+  "code": {
+    "id": "1113040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1113",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gayo Lues",
+      "en": "Gayo Lues",
+      "slug": "gayo-lues-1113"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1113",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gayo Lues",
+        "en": "Gayo Lues",
+        "slug": "gayo-lues-1113"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.129",
+    "lon": "97.294"
+  },
+  "metadata": {},
+  "source": {}
+}

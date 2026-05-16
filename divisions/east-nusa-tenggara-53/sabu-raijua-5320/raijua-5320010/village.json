@@ -1,0 +1,197 @@
+[
+  {
+    "id": "5320010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ballu",
+      "en": "Ballu",
+      "slug": "ballu-5320010005"
+    },
+    "code": {
+      "id": "5320010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320010",
+      "level": 3,
+      "name": {
+        "local": "Raijua",
+        "en": "Raijua",
+        "slug": "raijua-5320010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      },
+      {
+        "id": "5320010",
+        "level": 3,
+        "name": {
+          "local": "Raijua",
+          "en": "Raijua",
+          "slug": "raijua-5320010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85393"
+    ],
+    "geo": {
+      "lat": "-10.609",
+      "lon": "121.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5320010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bolua",
+      "en": "Bolua",
+      "slug": "bolua-5320010002"
+    },
+    "code": {
+      "id": "5320010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320010",
+      "level": 3,
+      "name": {
+        "local": "Raijua",
+        "en": "Raijua",
+        "slug": "raijua-5320010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      },
+      {
+        "id": "5320010",
+        "level": 3,
+        "name": {
+          "local": "Raijua",
+          "en": "Raijua",
+          "slug": "raijua-5320010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85393"
+    ],
+    "geo": {
+      "lat": "-10.627",
+      "lon": "121.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5320010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kolorae",
+      "en": "Kolorae",
+      "slug": "kolorae-5320010001"
+    },
+    "code": {
+      "id": "5320010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320010",
+      "level": 3,
+      "name": {
+        "local": "Raijua",
+        "en": "Raijua",
+        "slug": "raijua-5320010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      },
+      {
+        "id": "5320010",
+        "level": 3,
+        "name": {
+          "local": "Raijua",
+          "en": "Raijua",
+          "slug": "raijua-5320010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85393"
+    ],
+    "geo": {
+      "lat": "-10.635",
+      "lon": "121.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

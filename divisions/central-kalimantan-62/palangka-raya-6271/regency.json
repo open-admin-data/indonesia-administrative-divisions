@@ -1,0 +1,48 @@
+{
+  "id": "6271",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Palangka Raya",
+    "en": "Palangka Raya",
+    "slug": "palangka-raya-6271"
+  },
+  "code": {
+    "id": "6271",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Tengah",
+      "en": "Central Kalimantan",
+      "slug": "central-kalimantan-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 28
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.174",
+    "lon": "113.88"
+  },
+  "metadata": {},
+  "source": {}
+}

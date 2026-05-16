@@ -1,0 +1,56 @@
+{
+  "id": "1208030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Rakyat",
+    "en": "Pulau Rakyat",
+    "slug": "pulau-rakyat-1208030"
+  },
+  "code": {
+    "id": "1208030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Asahan",
+      "en": "Asahan",
+      "slug": "asahan-1208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Asahan",
+        "en": "Asahan",
+        "slug": "asahan-1208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.735",
+    "lon": "99.685"
+  },
+  "metadata": {},
+  "source": {}
+}

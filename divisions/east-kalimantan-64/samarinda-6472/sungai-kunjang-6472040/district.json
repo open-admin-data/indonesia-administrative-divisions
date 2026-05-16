@@ -1,0 +1,56 @@
+{
+  "id": "6472040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Kunjang",
+    "en": "Sungai Kunjang",
+    "slug": "sungai-kunjang-6472040"
+  },
+  "code": {
+    "id": "6472040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6472",
+    "level": 2,
+    "name": {
+      "local": "Kota Samarinda",
+      "en": "Samarinda",
+      "slug": "samarinda-6472"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6472",
+      "level": 2,
+      "name": {
+        "local": "Kota Samarinda",
+        "en": "Samarinda",
+        "slug": "samarinda-6472"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.511",
+    "lon": "117.089"
+  },
+  "metadata": {},
+  "source": {}
+}

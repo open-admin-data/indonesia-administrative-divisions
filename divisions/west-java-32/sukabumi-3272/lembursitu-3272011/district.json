@@ -1,0 +1,56 @@
+{
+  "id": "3272011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lembursitu",
+    "en": "Lembursitu",
+    "slug": "lembursitu-3272011"
+  },
+  "code": {
+    "id": "3272011",
+    "iso": null
+  },
+  "parent": {
+    "id": "3272",
+    "level": 2,
+    "name": {
+      "local": "Kota Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3272"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.962",
+    "lon": "106.897"
+  },
+  "metadata": {},
+  "source": {}
+}

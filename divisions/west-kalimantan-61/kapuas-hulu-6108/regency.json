@@ -1,0 +1,48 @@
+{
+  "id": "6108",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kapuas Hulu",
+    "en": "Kapuas Hulu",
+    "slug": "kapuas-hulu-6108"
+  },
+  "code": {
+    "id": "6108",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 23,
+    "village": 273
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.375",
+    "lon": "109.938"
+  },
+  "metadata": {},
+  "source": {}
+}

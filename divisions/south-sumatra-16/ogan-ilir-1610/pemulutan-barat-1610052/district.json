@@ -1,0 +1,56 @@
+{
+  "id": "1610052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pemulutan Barat",
+    "en": "Pemulutan Barat",
+    "slug": "pemulutan-barat-1610052"
+  },
+  "code": {
+    "id": "1610052",
+    "iso": null
+  },
+  "parent": {
+    "id": "1610",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Ilir",
+      "en": "Ogan Ilir",
+      "slug": "ogan-ilir-1610"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.179",
+    "lon": "104.728"
+  },
+  "metadata": {},
+  "source": {}
+}

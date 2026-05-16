@@ -1,0 +1,48 @@
+{
+  "id": "6211",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gunung Mas",
+    "en": "Gunung Mas",
+    "slug": "gunung-mas-6211"
+  },
+  "code": {
+    "id": "6211",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Tengah",
+      "en": "Central Kalimantan",
+      "slug": "central-kalimantan-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.716",
+    "lon": "114.305"
+  },
+  "metadata": {},
+  "source": {}
+}

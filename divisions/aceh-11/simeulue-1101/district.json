@@ -1,0 +1,562 @@
+[
+  {
+    "id": "1101051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Alafan",
+      "en": "Alafan",
+      "slug": "alafan-1101051"
+    },
+    "code": {
+      "id": "1101051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.861",
+      "lon": "95.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Salang",
+      "en": "Salang",
+      "slug": "salang-1101040"
+    },
+    "code": {
+      "id": "1101040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.673",
+      "lon": "95.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simeulue Barat",
+      "en": "Simeulue Barat",
+      "slug": "simeulue-barat-1101050"
+    },
+    "code": {
+      "id": "1101050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.795",
+      "lon": "95.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simeulue Cut",
+      "en": "Simeulue Cut",
+      "slug": "simeulue-cut-1101032"
+    },
+    "code": {
+      "id": "1101032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.605",
+      "lon": "95.934"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simeulue Tengah",
+      "en": "Simeulue Tengah",
+      "slug": "simeulue-tengah-1101030"
+    },
+    "code": {
+      "id": "1101030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.626",
+      "lon": "96.049"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simeulue Timur",
+      "en": "Simeulue Timur",
+      "slug": "simeulue-timur-1101020"
+    },
+    "code": {
+      "id": "1101020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.538",
+      "lon": "96.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Dalam",
+      "en": "Teluk Dalam",
+      "slug": "teluk-dalam-1101031"
+    },
+    "code": {
+      "id": "1101031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.648",
+      "lon": "96.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teupah Barat",
+      "en": "Teupah Barat",
+      "slug": "teupah-barat-1101021"
+    },
+    "code": {
+      "id": "1101021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.448",
+      "lon": "96.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teupah Selatan",
+      "en": "Teupah Selatan",
+      "slug": "teupah-selatan-1101010"
+    },
+    "code": {
+      "id": "1101010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.274",
+      "lon": "96.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teupah Tengah",
+      "en": "Teupah Tengah",
+      "slug": "teupah-tengah-1101022"
+    },
+    "code": {
+      "id": "1101022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Simeulue",
+          "en": "Simeulue",
+          "slug": "simeulue-1101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.407",
+      "lon": "96.346"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

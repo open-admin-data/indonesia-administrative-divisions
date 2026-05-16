@@ -1,0 +1,56 @@
+{
+  "id": "3273060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Regol",
+    "en": "Regol",
+    "slug": "regol-3273060"
+  },
+  "code": {
+    "id": "3273060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3273",
+    "level": 2,
+    "name": {
+      "local": "Kota Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3273"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3273",
+      "level": 2,
+      "name": {
+        "local": "Kota Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3273"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.939",
+    "lon": "107.613"
+  },
+  "metadata": {},
+  "source": {}
+}

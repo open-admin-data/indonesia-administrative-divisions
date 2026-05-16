@@ -1,0 +1,48 @@
+{
+  "id": "3521",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Ngawi",
+    "en": "Ngawi",
+    "slug": "ngawi-3521"
+  },
+  "code": {
+    "id": "3521",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 199
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.401",
+    "lon": "111.445"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9104072",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tomu",
+    "en": "Tomu",
+    "slug": "tomu-9104072"
+  },
+  "code": {
+    "id": "9104072",
+    "iso": null
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Bintuni",
+      "en": "Teluk Bintuni",
+      "slug": "teluk-bintuni-9104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Bintuni",
+        "en": "Teluk Bintuni",
+        "slug": "teluk-bintuni-9104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.062",
+    "lon": "133.233"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,977 @@
+[
+  {
+    "id": "1222050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Air Merah",
+      "en": "Air Merah",
+      "slug": "air-merah-1222050005"
+    },
+    "code": {
+      "id": "1222050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.005",
+      "lon": "100.137"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Teluk Panji",
+      "en": "Kampung Teluk Panji",
+      "slug": "kampung-teluk-panji-1222050012"
+    },
+    "code": {
+      "id": "1222050012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "1.961",
+      "lon": "100.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kebun Teluk Panji",
+      "en": "Kebun Teluk Panji",
+      "slug": "kebun-teluk-panji-1222050007"
+    },
+    "code": {
+      "id": "1222050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "1.928",
+      "lon": "100.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekan Tolan",
+      "en": "Pekan Tolan",
+      "slug": "pekan-tolan-1222050003"
+    },
+    "code": {
+      "id": "1222050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.001",
+      "lon": "100.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Batang Seponggol",
+      "en": "Perkebunan Batang Seponggol",
+      "slug": "perkebunan-batang-seponggol-1222050006"
+    },
+    "code": {
+      "id": "1222050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "1.99",
+      "lon": "100.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Perlabian",
+      "en": "Perkebunan Perlabian",
+      "slug": "perkebunan-perlabian-1222050002"
+    },
+    "code": {
+      "id": "1222050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.025",
+      "lon": "100.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Tolan I/ii",
+      "en": "Perkebunan Tolan I/ii",
+      "slug": "perkebunan-tolan-iii-1222050004"
+    },
+    "code": {
+      "id": "1222050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.042",
+      "lon": "100.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perlabian",
+      "en": "Perlabian",
+      "slug": "perlabian-1222050001"
+    },
+    "code": {
+      "id": "1222050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.083",
+      "lon": "100.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Medan",
+      "en": "Tanjung Medan",
+      "slug": "tanjung-medan-1222050013"
+    },
+    "code": {
+      "id": "1222050013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.063",
+      "lon": "100.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Mulia",
+      "en": "Tanjung Mulia",
+      "slug": "tanjung-mulia-1222050015"
+    },
+    "code": {
+      "id": "1222050015",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.13",
+      "lon": "100.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Selamat",
+      "en": "Tanjung Selamat",
+      "slug": "tanjung-selamat-1222050014"
+    },
+    "code": {
+      "id": "1222050014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.131",
+      "lon": "100.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Panji I",
+      "en": "Teluk Panji I",
+      "slug": "teluk-panji-i-1222050008"
+    },
+    "code": {
+      "id": "1222050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "1.961",
+      "lon": "100.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Panji Ii",
+      "en": "Teluk Panji Ii",
+      "slug": "teluk-panji-ii-1222050009"
+    },
+    "code": {
+      "id": "1222050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "1.971",
+      "lon": "100.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Panji Iii",
+      "en": "Teluk Panji Iii",
+      "slug": "teluk-panji-iii-1222050010"
+    },
+    "code": {
+      "id": "1222050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "1.99",
+      "lon": "100.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222050011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Panji Iv",
+      "en": "Teluk Panji Iv",
+      "slug": "teluk-panji-iv-1222050011"
+    },
+    "code": {
+      "id": "1222050011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222050",
+      "level": 3,
+      "name": {
+        "local": "Kampung Rakyat",
+        "en": "Kampung Rakyat",
+        "slug": "kampung-rakyat-1222050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      },
+      {
+        "id": "1222050",
+        "level": 3,
+        "name": {
+          "local": "Kampung Rakyat",
+          "en": "Kampung Rakyat",
+          "slug": "kampung-rakyat-1222050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21563"
+    ],
+    "geo": {
+      "lat": "2.024",
+      "lon": "100.294"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

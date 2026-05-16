@@ -1,0 +1,56 @@
+{
+  "id": "7311160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ulaweng",
+    "en": "Ulaweng",
+    "slug": "ulaweng-7311160"
+  },
+  "code": {
+    "id": "7311160",
+    "iso": null
+  },
+  "parent": {
+    "id": "7311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bone",
+      "en": "Bone",
+      "slug": "bone-7311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bone",
+        "en": "Bone",
+        "slug": "bone-7311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.514",
+    "lon": "120.133"
+  },
+  "metadata": {},
+  "source": {}
+}

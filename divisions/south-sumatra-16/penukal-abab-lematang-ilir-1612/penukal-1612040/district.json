@@ -1,0 +1,56 @@
+{
+  "id": "1612040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Penukal",
+    "en": "Penukal",
+    "slug": "penukal-1612040"
+  },
+  "code": {
+    "id": "1612040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1612",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Penukal Abab Lematang Ilir",
+      "en": "Penukal Abab Lematang Ilir",
+      "slug": "penukal-abab-lematang-ilir-1612"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1612",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Penukal Abab Lematang Ilir",
+        "en": "Penukal Abab Lematang Ilir",
+        "slug": "penukal-abab-lematang-ilir-1612"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.138",
+    "lon": "104.048"
+  },
+  "metadata": {},
+  "source": {}
+}

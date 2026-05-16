@@ -1,0 +1,48 @@
+{
+  "id": "7311",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bone",
+    "en": "Bone",
+    "slug": "bone-7311"
+  },
+  "code": {
+    "id": "7311",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 27,
+    "village": 352
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.414",
+    "lon": "119.617"
+  },
+  "metadata": {},
+  "source": {}
+}

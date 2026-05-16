@@ -1,0 +1,48 @@
+{
+  "id": "7174",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Kotamobagu",
+    "en": "Kotamobagu",
+    "slug": "kotamobagu-7174"
+  },
+  "code": {
+    "id": "7174",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Utara",
+      "en": "North Sulawesi",
+      "slug": "north-sulawesi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.743",
+    "lon": "124.313"
+  },
+  "metadata": {},
+  "source": {}
+}

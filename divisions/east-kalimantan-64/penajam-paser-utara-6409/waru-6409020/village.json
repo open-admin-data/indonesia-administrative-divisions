@@ -1,0 +1,197 @@
+[
+  {
+    "id": "6409020001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Api Api",
+      "en": "Api Api",
+      "slug": "api-api-6409020001"
+    },
+    "code": {
+      "id": "6409020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6409020",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-6409020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Penajam Paser Utara",
+          "en": "Penajam Paser Utara",
+          "slug": "penajam-paser-utara-6409"
+        }
+      },
+      {
+        "id": "6409020",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-6409020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76384"
+    ],
+    "geo": {
+      "lat": "-1.353",
+      "lon": "116.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6409020004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangun Mulya",
+      "en": "Bangun Mulya",
+      "slug": "bangun-mulya-6409020004"
+    },
+    "code": {
+      "id": "6409020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6409020",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-6409020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Penajam Paser Utara",
+          "en": "Penajam Paser Utara",
+          "slug": "penajam-paser-utara-6409"
+        }
+      },
+      {
+        "id": "6409020",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-6409020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76384"
+    ],
+    "geo": {
+      "lat": "-1.364",
+      "lon": "116.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6409020003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Waru",
+      "en": "Waru",
+      "slug": "waru-6409020003"
+    },
+    "code": {
+      "id": "6409020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6409020",
+      "level": 3,
+      "name": {
+        "local": "Waru",
+        "en": "Waru",
+        "slug": "waru-6409020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Penajam Paser Utara",
+          "en": "Penajam Paser Utara",
+          "slug": "penajam-paser-utara-6409"
+        }
+      },
+      {
+        "id": "6409020",
+        "level": 3,
+        "name": {
+          "local": "Waru",
+          "en": "Waru",
+          "slug": "waru-6409020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76384"
+    ],
+    "geo": {
+      "lat": "-1.327",
+      "lon": "116.467"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

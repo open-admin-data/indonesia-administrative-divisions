@@ -1,0 +1,56 @@
+{
+  "id": "1671081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Alang Alang Lebar",
+    "en": "Alang Alang Lebar",
+    "slug": "alang-alang-lebar-1671081"
+  },
+  "code": {
+    "id": "1671081",
+    "iso": null
+  },
+  "parent": {
+    "id": "1671",
+    "level": 2,
+    "name": {
+      "local": "Kota Palembang",
+      "en": "Palembang",
+      "slug": "palembang-1671"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1671",
+      "level": 2,
+      "name": {
+        "local": "Kota Palembang",
+        "en": "Palembang",
+        "slug": "palembang-1671"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.942",
+    "lon": "104.705"
+  },
+  "metadata": {},
+  "source": {}
+}

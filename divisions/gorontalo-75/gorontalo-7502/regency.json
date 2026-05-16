@@ -1,0 +1,48 @@
+{
+  "id": "7502",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gorontalo",
+    "en": "Gorontalo",
+    "slug": "gorontalo-7502"
+  },
+  "code": {
+    "id": "7502",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 202
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.529",
+    "lon": "122.348"
+  },
+  "metadata": {},
+  "source": {}
+}

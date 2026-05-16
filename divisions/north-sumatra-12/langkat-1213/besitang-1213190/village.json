@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1213190008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Kubu",
+      "en": "Bukit Kubu",
+      "slug": "bukit-kubu-1213190008"
+    },
+    "code": {
+      "id": "1213190008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "4.043",
+      "lon": "98.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Mas",
+      "en": "Bukit Mas",
+      "slug": "bukit-mas-1213190003"
+    },
+    "code": {
+      "id": "1213190003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "3.888",
+      "lon": "98.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Selamat",
+      "en": "Bukit Selamat",
+      "slug": "bukit-selamat-1213190005"
+    },
+    "code": {
+      "id": "1213190005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "4.059",
+      "lon": "98.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Halaban",
+      "en": "Halaban",
+      "slug": "halaban-1213190004"
+    },
+    "code": {
+      "id": "1213190004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "4.12",
+      "lon": "98.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Lama",
+      "en": "Kampung Lama",
+      "slug": "kampung-lama-1213190007"
+    },
+    "code": {
+      "id": "1213190007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "4.013",
+      "lon": "98.194"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekan Besitang",
+      "en": "Pekan Besitang",
+      "slug": "pekan-besitang-1213190006"
+    },
+    "code": {
+      "id": "1213190006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "4.034",
+      "lon": "98.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pir Adb Besitang",
+      "en": "Pir Adb Besitang",
+      "slug": "pir-adb-besitang-1213190001"
+    },
+    "code": {
+      "id": "1213190001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "3.943",
+      "lon": "98.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sekoci",
+      "en": "Sekoci",
+      "slug": "sekoci-1213190002"
+    },
+    "code": {
+      "id": "1213190002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "3.978",
+      "lon": "98.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suka Jaya",
+      "en": "Suka Jaya",
+      "slug": "suka-jaya-1213190009"
+    },
+    "code": {
+      "id": "1213190009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213190",
+      "level": 3,
+      "name": {
+        "local": "Besitang",
+        "en": "Besitang",
+        "slug": "besitang-1213190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      },
+      {
+        "id": "1213190",
+        "level": 3,
+        "name": {
+          "local": "Besitang",
+          "en": "Besitang",
+          "slug": "besitang-1213190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20859"
+    ],
+    "geo": {
+      "lat": "4.161",
+      "lon": "98.079"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

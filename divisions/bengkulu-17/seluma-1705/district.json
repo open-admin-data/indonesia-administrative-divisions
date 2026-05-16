@@ -1,0 +1,786 @@
+[
+  {
+    "id": "1705051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Air Periukan",
+      "en": "Air Periukan",
+      "slug": "air-periukan-1705051"
+    },
+    "code": {
+      "id": "1705051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.996",
+      "lon": "102.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ilir Talo",
+      "en": "Ilir Talo",
+      "slug": "ilir-talo-1705031"
+    },
+    "code": {
+      "id": "1705031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.215",
+      "lon": "102.622"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lubuk Sandi",
+      "en": "Lubuk Sandi",
+      "slug": "lubuk-sandi-1705052"
+    },
+    "code": {
+      "id": "1705052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.914",
+      "lon": "102.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seluma",
+      "en": "Seluma",
+      "slug": "seluma-1705040"
+    },
+    "code": {
+      "id": "1705040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.069",
+      "lon": "102.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seluma Barat",
+      "en": "Seluma Barat",
+      "slug": "seluma-barat-1705042"
+    },
+    "code": {
+      "id": "1705042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.055",
+      "lon": "102.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seluma Selatan",
+      "en": "Seluma Selatan",
+      "slug": "seluma-selatan-1705041"
+    },
+    "code": {
+      "id": "1705041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.111",
+      "lon": "102.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705043",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seluma Timur",
+      "en": "Seluma Timur",
+      "slug": "seluma-timur-1705043"
+    },
+    "code": {
+      "id": "1705043",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.101",
+      "lon": "102.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705044",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seluma Utara",
+      "en": "Seluma Utara",
+      "slug": "seluma-utara-1705044"
+    },
+    "code": {
+      "id": "1705044",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.95",
+      "lon": "102.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semidang Alas",
+      "en": "Semidang Alas",
+      "slug": "semidang-alas-1705020"
+    },
+    "code": {
+      "id": "1705020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.136",
+      "lon": "102.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semidang Alas Maras",
+      "en": "Semidang Alas Maras",
+      "slug": "semidang-alas-maras-1705010"
+    },
+    "code": {
+      "id": "1705010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.279",
+      "lon": "102.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukaraja",
+      "en": "Sukaraja",
+      "slug": "sukaraja-1705050"
+    },
+    "code": {
+      "id": "1705050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.915",
+      "lon": "102.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talo",
+      "en": "Talo",
+      "slug": "talo-1705030"
+    },
+    "code": {
+      "id": "1705030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.154",
+      "lon": "102.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talo Kecil",
+      "en": "Talo Kecil",
+      "slug": "talo-kecil-1705032"
+    },
+    "code": {
+      "id": "1705032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.216",
+      "lon": "102.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1705033",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulu Talo",
+      "en": "Ulu Talo",
+      "slug": "ulu-talo-1705033"
+    },
+    "code": {
+      "id": "1705033",
+      "iso": null
+    },
+    "parent": {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1705",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Seluma",
+          "en": "Seluma",
+          "slug": "seluma-1705"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.039",
+      "lon": "102.764"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

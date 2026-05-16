@@ -1,0 +1,56 @@
+{
+  "id": "9418047",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dow",
+    "en": "Dow",
+    "slug": "dow-9418047"
+  },
+  "code": {
+    "id": "9418047",
+    "iso": null
+  },
+  "parent": {
+    "id": "9418",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tolikara",
+      "en": "Tolikara",
+      "slug": "tolikara-9418"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9418",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tolikara",
+        "en": "Tolikara",
+        "slug": "tolikara-9418"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.4",
+    "lon": "138.495"
+  },
+  "metadata": {},
+  "source": {}
+}

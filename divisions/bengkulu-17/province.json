@@ -1,0 +1,31 @@
+{
+  "id": "17",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bengkulu",
+    "en": "Bengkulu",
+    "slug": "bengkulu-17"
+  },
+  "code": {
+    "id": "17",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 10,
+    "village": 1515,
+    "district": 128
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.821",
+    "lon": "102.284"
+  },
+  "metadata": {},
+  "source": {}
+}

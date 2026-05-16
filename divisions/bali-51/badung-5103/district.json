@@ -1,0 +1,338 @@
+[
+  {
+    "id": "5103050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Abiansemal",
+      "en": "Abiansemal",
+      "slug": "abiansemal-5103050"
+    },
+    "code": {
+      "id": "5103050",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.529",
+      "lon": "115.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuta",
+      "en": "Kuta",
+      "slug": "kuta-5103020"
+    },
+    "code": {
+      "id": "5103020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.726",
+      "lon": "115.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuta Selatan",
+      "en": "Kuta Selatan",
+      "slug": "kuta-selatan-5103010"
+    },
+    "code": {
+      "id": "5103010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.801",
+      "lon": "115.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuta Utara",
+      "en": "Kuta Utara",
+      "slug": "kuta-utara-5103030"
+    },
+    "code": {
+      "id": "5103030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.643",
+      "lon": "115.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mengwi",
+      "en": "Mengwi",
+      "slug": "mengwi-5103040"
+    },
+    "code": {
+      "id": "5103040",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.548",
+      "lon": "115.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5103060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Petang",
+      "en": "Petang",
+      "slug": "petang-5103060"
+    },
+    "code": {
+      "id": "5103060",
+      "iso": null
+    },
+    "parent": {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Badung",
+          "en": "Badung",
+          "slug": "badung-5103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.355",
+      "lon": "115.217"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

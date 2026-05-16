@@ -1,0 +1,56 @@
+{
+  "id": "3276061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cinere",
+    "en": "Cinere",
+    "slug": "cinere-3276061"
+  },
+  "code": {
+    "id": "3276061",
+    "iso": null
+  },
+  "parent": {
+    "id": "3276",
+    "level": 2,
+    "name": {
+      "local": "Kota Depok",
+      "en": "Depok",
+      "slug": "depok-3276"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3276",
+      "level": 2,
+      "name": {
+        "local": "Kota Depok",
+        "en": "Depok",
+        "slug": "depok-3276"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.332",
+    "lon": "106.791"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5203071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Labuhan Haji",
+    "en": "Labuhan Haji",
+    "slug": "labuhan-haji-5203071"
+  },
+  "code": {
+    "id": "5203071",
+    "iso": null
+  },
+  "parent": {
+    "id": "5203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Timur",
+      "en": "Lombok Timur",
+      "slug": "lombok-timur-5203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Timur",
+        "en": "Lombok Timur",
+        "slug": "lombok-timur-5203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.656",
+    "lon": "116.583"
+  },
+  "metadata": {},
+  "source": {}
+}

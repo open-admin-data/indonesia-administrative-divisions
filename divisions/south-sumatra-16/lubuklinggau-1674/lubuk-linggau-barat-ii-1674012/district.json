@@ -1,0 +1,56 @@
+{
+  "id": "1674012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lubuk Linggau Barat Ii",
+    "en": "Lubuk Linggau Barat Ii",
+    "slug": "lubuk-linggau-barat-ii-1674012"
+  },
+  "code": {
+    "id": "1674012",
+    "iso": null
+  },
+  "parent": {
+    "id": "1674",
+    "level": 2,
+    "name": {
+      "local": "Kota Lubuklinggau",
+      "en": "Lubuklinggau",
+      "slug": "lubuklinggau-1674"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1674",
+      "level": 2,
+      "name": {
+        "local": "Kota Lubuklinggau",
+        "en": "Lubuklinggau",
+        "slug": "lubuklinggau-1674"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.282",
+    "lon": "102.848"
+  },
+  "metadata": {},
+  "source": {}
+}

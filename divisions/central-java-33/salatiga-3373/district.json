@@ -1,0 +1,226 @@
+[
+  {
+    "id": "3373010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Argomulyo",
+      "en": "Argomulyo",
+      "slug": "argomulyo-3373010"
+    },
+    "code": {
+      "id": "3373010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373",
+      "level": 2,
+      "name": {
+        "local": "Kota Salatiga",
+        "en": "Salatiga",
+        "slug": "salatiga-3373"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.362",
+      "lon": "110.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sidomukti",
+      "en": "Sidomukti",
+      "slug": "sidomukti-3373030"
+    },
+    "code": {
+      "id": "3373030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373",
+      "level": 2,
+      "name": {
+        "local": "Kota Salatiga",
+        "en": "Salatiga",
+        "slug": "salatiga-3373"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.337",
+      "lon": "110.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sidorejo",
+      "en": "Sidorejo",
+      "slug": "sidorejo-3373040"
+    },
+    "code": {
+      "id": "3373040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373",
+      "level": 2,
+      "name": {
+        "local": "Kota Salatiga",
+        "en": "Salatiga",
+        "slug": "salatiga-3373"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.308",
+      "lon": "110.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tingkir",
+      "en": "Tingkir",
+      "slug": "tingkir-3373020"
+    },
+    "code": {
+      "id": "3373020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373",
+      "level": 2,
+      "name": {
+        "local": "Kota Salatiga",
+        "en": "Salatiga",
+        "slug": "salatiga-3373"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.336",
+      "lon": "110.519"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

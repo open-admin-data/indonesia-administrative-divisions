@@ -1,0 +1,56 @@
+{
+  "id": "3304160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batur",
+    "en": "Batur",
+    "slug": "batur-3304160"
+  },
+  "code": {
+    "id": "3304160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banjarnegara",
+      "en": "Banjarnegara",
+      "slug": "banjarnegara-3304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banjarnegara",
+        "en": "Banjarnegara",
+        "slug": "banjarnegara-3304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.209",
+    "lon": "109.854"
+  },
+  "metadata": {},
+  "source": {}
+}

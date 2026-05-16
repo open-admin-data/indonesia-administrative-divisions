@@ -1,0 +1,56 @@
+{
+  "id": "1706021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Rumbai",
+    "en": "Sungai Rumbai",
+    "slug": "sungai-rumbai-1706021"
+  },
+  "code": {
+    "id": "1706021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mukomuko",
+      "en": "Mukomuko",
+      "slug": "mukomuko-1706"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.769",
+    "lon": "101.575"
+  },
+  "metadata": {},
+  "source": {}
+}

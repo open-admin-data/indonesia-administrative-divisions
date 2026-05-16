@@ -1,0 +1,56 @@
+{
+  "id": "9403180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Unurum Guay",
+    "en": "Unurum Guay",
+    "slug": "unurum-guay-9403180"
+  },
+  "code": {
+    "id": "9403180",
+    "iso": null
+  },
+  "parent": {
+    "id": "9403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jayapura",
+      "en": "Jayapura",
+      "slug": "jayapura-9403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jayapura",
+        "en": "Jayapura",
+        "slug": "jayapura-9403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.661",
+    "lon": "139.774"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7202040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kintom",
+    "en": "Kintom",
+    "slug": "kintom-7202040"
+  },
+  "code": {
+    "id": "7202040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banggai",
+      "en": "Banggai",
+      "slug": "banggai-7202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banggai",
+        "en": "Banggai",
+        "slug": "banggai-7202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.12",
+    "lon": "122.557"
+  },
+  "metadata": {},
+  "source": {}
+}

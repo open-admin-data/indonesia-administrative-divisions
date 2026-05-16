@@ -1,0 +1,48 @@
+{
+  "id": "3506",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kediri",
+    "en": "Kediri",
+    "slug": "kediri-3506"
+  },
+  "code": {
+    "id": "3506",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 26,
+    "village": 300
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.802",
+    "lon": "112.041"
+  },
+  "metadata": {},
+  "source": {}
+}

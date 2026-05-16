@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1473010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bagan Besar",
+      "en": "Bagan Besar",
+      "slug": "bagan-besar-1473010006"
+    },
+    "code": {
+      "id": "1473010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1473010",
+      "level": 3,
+      "name": {
+        "local": "Bukit Kapur",
+        "en": "Bukit Kapur",
+        "slug": "bukit-kapur-1473010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1473",
+        "level": 2,
+        "name": {
+          "local": "Kota D U M A I",
+          "en": "D U M A I",
+          "slug": "d-u-m-a-i-1473"
+        }
+      },
+      {
+        "id": "1473010",
+        "level": 3,
+        "name": {
+          "local": "Bukit Kapur",
+          "en": "Bukit Kapur",
+          "slug": "bukit-kapur-1473010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28882"
+    ],
+    "geo": {
+      "lat": "1.596",
+      "lon": "101.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1473010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Kayu Kapur",
+      "en": "Bukit Kayu Kapur",
+      "slug": "bukit-kayu-kapur-1473010007"
+    },
+    "code": {
+      "id": "1473010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1473010",
+      "level": 3,
+      "name": {
+        "local": "Bukit Kapur",
+        "en": "Bukit Kapur",
+        "slug": "bukit-kapur-1473010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1473",
+        "level": 2,
+        "name": {
+          "local": "Kota D U M A I",
+          "en": "D U M A I",
+          "slug": "d-u-m-a-i-1473"
+        }
+      },
+      {
+        "id": "1473010",
+        "level": 3,
+        "name": {
+          "local": "Bukit Kapur",
+          "en": "Bukit Kapur",
+          "slug": "bukit-kapur-1473010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28882"
+    ],
+    "geo": {
+      "lat": "1.5",
+      "lon": "101.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1473010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Nenas",
+      "en": "Bukit Nenas",
+      "slug": "bukit-nenas-1473010001"
+    },
+    "code": {
+      "id": "1473010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1473010",
+      "level": 3,
+      "name": {
+        "local": "Bukit Kapur",
+        "en": "Bukit Kapur",
+        "slug": "bukit-kapur-1473010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1473",
+        "level": 2,
+        "name": {
+          "local": "Kota D U M A I",
+          "en": "D U M A I",
+          "slug": "d-u-m-a-i-1473"
+        }
+      },
+      {
+        "id": "1473010",
+        "level": 3,
+        "name": {
+          "local": "Bukit Kapur",
+          "en": "Bukit Kapur",
+          "slug": "bukit-kapur-1473010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28882"
+    ],
+    "geo": {
+      "lat": "1.548",
+      "lon": "101.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1473010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gurun Panjang",
+      "en": "Gurun Panjang",
+      "slug": "gurun-panjang-1473010008"
+    },
+    "code": {
+      "id": "1473010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1473010",
+      "level": 3,
+      "name": {
+        "local": "Bukit Kapur",
+        "en": "Bukit Kapur",
+        "slug": "bukit-kapur-1473010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1473",
+        "level": 2,
+        "name": {
+          "local": "Kota D U M A I",
+          "en": "D U M A I",
+          "slug": "d-u-m-a-i-1473"
+        }
+      },
+      {
+        "id": "1473010",
+        "level": 3,
+        "name": {
+          "local": "Bukit Kapur",
+          "en": "Bukit Kapur",
+          "slug": "bukit-kapur-1473010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28882"
+    ],
+    "geo": {
+      "lat": "1.547",
+      "lon": "101.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1473010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Baru",
+      "en": "Kampung Baru",
+      "slug": "kampung-baru-1473010009"
+    },
+    "code": {
+      "id": "1473010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1473010",
+      "level": 3,
+      "name": {
+        "local": "Bukit Kapur",
+        "en": "Bukit Kapur",
+        "slug": "bukit-kapur-1473010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1473",
+        "level": 2,
+        "name": {
+          "local": "Kota D U M A I",
+          "en": "D U M A I",
+          "slug": "d-u-m-a-i-1473"
+        }
+      },
+      {
+        "id": "1473010",
+        "level": 3,
+        "name": {
+          "local": "Bukit Kapur",
+          "en": "Bukit Kapur",
+          "slug": "bukit-kapur-1473010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28882"
+    ],
+    "geo": {
+      "lat": "1.481",
+      "lon": "101.361"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

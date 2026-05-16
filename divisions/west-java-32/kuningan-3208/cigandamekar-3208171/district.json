@@ -1,0 +1,56 @@
+{
+  "id": "3208171",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cigandamekar",
+    "en": "Cigandamekar",
+    "slug": "cigandamekar-3208171"
+  },
+  "code": {
+    "id": "3208171",
+    "iso": null
+  },
+  "parent": {
+    "id": "3208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kuningan",
+      "en": "Kuningan",
+      "slug": "kuningan-3208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuningan",
+        "en": "Kuningan",
+        "slug": "kuningan-3208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.884",
+    "lon": "108.537"
+  },
+  "metadata": {},
+  "source": {}
+}

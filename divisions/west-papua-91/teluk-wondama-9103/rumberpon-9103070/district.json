@@ -1,0 +1,56 @@
+{
+  "id": "9103070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rumberpon",
+    "en": "Rumberpon",
+    "slug": "rumberpon-9103070"
+  },
+  "code": {
+    "id": "9103070",
+    "iso": null
+  },
+  "parent": {
+    "id": "9103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Wondama",
+      "en": "Teluk Wondama",
+      "slug": "teluk-wondama-9103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Wondama",
+        "en": "Teluk Wondama",
+        "slug": "teluk-wondama-9103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.842",
+    "lon": "134.186"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1303080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Talang",
+    "en": "Gunung Talang",
+    "slug": "gunung-talang-1303080"
+  },
+  "code": {
+    "id": "1303080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Solok",
+      "en": "Solok",
+      "slug": "solok-1303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.963",
+    "lon": "100.619"
+  },
+  "metadata": {},
+  "source": {}
+}

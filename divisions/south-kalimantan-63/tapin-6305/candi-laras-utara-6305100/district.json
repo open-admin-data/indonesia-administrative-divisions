@@ -1,0 +1,56 @@
+{
+  "id": "6305100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Candi Laras Utara",
+    "en": "Candi Laras Utara",
+    "slug": "candi-laras-utara-6305100"
+  },
+  "code": {
+    "id": "6305100",
+    "iso": null
+  },
+  "parent": {
+    "id": "6305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapin",
+      "en": "Tapin",
+      "slug": "tapin-6305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapin",
+        "en": "Tapin",
+        "slug": "tapin-6305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.769",
+    "lon": "114.909"
+  },
+  "metadata": {},
+  "source": {}
+}

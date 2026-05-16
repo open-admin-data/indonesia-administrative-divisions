@@ -1,0 +1,56 @@
+{
+  "id": "5203040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sikur",
+    "en": "Sikur",
+    "slug": "sikur-5203040"
+  },
+  "code": {
+    "id": "5203040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Timur",
+      "en": "Lombok Timur",
+      "slug": "lombok-timur-5203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Timur",
+        "en": "Lombok Timur",
+        "slug": "lombok-timur-5203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.555",
+    "lon": "116.437"
+  },
+  "metadata": {},
+  "source": {}
+}

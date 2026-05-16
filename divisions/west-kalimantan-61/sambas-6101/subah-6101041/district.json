@@ -1,0 +1,56 @@
+{
+  "id": "6101041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Subah",
+    "en": "Subah",
+    "slug": "subah-6101041"
+  },
+  "code": {
+    "id": "6101041",
+    "iso": null
+  },
+  "parent": {
+    "id": "6101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sambas",
+      "en": "Sambas",
+      "slug": "sambas-6101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sambas",
+        "en": "Sambas",
+        "slug": "sambas-6101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.192",
+    "lon": "109.429"
+  },
+  "metadata": {},
+  "source": {}
+}

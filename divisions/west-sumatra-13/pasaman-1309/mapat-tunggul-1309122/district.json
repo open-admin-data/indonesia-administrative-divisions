@@ -1,0 +1,56 @@
+{
+  "id": "1309122",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mapat Tunggul",
+    "en": "Mapat Tunggul",
+    "slug": "mapat-tunggul-1309122"
+  },
+  "code": {
+    "id": "1309122",
+    "iso": null
+  },
+  "parent": {
+    "id": "1309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pasaman",
+      "en": "Pasaman",
+      "slug": "pasaman-1309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pasaman",
+        "en": "Pasaman",
+        "slug": "pasaman-1309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.666",
+    "lon": "100.148"
+  },
+  "metadata": {},
+  "source": {}
+}

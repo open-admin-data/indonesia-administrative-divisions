@@ -1,0 +1,67 @@
+[
+  {
+    "id": "3471080001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Purwo Kinanti",
+      "en": "Purwo Kinanti",
+      "slug": "purwo-kinanti-3471080001"
+    },
+    "code": {
+      "id": "3471080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471080",
+      "level": 3,
+      "name": {
+        "local": "Pakualaman",
+        "en": "Pakualaman",
+        "slug": "pakualaman-3471080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471080",
+        "level": 3,
+        "name": {
+          "local": "Pakualaman",
+          "en": "Pakualaman",
+          "slug": "pakualaman-3471080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55111"
+    ],
+    "geo": {
+      "lat": "-7.799",
+      "lon": "110.374"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

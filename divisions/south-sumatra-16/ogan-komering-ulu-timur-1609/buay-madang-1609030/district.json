@@ -1,0 +1,56 @@
+{
+  "id": "1609030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buay Madang",
+    "en": "Buay Madang",
+    "slug": "buay-madang-1609030"
+  },
+  "code": {
+    "id": "1609030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1609",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Timur",
+      "en": "Ogan Komering Ulu Timur",
+      "slug": "ogan-komering-ulu-timur-1609"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu Timur",
+        "en": "Ogan Komering Ulu Timur",
+        "slug": "ogan-komering-ulu-timur-1609"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.248",
+    "lon": "104.501"
+  },
+  "metadata": {},
+  "source": {}
+}

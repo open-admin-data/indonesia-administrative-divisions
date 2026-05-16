@@ -1,0 +1,48 @@
+{
+  "id": "1272",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Tanjung Balai",
+    "en": "Tanjung Balai",
+    "slug": "tanjung-balai-1272"
+  },
+  "code": {
+    "id": "1272",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Utara",
+      "en": "North Sumatra",
+      "slug": "north-sumatra-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.956",
+    "lon": "99.062"
+  },
+  "metadata": {},
+  "source": {}
+}

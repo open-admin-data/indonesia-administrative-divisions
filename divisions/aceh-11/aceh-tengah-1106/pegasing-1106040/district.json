@@ -1,0 +1,56 @@
+{
+  "id": "1106040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pegasing",
+    "en": "Pegasing",
+    "slug": "pegasing-1106040"
+  },
+  "code": {
+    "id": "1106040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tengah",
+      "en": "Aceh Tengah",
+      "slug": "aceh-tengah-1106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tengah",
+        "en": "Aceh Tengah",
+        "slug": "aceh-tengah-1106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.501",
+    "lon": "96.723"
+  },
+  "metadata": {},
+  "source": {}
+}

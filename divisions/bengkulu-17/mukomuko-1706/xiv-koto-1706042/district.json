@@ -1,0 +1,56 @@
+{
+  "id": "1706042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Xiv Koto",
+    "en": "Xiv Koto",
+    "slug": "xiv-koto-1706042"
+  },
+  "code": {
+    "id": "1706042",
+    "iso": null
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mukomuko",
+      "en": "Mukomuko",
+      "slug": "mukomuko-1706"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.472",
+    "lon": "101.079"
+  },
+  "metadata": {},
+  "source": {}
+}

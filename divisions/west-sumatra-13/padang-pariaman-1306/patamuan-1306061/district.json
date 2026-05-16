@@ -1,0 +1,56 @@
+{
+  "id": "1306061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Patamuan",
+    "en": "Patamuan",
+    "slug": "patamuan-1306061"
+  },
+  "code": {
+    "id": "1306061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Padang Pariaman",
+      "en": "Padang Pariaman",
+      "slug": "padang-pariaman-1306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Padang Pariaman",
+        "en": "Padang Pariaman",
+        "slug": "padang-pariaman-1306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.506",
+    "lon": "100.266"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7307010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sinjai Barat",
+    "en": "Sinjai Barat",
+    "slug": "sinjai-barat-7307010"
+  },
+  "code": {
+    "id": "7307010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sinjai",
+      "en": "Sinjai",
+      "slug": "sinjai-7307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sinjai",
+        "en": "Sinjai",
+        "slug": "sinjai-7307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.239",
+    "lon": "120.007"
+  },
+  "metadata": {},
+  "source": {}
+}

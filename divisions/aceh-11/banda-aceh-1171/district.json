@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1171020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baiturrahman",
+      "en": "Baiturrahman",
+      "slug": "baiturrahman-1171020"
+    },
+    "code": {
+      "id": "1171020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.546",
+      "lon": "95.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banda Raya",
+      "en": "Banda Raya",
+      "slug": "banda-raya-1171012"
+    },
+    "code": {
+      "id": "1171012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.528",
+      "lon": "95.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jaya Baru",
+      "en": "Jaya Baru",
+      "slug": "jaya-baru-1171011"
+    },
+    "code": {
+      "id": "1171011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.536",
+      "lon": "95.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuta Alam",
+      "en": "Kuta Alam",
+      "slug": "kuta-alam-1171030"
+    },
+    "code": {
+      "id": "1171030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.571",
+      "lon": "95.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuta Raja",
+      "en": "Kuta Raja",
+      "slug": "kuta-raja-1171031"
+    },
+    "code": {
+      "id": "1171031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.568",
+      "lon": "95.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lueng Bata",
+      "en": "Lueng Bata",
+      "slug": "lueng-bata-1171021"
+    },
+    "code": {
+      "id": "1171021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.54",
+      "lon": "95.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meuraxa",
+      "en": "Meuraxa",
+      "slug": "meuraxa-1171010"
+    },
+    "code": {
+      "id": "1171010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.554",
+      "lon": "95.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Syiah Kuala",
+      "en": "Syiah Kuala",
+      "slug": "syiah-kuala-1171040"
+    },
+    "code": {
+      "id": "1171040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.583",
+      "lon": "95.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1171041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulee Kareng",
+      "en": "Ulee Kareng",
+      "slug": "ulee-kareng-1171041"
+    },
+    "code": {
+      "id": "1171041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1171",
+        "level": 2,
+        "name": {
+          "local": "Kota Banda Aceh",
+          "en": "Banda Aceh",
+          "slug": "banda-aceh-1171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.547",
+      "lon": "95.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "3529",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sumenep",
+    "en": "Sumenep",
+    "slug": "sumenep-3529"
+  },
+  "code": {
+    "id": "3529",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 27,
+    "village": 326
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.014",
+    "lon": "113.864"
+  },
+  "metadata": {},
+  "source": {}
+}

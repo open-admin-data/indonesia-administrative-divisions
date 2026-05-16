@@ -1,0 +1,56 @@
+{
+  "id": "1473020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dumai Barat",
+    "en": "Dumai Barat",
+    "slug": "dumai-barat-1473020"
+  },
+  "code": {
+    "id": "1473020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1473",
+    "level": 2,
+    "name": {
+      "local": "Kota D U M A I",
+      "en": "D U M A I",
+      "slug": "d-u-m-a-i-1473"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1473",
+      "level": 2,
+      "name": {
+        "local": "Kota D U M A I",
+        "en": "D U M A I",
+        "slug": "d-u-m-a-i-1473"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.687",
+    "lon": "101.393"
+  },
+  "metadata": {},
+  "source": {}
+}

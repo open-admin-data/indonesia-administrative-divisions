@@ -1,0 +1,327 @@
+[
+  {
+    "id": "3171040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bintaro",
+      "en": "Bintaro",
+      "slug": "bintaro-3171040001"
+    },
+    "code": {
+      "id": "3171040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171040",
+      "level": 3,
+      "name": {
+        "local": "Pesanggrahan",
+        "en": "Pesanggrahan",
+        "slug": "pesanggrahan-3171040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      },
+      {
+        "id": "3171040",
+        "level": 3,
+        "name": {
+          "local": "Pesanggrahan",
+          "en": "Pesanggrahan",
+          "slug": "pesanggrahan-3171040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12250"
+    ],
+    "geo": {
+      "lat": "-6.268",
+      "lon": "106.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pesanggrahan",
+      "en": "Pesanggrahan",
+      "slug": "pesanggrahan-3171040002"
+    },
+    "code": {
+      "id": "3171040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171040",
+      "level": 3,
+      "name": {
+        "local": "Pesanggrahan",
+        "en": "Pesanggrahan",
+        "slug": "pesanggrahan-3171040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      },
+      {
+        "id": "3171040",
+        "level": 3,
+        "name": {
+          "local": "Pesanggrahan",
+          "en": "Pesanggrahan",
+          "slug": "pesanggrahan-3171040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12250"
+    ],
+    "geo": {
+      "lat": "-6.247",
+      "lon": "106.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Petukangan Selatan",
+      "en": "Petukangan Selatan",
+      "slug": "petukangan-selatan-3171040004"
+    },
+    "code": {
+      "id": "3171040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171040",
+      "level": 3,
+      "name": {
+        "local": "Pesanggrahan",
+        "en": "Pesanggrahan",
+        "slug": "pesanggrahan-3171040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      },
+      {
+        "id": "3171040",
+        "level": 3,
+        "name": {
+          "local": "Pesanggrahan",
+          "en": "Pesanggrahan",
+          "slug": "pesanggrahan-3171040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12250"
+    ],
+    "geo": {
+      "lat": "-6.243",
+      "lon": "106.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Petukangan Utara",
+      "en": "Petukangan Utara",
+      "slug": "petukangan-utara-3171040005"
+    },
+    "code": {
+      "id": "3171040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171040",
+      "level": 3,
+      "name": {
+        "local": "Pesanggrahan",
+        "en": "Pesanggrahan",
+        "slug": "pesanggrahan-3171040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      },
+      {
+        "id": "3171040",
+        "level": 3,
+        "name": {
+          "local": "Pesanggrahan",
+          "en": "Pesanggrahan",
+          "slug": "pesanggrahan-3171040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12250"
+    ],
+    "geo": {
+      "lat": "-6.227",
+      "lon": "106.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3171040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ulujami",
+      "en": "Ulujami",
+      "slug": "ulujami-3171040003"
+    },
+    "code": {
+      "id": "3171040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3171040",
+      "level": 3,
+      "name": {
+        "local": "Pesanggrahan",
+        "en": "Pesanggrahan",
+        "slug": "pesanggrahan-3171040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3171",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Selatan",
+          "en": "Jakarta Selatan",
+          "slug": "jakarta-selatan-3171"
+        }
+      },
+      {
+        "id": "3171040",
+        "level": 3,
+        "name": {
+          "local": "Pesanggrahan",
+          "en": "Pesanggrahan",
+          "slug": "pesanggrahan-3171040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "12250"
+    ],
+    "geo": {
+      "lat": "-6.241",
+      "lon": "106.763"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

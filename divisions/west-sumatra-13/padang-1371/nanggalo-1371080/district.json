@@ -1,0 +1,56 @@
+{
+  "id": "1371080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nanggalo",
+    "en": "Nanggalo",
+    "slug": "nanggalo-1371080"
+  },
+  "code": {
+    "id": "1371080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1371",
+    "level": 2,
+    "name": {
+      "local": "Kota Padang",
+      "en": "Padang",
+      "slug": "padang-1371"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1371",
+      "level": 2,
+      "name": {
+        "local": "Kota Padang",
+        "en": "Padang",
+        "slug": "padang-1371"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.898",
+    "lon": "100.369"
+  },
+  "metadata": {},
+  "source": {}
+}

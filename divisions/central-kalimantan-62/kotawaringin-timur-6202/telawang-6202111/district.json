@@ -1,0 +1,56 @@
+{
+  "id": "6202111",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Telawang",
+    "en": "Telawang",
+    "slug": "telawang-6202111"
+  },
+  "code": {
+    "id": "6202111",
+    "iso": null
+  },
+  "parent": {
+    "id": "6202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kotawaringin Timur",
+      "en": "Kotawaringin Timur",
+      "slug": "kotawaringin-timur-6202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Timur",
+        "en": "Kotawaringin Timur",
+        "slug": "kotawaringin-timur-6202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.327",
+    "lon": "112.644"
+  },
+  "metadata": {},
+  "source": {}
+}

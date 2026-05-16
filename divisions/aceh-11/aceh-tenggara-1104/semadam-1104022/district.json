@@ -1,0 +1,56 @@
+{
+  "id": "1104022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Semadam",
+    "en": "Semadam",
+    "slug": "semadam-1104022"
+  },
+  "code": {
+    "id": "1104022",
+    "iso": null
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tenggara",
+      "en": "Aceh Tenggara",
+      "slug": "aceh-tenggara-1104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tenggara",
+        "en": "Aceh Tenggara",
+        "slug": "aceh-tenggara-1104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.392",
+    "lon": "97.879"
+  },
+  "metadata": {},
+  "source": {}
+}

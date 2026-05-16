@@ -1,0 +1,56 @@
+{
+  "id": "1673040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagar Alam Utara",
+    "en": "Pagar Alam Utara",
+    "slug": "pagar-alam-utara-1673040"
+  },
+  "code": {
+    "id": "1673040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1673",
+    "level": 2,
+    "name": {
+      "local": "Kota Pagar Alam",
+      "en": "Pagar Alam",
+      "slug": "pagar-alam-1673"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1673",
+      "level": 2,
+      "name": {
+        "local": "Kota Pagar Alam",
+        "en": "Pagar Alam",
+        "slug": "pagar-alam-1673"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.013",
+    "lon": "103.206"
+  },
+  "metadata": {},
+  "source": {}
+}

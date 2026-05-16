@@ -1,0 +1,48 @@
+{
+  "id": "3375",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Pekalongan",
+    "en": "Pekalongan",
+    "slug": "pekalongan-3375"
+  },
+  "code": {
+    "id": "3375",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.897",
+    "lon": "109.662"
+  },
+  "metadata": {},
+  "source": {}
+}

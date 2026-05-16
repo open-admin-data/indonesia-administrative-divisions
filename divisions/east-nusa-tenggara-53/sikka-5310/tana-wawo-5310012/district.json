@@ -1,0 +1,56 @@
+{
+  "id": "5310012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tana Wawo",
+    "en": "Tana Wawo",
+    "slug": "tana-wawo-5310012"
+  },
+  "code": {
+    "id": "5310012",
+    "iso": null
+  },
+  "parent": {
+    "id": "5310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sikka",
+      "en": "Sikka",
+      "slug": "sikka-5310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sikka",
+        "en": "Sikka",
+        "slug": "sikka-5310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.687",
+    "lon": "121.97"
+  },
+  "metadata": {},
+  "source": {}
+}

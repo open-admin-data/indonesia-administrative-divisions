@@ -1,0 +1,48 @@
+{
+  "id": "5302",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sumba Timur",
+    "en": "Sumba Timur",
+    "slug": "sumba-timur-5302"
+  },
+  "code": {
+    "id": "5302",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 22,
+    "village": 154
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.852",
+    "lon": "124.266"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1105",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Aceh Timur",
+    "en": "Aceh Timur",
+    "slug": "aceh-timur-1105"
+  },
+  "code": {
+    "id": "1105",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 24,
+    "village": 514
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.153",
+    "lon": "96.131"
+  },
+  "metadata": {},
+  "source": {}
+}

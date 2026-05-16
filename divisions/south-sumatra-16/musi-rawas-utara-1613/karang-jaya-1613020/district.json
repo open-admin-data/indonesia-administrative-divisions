@@ -1,0 +1,56 @@
+{
+  "id": "1613020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karang Jaya",
+    "en": "Karang Jaya",
+    "slug": "karang-jaya-1613020"
+  },
+  "code": {
+    "id": "1613020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1613",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Musi Rawas Utara",
+      "en": "Musi Rawas Utara",
+      "slug": "musi-rawas-utara-1613"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1613",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Musi Rawas Utara",
+        "en": "Musi Rawas Utara",
+        "slug": "musi-rawas-utara-1613"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.918",
+    "lon": "102.643"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9410033001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kopaidagi",
+      "en": "Kopaidagi",
+      "slug": "kopaidagi-9410033001"
+    },
+    "code": {
+      "id": "9410033001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410033",
+      "level": 3,
+      "name": {
+        "local": "Pugo Dagi",
+        "en": "Pugo Dagi",
+        "slug": "pugo-dagi-9410033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410033",
+        "level": 3,
+        "name": {
+          "local": "Pugo Dagi",
+          "en": "Pugo Dagi",
+          "slug": "pugo-dagi-9410033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98719"
+    ],
+    "geo": {
+      "lat": "-3.972",
+      "lon": "136.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9410033003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pugo Woge",
+      "en": "Pugo Woge",
+      "slug": "pugo-woge-9410033003"
+    },
+    "code": {
+      "id": "9410033003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410033",
+      "level": 3,
+      "name": {
+        "local": "Pugo Dagi",
+        "en": "Pugo Dagi",
+        "slug": "pugo-dagi-9410033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410033",
+        "level": 3,
+        "name": {
+          "local": "Pugo Dagi",
+          "en": "Pugo Dagi",
+          "slug": "pugo-dagi-9410033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98719"
+    ],
+    "geo": {
+      "lat": "-3.788",
+      "lon": "136.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9410033002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wejatadi",
+      "en": "Wejatadi",
+      "slug": "wejatadi-9410033002"
+    },
+    "code": {
+      "id": "9410033002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410033",
+      "level": 3,
+      "name": {
+        "local": "Pugo Dagi",
+        "en": "Pugo Dagi",
+        "slug": "pugo-dagi-9410033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410033",
+        "level": 3,
+        "name": {
+          "local": "Pugo Dagi",
+          "en": "Pugo Dagi",
+          "slug": "pugo-dagi-9410033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98719"
+    ],
+    "geo": {
+      "lat": "-3.788",
+      "lon": "136.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

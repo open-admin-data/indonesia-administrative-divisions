@@ -1,0 +1,56 @@
+{
+  "id": "5310042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waiblama",
+    "en": "Waiblama",
+    "slug": "waiblama-5310042"
+  },
+  "code": {
+    "id": "5310042",
+    "iso": null
+  },
+  "parent": {
+    "id": "5310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sikka",
+      "en": "Sikka",
+      "slug": "sikka-5310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sikka",
+        "en": "Sikka",
+        "slug": "sikka-5310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.586",
+    "lon": "122.589"
+  },
+  "metadata": {},
+  "source": {}
+}

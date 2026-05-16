@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1308060003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Tinggi",
+      "en": "Koto Tinggi",
+      "slug": "koto-tinggi-1308060003"
+    },
+    "code": {
+      "id": "1308060003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1308060",
+      "level": 3,
+      "name": {
+        "local": "Gunuang Omeh",
+        "en": "Gunuang Omeh",
+        "slug": "gunuang-omeh-1308060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lima Puluh Kota",
+          "en": "Lima Puluh Kota",
+          "slug": "lima-puluh-kota-1308"
+        }
+      },
+      {
+        "id": "1308060",
+        "level": 3,
+        "name": {
+          "local": "Gunuang Omeh",
+          "en": "Gunuang Omeh",
+          "slug": "gunuang-omeh-1308060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26256"
+    ],
+    "geo": {
+      "lat": "-0.028",
+      "lon": "100.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1308060001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pandam Gadang",
+      "en": "Pandam Gadang",
+      "slug": "pandam-gadang-1308060001"
+    },
+    "code": {
+      "id": "1308060001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1308060",
+      "level": 3,
+      "name": {
+        "local": "Gunuang Omeh",
+        "en": "Gunuang Omeh",
+        "slug": "gunuang-omeh-1308060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lima Puluh Kota",
+          "en": "Lima Puluh Kota",
+          "slug": "lima-puluh-kota-1308"
+        }
+      },
+      {
+        "id": "1308060",
+        "level": 3,
+        "name": {
+          "local": "Gunuang Omeh",
+          "en": "Gunuang Omeh",
+          "slug": "gunuang-omeh-1308060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26256"
+    ],
+    "geo": {
+      "lat": "-0.087",
+      "lon": "100.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1308060002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talang Anau",
+      "en": "Talang Anau",
+      "slug": "talang-anau-1308060002"
+    },
+    "code": {
+      "id": "1308060002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1308060",
+      "level": 3,
+      "name": {
+        "local": "Gunuang Omeh",
+        "en": "Gunuang Omeh",
+        "slug": "gunuang-omeh-1308060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lima Puluh Kota",
+          "en": "Lima Puluh Kota",
+          "slug": "lima-puluh-kota-1308"
+        }
+      },
+      {
+        "id": "1308060",
+        "level": 3,
+        "name": {
+          "local": "Gunuang Omeh",
+          "en": "Gunuang Omeh",
+          "slug": "gunuang-omeh-1308060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26256"
+    ],
+    "geo": {
+      "lat": "-0.05",
+      "lon": "100.412"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

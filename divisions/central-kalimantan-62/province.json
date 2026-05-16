@@ -1,0 +1,31 @@
+{
+  "id": "62",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kalimantan Tengah",
+    "en": "Central Kalimantan",
+    "slug": "central-kalimantan-62"
+  },
+  "code": {
+    "id": "62",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 14,
+    "village": 1537,
+    "district": 136
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.217",
+    "lon": "113.919"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1171",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Banda Aceh",
+    "en": "Banda Aceh",
+    "slug": "banda-aceh-1171"
+  },
+  "code": {
+    "id": "1171",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 90
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.55",
+    "lon": "95.318"
+  },
+  "metadata": {},
+  "source": {}
+}

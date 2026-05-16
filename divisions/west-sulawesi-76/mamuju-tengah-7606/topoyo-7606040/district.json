@@ -1,0 +1,56 @@
+{
+  "id": "7606040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Topoyo",
+    "en": "Topoyo",
+    "slug": "topoyo-7606040"
+  },
+  "code": {
+    "id": "7606040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju Tengah",
+      "en": "Mamuju Tengah",
+      "slug": "mamuju-tengah-7606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju Tengah",
+        "en": "Mamuju Tengah",
+        "slug": "mamuju-tengah-7606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.041",
+    "lon": "119.537"
+  },
+  "metadata": {},
+  "source": {}
+}

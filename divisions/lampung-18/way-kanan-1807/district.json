@@ -1,0 +1,786 @@
+[
+  {
+    "id": "1807050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bahuga",
+      "en": "Bahuga",
+      "slug": "bahuga-1807050"
+    },
+    "code": {
+      "id": "1807050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.306",
+      "lon": "104.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjit",
+      "en": "Banjit",
+      "slug": "banjit-1807010"
+    },
+    "code": {
+      "id": "1807010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.828",
+      "lon": "104.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baradatu",
+      "en": "Baradatu",
+      "slug": "baradatu-1807020"
+    },
+    "code": {
+      "id": "1807020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.712",
+      "lon": "104.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Blambangan Umpu",
+      "en": "Blambangan Umpu",
+      "slug": "blambangan-umpu-1807040"
+    },
+    "code": {
+      "id": "1807040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.537",
+      "lon": "104.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buay  Bahuga",
+      "en": "Buay  Bahuga",
+      "slug": "buay-bahuga-1807051"
+    },
+    "code": {
+      "id": "1807051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.276",
+      "lon": "104.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bumi Agung",
+      "en": "Bumi Agung",
+      "slug": "bumi-agung-1807052"
+    },
+    "code": {
+      "id": "1807052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.347",
+      "lon": "104.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunung Labuhan",
+      "en": "Gunung Labuhan",
+      "slug": "gunung-labuhan-1807021"
+    },
+    "code": {
+      "id": "1807021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.737",
+      "lon": "104.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kasui",
+      "en": "Kasui",
+      "slug": "kasui-1807030"
+    },
+    "code": {
+      "id": "1807030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.736",
+      "lon": "104.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Negara Batin",
+      "en": "Negara Batin",
+      "slug": "negara-batin-1807061"
+    },
+    "code": {
+      "id": "1807061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.321",
+      "lon": "104.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Negeri Agung",
+      "en": "Negeri Agung",
+      "slug": "negeri-agung-1807042"
+    },
+    "code": {
+      "id": "1807042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.529",
+      "lon": "104.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Negeri Besar",
+      "en": "Negeri Besar",
+      "slug": "negeri-besar-1807062"
+    },
+    "code": {
+      "id": "1807062",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.463",
+      "lon": "104.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakuan Ratu",
+      "en": "Pakuan Ratu",
+      "slug": "pakuan-ratu-1807060"
+    },
+    "code": {
+      "id": "1807060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.415",
+      "lon": "104.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rebang Tangkas",
+      "en": "Rebang Tangkas",
+      "slug": "rebang-tangkas-1807031"
+    },
+    "code": {
+      "id": "1807031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.676",
+      "lon": "104.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Way Tuba",
+      "en": "Way Tuba",
+      "slug": "way-tuba-1807041"
+    },
+    "code": {
+      "id": "1807041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Way Kanan",
+        "en": "Way Kanan",
+        "slug": "way-kanan-1807"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1807",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Way Kanan",
+          "en": "Way Kanan",
+          "slug": "way-kanan-1807"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.451",
+      "lon": "104.407"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

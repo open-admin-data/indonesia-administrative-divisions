@@ -1,0 +1,56 @@
+{
+  "id": "1110050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Juli",
+    "en": "Juli",
+    "slug": "juli-1110050"
+  },
+  "code": {
+    "id": "1110050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bireuen",
+      "en": "Bireuen",
+      "slug": "bireuen-1110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bireuen",
+        "en": "Bireuen",
+        "slug": "bireuen-1110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 36
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.073",
+    "lon": "96.67"
+  },
+  "metadata": {},
+  "source": {}
+}

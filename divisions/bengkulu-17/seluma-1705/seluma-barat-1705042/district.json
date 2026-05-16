@@ -1,0 +1,56 @@
+{
+  "id": "1705042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seluma Barat",
+    "en": "Seluma Barat",
+    "slug": "seluma-barat-1705042"
+  },
+  "code": {
+    "id": "1705042",
+    "iso": null
+  },
+  "parent": {
+    "id": "1705",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seluma",
+      "en": "Seluma",
+      "slug": "seluma-1705"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seluma",
+        "en": "Seluma",
+        "slug": "seluma-1705"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.055",
+    "lon": "102.497"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3317020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bulu",
+    "en": "Bulu",
+    "slug": "bulu-3317020"
+  },
+  "code": {
+    "id": "3317020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3317",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rembang",
+      "en": "Rembang",
+      "slug": "rembang-3317"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rembang",
+        "en": "Rembang",
+        "slug": "rembang-3317"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.853",
+    "lon": "111.375"
+  },
+  "metadata": {},
+  "source": {}
+}

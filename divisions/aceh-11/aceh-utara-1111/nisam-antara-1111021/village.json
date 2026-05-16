@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1111021001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alue Dua",
+      "en": "Alue Dua",
+      "slug": "alue-dua-1111021001"
+    },
+    "code": {
+      "id": "1111021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111021",
+      "level": 3,
+      "name": {
+        "local": "Nisam Antara",
+        "en": "Nisam Antara",
+        "slug": "nisam-antara-1111021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111021",
+        "level": 3,
+        "name": {
+          "local": "Nisam Antara",
+          "en": "Nisam Antara",
+          "slug": "nisam-antara-1111021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24361"
+    ],
+    "geo": {
+      "lat": "5.08",
+      "lon": "96.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111021002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alue Papeun",
+      "en": "Alue Papeun",
+      "slug": "alue-papeun-1111021002"
+    },
+    "code": {
+      "id": "1111021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111021",
+      "level": 3,
+      "name": {
+        "local": "Nisam Antara",
+        "en": "Nisam Antara",
+        "slug": "nisam-antara-1111021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111021",
+        "level": 3,
+        "name": {
+          "local": "Nisam Antara",
+          "en": "Nisam Antara",
+          "slug": "nisam-antara-1111021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24361"
+    ],
+    "geo": {
+      "lat": "5.059",
+      "lon": "96.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111021003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Blang Jrat",
+      "en": "Blang Jrat",
+      "slug": "blang-jrat-1111021003"
+    },
+    "code": {
+      "id": "1111021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111021",
+      "level": 3,
+      "name": {
+        "local": "Nisam Antara",
+        "en": "Nisam Antara",
+        "slug": "nisam-antara-1111021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111021",
+        "level": 3,
+        "name": {
+          "local": "Nisam Antara",
+          "en": "Nisam Antara",
+          "slug": "nisam-antara-1111021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24361"
+    ],
+    "geo": {
+      "lat": "5.092",
+      "lon": "96.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111021004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Blang Pohroh",
+      "en": "Blang Pohroh",
+      "slug": "blang-pohroh-1111021004"
+    },
+    "code": {
+      "id": "1111021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111021",
+      "level": 3,
+      "name": {
+        "local": "Nisam Antara",
+        "en": "Nisam Antara",
+        "slug": "nisam-antara-1111021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111021",
+        "level": 3,
+        "name": {
+          "local": "Nisam Antara",
+          "en": "Nisam Antara",
+          "slug": "nisam-antara-1111021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24361"
+    ],
+    "geo": {
+      "lat": "5.118",
+      "lon": "97.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111021005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Darussalam",
+      "en": "Darussalam",
+      "slug": "darussalam-1111021005"
+    },
+    "code": {
+      "id": "1111021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111021",
+      "level": 3,
+      "name": {
+        "local": "Nisam Antara",
+        "en": "Nisam Antara",
+        "slug": "nisam-antara-1111021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111021",
+        "level": 3,
+        "name": {
+          "local": "Nisam Antara",
+          "en": "Nisam Antara",
+          "slug": "nisam-antara-1111021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24361"
+    ],
+    "geo": {
+      "lat": "5.121",
+      "lon": "96.991"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1111021006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seumirah",
+      "en": "Seumirah",
+      "slug": "seumirah-1111021006"
+    },
+    "code": {
+      "id": "1111021006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1111021",
+      "level": 3,
+      "name": {
+        "local": "Nisam Antara",
+        "en": "Nisam Antara",
+        "slug": "nisam-antara-1111021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Utara",
+          "en": "Aceh Utara",
+          "slug": "aceh-utara-1111"
+        }
+      },
+      {
+        "id": "1111021",
+        "level": 3,
+        "name": {
+          "local": "Nisam Antara",
+          "en": "Nisam Antara",
+          "slug": "nisam-antara-1111021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24361"
+    ],
+    "geo": {
+      "lat": "5.1",
+      "lon": "96.948"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

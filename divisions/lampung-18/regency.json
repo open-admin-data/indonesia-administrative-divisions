@@ -1,0 +1,722 @@
+[
+  {
+    "id": "1871",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Bandar Lampung",
+      "en": "Bandar Lampung",
+      "slug": "bandar-lampung-1871"
+    },
+    "code": {
+      "id": "1871",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 20,
+      "village": 125
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.43",
+      "lon": "105.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lampung Barat",
+      "en": "Lampung Barat",
+      "slug": "lampung-barat-1801"
+    },
+    "code": {
+      "id": "1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 136
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.718",
+      "lon": "105.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lampung Selatan",
+      "en": "Lampung Selatan",
+      "slug": "lampung-selatan-1803"
+    },
+    "code": {
+      "id": "1803",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 260
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.829",
+      "lon": "104.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lampung Tengah",
+      "en": "Lampung Tengah",
+      "slug": "lampung-tengah-1805"
+    },
+    "code": {
+      "id": "1805",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 28,
+      "village": 314
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.495",
+      "lon": "105.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1804",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lampung Timur",
+      "en": "Lampung Timur",
+      "slug": "lampung-timur-1804"
+    },
+    "code": {
+      "id": "1804",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 24,
+      "village": 264
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.019",
+      "lon": "104.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1806",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lampung Utara",
+      "en": "Lampung Utara",
+      "slug": "lampung-utara-1806"
+    },
+    "code": {
+      "id": "1806",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 23,
+      "village": 247
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.481",
+      "lon": "104.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1811",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mesuji",
+      "en": "Mesuji",
+      "slug": "mesuji-1811"
+    },
+    "code": {
+      "id": "1811",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.873",
+      "lon": "105.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Metro",
+      "en": "Metro",
+      "slug": "metro-1872"
+    },
+    "code": {
+      "id": "1872",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.114",
+      "lon": "105.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1809",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pesawaran",
+      "en": "Pesawaran",
+      "slug": "pesawaran-1809"
+    },
+    "code": {
+      "id": "1809",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 144
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.398",
+      "lon": "105.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1813",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pesisir Barat",
+      "en": "Pesisir Barat",
+      "slug": "pesisir-barat-1813"
+    },
+    "code": {
+      "id": "1813",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 118
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.188",
+      "lon": "103.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pringsewu",
+      "en": "Pringsewu",
+      "slug": "pringsewu-1810"
+    },
+    "code": {
+      "id": "1810",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 131
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.344",
+      "lon": "105.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1802",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tanggamus",
+      "en": "Tanggamus",
+      "slug": "tanggamus-1802"
+    },
+    "code": {
+      "id": "1802",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 20,
+      "village": 302
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.977",
+      "lon": "105.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1812",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tulang Bawang Barat",
+      "en": "Tulang Bawang Barat",
+      "slug": "tulang-bawang-barat-1812"
+    },
+    "code": {
+      "id": "1812",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 96
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.499",
+      "lon": "105.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1808",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tulangbawang",
+      "en": "Tulangbawang",
+      "slug": "tulangbawang-1808"
+    },
+    "code": {
+      "id": "1808",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 151
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.506",
+      "lon": "104.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1807",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Way Kanan",
+      "en": "Way Kanan",
+      "slug": "way-kanan-1807"
+    },
+    "code": {
+      "id": "1807",
+      "iso": null
+    },
+    "parent": {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 227
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.048",
+      "lon": "105.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

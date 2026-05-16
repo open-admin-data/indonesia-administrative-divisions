@@ -1,0 +1,56 @@
+{
+  "id": "9408051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kep. Ambai",
+    "en": "Kep. Ambai",
+    "slug": "kep-ambai-9408051"
+  },
+  "code": {
+    "id": "9408051",
+    "iso": null
+  },
+  "parent": {
+    "id": "9408",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Yapen",
+      "en": "Kepulauan Yapen",
+      "slug": "kepulauan-yapen-9408"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Yapen",
+        "en": "Kepulauan Yapen",
+        "slug": "kepulauan-yapen-9408"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.931",
+    "lon": "136.344"
+  },
+  "metadata": {},
+  "source": {}
+}

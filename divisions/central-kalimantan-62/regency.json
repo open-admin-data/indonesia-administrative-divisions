@@ -1,0 +1,674 @@
+[
+  {
+    "id": "6204",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Barito Selatan",
+      "en": "Barito Selatan",
+      "slug": "barito-selatan-6204"
+    },
+    "code": {
+      "id": "6204",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.719",
+      "lon": "114.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6212",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Barito Timur",
+      "en": "Barito Timur",
+      "slug": "barito-timur-6212"
+    },
+    "code": {
+      "id": "6212",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 98
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.64",
+      "lon": "114.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6205",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Barito Utara",
+      "en": "Barito Utara",
+      "slug": "barito-utara-6205"
+    },
+    "code": {
+      "id": "6205",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 99
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.952",
+      "lon": "114.898"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6211",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Gunung Mas",
+      "en": "Gunung Mas",
+      "slug": "gunung-mas-6211"
+    },
+    "code": {
+      "id": "6211",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.716",
+      "lon": "114.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6203",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kapuas",
+      "en": "Kapuas",
+      "slug": "kapuas-6203"
+    },
+    "code": {
+      "id": "6203",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 232
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.964",
+      "lon": "114.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Katingan",
+      "en": "Katingan",
+      "slug": "katingan-6209"
+    },
+    "code": {
+      "id": "6209",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 157
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.185",
+      "lon": "111.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6201",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kotawaringin Barat",
+      "en": "Kotawaringin Barat",
+      "slug": "kotawaringin-barat-6201"
+    },
+    "code": {
+      "id": "6201",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.692",
+      "lon": "111.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6202",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kotawaringin Timur",
+      "en": "Kotawaringin Timur",
+      "slug": "kotawaringin-timur-6202"
+    },
+    "code": {
+      "id": "6202",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 181
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.538",
+      "lon": "112.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6207",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lamandau",
+      "en": "Lamandau",
+      "slug": "lamandau-6207"
+    },
+    "code": {
+      "id": "6207",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 85
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.414",
+      "lon": "112.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6213",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Murung Raya",
+      "en": "Murung Raya",
+      "slug": "murung-raya-6213"
+    },
+    "code": {
+      "id": "6213",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 123
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.115",
+      "lon": "115.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6271",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Palangka Raya",
+      "en": "Palangka Raya",
+      "slug": "palangka-raya-6271"
+    },
+    "code": {
+      "id": "6271",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.174",
+      "lon": "113.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6210",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pulang Pisau",
+      "en": "Pulang Pisau",
+      "slug": "pulang-pisau-6210"
+    },
+    "code": {
+      "id": "6210",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 96
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.127",
+      "lon": "113.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6208",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Seruyan",
+      "en": "Seruyan",
+      "slug": "seruyan-6208"
+    },
+    "code": {
+      "id": "6208",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 100
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.761",
+      "lon": "111.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6206",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sukamara",
+      "en": "Sukamara",
+      "slug": "sukamara-6206"
+    },
+    "code": {
+      "id": "6206",
+      "iso": null
+    },
+    "parent": {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.881",
+      "lon": "113.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

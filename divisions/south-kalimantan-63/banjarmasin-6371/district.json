@@ -1,0 +1,282 @@
+[
+  {
+    "id": "6371030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarmasin Barat",
+      "en": "Banjarmasin Barat",
+      "slug": "banjarmasin-barat-6371030"
+    },
+    "code": {
+      "id": "6371030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjarmasin",
+        "en": "Banjarmasin",
+        "slug": "banjarmasin-6371"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.32",
+      "lon": "114.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarmasin Selatan",
+      "en": "Banjarmasin Selatan",
+      "slug": "banjarmasin-selatan-6371010"
+    },
+    "code": {
+      "id": "6371010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjarmasin",
+        "en": "Banjarmasin",
+        "slug": "banjarmasin-6371"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.355",
+      "lon": "114.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarmasin Tengah",
+      "en": "Banjarmasin Tengah",
+      "slug": "banjarmasin-tengah-6371031"
+    },
+    "code": {
+      "id": "6371031",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjarmasin",
+        "en": "Banjarmasin",
+        "slug": "banjarmasin-6371"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.318",
+      "lon": "114.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarmasin Timur",
+      "en": "Banjarmasin Timur",
+      "slug": "banjarmasin-timur-6371020"
+    },
+    "code": {
+      "id": "6371020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjarmasin",
+        "en": "Banjarmasin",
+        "slug": "banjarmasin-6371"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.327",
+      "lon": "114.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6371040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarmasin Utara",
+      "en": "Banjarmasin Utara",
+      "slug": "banjarmasin-utara-6371040"
+    },
+    "code": {
+      "id": "6371040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6371",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjarmasin",
+        "en": "Banjarmasin",
+        "slug": "banjarmasin-6371"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6371",
+        "level": 2,
+        "name": {
+          "local": "Kota Banjarmasin",
+          "en": "Banjarmasin",
+          "slug": "banjarmasin-6371"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.292",
+      "lon": "114.603"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

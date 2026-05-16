@@ -1,0 +1,562 @@
+[
+  {
+    "id": "6401021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Engau",
+      "en": "Batu Engau",
+      "slug": "batu-engau-6401021"
+    },
+    "code": {
+      "id": "6401021",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.186",
+      "lon": "116.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Sopang",
+      "en": "Batu Sopang",
+      "slug": "batu-sopang-6401010"
+    },
+    "code": {
+      "id": "6401010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.686",
+      "lon": "115.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuaro",
+      "en": "Kuaro",
+      "slug": "kuaro-6401050"
+    },
+    "code": {
+      "id": "6401050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.776",
+      "lon": "116.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Long Ikis",
+      "en": "Long Ikis",
+      "slug": "long-ikis-6401060"
+    },
+    "code": {
+      "id": "6401060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.545",
+      "lon": "116.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Long Kali",
+      "en": "Long Kali",
+      "slug": "long-kali-6401080"
+    },
+    "code": {
+      "id": "6401080",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.323",
+      "lon": "116.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muara Komam",
+      "en": "Muara Komam",
+      "slug": "muara-komam-6401070"
+    },
+    "code": {
+      "id": "6401070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.481",
+      "lon": "115.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muara Samu",
+      "en": "Muara Samu",
+      "slug": "muara-samu-6401011"
+    },
+    "code": {
+      "id": "6401011",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.149",
+      "lon": "115.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasir Belengkong",
+      "en": "Pasir Belengkong",
+      "slug": "pasir-belengkong-6401030"
+    },
+    "code": {
+      "id": "6401030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.967",
+      "lon": "116.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Grogot",
+      "en": "Tanah Grogot",
+      "slug": "tanah-grogot-6401040"
+    },
+    "code": {
+      "id": "6401040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.922",
+      "lon": "116.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6401022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanjung Harapan",
+      "en": "Tanjung Harapan",
+      "slug": "tanjung-harapan-6401022"
+    },
+    "code": {
+      "id": "6401022",
+      "iso": null
+    },
+    "parent": {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paser",
+          "en": "Paser",
+          "slug": "paser-6401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.219",
+      "lon": "116.467"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

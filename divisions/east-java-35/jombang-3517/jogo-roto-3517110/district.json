@@ -1,0 +1,56 @@
+{
+  "id": "3517110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jogo Roto",
+    "en": "Jogo Roto",
+    "slug": "jogo-roto-3517110"
+  },
+  "code": {
+    "id": "3517110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3517",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jombang",
+      "en": "Jombang",
+      "slug": "jombang-3517"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3517",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jombang",
+        "en": "Jombang",
+        "slug": "jombang-3517"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.578",
+    "lon": "112.278"
+  },
+  "metadata": {},
+  "source": {}
+}

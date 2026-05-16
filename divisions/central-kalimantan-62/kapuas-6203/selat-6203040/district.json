@@ -1,0 +1,56 @@
+{
+  "id": "6203040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Selat",
+    "en": "Selat",
+    "slug": "selat-6203040"
+  },
+  "code": {
+    "id": "6203040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kapuas",
+      "en": "Kapuas",
+      "slug": "kapuas-6203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kapuas",
+        "en": "Kapuas",
+        "slug": "kapuas-6203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.993",
+    "lon": "114.373"
+  },
+  "metadata": {},
+  "source": {}
+}

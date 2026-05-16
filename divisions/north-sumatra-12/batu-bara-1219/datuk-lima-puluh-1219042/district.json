@@ -1,0 +1,56 @@
+{
+  "id": "1219042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Datuk Lima Puluh",
+    "en": "Datuk Lima Puluh",
+    "slug": "datuk-lima-puluh-1219042"
+  },
+  "code": {
+    "id": "1219042",
+    "iso": null
+  },
+  "parent": {
+    "id": "1219",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Batu Bara",
+      "en": "Batu Bara",
+      "slug": "batu-bara-1219"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1219",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batu Bara",
+        "en": "Batu Bara",
+        "slug": "batu-bara-1219"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.224",
+    "lon": "99.512"
+  },
+  "metadata": {},
+  "source": {}
+}

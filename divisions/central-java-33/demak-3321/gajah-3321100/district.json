@@ -1,0 +1,56 @@
+{
+  "id": "3321100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gajah",
+    "en": "Gajah",
+    "slug": "gajah-3321100"
+  },
+  "code": {
+    "id": "3321100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3321",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Demak",
+      "en": "Demak",
+      "slug": "demak-3321"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.903",
+    "lon": "110.748"
+  },
+  "metadata": {},
+  "source": {}
+}

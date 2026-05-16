@@ -1,0 +1,56 @@
+{
+  "id": "7314040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Baranti",
+    "en": "Baranti",
+    "slug": "baranti-7314040"
+  },
+  "code": {
+    "id": "7314040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sidenreng Rappang",
+      "en": "Sidenreng Rappang",
+      "slug": "sidenreng-rappang-7314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sidenreng Rappang",
+        "en": "Sidenreng Rappang",
+        "slug": "sidenreng-rappang-7314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.836",
+    "lon": "119.771"
+  },
+  "metadata": {},
+  "source": {}
+}

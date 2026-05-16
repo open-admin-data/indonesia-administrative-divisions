@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1603012008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batu Surau",
+      "en": "Batu Surau",
+      "slug": "batu-surau-1603012008"
+    },
+    "code": {
+      "id": "1603012008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.13",
+      "lon": "103.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Agung",
+      "en": "Gunung Agung",
+      "slug": "gunung-agung-1603012001"
+    },
+    "code": {
+      "id": "1603012001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.147",
+      "lon": "103.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kota Agung",
+      "en": "Kota Agung",
+      "slug": "kota-agung-1603012011"
+    },
+    "code": {
+      "id": "1603012011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.164",
+      "lon": "103.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kota Padang",
+      "en": "Kota Padang",
+      "slug": "kota-padang-1603012002"
+    },
+    "code": {
+      "id": "1603012002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.141",
+      "lon": "103.538"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Tenang",
+      "en": "Muara Tenang",
+      "slug": "muara-tenang-1603012005"
+    },
+    "code": {
+      "id": "1603012005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.16",
+      "lon": "103.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Palak Tanah",
+      "en": "Palak Tanah",
+      "slug": "palak-tanah-1603012010"
+    },
+    "code": {
+      "id": "1603012010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.18",
+      "lon": "103.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rekimai Jaya",
+      "en": "Rekimai Jaya",
+      "slug": "rekimai-jaya-1603012009"
+    },
+    "code": {
+      "id": "1603012009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.152",
+      "lon": "103.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seri Tanjung",
+      "en": "Seri Tanjung",
+      "slug": "seri-tanjung-1603012006"
+    },
+    "code": {
+      "id": "1603012006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "103.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Swarna Dwipa",
+      "en": "Swarna Dwipa",
+      "slug": "swarna-dwipa-1603012012"
+    },
+    "code": {
+      "id": "1603012012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.228",
+      "lon": "103.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Raya",
+      "en": "Tanjung Raya",
+      "slug": "tanjung-raya-1603012004"
+    },
+    "code": {
+      "id": "1603012004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.148",
+      "lon": "103.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tebing Abang",
+      "en": "Tebing Abang",
+      "slug": "tebing-abang-1603012007"
+    },
+    "code": {
+      "id": "1603012007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.143",
+      "lon": "103.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603012003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tenam Bungkuk",
+      "en": "Tenam Bungkuk",
+      "slug": "tenam-bungkuk-1603012003"
+    },
+    "code": {
+      "id": "1603012003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1603012",
+      "level": 3,
+      "name": {
+        "local": "Semendo Darat Tengah",
+        "en": "Semendo Darat Tengah",
+        "slug": "semendo-darat-tengah-1603012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Muara Enim",
+          "en": "Muara Enim",
+          "slug": "muara-enim-1603"
+        }
+      },
+      {
+        "id": "1603012",
+        "level": 3,
+        "name": {
+          "local": "Semendo Darat Tengah",
+          "en": "Semendo Darat Tengah",
+          "slug": "semendo-darat-tengah-1603012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31358"
+    ],
+    "geo": {
+      "lat": "-4.17",
+      "lon": "103.542"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

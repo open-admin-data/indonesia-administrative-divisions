@@ -1,0 +1,56 @@
+{
+  "id": "6101011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Selakau Timur",
+    "en": "Selakau Timur",
+    "slug": "selakau-timur-6101011"
+  },
+  "code": {
+    "id": "6101011",
+    "iso": null
+  },
+  "parent": {
+    "id": "6101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sambas",
+      "en": "Sambas",
+      "slug": "sambas-6101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sambas",
+        "en": "Sambas",
+        "slug": "sambas-6101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.044",
+    "lon": "109.128"
+  },
+  "metadata": {},
+  "source": {}
+}

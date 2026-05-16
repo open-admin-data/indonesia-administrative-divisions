@@ -1,0 +1,457 @@
+[
+  {
+    "id": "1311011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Abai Siat",
+      "en": "Abai Siat",
+      "slug": "abai-siat-1311011004"
+    },
+    "code": {
+      "id": "1311011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311011",
+      "level": 3,
+      "name": {
+        "local": "Koto Besar",
+        "en": "Koto Besar",
+        "slug": "koto-besar-1311011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311011",
+        "level": 3,
+        "name": {
+          "local": "Koto Besar",
+          "en": "Koto Besar",
+          "slug": "koto-besar-1311011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27685"
+    ],
+    "geo": {
+      "lat": "-1.173",
+      "lon": "101.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bonjol",
+      "en": "Bonjol",
+      "slug": "bonjol-1311011003"
+    },
+    "code": {
+      "id": "1311011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311011",
+      "level": 3,
+      "name": {
+        "local": "Koto Besar",
+        "en": "Koto Besar",
+        "slug": "koto-besar-1311011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311011",
+        "level": 3,
+        "name": {
+          "local": "Koto Besar",
+          "en": "Koto Besar",
+          "slug": "koto-besar-1311011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27685"
+    ],
+    "geo": {
+      "lat": "-1.207",
+      "lon": "101.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311011005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Besar",
+      "en": "Koto Besar",
+      "slug": "koto-besar-1311011005"
+    },
+    "code": {
+      "id": "1311011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311011",
+      "level": 3,
+      "name": {
+        "local": "Koto Besar",
+        "en": "Koto Besar",
+        "slug": "koto-besar-1311011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311011",
+        "level": 3,
+        "name": {
+          "local": "Koto Besar",
+          "en": "Koto Besar",
+          "slug": "koto-besar-1311011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27685"
+    ],
+    "geo": {
+      "lat": "-1.225",
+      "lon": "101.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Gadang",
+      "en": "Koto Gadang",
+      "slug": "koto-gadang-1311011001"
+    },
+    "code": {
+      "id": "1311011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311011",
+      "level": 3,
+      "name": {
+        "local": "Koto Besar",
+        "en": "Koto Besar",
+        "slug": "koto-besar-1311011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311011",
+        "level": 3,
+        "name": {
+          "local": "Koto Besar",
+          "en": "Koto Besar",
+          "slug": "koto-besar-1311011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27685"
+    ],
+    "geo": {
+      "lat": "-1.295",
+      "lon": "101.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311011006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Laweh",
+      "en": "Koto Laweh",
+      "slug": "koto-laweh-1311011006"
+    },
+    "code": {
+      "id": "1311011006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311011",
+      "level": 3,
+      "name": {
+        "local": "Koto Besar",
+        "en": "Koto Besar",
+        "slug": "koto-besar-1311011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311011",
+        "level": 3,
+        "name": {
+          "local": "Koto Besar",
+          "en": "Koto Besar",
+          "slug": "koto-besar-1311011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27685"
+    ],
+    "geo": {
+      "lat": "-1.305",
+      "lon": "101.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311011007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Ranah",
+      "en": "Koto Ranah",
+      "slug": "koto-ranah-1311011007"
+    },
+    "code": {
+      "id": "1311011007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311011",
+      "level": 3,
+      "name": {
+        "local": "Koto Besar",
+        "en": "Koto Besar",
+        "slug": "koto-besar-1311011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311011",
+        "level": 3,
+        "name": {
+          "local": "Koto Besar",
+          "en": "Koto Besar",
+          "slug": "koto-besar-1311011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27685"
+    ],
+    "geo": {
+      "lat": "-1.258",
+      "lon": "101.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Tinggi",
+      "en": "Koto Tinggi",
+      "slug": "koto-tinggi-1311011002"
+    },
+    "code": {
+      "id": "1311011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311011",
+      "level": 3,
+      "name": {
+        "local": "Koto Besar",
+        "en": "Koto Besar",
+        "slug": "koto-besar-1311011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311011",
+        "level": 3,
+        "name": {
+          "local": "Koto Besar",
+          "en": "Koto Besar",
+          "slug": "koto-besar-1311011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27685"
+    ],
+    "geo": {
+      "lat": "-1.267",
+      "lon": "101.656"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

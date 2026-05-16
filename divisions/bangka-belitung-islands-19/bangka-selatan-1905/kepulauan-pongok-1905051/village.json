@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1905051001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Celagen",
+      "en": "Celagen",
+      "slug": "celagen-1905051001"
+    },
+    "code": {
+      "id": "1905051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905051",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Pongok",
+        "en": "Kepulauan Pongok",
+        "slug": "kepulauan-pongok-1905051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangka Selatan",
+          "en": "Bangka Selatan",
+          "slug": "bangka-selatan-1905"
+        }
+      },
+      {
+        "id": "1905051",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Pongok",
+          "en": "Kepulauan Pongok",
+          "slug": "kepulauan-pongok-1905051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33791"
+    ],
+    "geo": {
+      "lat": "-2.873",
+      "lon": "107.015"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1905051002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pongok",
+      "en": "Pongok",
+      "slug": "pongok-1905051002"
+    },
+    "code": {
+      "id": "1905051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1905051",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Pongok",
+        "en": "Kepulauan Pongok",
+        "slug": "kepulauan-pongok-1905051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      },
+      {
+        "id": "1905",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bangka Selatan",
+          "en": "Bangka Selatan",
+          "slug": "bangka-selatan-1905"
+        }
+      },
+      {
+        "id": "1905051",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Pongok",
+          "en": "Kepulauan Pongok",
+          "slug": "kepulauan-pongok-1905051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33791"
+    ],
+    "geo": {
+      "lat": "-2.875",
+      "lon": "107.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

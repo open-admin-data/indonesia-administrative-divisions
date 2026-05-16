@@ -1,0 +1,56 @@
+{
+  "id": "7371031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rappocini",
+    "en": "Rappocini",
+    "slug": "rappocini-7371031"
+  },
+  "code": {
+    "id": "7371031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7371",
+    "level": 2,
+    "name": {
+      "local": "Kota Makassar",
+      "en": "Makassar",
+      "slug": "makassar-7371"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7371",
+      "level": 2,
+      "name": {
+        "local": "Kota Makassar",
+        "en": "Makassar",
+        "slug": "makassar-7371"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.17",
+    "lon": "119.443"
+  },
+  "metadata": {},
+  "source": {}
+}

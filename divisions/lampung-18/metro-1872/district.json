@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1872012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Metro Barat",
+      "en": "Metro Barat",
+      "slug": "metro-barat-1872012"
+    },
+    "code": {
+      "id": "1872012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872",
+      "level": 2,
+      "name": {
+        "local": "Kota Metro",
+        "en": "Metro",
+        "slug": "metro-1872"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.136",
+      "lon": "105.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Metro Pusat",
+      "en": "Metro Pusat",
+      "slug": "metro-pusat-1872022"
+    },
+    "code": {
+      "id": "1872022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872",
+      "level": 2,
+      "name": {
+        "local": "Kota Metro",
+        "en": "Metro",
+        "slug": "metro-1872"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.111",
+      "lon": "105.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Metro Selatan",
+      "en": "Metro Selatan",
+      "slug": "metro-selatan-1872011"
+    },
+    "code": {
+      "id": "1872011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872",
+      "level": 2,
+      "name": {
+        "local": "Kota Metro",
+        "en": "Metro",
+        "slug": "metro-1872"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.163",
+      "lon": "105.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Metro Timur",
+      "en": "Metro Timur",
+      "slug": "metro-timur-1872021"
+    },
+    "code": {
+      "id": "1872021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872",
+      "level": 2,
+      "name": {
+        "local": "Kota Metro",
+        "en": "Metro",
+        "slug": "metro-1872"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.128",
+      "lon": "105.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1872023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Metro Utara",
+      "en": "Metro Utara",
+      "slug": "metro-utara-1872023"
+    },
+    "code": {
+      "id": "1872023",
+      "iso": null
+    },
+    "parent": {
+      "id": "1872",
+      "level": 2,
+      "name": {
+        "local": "Kota Metro",
+        "en": "Metro",
+        "slug": "metro-1872"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1872",
+        "level": 2,
+        "name": {
+          "local": "Kota Metro",
+          "en": "Metro",
+          "slug": "metro-1872"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.079",
+      "lon": "105.314"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3211070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Situraja",
+    "en": "Situraja",
+    "slug": "situraja-3211070"
+  },
+  "code": {
+    "id": "3211070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3211",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumedang",
+      "en": "Sumedang",
+      "slug": "sumedang-3211"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumedang",
+        "en": "Sumedang",
+        "slug": "sumedang-3211"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.867",
+    "lon": "108.024"
+  },
+  "metadata": {},
+  "source": {}
+}

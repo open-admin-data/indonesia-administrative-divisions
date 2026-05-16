@@ -1,0 +1,56 @@
+{
+  "id": "1703052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Air Besi",
+    "en": "Air Besi",
+    "slug": "air-besi-1703052"
+  },
+  "code": {
+    "id": "1703052",
+    "iso": null
+  },
+  "parent": {
+    "id": "1703",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Utara",
+      "en": "Bengkulu Utara",
+      "slug": "bengkulu-utara-1703"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Utara",
+        "en": "Bengkulu Utara",
+        "slug": "bengkulu-utara-1703"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.522",
+    "lon": "102.162"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "3205270003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibiuk Kaler",
+      "en": "Cibiuk Kaler",
+      "slug": "cibiuk-kaler-3205270003"
+    },
+    "code": {
+      "id": "3205270003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205270",
+      "level": 3,
+      "name": {
+        "local": "Cibiuk",
+        "en": "Cibiuk",
+        "slug": "cibiuk-3205270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      },
+      {
+        "id": "3205270",
+        "level": 3,
+        "name": {
+          "local": "Cibiuk",
+          "en": "Cibiuk",
+          "slug": "cibiuk-3205270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44193"
+    ],
+    "geo": {
+      "lat": "-7.066",
+      "lon": "107.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205270002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibiuk Kidul",
+      "en": "Cibiuk Kidul",
+      "slug": "cibiuk-kidul-3205270002"
+    },
+    "code": {
+      "id": "3205270002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205270",
+      "level": 3,
+      "name": {
+        "local": "Cibiuk",
+        "en": "Cibiuk",
+        "slug": "cibiuk-3205270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      },
+      {
+        "id": "3205270",
+        "level": 3,
+        "name": {
+          "local": "Cibiuk",
+          "en": "Cibiuk",
+          "slug": "cibiuk-3205270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44193"
+    ],
+    "geo": {
+      "lat": "-7.077",
+      "lon": "107.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205270001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cipareuan",
+      "en": "Cipareuan",
+      "slug": "cipareuan-3205270001"
+    },
+    "code": {
+      "id": "3205270001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205270",
+      "level": 3,
+      "name": {
+        "local": "Cibiuk",
+        "en": "Cibiuk",
+        "slug": "cibiuk-3205270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      },
+      {
+        "id": "3205270",
+        "level": 3,
+        "name": {
+          "local": "Cibiuk",
+          "en": "Cibiuk",
+          "slug": "cibiuk-3205270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44193"
+    ],
+    "geo": {
+      "lat": "-7.082",
+      "lon": "107.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205270005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lingkungpasir",
+      "en": "Lingkungpasir",
+      "slug": "lingkungpasir-3205270005"
+    },
+    "code": {
+      "id": "3205270005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205270",
+      "level": 3,
+      "name": {
+        "local": "Cibiuk",
+        "en": "Cibiuk",
+        "slug": "cibiuk-3205270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      },
+      {
+        "id": "3205270",
+        "level": 3,
+        "name": {
+          "local": "Cibiuk",
+          "en": "Cibiuk",
+          "slug": "cibiuk-3205270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44193"
+    ],
+    "geo": {
+      "lat": "-7.064",
+      "lon": "107.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3205270004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Majasari",
+      "en": "Majasari",
+      "slug": "majasari-3205270004"
+    },
+    "code": {
+      "id": "3205270004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3205270",
+      "level": 3,
+      "name": {
+        "local": "Cibiuk",
+        "en": "Cibiuk",
+        "slug": "cibiuk-3205270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Garut",
+          "en": "Garut",
+          "slug": "garut-3205"
+        }
+      },
+      {
+        "id": "3205270",
+        "level": 3,
+        "name": {
+          "local": "Cibiuk",
+          "en": "Cibiuk",
+          "slug": "cibiuk-3205270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "44193"
+    ],
+    "geo": {
+      "lat": "-7.051",
+      "lon": "107.956"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

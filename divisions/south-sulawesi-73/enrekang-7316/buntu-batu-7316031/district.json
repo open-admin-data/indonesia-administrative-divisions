@@ -1,0 +1,56 @@
+{
+  "id": "7316031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buntu Batu",
+    "en": "Buntu Batu",
+    "slug": "buntu-batu-7316031"
+  },
+  "code": {
+    "id": "7316031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7316",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Enrekang",
+      "en": "Enrekang",
+      "slug": "enrekang-7316"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7316",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Enrekang",
+        "en": "Enrekang",
+        "slug": "enrekang-7316"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.453",
+    "lon": "119.967"
+  },
+  "metadata": {},
+  "source": {}
+}

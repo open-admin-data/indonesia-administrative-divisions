@@ -1,0 +1,56 @@
+{
+  "id": "6308011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paminggir",
+    "en": "Paminggir",
+    "slug": "paminggir-6308011"
+  },
+  "code": {
+    "id": "6308011",
+    "iso": null
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Utara",
+      "en": "Hulu Sungai Utara",
+      "slug": "hulu-sungai-utara-6308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Utara",
+        "en": "Hulu Sungai Utara",
+        "slug": "hulu-sungai-utara-6308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.442",
+    "lon": "114.973"
+  },
+  "metadata": {},
+  "source": {}
+}

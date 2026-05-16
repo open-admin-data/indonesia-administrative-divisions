@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1307071001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukik Batabuah",
+      "en": "Bukik Batabuah",
+      "slug": "bukik-batabuah-1307071001"
+    },
+    "code": {
+      "id": "1307071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307071",
+      "level": 3,
+      "name": {
+        "local": "Canduang",
+        "en": "Canduang",
+        "slug": "canduang-1307071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307071",
+        "level": 3,
+        "name": {
+          "local": "Canduang",
+          "en": "Canduang",
+          "slug": "canduang-1307071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26191"
+    ],
+    "geo": {
+      "lat": "-0.355",
+      "lon": "100.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307071003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Canduang Koto Laweh",
+      "en": "Canduang Koto Laweh",
+      "slug": "canduang-koto-laweh-1307071003"
+    },
+    "code": {
+      "id": "1307071003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307071",
+      "level": 3,
+      "name": {
+        "local": "Canduang",
+        "en": "Canduang",
+        "slug": "canduang-1307071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307071",
+        "level": 3,
+        "name": {
+          "local": "Canduang",
+          "en": "Canduang",
+          "slug": "canduang-1307071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26191"
+    ],
+    "geo": {
+      "lat": "-0.315",
+      "lon": "100.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1307071002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lasi",
+      "en": "Lasi",
+      "slug": "lasi-1307071002"
+    },
+    "code": {
+      "id": "1307071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1307071",
+      "level": 3,
+      "name": {
+        "local": "Canduang",
+        "en": "Canduang",
+        "slug": "canduang-1307071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Agam",
+          "en": "Agam",
+          "slug": "agam-1307"
+        }
+      },
+      {
+        "id": "1307071",
+        "level": 3,
+        "name": {
+          "local": "Canduang",
+          "en": "Canduang",
+          "slug": "canduang-1307071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26191"
+    ],
+    "geo": {
+      "lat": "-0.336",
+      "lon": "100.457"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

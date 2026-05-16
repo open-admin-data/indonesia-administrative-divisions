@@ -1,0 +1,56 @@
+{
+  "id": "1801062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gedung Surian",
+    "en": "Gedung Surian",
+    "slug": "gedung-surian-1801062"
+  },
+  "code": {
+    "id": "1801062",
+    "iso": null
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Barat",
+      "en": "Lampung Barat",
+      "slug": "lampung-barat-1801"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.106",
+    "lon": "104.449"
+  },
+  "metadata": {},
+  "source": {}
+}

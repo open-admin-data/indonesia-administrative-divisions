@@ -1,0 +1,392 @@
+[
+  {
+    "id": "3213010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cicadas",
+      "en": "Cicadas",
+      "slug": "cicadas-3213010004"
+    },
+    "code": {
+      "id": "3213010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3213010",
+      "level": 3,
+      "name": {
+        "local": "Sagalaherang",
+        "en": "Sagalaherang",
+        "slug": "sagalaherang-3213010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Subang",
+          "en": "Subang",
+          "slug": "subang-3213"
+        }
+      },
+      {
+        "id": "3213010",
+        "level": 3,
+        "name": {
+          "local": "Sagalaherang",
+          "en": "Sagalaherang",
+          "slug": "sagalaherang-3213010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41282"
+    ],
+    "geo": {
+      "lat": "-6.727",
+      "lon": "107.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3213010013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Curugagung",
+      "en": "Curugagung",
+      "slug": "curugagung-3213010013"
+    },
+    "code": {
+      "id": "3213010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3213010",
+      "level": 3,
+      "name": {
+        "local": "Sagalaherang",
+        "en": "Sagalaherang",
+        "slug": "sagalaherang-3213010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Subang",
+          "en": "Subang",
+          "slug": "subang-3213"
+        }
+      },
+      {
+        "id": "3213010",
+        "level": 3,
+        "name": {
+          "local": "Sagalaherang",
+          "en": "Sagalaherang",
+          "slug": "sagalaherang-3213010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41282"
+    ],
+    "geo": {
+      "lat": "-6.63",
+      "lon": "107.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3213010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dayeuhkolot",
+      "en": "Dayeuhkolot",
+      "slug": "dayeuhkolot-3213010006"
+    },
+    "code": {
+      "id": "3213010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3213010",
+      "level": 3,
+      "name": {
+        "local": "Sagalaherang",
+        "en": "Sagalaherang",
+        "slug": "sagalaherang-3213010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Subang",
+          "en": "Subang",
+          "slug": "subang-3213"
+        }
+      },
+      {
+        "id": "3213010",
+        "level": 3,
+        "name": {
+          "local": "Sagalaherang",
+          "en": "Sagalaherang",
+          "slug": "sagalaherang-3213010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41282"
+    ],
+    "geo": {
+      "lat": "-6.678",
+      "lon": "107.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3213010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sagalaherang",
+      "en": "Sagalaherang",
+      "slug": "sagalaherang-3213010005"
+    },
+    "code": {
+      "id": "3213010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3213010",
+      "level": 3,
+      "name": {
+        "local": "Sagalaherang",
+        "en": "Sagalaherang",
+        "slug": "sagalaherang-3213010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Subang",
+          "en": "Subang",
+          "slug": "subang-3213"
+        }
+      },
+      {
+        "id": "3213010",
+        "level": 3,
+        "name": {
+          "local": "Sagalaherang",
+          "en": "Sagalaherang",
+          "slug": "sagalaherang-3213010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41282"
+    ],
+    "geo": {
+      "lat": "-6.711",
+      "lon": "107.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3213010012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sagalaherang Kaler",
+      "en": "Sagalaherang Kaler",
+      "slug": "sagalaherang-kaler-3213010012"
+    },
+    "code": {
+      "id": "3213010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3213010",
+      "level": 3,
+      "name": {
+        "local": "Sagalaherang",
+        "en": "Sagalaherang",
+        "slug": "sagalaherang-3213010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Subang",
+          "en": "Subang",
+          "slug": "subang-3213"
+        }
+      },
+      {
+        "id": "3213010",
+        "level": 3,
+        "name": {
+          "local": "Sagalaherang",
+          "en": "Sagalaherang",
+          "slug": "sagalaherang-3213010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41282"
+    ],
+    "geo": {
+      "lat": "-6.662",
+      "lon": "107.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3213010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukamandi",
+      "en": "Sukamandi",
+      "slug": "sukamandi-3213010003"
+    },
+    "code": {
+      "id": "3213010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3213010",
+      "level": 3,
+      "name": {
+        "local": "Sagalaherang",
+        "en": "Sagalaherang",
+        "slug": "sagalaherang-3213010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Subang",
+          "en": "Subang",
+          "slug": "subang-3213"
+        }
+      },
+      {
+        "id": "3213010",
+        "level": 3,
+        "name": {
+          "local": "Sagalaherang",
+          "en": "Sagalaherang",
+          "slug": "sagalaherang-3213010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41282"
+    ],
+    "geo": {
+      "lat": "-6.707",
+      "lon": "107.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

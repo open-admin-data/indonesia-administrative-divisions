@@ -1,0 +1,56 @@
+{
+  "id": "3211010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jatinangor",
+    "en": "Jatinangor",
+    "slug": "jatinangor-3211010"
+  },
+  "code": {
+    "id": "3211010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3211",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumedang",
+      "en": "Sumedang",
+      "slug": "sumedang-3211"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumedang",
+        "en": "Sumedang",
+        "slug": "sumedang-3211"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.928",
+    "lon": "107.778"
+  },
+  "metadata": {},
+  "source": {}
+}

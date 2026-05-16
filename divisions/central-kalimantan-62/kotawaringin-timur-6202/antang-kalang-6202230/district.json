@@ -1,0 +1,56 @@
+{
+  "id": "6202230",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Antang Kalang",
+    "en": "Antang Kalang",
+    "slug": "antang-kalang-6202230"
+  },
+  "code": {
+    "id": "6202230",
+    "iso": null
+  },
+  "parent": {
+    "id": "6202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kotawaringin Timur",
+      "en": "Kotawaringin Timur",
+      "slug": "kotawaringin-timur-6202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kotawaringin Timur",
+        "en": "Kotawaringin Timur",
+        "slug": "kotawaringin-timur-6202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.395",
+    "lon": "112.579"
+  },
+  "metadata": {},
+  "source": {}
+}

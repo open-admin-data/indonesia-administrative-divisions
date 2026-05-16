@@ -1,0 +1,56 @@
+{
+  "id": "6271021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rakumpit",
+    "en": "Rakumpit",
+    "slug": "rakumpit-6271021"
+  },
+  "code": {
+    "id": "6271021",
+    "iso": null
+  },
+  "parent": {
+    "id": "6271",
+    "level": 2,
+    "name": {
+      "local": "Kota Palangka Raya",
+      "en": "Palangka Raya",
+      "slug": "palangka-raya-6271"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6271",
+      "level": 2,
+      "name": {
+        "local": "Kota Palangka Raya",
+        "en": "Palangka Raya",
+        "slug": "palangka-raya-6271"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.769",
+    "lon": "113.655"
+  },
+  "metadata": {},
+  "source": {}
+}

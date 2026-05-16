@@ -1,0 +1,56 @@
+{
+  "id": "9401043",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jagebob",
+    "en": "Jagebob",
+    "slug": "jagebob-9401043"
+  },
+  "code": {
+    "id": "9401043",
+    "iso": null
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Merauke",
+      "en": "Merauke",
+      "slug": "merauke-9401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Merauke",
+        "en": "Merauke",
+        "slug": "merauke-9401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.014",
+    "lon": "140.669"
+  },
+  "metadata": {},
+  "source": {}
+}

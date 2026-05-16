@@ -1,0 +1,56 @@
+{
+  "id": "3517090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mojoagung",
+    "en": "Mojoagung",
+    "slug": "mojoagung-3517090"
+  },
+  "code": {
+    "id": "3517090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3517",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jombang",
+      "en": "Jombang",
+      "slug": "jombang-3517"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3517",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jombang",
+        "en": "Jombang",
+        "slug": "jombang-3517"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.586",
+    "lon": "112.355"
+  },
+  "metadata": {},
+  "source": {}
+}

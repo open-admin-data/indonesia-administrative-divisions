@@ -1,0 +1,79 @@
+# Indonesia Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-16. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+- [Aceh](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/aceh-11.txt) — 23 regency/citys, 289 districts, 6,509 villages
+- [North Sumatra](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/north-sumatra-12.txt) — 33 regency/citys, 448 districts, 6,102 villages
+- [West Sumatra](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/west-sumatra-13.txt) — 19 regency/citys, 179 districts, 1,160 villages
+- [Riau](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/riau-14.txt) — 12 regency/citys, 169 districts, 1,876 villages
+- [Jambi](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/jambi-15.txt) — 11 regency/citys, 141 districts, 1,562 villages
+- [South Sumatra](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/south-sumatra-16.txt) — 17 regency/citys, 236 districts, 3,263 villages
+- [Bengkulu](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/bengkulu-17.txt) — 10 regency/citys, 128 districts, 1,515 villages
+- [Lampung](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/lampung-18.txt) — 15 regency/citys, 228 districts, 2,642 villages
+- [Bangka Belitung Islands](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/bangka-belitung-islands-19.txt) — 7 regency/citys, 47 districts, 366 villages
+- [Riau Islands](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/riau-islands-21.txt) — 7 regency/citys, 70 districts, 395 villages
+- [Jakarta](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/jakarta-31.txt) — 6 regency/citys, 44 districts, 254 villages
+- [West Java](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/west-java-32.txt) — 27 regency/citys, 627 districts, 5,832 villages
+- [Central Java](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/central-java-33.txt) — 35 regency/citys, 573 districts, 8,008 villages
+- [Yogyakarta](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/yogyakarta-34.txt) — 5 regency/citys, 78 districts, 414 villages
+- [East Java](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/east-java-35.txt) — 38 regency/citys, 666 districts, 7,856 villages
+- [Banten](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/banten-36.txt) — 8 regency/citys, 155 districts, 1,501 villages
+- [Bali](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/bali-51.txt) — 9 regency/citys, 57 districts, 653 villages
+- [West Nusa Tenggara](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/west-nusa-tenggara-52.txt) — 10 regency/citys, 116 districts, 1,062 villages
+- [East Nusa Tenggara](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/east-nusa-tenggara-53.txt) — 22 regency/citys, 307 districts, 3,202 villages
+- [West Kalimantan](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/west-kalimantan-61.txt) — 14 regency/citys, 174 districts, 2,073 villages
+- [Central Kalimantan](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/central-kalimantan-62.txt) — 14 regency/citys, 136 districts, 1,537 villages
+- [South Kalimantan](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/south-kalimantan-63.txt) — 13 regency/citys, 152 districts, 1,971 villages
+- [East Kalimantan](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/east-kalimantan-64.txt) — 10 regency/citys, 103 districts, 1,002 villages
+- [North Kalimantan](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/north-kalimantan-65.txt) — 5 regency/citys, 53 districts, 466 villages
+- [North Sulawesi](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/north-sulawesi-71.txt) — 15 regency/citys, 171 districts, 1,790 villages
+- [Central Sulawesi](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/central-sulawesi-72.txt) — 13 regency/citys, 175 districts, 1,953 villages
+- [South Sulawesi](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/south-sulawesi-73.txt) — 24 regency/citys, 307 districts, 2,975 villages
+- [Southeast Sulawesi](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/southeast-sulawesi-74.txt) — 17 regency/citys, 222 districts, 2,301 villages
+- [Gorontalo](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/gorontalo-75.txt) — 6 regency/citys, 77 districts, 722 villages
+- [West Sulawesi](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/west-sulawesi-76.txt) — 6 regency/citys, 69 districts, 639 villages
+- [Maluku](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/maluku-81.txt) — 11 regency/citys, 118 districts, 1,180 villages
+- [North Maluku](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/north-maluku-82.txt) — 10 regency/citys, 116 districts, 1,155 villages
+- [West Papua](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/west-papua-91.txt) — 13 regency/citys, 217 districts, 1,732 villages
+- [Papua](https://github.com/open-admin-data/indonesia-administrative-divisions/blob/main/docs/llms-full/papua-94.txt) — 29 regency/citys, 567 districts, 4,866 villages
+
+## Summary
+
+| Province | Regency/Citys | Districts | Villages | 
+|---|---|---|---|
+| Aceh | 23 | 289 | 6,509 | 
+| North Sumatra | 33 | 448 | 6,102 | 
+| West Sumatra | 19 | 179 | 1,160 | 
+| Riau | 12 | 169 | 1,876 | 
+| Jambi | 11 | 141 | 1,562 | 
+| South Sumatra | 17 | 236 | 3,263 | 
+| Bengkulu | 10 | 128 | 1,515 | 
+| Lampung | 15 | 228 | 2,642 | 
+| Bangka Belitung Islands | 7 | 47 | 366 | 
+| Riau Islands | 7 | 70 | 395 | 
+| Jakarta | 6 | 44 | 254 | 
+| West Java | 27 | 627 | 5,832 | 
+| Central Java | 35 | 573 | 8,008 | 
+| Yogyakarta | 5 | 78 | 414 | 
+| East Java | 38 | 666 | 7,856 | 
+| Banten | 8 | 155 | 1,501 | 
+| Bali | 9 | 57 | 653 | 
+| West Nusa Tenggara | 10 | 116 | 1,062 | 
+| East Nusa Tenggara | 22 | 307 | 3,202 | 
+| West Kalimantan | 14 | 174 | 2,073 | 
+| Central Kalimantan | 14 | 136 | 1,537 | 
+| South Kalimantan | 13 | 152 | 1,971 | 
+| East Kalimantan | 10 | 103 | 1,002 | 
+| North Kalimantan | 5 | 53 | 466 | 
+| North Sulawesi | 15 | 171 | 1,790 | 
+| Central Sulawesi | 13 | 175 | 1,953 | 
+| South Sulawesi | 24 | 307 | 2,975 | 
+| Southeast Sulawesi | 17 | 222 | 2,301 | 
+| Gorontalo | 6 | 77 | 722 | 
+| West Sulawesi | 6 | 69 | 639 | 
+| Maluku | 11 | 118 | 1,180 | 
+| North Maluku | 10 | 116 | 1,155 | 
+| West Papua | 13 | 217 | 1,732 | 
+| Papua | 29 | 567 | 4,866 | 

@@ -1,0 +1,56 @@
+{
+  "id": "6504130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sebatik",
+    "en": "Sebatik",
+    "slug": "sebatik-6504130"
+  },
+  "code": {
+    "id": "6504130",
+    "iso": null
+  },
+  "parent": {
+    "id": "6504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nunukan",
+      "en": "Nunukan",
+      "slug": "nunukan-6504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.062",
+    "lon": "117.877"
+  },
+  "metadata": {},
+  "source": {}
+}

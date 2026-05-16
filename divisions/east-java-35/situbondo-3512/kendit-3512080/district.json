@@ -1,0 +1,56 @@
+{
+  "id": "3512080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kendit",
+    "en": "Kendit",
+    "slug": "kendit-3512080"
+  },
+  "code": {
+    "id": "3512080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3512",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Situbondo",
+      "en": "Situbondo",
+      "slug": "situbondo-3512"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.742",
+    "lon": "113.915"
+  },
+  "metadata": {},
+  "source": {}
+}

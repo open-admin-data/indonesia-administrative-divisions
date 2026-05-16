@@ -1,0 +1,56 @@
+{
+  "id": "8271021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ternate Tengah",
+    "en": "Ternate Tengah",
+    "slug": "ternate-tengah-8271021"
+  },
+  "code": {
+    "id": "8271021",
+    "iso": null
+  },
+  "parent": {
+    "id": "8271",
+    "level": 2,
+    "name": {
+      "local": "Kota Ternate",
+      "en": "Ternate",
+      "slug": "ternate-8271"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8271",
+      "level": 2,
+      "name": {
+        "local": "Kota Ternate",
+        "en": "Ternate",
+        "slug": "ternate-8271"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.795",
+    "lon": "127.369"
+  },
+  "metadata": {},
+  "source": {}
+}

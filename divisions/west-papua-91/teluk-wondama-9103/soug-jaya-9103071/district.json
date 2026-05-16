@@ -1,0 +1,56 @@
+{
+  "id": "9103071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Soug Jaya",
+    "en": "Soug Jaya",
+    "slug": "soug-jaya-9103071"
+  },
+  "code": {
+    "id": "9103071",
+    "iso": null
+  },
+  "parent": {
+    "id": "9103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Wondama",
+      "en": "Teluk Wondama",
+      "slug": "teluk-wondama-9103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Wondama",
+        "en": "Teluk Wondama",
+        "slug": "teluk-wondama-9103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.886",
+    "lon": "134.078"
+  },
+  "metadata": {},
+  "source": {}
+}

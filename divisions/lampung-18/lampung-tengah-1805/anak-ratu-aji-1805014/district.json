@@ -1,0 +1,56 @@
+{
+  "id": "1805014",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Anak Ratu Aji",
+    "en": "Anak Ratu Aji",
+    "slug": "anak-ratu-aji-1805014"
+  },
+  "code": {
+    "id": "1805014",
+    "iso": null
+  },
+  "parent": {
+    "id": "1805",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Tengah",
+      "en": "Lampung Tengah",
+      "slug": "lampung-tengah-1805"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Tengah",
+        "en": "Lampung Tengah",
+        "slug": "lampung-tengah-1805"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.961",
+    "lon": "104.947"
+  },
+  "metadata": {},
+  "source": {}
+}

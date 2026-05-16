@@ -1,0 +1,56 @@
+{
+  "id": "1903030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mentok",
+    "en": "Mentok",
+    "slug": "mentok-1903030"
+  },
+  "code": {
+    "id": "1903030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangka Barat",
+      "en": "Bangka Barat",
+      "slug": "bangka-barat-1903"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangka Barat",
+        "en": "Bangka Barat",
+        "slug": "bangka-barat-1903"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.027",
+    "lon": "105.237"
+  },
+  "metadata": {},
+  "source": {}
+}

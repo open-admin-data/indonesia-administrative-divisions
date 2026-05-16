@@ -1,0 +1,56 @@
+{
+  "id": "3522060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Temayang",
+    "en": "Temayang",
+    "slug": "temayang-3522060"
+  },
+  "code": {
+    "id": "3522060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3522",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bojonegoro",
+      "en": "Bojonegoro",
+      "slug": "bojonegoro-3522"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3522",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bojonegoro",
+        "en": "Bojonegoro",
+        "slug": "bojonegoro-3522"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.357",
+    "lon": "111.923"
+  },
+  "metadata": {},
+  "source": {}
+}

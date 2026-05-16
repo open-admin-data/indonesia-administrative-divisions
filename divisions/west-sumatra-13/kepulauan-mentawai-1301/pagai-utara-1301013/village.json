@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1301013003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Betumonga",
+      "en": "Betumonga",
+      "slug": "betumonga-1301013003"
+    },
+    "code": {
+      "id": "1301013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301013",
+      "level": 3,
+      "name": {
+        "local": "Pagai Utara",
+        "en": "Pagai Utara",
+        "slug": "pagai-utara-1301013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Mentawai",
+          "en": "Kepulauan Mentawai",
+          "slug": "kepulauan-mentawai-1301"
+        }
+      },
+      {
+        "id": "1301013",
+        "level": 3,
+        "name": {
+          "local": "Pagai Utara",
+          "en": "Pagai Utara",
+          "slug": "pagai-utara-1301013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25781"
+    ],
+    "geo": {
+      "lat": "-2.804",
+      "lon": "100.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1301013001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Saumanganya",
+      "en": "Saumanganya",
+      "slug": "saumanganya-1301013001"
+    },
+    "code": {
+      "id": "1301013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301013",
+      "level": 3,
+      "name": {
+        "local": "Pagai Utara",
+        "en": "Pagai Utara",
+        "slug": "pagai-utara-1301013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Mentawai",
+          "en": "Kepulauan Mentawai",
+          "slug": "kepulauan-mentawai-1301"
+        }
+      },
+      {
+        "id": "1301013",
+        "level": 3,
+        "name": {
+          "local": "Pagai Utara",
+          "en": "Pagai Utara",
+          "slug": "pagai-utara-1301013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25781"
+    ],
+    "geo": {
+      "lat": "-2.637",
+      "lon": "100.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1301013002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Silabu",
+      "en": "Silabu",
+      "slug": "silabu-1301013002"
+    },
+    "code": {
+      "id": "1301013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1301013",
+      "level": 3,
+      "name": {
+        "local": "Pagai Utara",
+        "en": "Pagai Utara",
+        "slug": "pagai-utara-1301013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Mentawai",
+          "en": "Kepulauan Mentawai",
+          "slug": "kepulauan-mentawai-1301"
+        }
+      },
+      {
+        "id": "1301013",
+        "level": 3,
+        "name": {
+          "local": "Pagai Utara",
+          "en": "Pagai Utara",
+          "slug": "pagai-utara-1301013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25781"
+    ],
+    "geo": {
+      "lat": "-2.687",
+      "lon": "100.025"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

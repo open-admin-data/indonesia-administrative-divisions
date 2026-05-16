@@ -1,0 +1,56 @@
+{
+  "id": "7103102",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kepulauan Marore",
+    "en": "Kepulauan Marore",
+    "slug": "kepulauan-marore-7103102"
+  },
+  "code": {
+    "id": "7103102",
+    "iso": null
+  },
+  "parent": {
+    "id": "7103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Sangihe",
+      "en": "Kepulauan Sangihe",
+      "slug": "kepulauan-sangihe-7103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.588",
+    "lon": "125.563"
+  },
+  "metadata": {},
+  "source": {}
+}

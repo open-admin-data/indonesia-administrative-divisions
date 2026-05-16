@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1305111002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Barulak",
+      "en": "Barulak",
+      "slug": "barulak-1305111002"
+    },
+    "code": {
+      "id": "1305111002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305111",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Baru",
+        "en": "Tanjung Baru",
+        "slug": "tanjung-baru-1305111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanah Datar",
+          "en": "Tanah Datar",
+          "slug": "tanah-datar-1305"
+        }
+      },
+      {
+        "id": "1305111",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Baru",
+          "en": "Tanjung Baru",
+          "slug": "tanjung-baru-1305111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27281"
+    ],
+    "geo": {
+      "lat": "-0.297",
+      "lon": "100.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1305111001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjuang Alam",
+      "en": "Tanjuang Alam",
+      "slug": "tanjuang-alam-1305111001"
+    },
+    "code": {
+      "id": "1305111001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305111",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Baru",
+        "en": "Tanjung Baru",
+        "slug": "tanjung-baru-1305111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanah Datar",
+          "en": "Tanah Datar",
+          "slug": "tanah-datar-1305"
+        }
+      },
+      {
+        "id": "1305111",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Baru",
+          "en": "Tanjung Baru",
+          "slug": "tanjung-baru-1305111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27281"
+    ],
+    "geo": {
+      "lat": "-0.318",
+      "lon": "100.513"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

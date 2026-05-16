@@ -1,0 +1,56 @@
+{
+  "id": "1104031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bukit Tusam",
+    "en": "Bukit Tusam",
+    "slug": "bukit-tusam-1104031"
+  },
+  "code": {
+    "id": "1104031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tenggara",
+      "en": "Aceh Tenggara",
+      "slug": "aceh-tenggara-1104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tenggara",
+        "en": "Aceh Tenggara",
+        "slug": "aceh-tenggara-1104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.414",
+    "lon": "97.869"
+  },
+  "metadata": {},
+  "source": {}
+}

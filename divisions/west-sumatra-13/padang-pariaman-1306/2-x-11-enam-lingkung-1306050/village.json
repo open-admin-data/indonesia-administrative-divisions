@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1306050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuk Pandan",
+      "en": "Lubuk Pandan",
+      "slug": "lubuk-pandan-1306050001"
+    },
+    "code": {
+      "id": "1306050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306050",
+      "level": 3,
+      "name": {
+        "local": "2 X 11 Enam Lingkung",
+        "en": "2 X 11 Enam Lingkung",
+        "slug": "2-x-11-enam-lingkung-1306050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306050",
+        "level": 3,
+        "name": {
+          "local": "2 X 11 Enam Lingkung",
+          "en": "2 X 11 Enam Lingkung",
+          "slug": "2-x-11-enam-lingkung-1306050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25584"
+    ],
+    "geo": {
+      "lat": "-0.606",
+      "lon": "100.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sicincin",
+      "en": "Sicincin",
+      "slug": "sicincin-1306050002"
+    },
+    "code": {
+      "id": "1306050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306050",
+      "level": 3,
+      "name": {
+        "local": "2 X 11 Enam Lingkung",
+        "en": "2 X 11 Enam Lingkung",
+        "slug": "2-x-11-enam-lingkung-1306050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306050",
+        "level": 3,
+        "name": {
+          "local": "2 X 11 Enam Lingkung",
+          "en": "2 X 11 Enam Lingkung",
+          "slug": "2-x-11-enam-lingkung-1306050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25584"
+    ],
+    "geo": {
+      "lat": "-0.578",
+      "lon": "100.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Asam",
+      "en": "Sungai Asam",
+      "slug": "sungai-asam-1306050003"
+    },
+    "code": {
+      "id": "1306050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306050",
+      "level": 3,
+      "name": {
+        "local": "2 X 11 Enam Lingkung",
+        "en": "2 X 11 Enam Lingkung",
+        "slug": "2-x-11-enam-lingkung-1306050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306050",
+        "level": 3,
+        "name": {
+          "local": "2 X 11 Enam Lingkung",
+          "en": "2 X 11 Enam Lingkung",
+          "slug": "2-x-11-enam-lingkung-1306050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25584"
+    ],
+    "geo": {
+      "lat": "-0.597",
+      "lon": "100.266"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

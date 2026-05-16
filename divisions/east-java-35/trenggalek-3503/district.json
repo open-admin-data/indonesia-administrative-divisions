@@ -1,0 +1,786 @@
+[
+  {
+    "id": "3503130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bendungan",
+      "en": "Bendungan",
+      "slug": "bendungan-3503130"
+    },
+    "code": {
+      "id": "3503130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.952",
+      "lon": "111.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dongko",
+      "en": "Dongko",
+      "slug": "dongko-3503050"
+    },
+    "code": {
+      "id": "3503050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.206",
+      "lon": "111.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Durenan",
+      "en": "Durenan",
+      "slug": "durenan-3503090"
+    },
+    "code": {
+      "id": "3503090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.088",
+      "lon": "111.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gandusari",
+      "en": "Gandusari",
+      "slug": "gandusari-3503080"
+    },
+    "code": {
+      "id": "3503080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.141",
+      "lon": "111.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kampak",
+      "en": "Kampak",
+      "slug": "kampak-3503040"
+    },
+    "code": {
+      "id": "3503040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.201",
+      "lon": "111.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangan",
+      "en": "Karangan",
+      "slug": "karangan-3503070"
+    },
+    "code": {
+      "id": "3503070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.072",
+      "lon": "111.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Munjungan",
+      "en": "Munjungan",
+      "slug": "munjungan-3503020"
+    },
+    "code": {
+      "id": "3503020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.311",
+      "lon": "111.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panggul",
+      "en": "Panggul",
+      "slug": "panggul-3503010"
+    },
+    "code": {
+      "id": "3503010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.243",
+      "lon": "111.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pogalan",
+      "en": "Pogalan",
+      "slug": "pogalan-3503100"
+    },
+    "code": {
+      "id": "3503100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.083",
+      "lon": "111.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pule",
+      "en": "Pule",
+      "slug": "pule-3503060"
+    },
+    "code": {
+      "id": "3503060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.112",
+      "lon": "111.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suruh",
+      "en": "Suruh",
+      "slug": "suruh-3503071"
+    },
+    "code": {
+      "id": "3503071",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.111",
+      "lon": "111.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Trenggalek",
+      "en": "Trenggalek",
+      "slug": "trenggalek-3503110"
+    },
+    "code": {
+      "id": "3503110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.034",
+      "lon": "111.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tugu",
+      "en": "Tugu",
+      "slug": "tugu-3503120"
+    },
+    "code": {
+      "id": "3503120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.029",
+      "lon": "111.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3503030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Watulimo",
+      "en": "Watulimo",
+      "slug": "watulimo-3503030"
+    },
+    "code": {
+      "id": "3503030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Trenggalek",
+          "en": "Trenggalek",
+          "slug": "trenggalek-3503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.268",
+      "lon": "111.722"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

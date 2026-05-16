@@ -1,0 +1,842 @@
+[
+  {
+    "id": "7103110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kendahe",
+      "en": "Kendahe",
+      "slug": "kendahe-7103110"
+    },
+    "code": {
+      "id": "7103110",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.941",
+      "lon": "125.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103102",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kepulauan Marore",
+      "en": "Kepulauan Marore",
+      "slug": "kepulauan-marore-7103102"
+    },
+    "code": {
+      "id": "7103102",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.588",
+      "lon": "125.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manganitu",
+      "en": "Manganitu",
+      "slug": "manganitu-7103080"
+    },
+    "code": {
+      "id": "7103080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.535",
+      "lon": "125.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Manganitu Selatan",
+      "en": "Manganitu Selatan",
+      "slug": "manganitu-selatan-7103040"
+    },
+    "code": {
+      "id": "7103040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.4",
+      "lon": "125.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nusa Tabukan",
+      "en": "Nusa Tabukan",
+      "slug": "nusa-tabukan-7103101"
+    },
+    "code": {
+      "id": "7103101",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.809",
+      "lon": "125.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabukan Selatan",
+      "en": "Tabukan Selatan",
+      "slug": "tabukan-selatan-7103060"
+    },
+    "code": {
+      "id": "7103060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.51",
+      "lon": "125.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabukan Selatan Tengah",
+      "en": "Tabukan Selatan Tengah",
+      "slug": "tabukan-selatan-tengah-7103061"
+    },
+    "code": {
+      "id": "7103061",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.46",
+      "lon": "125.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabukan Selatan Tenggara",
+      "en": "Tabukan Selatan Tenggara",
+      "slug": "tabukan-selatan-tenggara-7103062"
+    },
+    "code": {
+      "id": "7103062",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.44",
+      "lon": "125.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabukan Tengah",
+      "en": "Tabukan Tengah",
+      "slug": "tabukan-tengah-7103070"
+    },
+    "code": {
+      "id": "7103070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.571",
+      "lon": "125.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabukan Utara",
+      "en": "Tabukan Utara",
+      "slug": "tabukan-utara-7103100"
+    },
+    "code": {
+      "id": "7103100",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.673",
+      "lon": "125.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tahuna",
+      "en": "Tahuna",
+      "slug": "tahuna-7103090"
+    },
+    "code": {
+      "id": "7103090",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.631",
+      "lon": "125.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103092",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tahuna Barat",
+      "en": "Tahuna Barat",
+      "slug": "tahuna-barat-7103092"
+    },
+    "code": {
+      "id": "7103092",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.647",
+      "lon": "125.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tahuna Timur",
+      "en": "Tahuna Timur",
+      "slug": "tahuna-timur-7103091"
+    },
+    "code": {
+      "id": "7103091",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.597",
+      "lon": "125.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tamako",
+      "en": "Tamako",
+      "slug": "tamako-7103050"
+    },
+    "code": {
+      "id": "7103050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.452",
+      "lon": "125.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7103041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tatoareng",
+      "en": "Tatoareng",
+      "slug": "tatoareng-7103041"
+    },
+    "code": {
+      "id": "7103041",
+      "iso": null
+    },
+    "parent": {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Sangihe",
+          "en": "Kepulauan Sangihe",
+          "slug": "kepulauan-sangihe-7103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.157",
+      "lon": "125.493"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

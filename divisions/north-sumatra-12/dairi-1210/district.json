@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1210031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Berampu",
+      "en": "Berampu",
+      "slug": "berampu-1210031"
+    },
+    "code": {
+      "id": "1210031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.733",
+      "lon": "98.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunung Sitember",
+      "en": "Gunung Sitember",
+      "slug": "gunung-sitember-1210101"
+    },
+    "code": {
+      "id": "1210101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.938",
+      "lon": "98.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lae Parira",
+      "en": "Lae Parira",
+      "slug": "lae-parira-1210061"
+    },
+    "code": {
+      "id": "1210061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.784",
+      "lon": "98.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Parbuluan",
+      "en": "Parbuluan",
+      "slug": "parbuluan-1210040"
+    },
+    "code": {
+      "id": "1210040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.643",
+      "lon": "98.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pegagan Hilir",
+      "en": "Pegagan Hilir",
+      "slug": "pegagan-hilir-1210110"
+    },
+    "code": {
+      "id": "1210110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.858",
+      "lon": "98.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sidikalang",
+      "en": "Sidikalang",
+      "slug": "sidikalang-1210030"
+    },
+    "code": {
+      "id": "1210030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.738",
+      "lon": "98.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siempat Nempu",
+      "en": "Siempat Nempu",
+      "slug": "siempat-nempu-1210070"
+    },
+    "code": {
+      "id": "1210070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.812",
+      "lon": "98.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siempat Nempu Hilir",
+      "en": "Siempat Nempu Hilir",
+      "slug": "siempat-nempu-hilir-1210090"
+    },
+    "code": {
+      "id": "1210090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.888",
+      "lon": "98.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siempat Nempu Hulu",
+      "en": "Siempat Nempu Hulu",
+      "slug": "siempat-nempu-hulu-1210080"
+    },
+    "code": {
+      "id": "1210080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.82",
+      "lon": "98.277"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Silahisabungan",
+      "en": "Silahisabungan",
+      "slug": "silahisabungan-1210051"
+    },
+    "code": {
+      "id": "1210051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.769",
+      "lon": "98.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Silima Pungga-pungga",
+      "en": "Silima Pungga-pungga",
+      "slug": "silima-pungga-pungga-1210060"
+    },
+    "code": {
+      "id": "1210060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.857",
+      "lon": "98.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sitinjo",
+      "en": "Sitinjo",
+      "slug": "sitinjo-1210032"
+    },
+    "code": {
+      "id": "1210032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.705",
+      "lon": "98.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumbul",
+      "en": "Sumbul",
+      "slug": "sumbul-1210050"
+    },
+    "code": {
+      "id": "1210050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.753",
+      "lon": "98.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Pinem",
+      "en": "Tanah Pinem",
+      "slug": "tanah-pinem-1210120"
+    },
+    "code": {
+      "id": "1210120",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.008",
+      "lon": "98.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tiga Lingga",
+      "en": "Tiga Lingga",
+      "slug": "tiga-lingga-1210100"
+    },
+    "code": {
+      "id": "1210100",
+      "iso": null
+    },
+    "parent": {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dairi",
+          "en": "Dairi",
+          "slug": "dairi-1210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.893",
+      "lon": "98.251"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

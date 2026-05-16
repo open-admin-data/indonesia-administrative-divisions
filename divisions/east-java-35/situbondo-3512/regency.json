@@ -1,0 +1,48 @@
+{
+  "id": "3512",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Situbondo",
+    "en": "Situbondo",
+    "slug": "situbondo-3512"
+  },
+  "code": {
+    "id": "3512",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 132
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.707",
+    "lon": "114.002"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7205082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banawa Tengah",
+    "en": "Banawa Tengah",
+    "slug": "banawa-tengah-7205082"
+  },
+  "code": {
+    "id": "7205082",
+    "iso": null
+  },
+  "parent": {
+    "id": "7205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Donggala",
+      "en": "Donggala",
+      "slug": "donggala-7205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.761",
+    "lon": "119.716"
+  },
+  "metadata": {},
+  "source": {}
+}

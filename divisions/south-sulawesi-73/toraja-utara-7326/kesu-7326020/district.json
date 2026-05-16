@@ -1,0 +1,56 @@
+{
+  "id": "7326020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kesu",
+    "en": "Kesu",
+    "slug": "kesu-7326020"
+  },
+  "code": {
+    "id": "7326020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toraja Utara",
+      "en": "Toraja Utara",
+      "slug": "toraja-utara-7326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toraja Utara",
+        "en": "Toraja Utara",
+        "slug": "toraja-utara-7326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.998",
+    "lon": "119.898"
+  },
+  "metadata": {},
+  "source": {}
+}

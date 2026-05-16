@@ -1,0 +1,56 @@
+{
+  "id": "1706031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Penarik",
+    "en": "Penarik",
+    "slug": "penarik-1706031"
+  },
+  "code": {
+    "id": "1706031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mukomuko",
+      "en": "Mukomuko",
+      "slug": "mukomuko-1706"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.6",
+    "lon": "101.433"
+  },
+  "metadata": {},
+  "source": {}
+}

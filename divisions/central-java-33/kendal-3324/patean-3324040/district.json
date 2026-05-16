@@ -1,0 +1,56 @@
+{
+  "id": "3324040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Patean",
+    "en": "Patean",
+    "slug": "patean-3324040"
+  },
+  "code": {
+    "id": "3324040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3324",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kendal",
+      "en": "Kendal",
+      "slug": "kendal-3324"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3324",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kendal",
+        "en": "Kendal",
+        "slug": "kendal-3324"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.089",
+    "lon": "110.1"
+  },
+  "metadata": {},
+  "source": {}
+}

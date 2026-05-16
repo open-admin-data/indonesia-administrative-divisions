@@ -1,0 +1,56 @@
+{
+  "id": "1403051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Concong",
+    "en": "Concong",
+    "slug": "concong-1403051"
+  },
+  "code": {
+    "id": "1403051",
+    "iso": null
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indragiri Hilir",
+      "en": "Indragiri Hilir",
+      "slug": "indragiri-hilir-1403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indragiri Hilir",
+        "en": "Indragiri Hilir",
+        "slug": "indragiri-hilir-1403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.295",
+    "lon": "103.619"
+  },
+  "metadata": {},
+  "source": {}
+}

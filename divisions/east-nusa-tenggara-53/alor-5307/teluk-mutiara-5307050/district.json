@@ -1,0 +1,56 @@
+{
+  "id": "5307050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Mutiara",
+    "en": "Teluk Mutiara",
+    "slug": "teluk-mutiara-5307050"
+  },
+  "code": {
+    "id": "5307050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Alor",
+      "en": "Alor",
+      "slug": "alor-5307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Alor",
+        "en": "Alor",
+        "slug": "alor-5307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.233",
+    "lon": "124.532"
+  },
+  "metadata": {},
+  "source": {}
+}

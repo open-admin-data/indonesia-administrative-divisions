@@ -1,0 +1,31 @@
+{
+  "id": "21",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Kepulauan Riau",
+    "en": "Riau Islands",
+    "slug": "riau-islands-21"
+  },
+  "code": {
+    "id": "21",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 7,
+    "village": 395,
+    "district": 70
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.876",
+    "lon": "104.445"
+  },
+  "metadata": {},
+  "source": {}
+}

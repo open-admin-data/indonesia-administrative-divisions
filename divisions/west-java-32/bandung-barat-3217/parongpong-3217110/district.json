@@ -1,0 +1,56 @@
+{
+  "id": "3217110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Parongpong",
+    "en": "Parongpong",
+    "slug": "parongpong-3217110"
+  },
+  "code": {
+    "id": "3217110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3217",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bandung Barat",
+      "en": "Bandung Barat",
+      "slug": "bandung-barat-3217"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3217",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bandung Barat",
+        "en": "Bandung Barat",
+        "slug": "bandung-barat-3217"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.805",
+    "lon": "107.583"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7472041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lea-lea",
+    "en": "Lea-lea",
+    "slug": "lea-lea-7472041"
+  },
+  "code": {
+    "id": "7472041",
+    "iso": null
+  },
+  "parent": {
+    "id": "7472",
+    "level": 2,
+    "name": {
+      "local": "Kota Baubau",
+      "en": "Baubau",
+      "slug": "baubau-7472"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7472",
+      "level": 2,
+      "name": {
+        "local": "Kota Baubau",
+        "en": "Baubau",
+        "slug": "baubau-7472"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.361",
+    "lon": "122.65"
+  },
+  "metadata": {},
+  "source": {}
+}

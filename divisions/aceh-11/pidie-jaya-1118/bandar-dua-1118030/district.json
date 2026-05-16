@@ -1,0 +1,56 @@
+{
+  "id": "1118030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Dua",
+    "en": "Bandar Dua",
+    "slug": "bandar-dua-1118030"
+  },
+  "code": {
+    "id": "1118030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1118",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie Jaya",
+      "en": "Pidie Jaya",
+      "slug": "pidie-jaya-1118"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1118",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie Jaya",
+        "en": "Pidie Jaya",
+        "slug": "pidie-jaya-1118"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 45
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.114",
+    "lon": "96.308"
+  },
+  "metadata": {},
+  "source": {}
+}

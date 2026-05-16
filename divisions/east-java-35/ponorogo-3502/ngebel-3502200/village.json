@@ -1,0 +1,327 @@
+[
+  {
+    "id": "3502200005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gondowido",
+      "en": "Gondowido",
+      "slug": "gondowido-3502200005"
+    },
+    "code": {
+      "id": "3502200005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502200",
+      "level": 3,
+      "name": {
+        "local": "Ngebel",
+        "en": "Ngebel",
+        "slug": "ngebel-3502200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502200",
+        "level": 3,
+        "name": {
+          "local": "Ngebel",
+          "en": "Ngebel",
+          "slug": "ngebel-3502200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63493"
+    ],
+    "geo": {
+      "lat": "-7.799",
+      "lon": "111.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3502200001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ngrogung",
+      "en": "Ngrogung",
+      "slug": "ngrogung-3502200001"
+    },
+    "code": {
+      "id": "3502200001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502200",
+      "level": 3,
+      "name": {
+        "local": "Ngebel",
+        "en": "Ngebel",
+        "slug": "ngebel-3502200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502200",
+        "level": 3,
+        "name": {
+          "local": "Ngebel",
+          "en": "Ngebel",
+          "slug": "ngebel-3502200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63493"
+    ],
+    "geo": {
+      "lat": "-7.808",
+      "lon": "111.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3502200002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sahang",
+      "en": "Sahang",
+      "slug": "sahang-3502200002"
+    },
+    "code": {
+      "id": "3502200002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502200",
+      "level": 3,
+      "name": {
+        "local": "Ngebel",
+        "en": "Ngebel",
+        "slug": "ngebel-3502200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502200",
+        "level": 3,
+        "name": {
+          "local": "Ngebel",
+          "en": "Ngebel",
+          "slug": "ngebel-3502200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63493"
+    ],
+    "geo": {
+      "lat": "-7.805",
+      "lon": "111.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3502200004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talun",
+      "en": "Talun",
+      "slug": "talun-3502200004"
+    },
+    "code": {
+      "id": "3502200004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502200",
+      "level": 3,
+      "name": {
+        "local": "Ngebel",
+        "en": "Ngebel",
+        "slug": "ngebel-3502200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502200",
+        "level": 3,
+        "name": {
+          "local": "Ngebel",
+          "en": "Ngebel",
+          "slug": "ngebel-3502200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63493"
+    ],
+    "geo": {
+      "lat": "-7.816",
+      "lon": "111.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3502200003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wagirlor",
+      "en": "Wagirlor",
+      "slug": "wagirlor-3502200003"
+    },
+    "code": {
+      "id": "3502200003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3502200",
+      "level": 3,
+      "name": {
+        "local": "Ngebel",
+        "en": "Ngebel",
+        "slug": "ngebel-3502200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3502",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ponorogo",
+          "en": "Ponorogo",
+          "slug": "ponorogo-3502"
+        }
+      },
+      {
+        "id": "3502200",
+        "level": 3,
+        "name": {
+          "local": "Ngebel",
+          "en": "Ngebel",
+          "slug": "ngebel-3502200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63493"
+    ],
+    "geo": {
+      "lat": "-7.816",
+      "lon": "111.621"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

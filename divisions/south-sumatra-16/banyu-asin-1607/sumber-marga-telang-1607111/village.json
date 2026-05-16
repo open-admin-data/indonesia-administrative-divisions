@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1607111002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Anyar",
+      "en": "Karang Anyar",
+      "slug": "karang-anyar-1607111002"
+    },
+    "code": {
+      "id": "1607111002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.542",
+      "lon": "104.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Baru",
+      "en": "Karang Baru",
+      "slug": "karang-baru-1607111001"
+    },
+    "code": {
+      "id": "1607111001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.6",
+      "lon": "104.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Telang",
+      "en": "Muara Telang",
+      "slug": "muara-telang-1607111005"
+    },
+    "code": {
+      "id": "1607111005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.508",
+      "lon": "104.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Telang Marga",
+      "en": "Muara Telang Marga",
+      "slug": "muara-telang-marga-1607111003"
+    },
+    "code": {
+      "id": "1607111003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.522",
+      "lon": "104.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sri Tiga",
+      "en": "Sri Tiga",
+      "slug": "sri-tiga-1607111004"
+    },
+    "code": {
+      "id": "1607111004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "104.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumber Jaya",
+      "en": "Sumber Jaya",
+      "slug": "sumber-jaya-1607111006"
+    },
+    "code": {
+      "id": "1607111006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.507",
+      "lon": "104.875"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talang Lubuk",
+      "en": "Talang Lubuk",
+      "slug": "talang-lubuk-1607111010"
+    },
+    "code": {
+      "id": "1607111010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.601",
+      "lon": "104.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Terusan Dalam",
+      "en": "Terusan Dalam",
+      "slug": "terusan-dalam-1607111009"
+    },
+    "code": {
+      "id": "1607111009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.585",
+      "lon": "104.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Terusan Muara",
+      "en": "Terusan Muara",
+      "slug": "terusan-muara-1607111007"
+    },
+    "code": {
+      "id": "1607111007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.556",
+      "lon": "104.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1607111008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Terusan Tengah",
+      "en": "Terusan Tengah",
+      "slug": "terusan-tengah-1607111008"
+    },
+    "code": {
+      "id": "1607111008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1607111",
+      "level": 3,
+      "name": {
+        "local": "Sumber Marga Telang",
+        "en": "Sumber Marga Telang",
+        "slug": "sumber-marga-telang-1607111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1607",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Banyu Asin",
+          "en": "Banyu Asin",
+          "slug": "banyu-asin-1607"
+        }
+      },
+      {
+        "id": "1607111",
+        "level": 3,
+        "name": {
+          "local": "Sumber Marga Telang",
+          "en": "Sumber Marga Telang",
+          "slug": "sumber-marga-telang-1607111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30975"
+    ],
+    "geo": {
+      "lat": "-2.565",
+      "lon": "104.851"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

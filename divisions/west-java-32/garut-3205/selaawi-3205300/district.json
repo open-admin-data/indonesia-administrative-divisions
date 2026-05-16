@@ -1,0 +1,56 @@
+{
+  "id": "3205300",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Selaawi",
+    "en": "Selaawi",
+    "slug": "selaawi-3205300"
+  },
+  "code": {
+    "id": "3205300",
+    "iso": null
+  },
+  "parent": {
+    "id": "3205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Garut",
+      "en": "Garut",
+      "slug": "garut-3205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.998",
+    "lon": "108.009"
+  },
+  "metadata": {},
+  "source": {}
+}

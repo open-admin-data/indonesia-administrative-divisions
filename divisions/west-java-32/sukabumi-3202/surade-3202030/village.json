@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3202030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Buniwangi",
+      "en": "Buniwangi",
+      "slug": "buniwangi-3202030002"
+    },
+    "code": {
+      "id": "3202030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.381",
+      "lon": "106.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cipeundeuy",
+      "en": "Cipeundeuy",
+      "slug": "cipeundeuy-3202030003"
+    },
+    "code": {
+      "id": "3202030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.398",
+      "lon": "106.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Citanglar",
+      "en": "Citanglar",
+      "slug": "citanglar-3202030011"
+    },
+    "code": {
+      "id": "3202030011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.335",
+      "lon": "106.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Sungging",
+      "en": "Gunung Sungging",
+      "slug": "gunung-sungging-3202030004"
+    },
+    "code": {
+      "id": "3202030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.364",
+      "lon": "106.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jagamukti",
+      "en": "Jagamukti",
+      "slug": "jagamukti-3202030012"
+    },
+    "code": {
+      "id": "3202030012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.348",
+      "lon": "106.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kadaleman",
+      "en": "Kadaleman",
+      "slug": "kadaleman-3202030014"
+    },
+    "code": {
+      "id": "3202030014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.297",
+      "lon": "106.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kademangan",
+      "en": "Kademangan",
+      "slug": "kademangan-3202030018"
+    },
+    "code": {
+      "id": "3202030018",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.342",
+      "lon": "106.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasiripis",
+      "en": "Pasiripis",
+      "slug": "pasiripis-3202030001"
+    },
+    "code": {
+      "id": "3202030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.368",
+      "lon": "106.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sirnasari",
+      "en": "Sirnasari",
+      "slug": "sirnasari-3202030016"
+    },
+    "code": {
+      "id": "3202030016",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.272",
+      "lon": "106.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukatani",
+      "en": "Sukatani",
+      "slug": "sukatani-3202030017"
+    },
+    "code": {
+      "id": "3202030017",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.398",
+      "lon": "106.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Surade",
+      "en": "Surade",
+      "slug": "surade-3202030013"
+    },
+    "code": {
+      "id": "3202030013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.351",
+      "lon": "106.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3202030015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wanasari",
+      "en": "Wanasari",
+      "slug": "wanasari-3202030015"
+    },
+    "code": {
+      "id": "3202030015",
+      "iso": null
+    },
+    "parent": {
+      "id": "3202030",
+      "level": 3,
+      "name": {
+        "local": "Surade",
+        "en": "Surade",
+        "slug": "surade-3202030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3202",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3202"
+        }
+      },
+      {
+        "id": "3202030",
+        "level": 3,
+        "name": {
+          "local": "Surade",
+          "en": "Surade",
+          "slug": "surade-3202030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43373"
+    ],
+    "geo": {
+      "lat": "-7.293",
+      "lon": "106.576"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

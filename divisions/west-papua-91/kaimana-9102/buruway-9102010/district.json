@@ -1,0 +1,56 @@
+{
+  "id": "9102010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buruway",
+    "en": "Buruway",
+    "slug": "buruway-9102010"
+  },
+  "code": {
+    "id": "9102010",
+    "iso": null
+  },
+  "parent": {
+    "id": "9102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kaimana",
+      "en": "Kaimana",
+      "slug": "kaimana-9102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.786",
+    "lon": "133.207"
+  },
+  "metadata": {},
+  "source": {}
+}

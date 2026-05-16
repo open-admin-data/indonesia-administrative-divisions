@@ -1,0 +1,56 @@
+{
+  "id": "9412032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tembagapura",
+    "en": "Tembagapura",
+    "slug": "tembagapura-9412032"
+  },
+  "code": {
+    "id": "9412032",
+    "iso": null
+  },
+  "parent": {
+    "id": "9412",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mimika",
+      "en": "Mimika",
+      "slug": "mimika-9412"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mimika",
+        "en": "Mimika",
+        "slug": "mimika-9412"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.258",
+    "lon": "137.151"
+  },
+  "metadata": {},
+  "source": {}
+}

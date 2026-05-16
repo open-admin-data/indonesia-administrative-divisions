@@ -1,0 +1,56 @@
+{
+  "id": "3171070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mampang Prapatan",
+    "en": "Mampang Prapatan",
+    "slug": "mampang-prapatan-3171070"
+  },
+  "code": {
+    "id": "3171070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3171",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Selatan",
+      "en": "Jakarta Selatan",
+      "slug": "jakarta-selatan-3171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.25",
+    "lon": "106.822"
+  },
+  "metadata": {},
+  "source": {}
+}

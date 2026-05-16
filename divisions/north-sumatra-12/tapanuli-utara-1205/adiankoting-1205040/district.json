@@ -1,0 +1,56 @@
+{
+  "id": "1205040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Adiankoting",
+    "en": "Adiankoting",
+    "slug": "adiankoting-1205040"
+  },
+  "code": {
+    "id": "1205040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapanuli Utara",
+      "en": "Tapanuli Utara",
+      "slug": "tapanuli-utara-1205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapanuli Utara",
+        "en": "Tapanuli Utara",
+        "slug": "tapanuli-utara-1205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.876",
+    "lon": "98.89"
+  },
+  "metadata": {},
+  "source": {}
+}

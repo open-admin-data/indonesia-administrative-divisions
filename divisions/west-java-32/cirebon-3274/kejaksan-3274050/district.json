@@ -1,0 +1,56 @@
+{
+  "id": "3274050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kejaksan",
+    "en": "Kejaksan",
+    "slug": "kejaksan-3274050"
+  },
+  "code": {
+    "id": "3274050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3274",
+    "level": 2,
+    "name": {
+      "local": "Kota Cirebon",
+      "en": "Cirebon",
+      "slug": "cirebon-3274"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3274",
+      "level": 2,
+      "name": {
+        "local": "Kota Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3274"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.704",
+    "lon": "108.555"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1277040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Padangsidimpuan Utara",
+    "en": "Padangsidimpuan Utara",
+    "slug": "padangsidimpuan-utara-1277040"
+  },
+  "code": {
+    "id": "1277040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1277",
+    "level": 2,
+    "name": {
+      "local": "Kota Padangsidimpuan",
+      "en": "Padangsidimpuan",
+      "slug": "padangsidimpuan-1277"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.396",
+    "lon": "99.258"
+  },
+  "metadata": {},
+  "source": {}
+}

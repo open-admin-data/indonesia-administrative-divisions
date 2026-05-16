@@ -1,0 +1,56 @@
+{
+  "id": "7303021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Eremerasa",
+    "en": "Eremerasa",
+    "slug": "eremerasa-7303021"
+  },
+  "code": {
+    "id": "7303021",
+    "iso": null
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bantaeng",
+      "en": "Bantaeng",
+      "slug": "bantaeng-7303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantaeng",
+        "en": "Bantaeng",
+        "slug": "bantaeng-7303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.472",
+    "lon": "119.99"
+  },
+  "metadata": {},
+  "source": {}
+}

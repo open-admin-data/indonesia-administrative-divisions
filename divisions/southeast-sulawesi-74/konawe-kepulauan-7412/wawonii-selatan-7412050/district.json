@@ -1,0 +1,56 @@
+{
+  "id": "7412050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wawonii Selatan",
+    "en": "Wawonii Selatan",
+    "slug": "wawonii-selatan-7412050"
+  },
+  "code": {
+    "id": "7412050",
+    "iso": null
+  },
+  "parent": {
+    "id": "7412",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Konawe Kepulauan",
+      "en": "Konawe Kepulauan",
+      "slug": "konawe-kepulauan-7412"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7412",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Konawe Kepulauan",
+        "en": "Konawe Kepulauan",
+        "slug": "konawe-kepulauan-7412"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.177",
+    "lon": "123.037"
+  },
+  "metadata": {},
+  "source": {}
+}

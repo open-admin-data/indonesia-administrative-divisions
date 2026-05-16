@@ -1,0 +1,56 @@
+{
+  "id": "6111020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukadana",
+    "en": "Sukadana",
+    "slug": "sukadana-6111020"
+  },
+  "code": {
+    "id": "6111020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kayong Utara",
+      "en": "Kayong Utara",
+      "slug": "kayong-utara-6111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kayong Utara",
+        "en": "Kayong Utara",
+        "slug": "kayong-utara-6111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.259",
+    "lon": "110.053"
+  },
+  "metadata": {},
+  "source": {}
+}

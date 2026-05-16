@@ -1,0 +1,56 @@
+{
+  "id": "6401030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pasir Belengkong",
+    "en": "Pasir Belengkong",
+    "slug": "pasir-belengkong-6401030"
+  },
+  "code": {
+    "id": "6401030",
+    "iso": null
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Paser",
+      "en": "Paser",
+      "slug": "paser-6401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.967",
+    "lon": "116.228"
+  },
+  "metadata": {},
+  "source": {}
+}

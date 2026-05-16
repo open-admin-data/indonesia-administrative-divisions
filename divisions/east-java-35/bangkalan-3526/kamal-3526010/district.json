@@ -1,0 +1,56 @@
+{
+  "id": "3526010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kamal",
+    "en": "Kamal",
+    "slug": "kamal-3526010"
+  },
+  "code": {
+    "id": "3526010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3526",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangkalan",
+      "en": "Bangkalan",
+      "slug": "bangkalan-3526"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3526",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangkalan",
+        "en": "Bangkalan",
+        "slug": "bangkalan-3526"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.136",
+    "lon": "112.73"
+  },
+  "metadata": {},
+  "source": {}
+}

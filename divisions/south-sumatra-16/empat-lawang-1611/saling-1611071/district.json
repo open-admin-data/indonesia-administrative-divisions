@@ -1,0 +1,56 @@
+{
+  "id": "1611071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Saling",
+    "en": "Saling",
+    "slug": "saling-1611071"
+  },
+  "code": {
+    "id": "1611071",
+    "iso": null
+  },
+  "parent": {
+    "id": "1611",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Empat Lawang",
+      "en": "Empat Lawang",
+      "slug": "empat-lawang-1611"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1611",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Empat Lawang",
+        "en": "Empat Lawang",
+        "slug": "empat-lawang-1611"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.506",
+    "lon": "103.009"
+  },
+  "metadata": {},
+  "source": {}
+}

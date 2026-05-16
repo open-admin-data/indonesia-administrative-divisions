@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1103022002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alurduamas",
+      "en": "Alurduamas",
+      "slug": "alurduamas-1103022002"
+    },
+    "code": {
+      "id": "1103022002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "3.001",
+      "lon": "97.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Beutong",
+      "en": "Beutong",
+      "slug": "beutong-1103022005"
+    },
+    "code": {
+      "id": "1103022005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "3.048",
+      "lon": "97.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Gading",
+      "en": "Bukit Gading",
+      "slug": "bukit-gading-1103022010"
+    },
+    "code": {
+      "id": "1103022010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "2.997",
+      "lon": "97.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jambo Keupok",
+      "en": "Jambo Keupok",
+      "slug": "jambo-keupok-1103022003"
+    },
+    "code": {
+      "id": "1103022003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "3.046",
+      "lon": "97.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rambong",
+      "en": "Rambong",
+      "slug": "rambong-1103022008"
+    },
+    "code": {
+      "id": "1103022008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "2.974",
+      "lon": "97.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seneubok Alur Bulah",
+      "en": "Seneubok Alur Bulah",
+      "slug": "seneubok-alur-bulah-1103022001"
+    },
+    "code": {
+      "id": "1103022001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "2.962",
+      "lon": "97.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seuneubok Keuranji",
+      "en": "Seuneubok Keuranji",
+      "slug": "seuneubok-keuranji-1103022009"
+    },
+    "code": {
+      "id": "1103022009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "3.021",
+      "lon": "97.514"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ujung Gunong Rayek",
+      "en": "Ujung Gunong Rayek",
+      "slug": "ujung-gunong-rayek-1103022006"
+    },
+    "code": {
+      "id": "1103022006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "3.096",
+      "lon": "97.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ujung Gunung Cut",
+      "en": "Ujung Gunung Cut",
+      "slug": "ujung-gunung-cut-1103022007"
+    },
+    "code": {
+      "id": "1103022007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "2.947",
+      "lon": "97.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103022004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ujung Tanoh",
+      "en": "Ujung Tanoh",
+      "slug": "ujung-tanoh-1103022004"
+    },
+    "code": {
+      "id": "1103022004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1103022",
+      "level": 3,
+      "name": {
+        "local": "Kota Bahagia",
+        "en": "Kota Bahagia",
+        "slug": "kota-bahagia-1103022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Selatan",
+          "en": "Aceh Selatan",
+          "slug": "aceh-selatan-1103"
+        }
+      },
+      {
+        "id": "1103022",
+        "level": 3,
+        "name": {
+          "local": "Kota Bahagia",
+          "en": "Kota Bahagia",
+          "slug": "kota-bahagia-1103022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23778"
+    ],
+    "geo": {
+      "lat": "2.949",
+      "lon": "97.538"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "6471",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Balikpapan",
+    "en": "Balikpapan",
+    "slug": "balikpapan-6471"
+  },
+  "code": {
+    "id": "6471",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Timur",
+      "en": "East Kalimantan",
+      "slug": "east-kalimantan-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 34
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.276",
+    "lon": "116.828"
+  },
+  "metadata": {},
+  "source": {}
+}

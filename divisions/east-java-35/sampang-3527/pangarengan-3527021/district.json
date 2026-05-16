@@ -1,0 +1,56 @@
+{
+  "id": "3527021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pangarengan",
+    "en": "Pangarengan",
+    "slug": "pangarengan-3527021"
+  },
+  "code": {
+    "id": "3527021",
+    "iso": null
+  },
+  "parent": {
+    "id": "3527",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sampang",
+      "en": "Sampang",
+      "slug": "sampang-3527"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.192",
+    "lon": "113.172"
+  },
+  "metadata": {},
+  "source": {}
+}

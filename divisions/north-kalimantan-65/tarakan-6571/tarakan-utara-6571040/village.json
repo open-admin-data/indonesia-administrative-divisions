@@ -1,0 +1,197 @@
+[
+  {
+    "id": "6571040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Juata Kerikil",
+      "en": "Juata Kerikil",
+      "slug": "juata-kerikil-6571040002"
+    },
+    "code": {
+      "id": "6571040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6571040",
+      "level": 3,
+      "name": {
+        "local": "Tarakan Utara",
+        "en": "Tarakan Utara",
+        "slug": "tarakan-utara-6571040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6571",
+        "level": 2,
+        "name": {
+          "local": "Kota Tarakan",
+          "en": "Tarakan",
+          "slug": "tarakan-6571"
+        }
+      },
+      {
+        "id": "6571040",
+        "level": 3,
+        "name": {
+          "local": "Tarakan Utara",
+          "en": "Tarakan Utara",
+          "slug": "tarakan-utara-6571040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77116"
+    ],
+    "geo": {
+      "lat": "3.378",
+      "lon": "117.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6571040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Juata Laut",
+      "en": "Juata Laut",
+      "slug": "juata-laut-6571040003"
+    },
+    "code": {
+      "id": "6571040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6571040",
+      "level": 3,
+      "name": {
+        "local": "Tarakan Utara",
+        "en": "Tarakan Utara",
+        "slug": "tarakan-utara-6571040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6571",
+        "level": 2,
+        "name": {
+          "local": "Kota Tarakan",
+          "en": "Tarakan",
+          "slug": "tarakan-6571"
+        }
+      },
+      {
+        "id": "6571040",
+        "level": 3,
+        "name": {
+          "local": "Tarakan Utara",
+          "en": "Tarakan Utara",
+          "slug": "tarakan-utara-6571040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77116"
+    ],
+    "geo": {
+      "lat": "3.418",
+      "lon": "117.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6571040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Juata Permai",
+      "en": "Juata Permai",
+      "slug": "juata-permai-6571040001"
+    },
+    "code": {
+      "id": "6571040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6571040",
+      "level": 3,
+      "name": {
+        "local": "Tarakan Utara",
+        "en": "Tarakan Utara",
+        "slug": "tarakan-utara-6571040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6571",
+        "level": 2,
+        "name": {
+          "local": "Kota Tarakan",
+          "en": "Tarakan",
+          "slug": "tarakan-6571"
+        }
+      },
+      {
+        "id": "6571040",
+        "level": 3,
+        "name": {
+          "local": "Tarakan Utara",
+          "en": "Tarakan Utara",
+          "slug": "tarakan-utara-6571040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77116"
+    ],
+    "geo": {
+      "lat": "3.379",
+      "lon": "117.532"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

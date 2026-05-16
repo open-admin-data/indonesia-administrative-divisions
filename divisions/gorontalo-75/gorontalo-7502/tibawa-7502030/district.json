@@ -1,0 +1,56 @@
+{
+  "id": "7502030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tibawa",
+    "en": "Tibawa",
+    "slug": "tibawa-7502030"
+  },
+  "code": {
+    "id": "7502030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-7502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-7502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.684",
+    "lon": "122.845"
+  },
+  "metadata": {},
+  "source": {}
+}

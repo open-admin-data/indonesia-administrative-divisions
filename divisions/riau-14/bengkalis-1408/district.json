@@ -1,0 +1,618 @@
+[
+  {
+    "id": "1408022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bandar Laksamana",
+      "en": "Bandar Laksamana",
+      "slug": "bandar-laksamana-1408022"
+    },
+    "code": {
+      "id": "1408022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.524",
+      "lon": "101.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bantan",
+      "en": "Bantan",
+      "slug": "bantan-1408050"
+    },
+    "code": {
+      "id": "1408050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.449",
+      "lon": "102.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bathin Solapan",
+      "en": "Bathin Solapan",
+      "slug": "bathin-solapan-1408012"
+    },
+    "code": {
+      "id": "1408012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.321",
+      "lon": "101.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bengkalis",
+      "en": "Bengkalis",
+      "slug": "bengkalis-1408040"
+    },
+    "code": {
+      "id": "1408040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.429",
+      "lon": "102.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukit Batu",
+      "en": "Bukit Batu",
+      "slug": "bukit-batu-1408020"
+    },
+    "code": {
+      "id": "1408020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.472",
+      "lon": "101.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mandau",
+      "en": "Mandau",
+      "slug": "mandau-1408010"
+    },
+    "code": {
+      "id": "1408010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.276",
+      "lon": "101.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pinggir",
+      "en": "Pinggir",
+      "slug": "pinggir-1408011"
+    },
+    "code": {
+      "id": "1408011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.16",
+      "lon": "101.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rupat",
+      "en": "Rupat",
+      "slug": "rupat-1408030"
+    },
+    "code": {
+      "id": "1408030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.867",
+      "lon": "101.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rupat Utara",
+      "en": "Rupat Utara",
+      "slug": "rupat-utara-1408031"
+    },
+    "code": {
+      "id": "1408031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.027",
+      "lon": "101.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siak Kecil",
+      "en": "Siak Kecil",
+      "slug": "siak-kecil-1408021"
+    },
+    "code": {
+      "id": "1408021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.123",
+      "lon": "101.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1408013",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talang Muandau",
+      "en": "Talang Muandau",
+      "slug": "talang-muandau-1408013"
+    },
+    "code": {
+      "id": "1408013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkalis",
+        "en": "Bengkalis",
+        "slug": "bengkalis-1408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1408",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkalis",
+          "en": "Bengkalis",
+          "slug": "bengkalis-1408"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.158",
+      "lon": "101.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

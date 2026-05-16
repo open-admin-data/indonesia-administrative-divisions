@@ -1,0 +1,56 @@
+{
+  "id": "7414020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mawasangka",
+    "en": "Mawasangka",
+    "slug": "mawasangka-7414020"
+  },
+  "code": {
+    "id": "7414020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7414",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buton Tengah",
+      "en": "Buton Tengah",
+      "slug": "buton-tengah-7414"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buton Tengah",
+        "en": "Buton Tengah",
+        "slug": "buton-tengah-7414"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.269",
+    "lon": "122.355"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "1271020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sibolga Kota",
+      "en": "Sibolga Kota",
+      "slug": "sibolga-kota-1271020"
+    },
+    "code": {
+      "id": "1271020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1271",
+      "level": 2,
+      "name": {
+        "local": "Kota Sibolga",
+        "en": "Sibolga",
+        "slug": "sibolga-1271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1271",
+        "level": 2,
+        "name": {
+          "local": "Kota Sibolga",
+          "en": "Sibolga",
+          "slug": "sibolga-1271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.725",
+      "lon": "98.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1271031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sibolga Sambas",
+      "en": "Sibolga Sambas",
+      "slug": "sibolga-sambas-1271031"
+    },
+    "code": {
+      "id": "1271031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1271",
+      "level": 2,
+      "name": {
+        "local": "Kota Sibolga",
+        "en": "Sibolga",
+        "slug": "sibolga-1271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1271",
+        "level": 2,
+        "name": {
+          "local": "Kota Sibolga",
+          "en": "Sibolga",
+          "slug": "sibolga-1271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.733",
+      "lon": "98.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1271030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sibolga Selatan",
+      "en": "Sibolga Selatan",
+      "slug": "sibolga-selatan-1271030"
+    },
+    "code": {
+      "id": "1271030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1271",
+      "level": 2,
+      "name": {
+        "local": "Kota Sibolga",
+        "en": "Sibolga",
+        "slug": "sibolga-1271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1271",
+        "level": 2,
+        "name": {
+          "local": "Kota Sibolga",
+          "en": "Sibolga",
+          "slug": "sibolga-1271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.731",
+      "lon": "98.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1271010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sibolga Utara",
+      "en": "Sibolga Utara",
+      "slug": "sibolga-utara-1271010"
+    },
+    "code": {
+      "id": "1271010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1271",
+      "level": 2,
+      "name": {
+        "local": "Kota Sibolga",
+        "en": "Sibolga",
+        "slug": "sibolga-1271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1271",
+        "level": 2,
+        "name": {
+          "local": "Kota Sibolga",
+          "en": "Sibolga",
+          "slug": "sibolga-1271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.746",
+      "lon": "98.785"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

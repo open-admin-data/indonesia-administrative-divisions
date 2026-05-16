@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9410071004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Agapo / Widimeida",
+      "en": "Agapo / Widimeida",
+      "slug": "agapo-widimeida-9410071004"
+    },
+    "code": {
+      "id": "9410071004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410071",
+      "level": 3,
+      "name": {
+        "local": "Ekadide",
+        "en": "Ekadide",
+        "slug": "ekadide-9410071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410071",
+        "level": 3,
+        "name": {
+          "local": "Ekadide",
+          "en": "Ekadide",
+          "slug": "ekadide-9410071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98761"
+    ],
+    "geo": {
+      "lat": "-3.832",
+      "lon": "136.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9410071005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Geida",
+      "en": "Geida",
+      "slug": "geida-9410071005"
+    },
+    "code": {
+      "id": "9410071005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410071",
+      "level": 3,
+      "name": {
+        "local": "Ekadide",
+        "en": "Ekadide",
+        "slug": "ekadide-9410071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410071",
+        "level": 3,
+        "name": {
+          "local": "Ekadide",
+          "en": "Ekadide",
+          "slug": "ekadide-9410071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98761"
+    ],
+    "geo": {
+      "lat": "-3.848",
+      "lon": "136.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9410071003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasir Putih",
+      "en": "Pasir Putih",
+      "slug": "pasir-putih-9410071003"
+    },
+    "code": {
+      "id": "9410071003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9410071",
+      "level": 3,
+      "name": {
+        "local": "Ekadide",
+        "en": "Ekadide",
+        "slug": "ekadide-9410071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9410",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Paniai",
+          "en": "Paniai",
+          "slug": "paniai-9410"
+        }
+      },
+      {
+        "id": "9410071",
+        "level": 3,
+        "name": {
+          "local": "Ekadide",
+          "en": "Ekadide",
+          "slug": "ekadide-9410071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98761"
+    ],
+    "geo": {
+      "lat": "-3.829",
+      "lon": "136.451"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

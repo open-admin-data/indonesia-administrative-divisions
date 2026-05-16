@@ -1,0 +1,56 @@
+{
+  "id": "6172040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Singkawang Barat",
+    "en": "Singkawang Barat",
+    "slug": "singkawang-barat-6172040"
+  },
+  "code": {
+    "id": "6172040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6172",
+    "level": 2,
+    "name": {
+      "local": "Kota Singkawang",
+      "en": "Singkawang",
+      "slug": "singkawang-6172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6172",
+      "level": 2,
+      "name": {
+        "local": "Kota Singkawang",
+        "en": "Singkawang",
+        "slug": "singkawang-6172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.904",
+    "lon": "108.975"
+  },
+  "metadata": {},
+  "source": {}
+}

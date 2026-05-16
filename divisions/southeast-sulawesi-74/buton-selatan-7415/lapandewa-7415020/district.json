@@ -1,0 +1,56 @@
+{
+  "id": "7415020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lapandewa",
+    "en": "Lapandewa",
+    "slug": "lapandewa-7415020"
+  },
+  "code": {
+    "id": "7415020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7415",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buton Selatan",
+      "en": "Buton Selatan",
+      "slug": "buton-selatan-7415"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7415",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buton Selatan",
+        "en": "Buton Selatan",
+        "slug": "buton-selatan-7415"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.634",
+    "lon": "122.782"
+  },
+  "metadata": {},
+  "source": {}
+}

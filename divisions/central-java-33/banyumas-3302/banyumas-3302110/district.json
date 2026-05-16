@@ -1,0 +1,56 @@
+{
+  "id": "3302110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banyumas",
+    "en": "Banyumas",
+    "slug": "banyumas-3302110"
+  },
+  "code": {
+    "id": "3302110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banyumas",
+      "en": "Banyumas",
+      "slug": "banyumas-3302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyumas",
+        "en": "Banyumas",
+        "slug": "banyumas-3302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.529",
+    "lon": "109.271"
+  },
+  "metadata": {},
+  "source": {}
+}

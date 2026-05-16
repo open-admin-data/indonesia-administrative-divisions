@@ -1,0 +1,56 @@
+{
+  "id": "1108031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuta Cot Glie",
+    "en": "Kuta Cot Glie",
+    "slug": "kuta-cot-glie-1108031"
+  },
+  "code": {
+    "id": "1108031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Besar",
+      "en": "Aceh Besar",
+      "slug": "aceh-besar-1108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Besar",
+        "en": "Aceh Besar",
+        "slug": "aceh-besar-1108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 32
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.342",
+    "lon": "95.472"
+  },
+  "metadata": {},
+  "source": {}
+}

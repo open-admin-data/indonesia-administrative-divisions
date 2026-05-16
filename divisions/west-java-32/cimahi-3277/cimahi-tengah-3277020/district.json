@@ -1,0 +1,56 @@
+{
+  "id": "3277020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cimahi Tengah",
+    "en": "Cimahi Tengah",
+    "slug": "cimahi-tengah-3277020"
+  },
+  "code": {
+    "id": "3277020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3277",
+    "level": 2,
+    "name": {
+      "local": "Kota Cimahi",
+      "en": "Cimahi",
+      "slug": "cimahi-3277"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3277",
+      "level": 2,
+      "name": {
+        "local": "Kota Cimahi",
+        "en": "Cimahi",
+        "slug": "cimahi-3277"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.886",
+    "lon": "107.54"
+  },
+  "metadata": {},
+  "source": {}
+}

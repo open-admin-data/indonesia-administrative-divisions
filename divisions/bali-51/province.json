@@ -1,0 +1,31 @@
+{
+  "id": "51",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Bali",
+    "en": "Bali",
+    "slug": "bali-51"
+  },
+  "code": {
+    "id": "51",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 9,
+    "village": 653,
+    "district": 57
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.668",
+    "lon": "115.234"
+  },
+  "metadata": {},
+  "source": {}
+}

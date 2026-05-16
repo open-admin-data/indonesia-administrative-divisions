@@ -1,0 +1,56 @@
+{
+  "id": "1206072",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siantar Narumonda",
+    "en": "Siantar Narumonda",
+    "slug": "siantar-narumonda-1206072"
+  },
+  "code": {
+    "id": "1206072",
+    "iso": null
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toba Samosir",
+      "en": "Toba Samosir",
+      "slug": "toba-samosir-1206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.458",
+    "lon": "99.215"
+  },
+  "metadata": {},
+  "source": {}
+}

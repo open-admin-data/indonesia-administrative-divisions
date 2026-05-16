@@ -1,0 +1,56 @@
+{
+  "id": "6404053",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kaubun",
+    "en": "Kaubun",
+    "slug": "kaubun-6404053"
+  },
+  "code": {
+    "id": "6404053",
+    "iso": null
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Timur",
+      "en": "Kutai Timur",
+      "slug": "kutai-timur-6404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Timur",
+        "en": "Kutai Timur",
+        "slug": "kutai-timur-6404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.02",
+    "lon": "117.754"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,67 @@
+[
+  {
+    "id": "7104081001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Miangas",
+      "en": "Miangas",
+      "slug": "miangas-7104081001"
+    },
+    "code": {
+      "id": "7104081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7104081",
+      "level": 3,
+      "name": {
+        "local": "Miangas",
+        "en": "Miangas",
+        "slug": "miangas-7104081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Talaud",
+          "en": "Kepulauan Talaud",
+          "slug": "kepulauan-talaud-7104"
+        }
+      },
+      {
+        "id": "7104081",
+        "level": 3,
+        "name": {
+          "local": "Miangas",
+          "en": "Miangas",
+          "slug": "miangas-7104081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95889"
+    ],
+    "geo": {
+      "lat": "5.556",
+      "lon": "126.585"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

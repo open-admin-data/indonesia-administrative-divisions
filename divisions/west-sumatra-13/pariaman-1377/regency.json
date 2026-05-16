@@ -1,0 +1,48 @@
+{
+  "id": "1377",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Pariaman",
+    "en": "Pariaman",
+    "slug": "pariaman-1377"
+  },
+  "code": {
+    "id": "1377",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 71
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.629",
+    "lon": "100.138"
+  },
+  "metadata": {},
+  "source": {}
+}

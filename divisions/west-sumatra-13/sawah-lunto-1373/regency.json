@@ -1,0 +1,48 @@
+{
+  "id": "1373",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Sawah Lunto",
+    "en": "Sawah Lunto",
+    "slug": "sawah-lunto-1373"
+  },
+  "code": {
+    "id": "1373",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 37
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.675",
+    "lon": "100.768"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3214081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kiarapedes",
+    "en": "Kiarapedes",
+    "slug": "kiarapedes-3214081"
+  },
+  "code": {
+    "id": "3214081",
+    "iso": null
+  },
+  "parent": {
+    "id": "3214",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Purwakarta",
+      "en": "Purwakarta",
+      "slug": "purwakarta-3214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purwakarta",
+        "en": "Purwakarta",
+        "slug": "purwakarta-3214"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.645",
+    "lon": "107.566"
+  },
+  "metadata": {},
+  "source": {}
+}

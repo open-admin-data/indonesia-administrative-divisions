@@ -1,0 +1,48 @@
+{
+  "id": "3519",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Madiun",
+    "en": "Madiun",
+    "slug": "madiun-3519"
+  },
+  "code": {
+    "id": "3519",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 15,
+    "village": 183
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.539",
+    "lon": "111.653"
+  },
+  "metadata": {},
+  "source": {}
+}

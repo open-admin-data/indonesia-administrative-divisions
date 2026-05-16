@@ -1,0 +1,56 @@
+{
+  "id": "1109111",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Keumala",
+    "en": "Keumala",
+    "slug": "keumala-1109111"
+  },
+  "code": {
+    "id": "1109111",
+    "iso": null
+  },
+  "parent": {
+    "id": "1109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie",
+      "en": "Pidie",
+      "slug": "pidie-1109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie",
+        "en": "Pidie",
+        "slug": "pidie-1109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.219",
+    "lon": "95.866"
+  },
+  "metadata": {},
+  "source": {}
+}

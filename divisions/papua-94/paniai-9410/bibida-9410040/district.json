@@ -1,0 +1,56 @@
+{
+  "id": "9410040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bibida",
+    "en": "Bibida",
+    "slug": "bibida-9410040"
+  },
+  "code": {
+    "id": "9410040",
+    "iso": null
+  },
+  "parent": {
+    "id": "9410",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Paniai",
+      "en": "Paniai",
+      "slug": "paniai-9410"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paniai",
+        "en": "Paniai",
+        "slug": "paniai-9410"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.982",
+    "lon": "136.729"
+  },
+  "metadata": {},
+  "source": {}
+}

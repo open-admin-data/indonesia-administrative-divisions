@@ -1,0 +1,197 @@
+[
+  {
+    "id": "6474030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Belimbing",
+      "en": "Belimbing",
+      "slug": "belimbing-6474030003"
+    },
+    "code": {
+      "id": "6474030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6474030",
+      "level": 3,
+      "name": {
+        "local": "Bontang Barat",
+        "en": "Bontang Barat",
+        "slug": "bontang-barat-6474030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6474",
+        "level": 2,
+        "name": {
+          "local": "Kota Bontang",
+          "en": "Bontang",
+          "slug": "bontang-6474"
+        }
+      },
+      {
+        "id": "6474030",
+        "level": 3,
+        "name": {
+          "local": "Bontang Barat",
+          "en": "Bontang Barat",
+          "slug": "bontang-barat-6474030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75331"
+    ],
+    "geo": {
+      "lat": "0.153",
+      "lon": "117.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6474030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Telihan",
+      "en": "Gunung Telihan",
+      "slug": "gunung-telihan-6474030002"
+    },
+    "code": {
+      "id": "6474030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6474030",
+      "level": 3,
+      "name": {
+        "local": "Bontang Barat",
+        "en": "Bontang Barat",
+        "slug": "bontang-barat-6474030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6474",
+        "level": 2,
+        "name": {
+          "local": "Kota Bontang",
+          "en": "Bontang",
+          "slug": "bontang-6474"
+        }
+      },
+      {
+        "id": "6474030",
+        "level": 3,
+        "name": {
+          "local": "Bontang Barat",
+          "en": "Bontang Barat",
+          "slug": "bontang-barat-6474030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75331"
+    ],
+    "geo": {
+      "lat": "0.126",
+      "lon": "117.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6474030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kanaan",
+      "en": "Kanaan",
+      "slug": "kanaan-6474030001"
+    },
+    "code": {
+      "id": "6474030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6474030",
+      "level": 3,
+      "name": {
+        "local": "Bontang Barat",
+        "en": "Bontang Barat",
+        "slug": "bontang-barat-6474030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6474",
+        "level": 2,
+        "name": {
+          "local": "Kota Bontang",
+          "en": "Bontang",
+          "slug": "bontang-6474"
+        }
+      },
+      {
+        "id": "6474030",
+        "level": 3,
+        "name": {
+          "local": "Bontang Barat",
+          "en": "Bontang Barat",
+          "slug": "bontang-barat-6474030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75331"
+    ],
+    "geo": {
+      "lat": "0.135",
+      "lon": "117.459"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

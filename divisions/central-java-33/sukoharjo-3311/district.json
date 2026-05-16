@@ -1,0 +1,674 @@
+[
+  {
+    "id": "3311100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baki",
+      "en": "Baki",
+      "slug": "baki-3311100"
+    },
+    "code": {
+      "id": "3311100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.606",
+      "lon": "110.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bendosari",
+      "en": "Bendosari",
+      "slug": "bendosari-3311060"
+    },
+    "code": {
+      "id": "3311060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.682",
+      "lon": "110.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bulu",
+      "en": "Bulu",
+      "slug": "bulu-3311020"
+    },
+    "code": {
+      "id": "3311020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.771",
+      "lon": "110.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gatak",
+      "en": "Gatak",
+      "slug": "gatak-3311110"
+    },
+    "code": {
+      "id": "3311110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.593",
+      "lon": "110.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Grogol",
+      "en": "Grogol",
+      "slug": "grogol-3311090"
+    },
+    "code": {
+      "id": "3311090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.611",
+      "lon": "110.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kartasura",
+      "en": "Kartasura",
+      "slug": "kartasura-3311120"
+    },
+    "code": {
+      "id": "3311120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.559",
+      "lon": "110.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mojolaban",
+      "en": "Mojolaban",
+      "slug": "mojolaban-3311080"
+    },
+    "code": {
+      "id": "3311080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.596",
+      "lon": "110.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nguter",
+      "en": "Nguter",
+      "slug": "nguter-3311050"
+    },
+    "code": {
+      "id": "3311050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.742",
+      "lon": "110.879"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Polokarto",
+      "en": "Polokarto",
+      "slug": "polokarto-3311070"
+    },
+    "code": {
+      "id": "3311070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.646",
+      "lon": "110.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukoharjo",
+      "en": "Sukoharjo",
+      "slug": "sukoharjo-3311040"
+    },
+    "code": {
+      "id": "3311040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.675",
+      "lon": "110.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tawangsari",
+      "en": "Tawangsari",
+      "slug": "tawangsari-3311030"
+    },
+    "code": {
+      "id": "3311030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.727",
+      "lon": "110.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3311010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Weru",
+      "en": "Weru",
+      "slug": "weru-3311010"
+    },
+    "code": {
+      "id": "3311010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sukoharjo",
+          "en": "Sukoharjo",
+          "slug": "sukoharjo-3311"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.786",
+      "lon": "110.757"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

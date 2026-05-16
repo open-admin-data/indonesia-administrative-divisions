@@ -1,0 +1,56 @@
+{
+  "id": "1209100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Raya",
+    "en": "Raya",
+    "slug": "raya-1209100"
+  },
+  "code": {
+    "id": "1209100",
+    "iso": null
+  },
+  "parent": {
+    "id": "1209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Simalungun",
+      "en": "Simalungun",
+      "slug": "simalungun-1209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simalungun",
+        "en": "Simalungun",
+        "slug": "simalungun-1209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.979",
+    "lon": "98.885"
+  },
+  "metadata": {},
+  "source": {}
+}

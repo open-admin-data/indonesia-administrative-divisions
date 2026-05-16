@@ -1,0 +1,56 @@
+{
+  "id": "1704060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjung Kemuning",
+    "en": "Tanjung Kemuning",
+    "slug": "tanjung-kemuning-1704060"
+  },
+  "code": {
+    "id": "1704060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kaur",
+      "en": "Kaur",
+      "slug": "kaur-1704"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaur",
+        "en": "Kaur",
+        "slug": "kaur-1704"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.592",
+    "lon": "103.167"
+  },
+  "metadata": {},
+  "source": {}
+}

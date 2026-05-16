@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9433022002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Towenggi Ii",
+      "en": "Towenggi Ii",
+      "slug": "towenggi-ii-9433022002"
+    },
+    "code": {
+      "id": "9433022002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433022",
+      "level": 3,
+      "name": {
+        "local": "Gome Utara",
+        "en": "Gome Utara",
+        "slug": "gome-utara-9433022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433022",
+        "level": 3,
+        "name": {
+          "local": "Gome Utara",
+          "en": "Gome Utara",
+          "slug": "gome-utara-9433022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98964"
+    ],
+    "geo": {
+      "lat": "-3.902",
+      "lon": "137.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9433022001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Welenggaru",
+      "en": "Welenggaru",
+      "slug": "welenggaru-9433022001"
+    },
+    "code": {
+      "id": "9433022001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433022",
+      "level": 3,
+      "name": {
+        "local": "Gome Utara",
+        "en": "Gome Utara",
+        "slug": "gome-utara-9433022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433022",
+        "level": 3,
+        "name": {
+          "local": "Gome Utara",
+          "en": "Gome Utara",
+          "slug": "gome-utara-9433022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98964"
+    ],
+    "geo": {
+      "lat": "-3.902",
+      "lon": "137.585"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

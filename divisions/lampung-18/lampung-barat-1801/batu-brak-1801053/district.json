@@ -1,0 +1,56 @@
+{
+  "id": "1801053",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batu Brak",
+    "en": "Batu Brak",
+    "slug": "batu-brak-1801053"
+  },
+  "code": {
+    "id": "1801053",
+    "iso": null
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Barat",
+      "en": "Lampung Barat",
+      "slug": "lampung-barat-1801"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.096",
+    "lon": "104.173"
+  },
+  "metadata": {},
+  "source": {}
+}

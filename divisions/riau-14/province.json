@@ -1,0 +1,31 @@
+{
+  "id": "14",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Riau",
+    "en": "Riau",
+    "slug": "riau-14"
+  },
+  "code": {
+    "id": "14",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 12,
+    "village": 1876,
+    "district": 169
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.518",
+    "lon": "101.446"
+  },
+  "metadata": {},
+  "source": {}
+}

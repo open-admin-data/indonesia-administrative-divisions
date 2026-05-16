@@ -1,0 +1,48 @@
+{
+  "id": "1371",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Padang",
+    "en": "Padang",
+    "slug": "padang-1371"
+  },
+  "code": {
+    "id": "1371",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 104
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.876",
+    "lon": "100.387"
+  },
+  "metadata": {},
+  "source": {}
+}

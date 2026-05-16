@@ -1,0 +1,48 @@
+{
+  "id": "6304",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Barito Kuala",
+    "en": "Barito Kuala",
+    "slug": "barito-kuala-6304"
+  },
+  "code": {
+    "id": "6304",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Selatan",
+      "en": "South Kalimantan",
+      "slug": "south-kalimantan-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 199
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.978",
+    "lon": "114.766"
+  },
+  "metadata": {},
+  "source": {}
+}

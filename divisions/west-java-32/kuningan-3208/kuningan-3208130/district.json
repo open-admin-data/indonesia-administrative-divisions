@@ -1,0 +1,56 @@
+{
+  "id": "3208130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuningan",
+    "en": "Kuningan",
+    "slug": "kuningan-3208130"
+  },
+  "code": {
+    "id": "3208130",
+    "iso": null
+  },
+  "parent": {
+    "id": "3208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kuningan",
+      "en": "Kuningan",
+      "slug": "kuningan-3208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuningan",
+        "en": "Kuningan",
+        "slug": "kuningan-3208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.979",
+    "lon": "108.493"
+  },
+  "metadata": {},
+  "source": {}
+}

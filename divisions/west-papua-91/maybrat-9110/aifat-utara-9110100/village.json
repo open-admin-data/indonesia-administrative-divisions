@@ -1,0 +1,652 @@
+[
+  {
+    "id": "9110100003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ayawasi",
+      "en": "Ayawasi",
+      "slug": "ayawasi-9110100003"
+    },
+    "code": {
+      "id": "9110100003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.186",
+      "lon": "132.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ayawasi Selatan",
+      "en": "Ayawasi Selatan",
+      "slug": "ayawasi-selatan-9110100002"
+    },
+    "code": {
+      "id": "9110100002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.215",
+      "lon": "132.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ayawasi Timur",
+      "en": "Ayawasi Timur",
+      "slug": "ayawasi-timur-9110100004"
+    },
+    "code": {
+      "id": "9110100004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.161",
+      "lon": "132.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Fonatu",
+      "en": "Fonatu",
+      "slug": "fonatu-9110100001"
+    },
+    "code": {
+      "id": "9110100001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.188",
+      "lon": "132.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jarat",
+      "en": "Jarat",
+      "slug": "jarat-9110100007"
+    },
+    "code": {
+      "id": "9110100007",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.132",
+      "lon": "132.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Konja",
+      "en": "Konja",
+      "slug": "konja-9110100006"
+    },
+    "code": {
+      "id": "9110100006",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.142",
+      "lon": "132.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Maan",
+      "en": "Maan",
+      "slug": "maan-9110100005"
+    },
+    "code": {
+      "id": "9110100005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.151",
+      "lon": "132.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mosun",
+      "en": "Mosun",
+      "slug": "mosun-9110100009"
+    },
+    "code": {
+      "id": "9110100009",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.145",
+      "lon": "132.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Susai",
+      "en": "Susai",
+      "slug": "susai-9110100008"
+    },
+    "code": {
+      "id": "9110100008",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.14",
+      "lon": "132.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9110100010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wayane",
+      "en": "Wayane",
+      "slug": "wayane-9110100010"
+    },
+    "code": {
+      "id": "9110100010",
+      "iso": null
+    },
+    "parent": {
+      "id": "9110100",
+      "level": 3,
+      "name": {
+        "local": "Aifat Utara",
+        "en": "Aifat Utara",
+        "slug": "aifat-utara-9110100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maybrat",
+          "en": "Maybrat",
+          "slug": "maybrat-9110"
+        }
+      },
+      {
+        "id": "9110100",
+        "level": 3,
+        "name": {
+          "local": "Aifat Utara",
+          "en": "Aifat Utara",
+          "slug": "aifat-utara-9110100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98051"
+    ],
+    "geo": {
+      "lat": "-1.101",
+      "lon": "132.423"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

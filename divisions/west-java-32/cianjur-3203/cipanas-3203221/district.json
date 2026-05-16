@@ -1,0 +1,56 @@
+{
+  "id": "3203221",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cipanas",
+    "en": "Cipanas",
+    "slug": "cipanas-3203221"
+  },
+  "code": {
+    "id": "3203221",
+    "iso": null
+  },
+  "parent": {
+    "id": "3203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cianjur",
+      "en": "Cianjur",
+      "slug": "cianjur-3203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.722",
+    "lon": "107.014"
+  },
+  "metadata": {},
+  "source": {}
+}

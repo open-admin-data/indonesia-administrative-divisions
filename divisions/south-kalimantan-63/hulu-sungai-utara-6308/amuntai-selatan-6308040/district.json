@@ -1,0 +1,56 @@
+{
+  "id": "6308040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amuntai Selatan",
+    "en": "Amuntai Selatan",
+    "slug": "amuntai-selatan-6308040"
+  },
+  "code": {
+    "id": "6308040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Utara",
+      "en": "Hulu Sungai Utara",
+      "slug": "hulu-sungai-utara-6308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Utara",
+        "en": "Hulu Sungai Utara",
+        "slug": "hulu-sungai-utara-6308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 29
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.382",
+    "lon": "115.163"
+  },
+  "metadata": {},
+  "source": {}
+}

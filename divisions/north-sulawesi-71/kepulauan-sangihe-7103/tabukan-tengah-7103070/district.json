@@ -1,0 +1,56 @@
+{
+  "id": "7103070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tabukan Tengah",
+    "en": "Tabukan Tengah",
+    "slug": "tabukan-tengah-7103070"
+  },
+  "code": {
+    "id": "7103070",
+    "iso": null
+  },
+  "parent": {
+    "id": "7103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Sangihe",
+      "en": "Kepulauan Sangihe",
+      "slug": "kepulauan-sangihe-7103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sangihe",
+        "en": "Kepulauan Sangihe",
+        "slug": "kepulauan-sangihe-7103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.571",
+    "lon": "125.573"
+  },
+  "metadata": {},
+  "source": {}
+}

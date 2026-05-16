@@ -1,0 +1,56 @@
+{
+  "id": "2103060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Serasan",
+    "en": "Serasan",
+    "slug": "serasan-2103060"
+  },
+  "code": {
+    "id": "2103060",
+    "iso": null
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Natuna",
+      "en": "Natuna",
+      "slug": "natuna-2103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Natuna",
+        "en": "Natuna",
+        "slug": "natuna-2103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.545",
+    "lon": "109.051"
+  },
+  "metadata": {},
+  "source": {}
+}

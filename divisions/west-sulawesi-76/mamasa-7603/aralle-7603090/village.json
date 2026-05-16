@@ -1,0 +1,782 @@
+[
+  {
+    "id": "7603090001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aralle",
+      "en": "Aralle",
+      "slug": "aralle-7603090001"
+    },
+    "code": {
+      "id": "7603090001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.884",
+      "lon": "119.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aralle Selatan",
+      "en": "Aralle Selatan",
+      "slug": "aralle-selatan-7603090017"
+    },
+    "code": {
+      "id": "7603090017",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.893",
+      "lon": "119.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aralle Utara",
+      "en": "Aralle Utara",
+      "slug": "aralle-utara-7603090007"
+    },
+    "code": {
+      "id": "7603090007",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.866",
+      "lon": "119.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baruru",
+      "en": "Baruru",
+      "slug": "baruru-7603090010"
+    },
+    "code": {
+      "id": "7603090010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.823",
+      "lon": "119.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hahangan",
+      "en": "Hahangan",
+      "slug": "hahangan-7603090018"
+    },
+    "code": {
+      "id": "7603090018",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.901",
+      "lon": "119.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalabe",
+      "en": "Kalabe",
+      "slug": "kalabe-7603090019"
+    },
+    "code": {
+      "id": "7603090019",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.834",
+      "lon": "119.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pammoseang Pangga",
+      "en": "Pammoseang Pangga",
+      "slug": "pammoseang-pangga-7603090016"
+    },
+    "code": {
+      "id": "7603090016",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.946",
+      "lon": "119.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panetean",
+      "en": "Panetean",
+      "slug": "panetean-7603090004"
+    },
+    "code": {
+      "id": "7603090004",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.853",
+      "lon": "119.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ralleanak",
+      "en": "Ralleanak",
+      "slug": "ralleanak-7603090003"
+    },
+    "code": {
+      "id": "7603090003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.905",
+      "lon": "119.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ralleanak Utara",
+      "en": "Ralleanak Utara",
+      "slug": "ralleanak-utara-7603090015"
+    },
+    "code": {
+      "id": "7603090015",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.879",
+      "lon": "119.098"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Uhaidao",
+      "en": "Uhaidao",
+      "slug": "uhaidao-7603090009"
+    },
+    "code": {
+      "id": "7603090009",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.911",
+      "lon": "119.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7603090005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Uhailanu",
+      "en": "Uhailanu",
+      "slug": "uhailanu-7603090005"
+    },
+    "code": {
+      "id": "7603090005",
+      "iso": null
+    },
+    "parent": {
+      "id": "7603090",
+      "level": 3,
+      "name": {
+        "local": "Aralle",
+        "en": "Aralle",
+        "slug": "aralle-7603090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7603",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamasa",
+          "en": "Mamasa",
+          "slug": "mamasa-7603"
+        }
+      },
+      {
+        "id": "7603090",
+        "level": 3,
+        "name": {
+          "local": "Aralle",
+          "en": "Aralle",
+          "slug": "aralle-7603090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91373"
+    ],
+    "geo": {
+      "lat": "-2.906",
+      "lon": "119.148"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

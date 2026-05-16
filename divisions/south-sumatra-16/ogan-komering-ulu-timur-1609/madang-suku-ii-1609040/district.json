@@ -1,0 +1,56 @@
+{
+  "id": "1609040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Madang Suku Ii",
+    "en": "Madang Suku Ii",
+    "slug": "madang-suku-ii-1609040"
+  },
+  "code": {
+    "id": "1609040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1609",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Timur",
+      "en": "Ogan Komering Ulu Timur",
+      "slug": "ogan-komering-ulu-timur-1609"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu Timur",
+        "en": "Ogan Komering Ulu Timur",
+        "slug": "ogan-komering-ulu-timur-1609"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.061",
+    "lon": "104.51"
+  },
+  "metadata": {},
+  "source": {}
+}

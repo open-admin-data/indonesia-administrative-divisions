@@ -1,0 +1,56 @@
+{
+  "id": "3520071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sidorejo",
+    "en": "Sidorejo",
+    "slug": "sidorejo-3520071"
+  },
+  "code": {
+    "id": "3520071",
+    "iso": null
+  },
+  "parent": {
+    "id": "3520",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Magetan",
+      "en": "Magetan",
+      "slug": "magetan-3520"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.652",
+    "lon": "111.252"
+  },
+  "metadata": {},
+  "source": {}
+}

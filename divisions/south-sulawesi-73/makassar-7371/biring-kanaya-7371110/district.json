@@ -1,0 +1,56 @@
+{
+  "id": "7371110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Biring Kanaya",
+    "en": "Biring Kanaya",
+    "slug": "biring-kanaya-7371110"
+  },
+  "code": {
+    "id": "7371110",
+    "iso": null
+  },
+  "parent": {
+    "id": "7371",
+    "level": 2,
+    "name": {
+      "local": "Kota Makassar",
+      "en": "Makassar",
+      "slug": "makassar-7371"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7371",
+      "level": 2,
+      "name": {
+        "local": "Kota Makassar",
+        "en": "Makassar",
+        "slug": "makassar-7371"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.105",
+    "lon": "119.506"
+  },
+  "metadata": {},
+  "source": {}
+}

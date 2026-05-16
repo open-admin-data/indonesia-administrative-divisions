@@ -1,0 +1,48 @@
+{
+  "id": "5105",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Klungkung",
+    "en": "Klungkung",
+    "slug": "klungkung-5105"
+  },
+  "code": {
+    "id": "5105",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "Bali",
+      "en": "Bali",
+      "slug": "bali-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 56
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.534",
+    "lon": "115.403"
+  },
+  "metadata": {},
+  "source": {}
+}

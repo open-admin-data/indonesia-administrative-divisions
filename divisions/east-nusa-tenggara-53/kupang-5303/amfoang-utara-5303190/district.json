@@ -1,0 +1,56 @@
+{
+  "id": "5303190",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Amfoang Utara",
+    "en": "Amfoang Utara",
+    "slug": "amfoang-utara-5303190"
+  },
+  "code": {
+    "id": "5303190",
+    "iso": null
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kupang",
+      "en": "Kupang",
+      "slug": "kupang-5303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.506",
+    "lon": "123.876"
+  },
+  "metadata": {},
+  "source": {}
+}

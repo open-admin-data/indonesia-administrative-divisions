@@ -1,0 +1,56 @@
+{
+  "id": "6502020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Peso Hilir",
+    "en": "Peso Hilir",
+    "slug": "peso-hilir-6502020"
+  },
+  "code": {
+    "id": "6502020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bulungan",
+      "en": "Bulungan",
+      "slug": "bulungan-6502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bulungan",
+        "en": "Bulungan",
+        "slug": "bulungan-6502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.8",
+    "lon": "116.96"
+  },
+  "metadata": {},
+  "source": {}
+}

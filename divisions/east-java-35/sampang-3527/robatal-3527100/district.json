@@ -1,0 +1,56 @@
+{
+  "id": "3527100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Robatal",
+    "en": "Robatal",
+    "slug": "robatal-3527100"
+  },
+  "code": {
+    "id": "3527100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3527",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sampang",
+      "en": "Sampang",
+      "slug": "sampang-3527"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.008",
+    "lon": "113.286"
+  },
+  "metadata": {},
+  "source": {}
+}

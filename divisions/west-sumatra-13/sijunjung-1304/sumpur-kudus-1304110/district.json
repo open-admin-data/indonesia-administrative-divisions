@@ -1,0 +1,56 @@
+{
+  "id": "1304110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumpur Kudus",
+    "en": "Sumpur Kudus",
+    "slug": "sumpur-kudus-1304110"
+  },
+  "code": {
+    "id": "1304110",
+    "iso": null
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sijunjung",
+      "en": "Sijunjung",
+      "slug": "sijunjung-1304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sijunjung",
+        "en": "Sijunjung",
+        "slug": "sijunjung-1304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.454",
+    "lon": "100.942"
+  },
+  "metadata": {},
+  "source": {}
+}

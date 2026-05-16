@@ -1,0 +1,786 @@
+[
+  {
+    "id": "3327110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ampelgading",
+      "en": "Ampelgading",
+      "slug": "ampelgading-3327110"
+    },
+    "code": {
+      "id": "3327110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.941",
+      "lon": "109.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bantarbolang",
+      "en": "Bantarbolang",
+      "slug": "bantarbolang-3327060"
+    },
+    "code": {
+      "id": "3327060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.047",
+      "lon": "109.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belik",
+      "en": "Belik",
+      "slug": "belik-3327030"
+    },
+    "code": {
+      "id": "3327030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.16",
+      "lon": "109.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bodeh",
+      "en": "Bodeh",
+      "slug": "bodeh-3327050"
+    },
+    "code": {
+      "id": "3327050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.019",
+      "lon": "109.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Comal",
+      "en": "Comal",
+      "slug": "comal-3327120"
+    },
+    "code": {
+      "id": "3327120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.888",
+      "lon": "109.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moga",
+      "en": "Moga",
+      "slug": "moga-3327010"
+    },
+    "code": {
+      "id": "3327010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.127",
+      "lon": "109.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pemalang",
+      "en": "Pemalang",
+      "slug": "pemalang-3327080"
+    },
+    "code": {
+      "id": "3327080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.93",
+      "lon": "109.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Petarukan",
+      "en": "Petarukan",
+      "slug": "petarukan-3327100"
+    },
+    "code": {
+      "id": "3327100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.882",
+      "lon": "109.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulosari",
+      "en": "Pulosari",
+      "slug": "pulosari-3327020"
+    },
+    "code": {
+      "id": "3327020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.194",
+      "lon": "109.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Randudongkal",
+      "en": "Randudongkal",
+      "slug": "randudongkal-3327070"
+    },
+    "code": {
+      "id": "3327070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.05",
+      "lon": "109.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taman",
+      "en": "Taman",
+      "slug": "taman-3327090"
+    },
+    "code": {
+      "id": "3327090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.906",
+      "lon": "109.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulujami",
+      "en": "Ulujami",
+      "slug": "ulujami-3327130"
+    },
+    "code": {
+      "id": "3327130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.847",
+      "lon": "109.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Warungpring",
+      "en": "Warungpring",
+      "slug": "warungpring-3327011"
+    },
+    "code": {
+      "id": "3327011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.077",
+      "lon": "109.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3327040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Watukumpul",
+      "en": "Watukumpul",
+      "slug": "watukumpul-3327040"
+    },
+    "code": {
+      "id": "3327040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3327",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pemalang",
+          "en": "Pemalang",
+          "slug": "pemalang-3327"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.168",
+      "lon": "109.446"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "7208032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toribulu",
+    "en": "Toribulu",
+    "slug": "toribulu-7208032"
+  },
+  "code": {
+    "id": "7208032",
+    "iso": null
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Parigi Moutong",
+      "en": "Parigi Moutong",
+      "slug": "parigi-moutong-7208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Parigi Moutong",
+        "en": "Parigi Moutong",
+        "slug": "parigi-moutong-7208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.331",
+    "lon": "119.975"
+  },
+  "metadata": {},
+  "source": {}
+}

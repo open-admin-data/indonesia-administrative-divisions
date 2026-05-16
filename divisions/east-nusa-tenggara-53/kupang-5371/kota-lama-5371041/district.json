@@ -1,0 +1,56 @@
+{
+  "id": "5371041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Lama",
+    "en": "Kota Lama",
+    "slug": "kota-lama-5371041"
+  },
+  "code": {
+    "id": "5371041",
+    "iso": null
+  },
+  "parent": {
+    "id": "5371",
+    "level": 2,
+    "name": {
+      "local": "Kota Kupang",
+      "en": "Kupang",
+      "slug": "kupang-5371"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5371",
+      "level": 2,
+      "name": {
+        "local": "Kota Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5371"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.159",
+    "lon": "123.593"
+  },
+  "metadata": {},
+  "source": {}
+}

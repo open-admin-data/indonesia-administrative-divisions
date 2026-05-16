@@ -1,0 +1,56 @@
+{
+  "id": "1508020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tebo Tengah",
+    "en": "Tebo Tengah",
+    "slug": "tebo-tengah-1508020"
+  },
+  "code": {
+    "id": "1508020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1508",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tebo",
+      "en": "Tebo",
+      "slug": "tebo-1508"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1508",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tebo",
+        "en": "Tebo",
+        "slug": "tebo-1508"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.375",
+    "lon": "102.505"
+  },
+  "metadata": {},
+  "source": {}
+}

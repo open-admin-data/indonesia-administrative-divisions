@@ -1,0 +1,56 @@
+{
+  "id": "9109080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Senopi",
+    "en": "Senopi",
+    "slug": "senopi-9109080"
+  },
+  "code": {
+    "id": "9109080",
+    "iso": null
+  },
+  "parent": {
+    "id": "9109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tambrauw",
+      "en": "Tambrauw",
+      "slug": "tambrauw-9109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tambrauw",
+        "en": "Tambrauw",
+        "slug": "tambrauw-9109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.967",
+    "lon": "132.76"
+  },
+  "metadata": {},
+  "source": {}
+}

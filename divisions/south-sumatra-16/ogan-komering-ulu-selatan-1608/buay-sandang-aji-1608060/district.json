@@ -1,0 +1,56 @@
+{
+  "id": "1608060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Buay Sandang Aji",
+    "en": "Buay Sandang Aji",
+    "slug": "buay-sandang-aji-1608060"
+  },
+  "code": {
+    "id": "1608060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1608",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Selatan",
+      "en": "Ogan Komering Ulu Selatan",
+      "slug": "ogan-komering-ulu-selatan-1608"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu Selatan",
+        "en": "Ogan Komering Ulu Selatan",
+        "slug": "ogan-komering-ulu-selatan-1608"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.544",
+    "lon": "103.891"
+  },
+  "metadata": {},
+  "source": {}
+}

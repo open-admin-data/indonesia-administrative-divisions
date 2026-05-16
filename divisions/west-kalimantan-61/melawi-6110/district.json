@@ -1,0 +1,618 @@
+[
+  {
+    "id": "6110040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belimbing",
+      "en": "Belimbing",
+      "slug": "belimbing-6110040"
+    },
+    "code": {
+      "id": "6110040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.413",
+      "lon": "111.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belimbing Hulu",
+      "en": "Belimbing Hulu",
+      "slug": "belimbing-hulu-6110041"
+    },
+    "code": {
+      "id": "6110041",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.454",
+      "lon": "111.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ella Hilir",
+      "en": "Ella Hilir",
+      "slug": "ella-hilir-6110060"
+    },
+    "code": {
+      "id": "6110060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.532",
+      "lon": "112.063"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Menukung",
+      "en": "Menukung",
+      "slug": "menukung-6110070"
+    },
+    "code": {
+      "id": "6110070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.452",
+      "lon": "112.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nanga Pinoh",
+      "en": "Nanga Pinoh",
+      "slug": "nanga-pinoh-6110050"
+    },
+    "code": {
+      "id": "6110050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.328",
+      "lon": "111.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pinoh Selatan",
+      "en": "Pinoh Selatan",
+      "slug": "pinoh-selatan-6110051"
+    },
+    "code": {
+      "id": "6110051",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.625",
+      "lon": "111.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pinoh Utara",
+      "en": "Pinoh Utara",
+      "slug": "pinoh-utara-6110052"
+    },
+    "code": {
+      "id": "6110052",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.256",
+      "lon": "111.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sayan",
+      "en": "Sayan",
+      "slug": "sayan-6110030"
+    },
+    "code": {
+      "id": "6110030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.735",
+      "lon": "111.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sokan",
+      "en": "Sokan",
+      "slug": "sokan-6110010"
+    },
+    "code": {
+      "id": "6110010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.095",
+      "lon": "111.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Pinoh",
+      "en": "Tanah Pinoh",
+      "slug": "tanah-pinoh-6110020"
+    },
+    "code": {
+      "id": "6110020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.762",
+      "lon": "111.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6110021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanah Pinoh Barat",
+      "en": "Tanah Pinoh Barat",
+      "slug": "tanah-pinoh-barat-6110021"
+    },
+    "code": {
+      "id": "6110021",
+      "iso": null
+    },
+    "parent": {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6110",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Melawi",
+          "en": "Melawi",
+          "slug": "melawi-6110"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.772",
+      "lon": "111.394"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

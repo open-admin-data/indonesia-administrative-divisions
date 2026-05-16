@@ -1,0 +1,56 @@
+{
+  "id": "7603030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pana",
+    "en": "Pana",
+    "slug": "pana-7603030"
+  },
+  "code": {
+    "id": "7603030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamasa",
+      "en": "Mamasa",
+      "slug": "mamasa-7603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.048",
+    "lon": "119.547"
+  },
+  "metadata": {},
+  "source": {}
+}

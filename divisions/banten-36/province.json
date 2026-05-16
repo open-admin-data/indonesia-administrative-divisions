@@ -1,0 +1,31 @@
+{
+  "id": "36",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Banten",
+    "en": "Banten",
+    "slug": "banten-36"
+  },
+  "code": {
+    "id": "36",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 8,
+    "village": 1501,
+    "district": 155
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.174",
+    "lon": "106.157"
+  },
+  "metadata": {},
+  "source": {}
+}

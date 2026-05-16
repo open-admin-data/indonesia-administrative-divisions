@@ -1,0 +1,56 @@
+{
+  "id": "3672022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Grogol",
+    "en": "Grogol",
+    "slug": "grogol-3672022"
+  },
+  "code": {
+    "id": "3672022",
+    "iso": null
+  },
+  "parent": {
+    "id": "3672",
+    "level": 2,
+    "name": {
+      "local": "Kota Cilegon",
+      "en": "Cilegon",
+      "slug": "cilegon-3672"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3672",
+      "level": 2,
+      "name": {
+        "local": "Kota Cilegon",
+        "en": "Cilegon",
+        "slug": "cilegon-3672"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.971",
+    "lon": "106.019"
+  },
+  "metadata": {},
+  "source": {}
+}

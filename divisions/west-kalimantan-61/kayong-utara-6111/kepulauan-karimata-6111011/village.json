@@ -1,0 +1,197 @@
+[
+  {
+    "id": "6111011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Betok Jaya",
+      "en": "Betok Jaya",
+      "slug": "betok-jaya-6111011001"
+    },
+    "code": {
+      "id": "6111011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6111011",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Karimata",
+        "en": "Kepulauan Karimata",
+        "slug": "kepulauan-karimata-6111011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kayong Utara",
+          "en": "Kayong Utara",
+          "slug": "kayong-utara-6111"
+        }
+      },
+      {
+        "id": "6111011",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Karimata",
+          "en": "Kepulauan Karimata",
+          "slug": "kepulauan-karimata-6111011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78855"
+    ],
+    "geo": {
+      "lat": "-1.651",
+      "lon": "108.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6111011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Padang",
+      "en": "Padang",
+      "slug": "padang-6111011002"
+    },
+    "code": {
+      "id": "6111011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6111011",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Karimata",
+        "en": "Kepulauan Karimata",
+        "slug": "kepulauan-karimata-6111011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kayong Utara",
+          "en": "Kayong Utara",
+          "slug": "kayong-utara-6111"
+        }
+      },
+      {
+        "id": "6111011",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Karimata",
+          "en": "Kepulauan Karimata",
+          "slug": "kepulauan-karimata-6111011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78855"
+    ],
+    "geo": {
+      "lat": "-1.639",
+      "lon": "108.953"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6111011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pelapis",
+      "en": "Pelapis",
+      "slug": "pelapis-6111011003"
+    },
+    "code": {
+      "id": "6111011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6111011",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Karimata",
+        "en": "Kepulauan Karimata",
+        "slug": "kepulauan-karimata-6111011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6111",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kayong Utara",
+          "en": "Kayong Utara",
+          "slug": "kayong-utara-6111"
+        }
+      },
+      {
+        "id": "6111011",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Karimata",
+          "en": "Kepulauan Karimata",
+          "slug": "kepulauan-karimata-6111011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78855"
+    ],
+    "geo": {
+      "lat": "-1.231",
+      "lon": "109.23"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

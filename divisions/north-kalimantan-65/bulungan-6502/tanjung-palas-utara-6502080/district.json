@@ -1,0 +1,56 @@
+{
+  "id": "6502080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjung Palas Utara",
+    "en": "Tanjung Palas Utara",
+    "slug": "tanjung-palas-utara-6502080"
+  },
+  "code": {
+    "id": "6502080",
+    "iso": null
+  },
+  "parent": {
+    "id": "6502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bulungan",
+      "en": "Bulungan",
+      "slug": "bulungan-6502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bulungan",
+        "en": "Bulungan",
+        "slug": "bulungan-6502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.041",
+    "lon": "117.169"
+  },
+  "metadata": {},
+  "source": {}
+}

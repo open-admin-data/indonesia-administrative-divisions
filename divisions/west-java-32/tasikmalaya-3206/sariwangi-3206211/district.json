@@ -1,0 +1,56 @@
+{
+  "id": "3206211",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sariwangi",
+    "en": "Sariwangi",
+    "slug": "sariwangi-3206211"
+  },
+  "code": {
+    "id": "3206211",
+    "iso": null
+  },
+  "parent": {
+    "id": "3206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tasikmalaya",
+      "en": "Tasikmalaya",
+      "slug": "tasikmalaya-3206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tasikmalaya",
+        "en": "Tasikmalaya",
+        "slug": "tasikmalaya-3206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.295",
+    "lon": "108.06"
+  },
+  "metadata": {},
+  "source": {}
+}

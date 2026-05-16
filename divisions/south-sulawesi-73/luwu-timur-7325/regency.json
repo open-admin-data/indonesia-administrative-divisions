@@ -1,0 +1,48 @@
+{
+  "id": "7325",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Luwu Timur",
+    "en": "Luwu Timur",
+    "slug": "luwu-timur-7325"
+  },
+  "code": {
+    "id": "7325",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 124
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.583",
+    "lon": "121.171"
+  },
+  "metadata": {},
+  "source": {}
+}

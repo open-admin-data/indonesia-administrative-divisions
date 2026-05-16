@@ -1,0 +1,56 @@
+{
+  "id": "9112050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Anggi",
+    "en": "Anggi",
+    "slug": "anggi-9112050"
+  },
+  "code": {
+    "id": "9112050",
+    "iso": null
+  },
+  "parent": {
+    "id": "9112",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pegunungan Arfak",
+      "en": "Pegunungan Arfak",
+      "slug": "pegunungan-arfak-9112"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pegunungan Arfak",
+        "en": "Pegunungan Arfak",
+        "slug": "pegunungan-arfak-9112"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.309",
+    "lon": "133.903"
+  },
+  "metadata": {},
+  "source": {}
+}

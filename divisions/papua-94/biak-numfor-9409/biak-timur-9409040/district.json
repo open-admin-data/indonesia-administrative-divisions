@@ -1,0 +1,56 @@
+{
+  "id": "9409040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Biak Timur",
+    "en": "Biak Timur",
+    "slug": "biak-timur-9409040"
+  },
+  "code": {
+    "id": "9409040",
+    "iso": null
+  },
+  "parent": {
+    "id": "9409",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Biak Numfor",
+      "en": "Biak Numfor",
+      "slug": "biak-numfor-9409"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Biak Numfor",
+        "en": "Biak Numfor",
+        "slug": "biak-numfor-9409"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.175",
+    "lon": "136.196"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3201100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ciawi",
+    "en": "Ciawi",
+    "slug": "ciawi-3201100"
+  },
+  "code": {
+    "id": "3201100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bogor",
+      "en": "Bogor",
+      "slug": "bogor-3201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bogor",
+        "en": "Bogor",
+        "slug": "bogor-3201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.702",
+    "lon": "106.891"
+  },
+  "metadata": {},
+  "source": {}
+}

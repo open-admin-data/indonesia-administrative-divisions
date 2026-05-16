@@ -1,0 +1,56 @@
+{
+  "id": "3272050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cikole",
+    "en": "Cikole",
+    "slug": "cikole-3272050"
+  },
+  "code": {
+    "id": "3272050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3272",
+    "level": 2,
+    "name": {
+      "local": "Kota Sukabumi",
+      "en": "Sukabumi",
+      "slug": "sukabumi-3272"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3272",
+      "level": 2,
+      "name": {
+        "local": "Kota Sukabumi",
+        "en": "Sukabumi",
+        "slug": "sukabumi-3272"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.915",
+    "lon": "106.938"
+  },
+  "metadata": {},
+  "source": {}
+}

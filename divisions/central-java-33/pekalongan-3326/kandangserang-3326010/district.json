@@ -1,0 +1,56 @@
+{
+  "id": "3326010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kandangserang",
+    "en": "Kandangserang",
+    "slug": "kandangserang-3326010"
+  },
+  "code": {
+    "id": "3326010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pekalongan",
+      "en": "Pekalongan",
+      "slug": "pekalongan-3326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pekalongan",
+        "en": "Pekalongan",
+        "slug": "pekalongan-3326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.155",
+    "lon": "109.54"
+  },
+  "metadata": {},
+  "source": {}
+}

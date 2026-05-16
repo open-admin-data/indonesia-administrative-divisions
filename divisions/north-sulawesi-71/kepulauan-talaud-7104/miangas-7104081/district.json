@@ -1,0 +1,56 @@
+{
+  "id": "7104081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Miangas",
+    "en": "Miangas",
+    "slug": "miangas-7104081"
+  },
+  "code": {
+    "id": "7104081",
+    "iso": null
+  },
+  "parent": {
+    "id": "7104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Talaud",
+      "en": "Kepulauan Talaud",
+      "slug": "kepulauan-talaud-7104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Talaud",
+        "en": "Kepulauan Talaud",
+        "slug": "kepulauan-talaud-7104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.554",
+    "lon": "126.584"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "1312",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pasaman Barat",
+    "en": "Pasaman Barat",
+    "slug": "pasaman-barat-1312"
+  },
+  "code": {
+    "id": "1312",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.11",
+    "lon": "99.828"
+  },
+  "metadata": {},
+  "source": {}
+}

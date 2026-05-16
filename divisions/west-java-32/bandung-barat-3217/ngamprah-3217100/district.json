@@ -1,0 +1,56 @@
+{
+  "id": "3217100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngamprah",
+    "en": "Ngamprah",
+    "slug": "ngamprah-3217100"
+  },
+  "code": {
+    "id": "3217100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3217",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bandung Barat",
+      "en": "Bandung Barat",
+      "slug": "bandung-barat-3217"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3217",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bandung Barat",
+        "en": "Bandung Barat",
+        "slug": "bandung-barat-3217"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.834",
+    "lon": "107.513"
+  },
+  "metadata": {},
+  "source": {}
+}

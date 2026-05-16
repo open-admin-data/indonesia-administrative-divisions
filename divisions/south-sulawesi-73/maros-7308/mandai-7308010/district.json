@@ -1,0 +1,56 @@
+{
+  "id": "7308010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mandai",
+    "en": "Mandai",
+    "slug": "mandai-7308010"
+  },
+  "code": {
+    "id": "7308010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maros",
+      "en": "Maros",
+      "slug": "maros-7308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.085",
+    "lon": "119.561"
+  },
+  "metadata": {},
+  "source": {}
+}

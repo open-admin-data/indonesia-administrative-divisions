@@ -1,0 +1,56 @@
+{
+  "id": "1812070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Agung",
+    "en": "Gunung Agung",
+    "slug": "gunung-agung-1812070"
+  },
+  "code": {
+    "id": "1812070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1812",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulang Bawang Barat",
+      "en": "Tulang Bawang Barat",
+      "slug": "tulang-bawang-barat-1812"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1812",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulang Bawang Barat",
+        "en": "Tulang Bawang Barat",
+        "slug": "tulang-bawang-barat-1812"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.219",
+    "lon": "105.042"
+  },
+  "metadata": {},
+  "source": {}
+}

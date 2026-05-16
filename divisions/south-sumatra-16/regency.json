@@ -1,0 +1,818 @@
+[
+  {
+    "id": "1607",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Banyu Asin",
+      "en": "Banyu Asin",
+      "slug": "banyu-asin-1607"
+    },
+    "code": {
+      "id": "1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 19,
+      "village": 305
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.917",
+      "lon": "104.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1611",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Empat Lawang",
+      "en": "Empat Lawang",
+      "slug": "empat-lawang-1611"
+    },
+    "code": {
+      "id": "1611",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 156
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.61",
+      "lon": "103.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1604",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Lahat",
+      "en": "Lahat",
+      "slug": "lahat-1604"
+    },
+    "code": {
+      "id": "1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 24,
+      "village": 377
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.778",
+      "lon": "103.55"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1674",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Lubuklinggau",
+      "en": "Lubuklinggau",
+      "slug": "lubuklinggau-1674"
+    },
+    "code": {
+      "id": "1674",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.369",
+      "lon": "104.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1603",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Muara Enim",
+      "en": "Muara Enim",
+      "slug": "muara-enim-1603"
+    },
+    "code": {
+      "id": "1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 20,
+      "village": 255
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.656",
+      "lon": "103.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Musi Banyuasin",
+      "en": "Musi Banyuasin",
+      "slug": "musi-banyuasin-1606"
+    },
+    "code": {
+      "id": "1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 240
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.889",
+      "lon": "103.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1605",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Musi Rawas",
+      "en": "Musi Rawas",
+      "slug": "musi-rawas-1605"
+    },
+    "code": {
+      "id": "1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 199
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.244",
+      "lon": "103.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1613",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Musi Rawas Utara",
+      "en": "Musi Rawas Utara",
+      "slug": "musi-rawas-utara-1613"
+    },
+    "code": {
+      "id": "1613",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.735",
+      "lon": "102.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Ogan Ilir",
+      "en": "Ogan Ilir",
+      "slug": "ogan-ilir-1610"
+    },
+    "code": {
+      "id": "1610",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 16,
+      "village": 241
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.261",
+      "lon": "104.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1602",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Ogan Komering Ilir",
+      "en": "Ogan Komering Ilir",
+      "slug": "ogan-komering-ilir-1602"
+    },
+    "code": {
+      "id": "1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 18,
+      "village": 327
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.412",
+      "lon": "104.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu",
+      "en": "Ogan Komering Ulu",
+      "slug": "ogan-komering-ulu-1601"
+    },
+    "code": {
+      "id": "1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 157
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.166",
+      "lon": "104.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1608",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Selatan",
+      "en": "Ogan Komering Ulu Selatan",
+      "slug": "ogan-komering-ulu-selatan-1608"
+    },
+    "code": {
+      "id": "1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 19,
+      "village": 259
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.369",
+      "lon": "104.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Timur",
+      "en": "Ogan Komering Ulu Timur",
+      "slug": "ogan-komering-ulu-timur-1609"
+    },
+    "code": {
+      "id": "1609",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 20,
+      "village": 332
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.532",
+      "lon": "104.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Pagar Alam",
+      "en": "Pagar Alam",
+      "slug": "pagar-alam-1673"
+    },
+    "code": {
+      "id": "1673",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.326",
+      "lon": "102.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1671",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Palembang",
+      "en": "Palembang",
+      "slug": "palembang-1671"
+    },
+    "code": {
+      "id": "1671",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 18,
+      "village": 107
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.991",
+      "lon": "104.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1612",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Penukal Abab Lematang Ilir",
+      "en": "Penukal Abab Lematang Ilir",
+      "slug": "penukal-abab-lematang-ilir-1612"
+    },
+    "code": {
+      "id": "1612",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 75
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.31",
+      "lon": "103.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1672",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Prabumulih",
+      "en": "Prabumulih",
+      "slug": "prabumulih-1672"
+    },
+    "code": {
+      "id": "1672",
+      "iso": null
+    },
+    "parent": {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.039",
+      "lon": "103.197"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "1611",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Empat Lawang",
+    "en": "Empat Lawang",
+    "slug": "empat-lawang-1611"
+  },
+  "code": {
+    "id": "1611",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Selatan",
+      "en": "South Sumatra",
+      "slug": "south-sumatra-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 156
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.61",
+    "lon": "103.103"
+  },
+  "metadata": {},
+  "source": {}
+}

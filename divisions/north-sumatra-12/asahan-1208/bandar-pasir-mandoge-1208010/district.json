@@ -1,0 +1,56 @@
+{
+  "id": "1208010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Pasir Mandoge",
+    "en": "Bandar Pasir Mandoge",
+    "slug": "bandar-pasir-mandoge-1208010"
+  },
+  "code": {
+    "id": "1208010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Asahan",
+      "en": "Asahan",
+      "slug": "asahan-1208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Asahan",
+        "en": "Asahan",
+        "slug": "asahan-1208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.73",
+    "lon": "99.267"
+  },
+  "metadata": {},
+  "source": {}
+}

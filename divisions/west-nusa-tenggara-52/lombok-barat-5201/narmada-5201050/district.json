@@ -1,0 +1,56 @@
+{
+  "id": "5201050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Narmada",
+    "en": "Narmada",
+    "slug": "narmada-5201050"
+  },
+  "code": {
+    "id": "5201050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Barat",
+      "en": "Lombok Barat",
+      "slug": "lombok-barat-5201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Barat",
+        "en": "Lombok Barat",
+        "slug": "lombok-barat-5201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.518",
+    "lon": "116.247"
+  },
+  "metadata": {},
+  "source": {}
+}

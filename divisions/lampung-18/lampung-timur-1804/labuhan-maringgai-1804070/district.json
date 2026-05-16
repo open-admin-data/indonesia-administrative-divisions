@@ -1,0 +1,56 @@
+{
+  "id": "1804070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Labuhan Maringgai",
+    "en": "Labuhan Maringgai",
+    "slug": "labuhan-maringgai-1804070"
+  },
+  "code": {
+    "id": "1804070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1804",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Timur",
+      "en": "Lampung Timur",
+      "slug": "lampung-timur-1804"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Timur",
+        "en": "Lampung Timur",
+        "slug": "lampung-timur-1804"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.345",
+    "lon": "105.811"
+  },
+  "metadata": {},
+  "source": {}
+}

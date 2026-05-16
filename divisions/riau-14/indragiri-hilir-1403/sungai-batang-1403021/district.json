@@ -1,0 +1,56 @@
+{
+  "id": "1403021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Batang",
+    "en": "Sungai Batang",
+    "slug": "sungai-batang-1403021"
+  },
+  "code": {
+    "id": "1403021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indragiri Hilir",
+      "en": "Indragiri Hilir",
+      "slug": "indragiri-hilir-1403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indragiri Hilir",
+        "en": "Indragiri Hilir",
+        "slug": "indragiri-hilir-1403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.62",
+    "lon": "103.235"
+  },
+  "metadata": {},
+  "source": {}
+}

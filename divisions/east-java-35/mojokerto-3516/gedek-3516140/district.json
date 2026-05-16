@@ -1,0 +1,56 @@
+{
+  "id": "3516140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gedek",
+    "en": "Gedek",
+    "slug": "gedek-3516140"
+  },
+  "code": {
+    "id": "3516140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3516",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mojokerto",
+      "en": "Mojokerto",
+      "slug": "mojokerto-3516"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3516",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mojokerto",
+        "en": "Mojokerto",
+        "slug": "mojokerto-3516"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.44",
+    "lon": "112.396"
+  },
+  "metadata": {},
+  "source": {}
+}

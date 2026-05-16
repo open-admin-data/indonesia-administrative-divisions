@@ -1,0 +1,56 @@
+{
+  "id": "1214082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oou",
+    "en": "Oou",
+    "slug": "oou-1214082"
+  },
+  "code": {
+    "id": "1214082",
+    "iso": null
+  },
+  "parent": {
+    "id": "1214",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nias Selatan",
+      "en": "Nias Selatan",
+      "slug": "nias-selatan-1214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias Selatan",
+        "en": "Nias Selatan",
+        "slug": "nias-selatan-1214"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.818",
+    "lon": "97.642"
+  },
+  "metadata": {},
+  "source": {}
+}

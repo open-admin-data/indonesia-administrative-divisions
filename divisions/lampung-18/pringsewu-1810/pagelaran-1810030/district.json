@@ -1,0 +1,56 @@
+{
+  "id": "1810030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagelaran",
+    "en": "Pagelaran",
+    "slug": "pagelaran-1810030"
+  },
+  "code": {
+    "id": "1810030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1810",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pringsewu",
+      "en": "Pringsewu",
+      "slug": "pringsewu-1810"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.29",
+    "lon": "104.849"
+  },
+  "metadata": {},
+  "source": {}
+}

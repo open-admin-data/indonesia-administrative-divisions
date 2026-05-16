@@ -1,0 +1,48 @@
+{
+  "id": "6404",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kutai Timur",
+    "en": "Kutai Timur",
+    "slug": "kutai-timur-6404"
+  },
+  "code": {
+    "id": "6404",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Timur",
+      "en": "East Kalimantan",
+      "slug": "east-kalimantan-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 133
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.943",
+    "lon": "116.985"
+  },
+  "metadata": {},
+  "source": {}
+}

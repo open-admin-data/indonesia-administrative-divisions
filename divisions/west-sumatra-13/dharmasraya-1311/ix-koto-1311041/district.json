@@ -1,0 +1,56 @@
+{
+  "id": "1311041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ix Koto",
+    "en": "Ix Koto",
+    "slug": "ix-koto-1311041"
+  },
+  "code": {
+    "id": "1311041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dharmasraya",
+      "en": "Dharmasraya",
+      "slug": "dharmasraya-1311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.029",
+    "lon": "101.296"
+  },
+  "metadata": {},
+  "source": {}
+}

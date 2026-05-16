@@ -1,0 +1,56 @@
+{
+  "id": "3307020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kepil",
+    "en": "Kepil",
+    "slug": "kepil-3307020"
+  },
+  "code": {
+    "id": "3307020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wonosobo",
+      "en": "Wonosobo",
+      "slug": "wonosobo-3307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wonosobo",
+        "en": "Wonosobo",
+        "slug": "wonosobo-3307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.49",
+    "lon": "110.018"
+  },
+  "metadata": {},
+  "source": {}
+}

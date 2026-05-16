@@ -1,0 +1,56 @@
+{
+  "id": "9102021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Arguni Bawah",
+    "en": "Teluk Arguni Bawah",
+    "slug": "teluk-arguni-bawah-9102021"
+  },
+  "code": {
+    "id": "9102021",
+    "iso": null
+  },
+  "parent": {
+    "id": "9102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kaimana",
+      "en": "Kaimana",
+      "slug": "kaimana-9102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.22",
+    "lon": "133.509"
+  },
+  "metadata": {},
+  "source": {}
+}

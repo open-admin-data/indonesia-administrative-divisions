@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3206110010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jahiang",
+      "en": "Jahiang",
+      "slug": "jahiang-3206110010"
+    },
+    "code": {
+      "id": "3206110010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.392",
+      "lon": "108.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangmukti",
+      "en": "Karangmukti",
+      "slug": "karangmukti-3206110017"
+    },
+    "code": {
+      "id": "3206110017",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.368",
+      "lon": "108.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kawungsari",
+      "en": "Kawungsari",
+      "slug": "kawungsari-3206110012"
+    },
+    "code": {
+      "id": "3206110012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.384",
+      "lon": "107.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kutawaringin",
+      "en": "Kutawaringin",
+      "slug": "kutawaringin-3206110014"
+    },
+    "code": {
+      "id": "3206110014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.353",
+      "lon": "107.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Margalaksana",
+      "en": "Margalaksana",
+      "slug": "margalaksana-3206110019"
+    },
+    "code": {
+      "id": "3206110019",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.383",
+      "lon": "108.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Neglasari",
+      "en": "Neglasari",
+      "slug": "neglasari-3206110016"
+    },
+    "code": {
+      "id": "3206110016",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.368",
+      "lon": "107.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Salawu",
+      "en": "Salawu",
+      "slug": "salawu-3206110018"
+    },
+    "code": {
+      "id": "3206110018",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.378",
+      "lon": "107.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110020",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Serang",
+      "en": "Serang",
+      "slug": "serang-3206110020"
+    },
+    "code": {
+      "id": "3206110020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.368",
+      "lon": "108.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukarasa",
+      "en": "Sukarasa",
+      "slug": "sukarasa-3206110009"
+    },
+    "code": {
+      "id": "3206110009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.399",
+      "lon": "108.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sundawenang",
+      "en": "Sundawenang",
+      "slug": "sundawenang-3206110011"
+    },
+    "code": {
+      "id": "3206110011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.38",
+      "lon": "107.992"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjungsari",
+      "en": "Tanjungsari",
+      "slug": "tanjungsari-3206110015"
+    },
+    "code": {
+      "id": "3206110015",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.366",
+      "lon": "107.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3206110013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tenjowaringin",
+      "en": "Tenjowaringin",
+      "slug": "tenjowaringin-3206110013"
+    },
+    "code": {
+      "id": "3206110013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3206110",
+      "level": 3,
+      "name": {
+        "local": "Salawu",
+        "en": "Salawu",
+        "slug": "salawu-3206110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3206",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tasikmalaya",
+          "en": "Tasikmalaya",
+          "slug": "tasikmalaya-3206"
+        }
+      },
+      {
+        "id": "3206110",
+        "level": 3,
+        "name": {
+          "local": "Salawu",
+          "en": "Salawu",
+          "slug": "salawu-3206110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46471"
+    ],
+    "geo": {
+      "lat": "-7.341",
+      "lon": "107.938"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

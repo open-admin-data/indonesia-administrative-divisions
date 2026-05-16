@@ -1,0 +1,56 @@
+{
+  "id": "1304100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Koto Tujuh",
+    "en": "Koto Tujuh",
+    "slug": "koto-tujuh-1304100"
+  },
+  "code": {
+    "id": "1304100",
+    "iso": null
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sijunjung",
+      "en": "Sijunjung",
+      "slug": "sijunjung-1304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sijunjung",
+        "en": "Sijunjung",
+        "slug": "sijunjung-1304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.599",
+    "lon": "100.856"
+  },
+  "metadata": {},
+  "source": {}
+}

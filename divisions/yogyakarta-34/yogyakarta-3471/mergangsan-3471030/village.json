@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3471030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Brontokusuman",
+      "en": "Brontokusuman",
+      "slug": "brontokusuman-3471030001"
+    },
+    "code": {
+      "id": "3471030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471030",
+      "level": 3,
+      "name": {
+        "local": "Mergangsan",
+        "en": "Mergangsan",
+        "slug": "mergangsan-3471030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471030",
+        "level": 3,
+        "name": {
+          "local": "Mergangsan",
+          "en": "Mergangsan",
+          "slug": "mergangsan-3471030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55151"
+    ],
+    "geo": {
+      "lat": "-7.82",
+      "lon": "110.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Keparakan",
+      "en": "Keparakan",
+      "slug": "keparakan-3471030002"
+    },
+    "code": {
+      "id": "3471030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471030",
+      "level": 3,
+      "name": {
+        "local": "Mergangsan",
+        "en": "Mergangsan",
+        "slug": "mergangsan-3471030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471030",
+        "level": 3,
+        "name": {
+          "local": "Mergangsan",
+          "en": "Mergangsan",
+          "slug": "mergangsan-3471030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55151"
+    ],
+    "geo": {
+      "lat": "-7.813",
+      "lon": "110.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wirogunan",
+      "en": "Wirogunan",
+      "slug": "wirogunan-3471030003"
+    },
+    "code": {
+      "id": "3471030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471030",
+      "level": 3,
+      "name": {
+        "local": "Mergangsan",
+        "en": "Mergangsan",
+        "slug": "mergangsan-3471030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471030",
+        "level": 3,
+        "name": {
+          "local": "Mergangsan",
+          "en": "Mergangsan",
+          "slug": "mergangsan-3471030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55151"
+    ],
+    "geo": {
+      "lat": "-7.807",
+      "lon": "110.377"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

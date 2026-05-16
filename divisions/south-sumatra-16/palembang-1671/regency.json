@@ -1,0 +1,48 @@
+{
+  "id": "1671",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Palembang",
+    "en": "Palembang",
+    "slug": "palembang-1671"
+  },
+  "code": {
+    "id": "1671",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Selatan",
+      "en": "South Sumatra",
+      "slug": "south-sumatra-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 107
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.991",
+    "lon": "104.757"
+  },
+  "metadata": {},
+  "source": {}
+}

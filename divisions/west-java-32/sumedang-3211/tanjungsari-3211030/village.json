@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3211030027",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cijambu",
+      "en": "Cijambu",
+      "slug": "cijambu-3211030027"
+    },
+    "code": {
+      "id": "3211030027",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.824",
+      "lon": "107.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cinanjung",
+      "en": "Cinanjung",
+      "slug": "cinanjung-3211030001"
+    },
+    "code": {
+      "id": "3211030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.918",
+      "lon": "107.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gudang",
+      "en": "Gudang",
+      "slug": "gudang-3211030015"
+    },
+    "code": {
+      "id": "3211030015",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.894",
+      "lon": "107.807"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunungmanik",
+      "en": "Gunungmanik",
+      "slug": "gunungmanik-3211030008"
+    },
+    "code": {
+      "id": "3211030008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.906",
+      "lon": "107.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jatisari",
+      "en": "Jatisari",
+      "slug": "jatisari-3211030011"
+    },
+    "code": {
+      "id": "3211030011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.909",
+      "lon": "107.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030025",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kadakajaya",
+      "en": "Kadakajaya",
+      "slug": "kadakajaya-3211030025"
+    },
+    "code": {
+      "id": "3211030025",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.844",
+      "lon": "107.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kutamandiri",
+      "en": "Kutamandiri",
+      "slug": "kutamandiri-3211030012"
+    },
+    "code": {
+      "id": "3211030012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.914",
+      "lon": "107.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marga Jaya",
+      "en": "Marga Jaya",
+      "slug": "marga-jaya-3211030009"
+    },
+    "code": {
+      "id": "3211030009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.908",
+      "lon": "107.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Margaluyu",
+      "en": "Margaluyu",
+      "slug": "margaluyu-3211030014"
+    },
+    "code": {
+      "id": "3211030014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.891",
+      "lon": "107.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasigaran",
+      "en": "Pasigaran",
+      "slug": "pasigaran-3211030018"
+    },
+    "code": {
+      "id": "3211030018",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.872",
+      "lon": "107.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Raharja",
+      "en": "Raharja",
+      "slug": "raharja-3211030002"
+    },
+    "code": {
+      "id": "3211030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.923",
+      "lon": "107.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3211030010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjungsari",
+      "en": "Tanjungsari",
+      "slug": "tanjungsari-3211030010"
+    },
+    "code": {
+      "id": "3211030010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3211030",
+      "level": 3,
+      "name": {
+        "local": "Tanjungsari",
+        "en": "Tanjungsari",
+        "slug": "tanjungsari-3211030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3211",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumedang",
+          "en": "Sumedang",
+          "slug": "sumedang-3211"
+        }
+      },
+      {
+        "id": "3211030",
+        "level": 3,
+        "name": {
+          "local": "Tanjungsari",
+          "en": "Tanjungsari",
+          "slug": "tanjungsari-3211030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45362"
+    ],
+    "geo": {
+      "lat": "-6.844",
+      "lon": "107.793"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

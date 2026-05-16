@@ -1,0 +1,522 @@
+[
+  {
+    "id": "6403020005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dondang",
+      "en": "Dondang",
+      "slug": "dondang-6403020005"
+    },
+    "code": {
+      "id": "6403020005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.776",
+      "lon": "117.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403020002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Jawa Ilir",
+      "en": "Muara Jawa Ilir",
+      "slug": "muara-jawa-ilir-6403020002"
+    },
+    "code": {
+      "id": "6403020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.869",
+      "lon": "117.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403020008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Jawa Pesisir",
+      "en": "Muara Jawa Pesisir",
+      "slug": "muara-jawa-pesisir-6403020008"
+    },
+    "code": {
+      "id": "6403020008",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.847",
+      "lon": "117.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403020003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Jawa Tengah",
+      "en": "Muara Jawa Tengah",
+      "slug": "muara-jawa-tengah-6403020003"
+    },
+    "code": {
+      "id": "6403020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.852",
+      "lon": "117.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403020004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Jawa Ulu",
+      "en": "Muara Jawa Ulu",
+      "slug": "muara-jawa-ulu-6403020004"
+    },
+    "code": {
+      "id": "6403020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.814",
+      "lon": "117.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403020007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Kembang",
+      "en": "Muara Kembang",
+      "slug": "muara-kembang-6403020007"
+    },
+    "code": {
+      "id": "6403020007",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.813",
+      "lon": "117.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403020006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tamapole",
+      "en": "Tamapole",
+      "slug": "tamapole-6403020006"
+    },
+    "code": {
+      "id": "6403020006",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.763",
+      "lon": "117.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6403020001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Dalam",
+      "en": "Teluk Dalam",
+      "slug": "teluk-dalam-6403020001"
+    },
+    "code": {
+      "id": "6403020001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6403020",
+      "level": 3,
+      "name": {
+        "local": "Muara Jawa",
+        "en": "Muara Jawa",
+        "slug": "muara-jawa-6403020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kutai Kartanegara",
+          "en": "Kutai Kartanegara",
+          "slug": "kutai-kartanegara-6403"
+        }
+      },
+      {
+        "id": "6403020",
+        "level": 3,
+        "name": {
+          "local": "Muara Jawa",
+          "en": "Muara Jawa",
+          "slug": "muara-jawa-6403020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "75593"
+    ],
+    "geo": {
+      "lat": "-0.823",
+      "lon": "117.15"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "8109",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Buru Selatan",
+    "en": "Buru Selatan",
+    "slug": "buru-selatan-8109"
+  },
+  "code": {
+    "id": "8109",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 76
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.838",
+    "lon": "126.734"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7606020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Budong-budong",
+    "en": "Budong-budong",
+    "slug": "budong-budong-7606020"
+  },
+  "code": {
+    "id": "7606020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju Tengah",
+      "en": "Mamuju Tengah",
+      "slug": "mamuju-tengah-7606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju Tengah",
+        "en": "Mamuju Tengah",
+        "slug": "mamuju-tengah-7606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.155",
+    "lon": "119.263"
+  },
+  "metadata": {},
+  "source": {}
+}

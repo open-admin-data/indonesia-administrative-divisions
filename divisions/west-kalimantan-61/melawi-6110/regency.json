@@ -1,0 +1,48 @@
+{
+  "id": "6110",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Melawi",
+    "en": "Melawi",
+    "slug": "melawi-6110"
+  },
+  "code": {
+    "id": "6110",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 167
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.377",
+    "lon": "111.764"
+  },
+  "metadata": {},
+  "source": {}
+}

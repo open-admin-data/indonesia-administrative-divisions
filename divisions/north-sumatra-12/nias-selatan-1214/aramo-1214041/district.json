@@ -1,0 +1,56 @@
+{
+  "id": "1214041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aramo",
+    "en": "Aramo",
+    "slug": "aramo-1214041"
+  },
+  "code": {
+    "id": "1214041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1214",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nias Selatan",
+      "en": "Nias Selatan",
+      "slug": "nias-selatan-1214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias Selatan",
+        "en": "Nias Selatan",
+        "slug": "nias-selatan-1214"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.735",
+    "lon": "97.735"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "2102063",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bintan Pesisir",
+      "en": "Bintan Pesisir",
+      "slug": "bintan-pesisir-2102063"
+    },
+    "code": {
+      "id": "2102063",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.883",
+      "lon": "104.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bintan Timur",
+      "en": "Bintan Timur",
+      "slug": "bintan-timur-2102060"
+    },
+    "code": {
+      "id": "2102060",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.87",
+      "lon": "104.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bintan Utara",
+      "en": "Bintan Utara",
+      "slug": "bintan-utara-2102050"
+    },
+    "code": {
+      "id": "2102050",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.081",
+      "lon": "104.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunung Kijang",
+      "en": "Gunung Kijang",
+      "slug": "gunung-kijang-2102061"
+    },
+    "code": {
+      "id": "2102061",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.041",
+      "lon": "104.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mantang",
+      "en": "Mantang",
+      "slug": "mantang-2102062"
+    },
+    "code": {
+      "id": "2102062",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.78",
+      "lon": "104.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seri Kuala Lobam",
+      "en": "Seri Kuala Lobam",
+      "slug": "seri-kuala-lobam-2102052"
+    },
+    "code": {
+      "id": "2102052",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.022",
+      "lon": "104.297"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambelan",
+      "en": "Tambelan",
+      "slug": "tambelan-2102070"
+    },
+    "code": {
+      "id": "2102070",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.913",
+      "lon": "107.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Bintan",
+      "en": "Teluk Bintan",
+      "slug": "teluk-bintan-2102040"
+    },
+    "code": {
+      "id": "2102040",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.963",
+      "lon": "104.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Sebong",
+      "en": "Teluk Sebong",
+      "slug": "teluk-sebong-2102051"
+    },
+    "code": {
+      "id": "2102051",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.133",
+      "lon": "104.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102064",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Toapaya",
+      "en": "Toapaya",
+      "slug": "toapaya-2102064"
+    },
+    "code": {
+      "id": "2102064",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.025",
+      "lon": "104.55"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

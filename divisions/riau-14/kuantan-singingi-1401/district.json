@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1401040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Benai",
+      "en": "Benai",
+      "slug": "benai-1401040"
+    },
+    "code": {
+      "id": "1401040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.491",
+      "lon": "101.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cerenti",
+      "en": "Cerenti",
+      "slug": "cerenti-1401060"
+    },
+    "code": {
+      "id": "1401060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.493",
+      "lon": "101.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunung Toar",
+      "en": "Gunung Toar",
+      "slug": "gunung-toar-1401012"
+    },
+    "code": {
+      "id": "1401012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.605",
+      "lon": "101.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hulu Kuantan",
+      "en": "Hulu Kuantan",
+      "slug": "hulu-kuantan-1401011"
+    },
+    "code": {
+      "id": "1401011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.581",
+      "lon": "101.333"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Inuman",
+      "en": "Inuman",
+      "slug": "inuman-1401061"
+    },
+    "code": {
+      "id": "1401061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.5",
+      "lon": "101.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuantan Hilir",
+      "en": "Kuantan Hilir",
+      "slug": "kuantan-hilir-1401050"
+    },
+    "code": {
+      "id": "1401050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.41",
+      "lon": "101.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401053",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuantan Hilir Seberang",
+      "en": "Kuantan Hilir Seberang",
+      "slug": "kuantan-hilir-seberang-1401053"
+    },
+    "code": {
+      "id": "1401053",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.54",
+      "lon": "101.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuantan Mudik",
+      "en": "Kuantan Mudik",
+      "slug": "kuantan-mudik-1401010"
+    },
+    "code": {
+      "id": "1401010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 24
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.717",
+      "lon": "101.534"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuantan Tengah",
+      "en": "Kuantan Tengah",
+      "slug": "kuantan-tengah-1401030"
+    },
+    "code": {
+      "id": "1401030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.549",
+      "lon": "101.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Logas Tanah Darat",
+      "en": "Logas Tanah Darat",
+      "slug": "logas-tanah-darat-1401052"
+    },
+    "code": {
+      "id": "1401052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.25",
+      "lon": "101.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangean",
+      "en": "Pangean",
+      "slug": "pangean-1401051"
+    },
+    "code": {
+      "id": "1401051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.486",
+      "lon": "101.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401013",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pucuk Rantau",
+      "en": "Pucuk Rantau",
+      "slug": "pucuk-rantau-1401013"
+    },
+    "code": {
+      "id": "1401013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.827",
+      "lon": "101.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sentajo Raya",
+      "en": "Sentajo Raya",
+      "slug": "sentajo-raya-1401031"
+    },
+    "code": {
+      "id": "1401031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.407",
+      "lon": "101.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singingi",
+      "en": "Singingi",
+      "slug": "singingi-1401020"
+    },
+    "code": {
+      "id": "1401020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.456",
+      "lon": "101.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1401021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singingi Hilir",
+      "en": "Singingi Hilir",
+      "slug": "singingi-hilir-1401021"
+    },
+    "code": {
+      "id": "1401021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kuantan Singingi",
+          "en": "Kuantan Singingi",
+          "slug": "kuantan-singingi-1401"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.197",
+      "lon": "101.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

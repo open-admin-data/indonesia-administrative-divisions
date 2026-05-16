@@ -1,0 +1,56 @@
+{
+  "id": "9428070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rofaer",
+    "en": "Rofaer",
+    "slug": "rofaer-9428070"
+  },
+  "code": {
+    "id": "9428070",
+    "iso": null
+  },
+  "parent": {
+    "id": "9428",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamberamo Raya",
+      "en": "Mamberamo Raya",
+      "slug": "mamberamo-raya-9428"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9428",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamberamo Raya",
+        "en": "Mamberamo Raya",
+        "slug": "mamberamo-raya-9428"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.826",
+    "lon": "137.957"
+  },
+  "metadata": {},
+  "source": {}
+}

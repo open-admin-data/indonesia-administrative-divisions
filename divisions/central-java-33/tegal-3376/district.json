@@ -1,0 +1,226 @@
+[
+  {
+    "id": "3376040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Margadana",
+      "en": "Margadana",
+      "slug": "margadana-3376040"
+    },
+    "code": {
+      "id": "3376040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3376",
+      "level": 2,
+      "name": {
+        "local": "Kota Tegal",
+        "en": "Tegal",
+        "slug": "tegal-3376"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3376",
+        "level": 2,
+        "name": {
+          "local": "Kota Tegal",
+          "en": "Tegal",
+          "slug": "tegal-3376"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.873",
+      "lon": "109.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3376030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tegal Barat",
+      "en": "Tegal Barat",
+      "slug": "tegal-barat-3376030"
+    },
+    "code": {
+      "id": "3376030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3376",
+      "level": 2,
+      "name": {
+        "local": "Kota Tegal",
+        "en": "Tegal",
+        "slug": "tegal-3376"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3376",
+        "level": 2,
+        "name": {
+          "local": "Kota Tegal",
+          "en": "Tegal",
+          "slug": "tegal-3376"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.862",
+      "lon": "109.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3376010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tegal Selatan",
+      "en": "Tegal Selatan",
+      "slug": "tegal-selatan-3376010"
+    },
+    "code": {
+      "id": "3376010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3376",
+      "level": 2,
+      "name": {
+        "local": "Kota Tegal",
+        "en": "Tegal",
+        "slug": "tegal-3376"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3376",
+        "level": 2,
+        "name": {
+          "local": "Kota Tegal",
+          "en": "Tegal",
+          "slug": "tegal-3376"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.885",
+      "lon": "109.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3376020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tegal Timur",
+      "en": "Tegal Timur",
+      "slug": "tegal-timur-3376020"
+    },
+    "code": {
+      "id": "3376020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3376",
+      "level": 2,
+      "name": {
+        "local": "Kota Tegal",
+        "en": "Tegal",
+        "slug": "tegal-3376"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3376",
+        "level": 2,
+        "name": {
+          "local": "Kota Tegal",
+          "en": "Tegal",
+          "slug": "tegal-3376"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.866",
+      "lon": "109.147"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

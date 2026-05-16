@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1276050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binjai Barat",
+      "en": "Binjai Barat",
+      "slug": "binjai-barat-1276050"
+    },
+    "code": {
+      "id": "1276050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1276",
+      "level": 2,
+      "name": {
+        "local": "Kota Binjai",
+        "en": "Binjai",
+        "slug": "binjai-1276"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1276",
+        "level": 2,
+        "name": {
+          "local": "Kota Binjai",
+          "en": "Binjai",
+          "slug": "binjai-1276"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.625",
+      "lon": "98.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1276020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binjai Kota",
+      "en": "Binjai Kota",
+      "slug": "binjai-kota-1276020"
+    },
+    "code": {
+      "id": "1276020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1276",
+      "level": 2,
+      "name": {
+        "local": "Kota Binjai",
+        "en": "Binjai",
+        "slug": "binjai-1276"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1276",
+        "level": 2,
+        "name": {
+          "local": "Kota Binjai",
+          "en": "Binjai",
+          "slug": "binjai-1276"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.603",
+      "lon": "98.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1276010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binjai Selatan",
+      "en": "Binjai Selatan",
+      "slug": "binjai-selatan-1276010"
+    },
+    "code": {
+      "id": "1276010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1276",
+      "level": 2,
+      "name": {
+        "local": "Kota Binjai",
+        "en": "Binjai",
+        "slug": "binjai-1276"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1276",
+        "level": 2,
+        "name": {
+          "local": "Kota Binjai",
+          "en": "Binjai",
+          "slug": "binjai-1276"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.566",
+      "lon": "98.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1276030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binjai Timur",
+      "en": "Binjai Timur",
+      "slug": "binjai-timur-1276030"
+    },
+    "code": {
+      "id": "1276030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1276",
+      "level": 2,
+      "name": {
+        "local": "Kota Binjai",
+        "en": "Binjai",
+        "slug": "binjai-1276"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1276",
+        "level": 2,
+        "name": {
+          "local": "Kota Binjai",
+          "en": "Binjai",
+          "slug": "binjai-1276"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.599",
+      "lon": "98.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1276040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binjai Utara",
+      "en": "Binjai Utara",
+      "slug": "binjai-utara-1276040"
+    },
+    "code": {
+      "id": "1276040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1276",
+      "level": 2,
+      "name": {
+        "local": "Kota Binjai",
+        "en": "Binjai",
+        "slug": "binjai-1276"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1276",
+        "level": 2,
+        "name": {
+          "local": "Kota Binjai",
+          "en": "Binjai",
+          "slug": "binjai-1276"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.641",
+      "lon": "98.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

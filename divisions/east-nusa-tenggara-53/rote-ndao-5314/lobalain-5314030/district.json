@@ -1,0 +1,56 @@
+{
+  "id": "5314030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lobalain",
+    "en": "Lobalain",
+    "slug": "lobalain-5314030"
+  },
+  "code": {
+    "id": "5314030",
+    "iso": null
+  },
+  "parent": {
+    "id": "5314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rote Ndao",
+      "en": "Rote Ndao",
+      "slug": "rote-ndao-5314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rote Ndao",
+        "en": "Rote Ndao",
+        "slug": "rote-ndao-5314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.792",
+    "lon": "123.085"
+  },
+  "metadata": {},
+  "source": {}
+}

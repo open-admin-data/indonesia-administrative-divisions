@@ -1,0 +1,522 @@
+[
+  {
+    "id": "1208050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Asahan Mati",
+      "en": "Asahan Mati",
+      "slug": "asahan-mati-1208050005"
+    },
+    "code": {
+      "id": "1208050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.01",
+      "lon": "99.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bagan Asahan",
+      "en": "Bagan Asahan",
+      "slug": "bagan-asahan-1208050008"
+    },
+    "code": {
+      "id": "1208050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.03",
+      "lon": "99.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bagan Asahan Baru",
+      "en": "Bagan Asahan Baru",
+      "slug": "bagan-asahan-baru-1208050006"
+    },
+    "code": {
+      "id": "1208050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.005",
+      "lon": "99.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bagan Asahan Pekan",
+      "en": "Bagan Asahan Pekan",
+      "slug": "bagan-asahan-pekan-1208050007"
+    },
+    "code": {
+      "id": "1208050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.011",
+      "lon": "99.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kapias Batu Viii",
+      "en": "Kapias Batu Viii",
+      "slug": "kapias-batu-viii-1208050001"
+    },
+    "code": {
+      "id": "1208050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.028",
+      "lon": "99.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pematang Sungai Baru",
+      "en": "Pematang Sungai Baru",
+      "slug": "pematang-sungai-baru-1208050002"
+    },
+    "code": {
+      "id": "1208050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.062",
+      "lon": "99.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sei Apung Jaya",
+      "en": "Sei Apung Jaya",
+      "slug": "sei-apung-jaya-1208050003"
+    },
+    "code": {
+      "id": "1208050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.009",
+      "lon": "99.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Apung",
+      "en": "Sungai Apung",
+      "slug": "sungai-apung-1208050004"
+    },
+    "code": {
+      "id": "1208050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208050",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Balai",
+        "en": "Tanjung Balai",
+        "slug": "tanjung-balai-1208050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208050",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1208050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21345"
+    ],
+    "geo": {
+      "lat": "3.038",
+      "lon": "99.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

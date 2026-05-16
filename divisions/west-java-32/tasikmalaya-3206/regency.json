@@ -1,0 +1,48 @@
+{
+  "id": "3206",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tasikmalaya",
+    "en": "Tasikmalaya",
+    "slug": "tasikmalaya-3206"
+  },
+  "code": {
+    "id": "3206",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 39,
+    "village": 349
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.361",
+    "lon": "108.113"
+  },
+  "metadata": {},
+  "source": {}
+}

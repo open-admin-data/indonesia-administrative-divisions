@@ -1,0 +1,56 @@
+{
+  "id": "9429082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wusi",
+    "en": "Wusi",
+    "slug": "wusi-9429082"
+  },
+  "code": {
+    "id": "9429082",
+    "iso": null
+  },
+  "parent": {
+    "id": "9429",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nduga",
+      "en": "Nduga",
+      "slug": "nduga-9429"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9429",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nduga",
+        "en": "Nduga",
+        "slug": "nduga-9429"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.409",
+    "lon": "138.406"
+  },
+  "metadata": {},
+  "source": {}
+}

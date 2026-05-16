@@ -1,0 +1,56 @@
+{
+  "id": "8109040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waisama",
+    "en": "Waisama",
+    "slug": "waisama-8109040"
+  },
+  "code": {
+    "id": "8109040",
+    "iso": null
+  },
+  "parent": {
+    "id": "8109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buru Selatan",
+      "en": "Buru Selatan",
+      "slug": "buru-selatan-8109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru Selatan",
+        "en": "Buru Selatan",
+        "slug": "buru-selatan-8109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.647",
+    "lon": "127.037"
+  },
+  "metadata": {},
+  "source": {}
+}

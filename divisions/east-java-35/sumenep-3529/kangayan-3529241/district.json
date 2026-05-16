@@ -1,0 +1,56 @@
+{
+  "id": "3529241",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kangayan",
+    "en": "Kangayan",
+    "slug": "kangayan-3529241"
+  },
+  "code": {
+    "id": "3529241",
+    "iso": null
+  },
+  "parent": {
+    "id": "3529",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumenep",
+      "en": "Sumenep",
+      "slug": "sumenep-3529"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3529",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumenep",
+        "en": "Sumenep",
+        "slug": "sumenep-3529"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.889",
+    "lon": "115.462"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3578190001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Embong Kaliasin",
+      "en": "Embong Kaliasin",
+      "slug": "embong-kaliasin-3578190001"
+    },
+    "code": {
+      "id": "3578190001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578190",
+      "level": 3,
+      "name": {
+        "local": "Genteng",
+        "en": "Genteng",
+        "slug": "genteng-3578190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578190",
+        "level": 3,
+        "name": {
+          "local": "Genteng",
+          "en": "Genteng",
+          "slug": "genteng-3578190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60271"
+    ],
+    "geo": {
+      "lat": "-7.268",
+      "lon": "112.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578190005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kapasari",
+      "en": "Kapasari",
+      "slug": "kapasari-3578190005"
+    },
+    "code": {
+      "id": "3578190005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578190",
+      "level": 3,
+      "name": {
+        "local": "Genteng",
+        "en": "Genteng",
+        "slug": "genteng-3578190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578190",
+        "level": 3,
+        "name": {
+          "local": "Genteng",
+          "en": "Genteng",
+          "slug": "genteng-3578190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60271"
+    ],
+    "geo": {
+      "lat": "-7.248",
+      "lon": "112.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578190002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ketabang",
+      "en": "Ketabang",
+      "slug": "ketabang-3578190002"
+    },
+    "code": {
+      "id": "3578190002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578190",
+      "level": 3,
+      "name": {
+        "local": "Genteng",
+        "en": "Genteng",
+        "slug": "genteng-3578190"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578190",
+        "level": 3,
+        "name": {
+          "local": "Genteng",
+          "en": "Genteng",
+          "slug": "genteng-3578190"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60271"
+    ],
+    "geo": {
+      "lat": "-7.259",
+      "lon": "112.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

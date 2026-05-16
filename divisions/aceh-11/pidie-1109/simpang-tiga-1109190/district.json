@@ -1,0 +1,56 @@
+{
+  "id": "1109190",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Tiga",
+    "en": "Simpang Tiga",
+    "slug": "simpang-tiga-1109190"
+  },
+  "code": {
+    "id": "1109190",
+    "iso": null
+  },
+  "parent": {
+    "id": "1109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie",
+      "en": "Pidie",
+      "slug": "pidie-1109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie",
+        "en": "Pidie",
+        "slug": "pidie-1109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.341",
+    "lon": "95.996"
+  },
+  "metadata": {},
+  "source": {}
+}

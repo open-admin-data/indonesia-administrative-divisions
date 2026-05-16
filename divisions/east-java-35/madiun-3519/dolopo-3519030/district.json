@@ -1,0 +1,56 @@
+{
+  "id": "3519030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dolopo",
+    "en": "Dolopo",
+    "slug": "dolopo-3519030"
+  },
+  "code": {
+    "id": "3519030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3519",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Madiun",
+      "en": "Madiun",
+      "slug": "madiun-3519"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.773",
+    "lon": "111.546"
+  },
+  "metadata": {},
+  "source": {}
+}

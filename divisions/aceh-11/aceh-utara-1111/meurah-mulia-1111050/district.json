@@ -1,0 +1,56 @@
+{
+  "id": "1111050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Meurah Mulia",
+    "en": "Meurah Mulia",
+    "slug": "meurah-mulia-1111050"
+  },
+  "code": {
+    "id": "1111050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Utara",
+      "en": "Aceh Utara",
+      "slug": "aceh-utara-1111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Utara",
+        "en": "Aceh Utara",
+        "slug": "aceh-utara-1111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 50
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.061",
+    "lon": "97.19"
+  },
+  "metadata": {},
+  "source": {}
+}

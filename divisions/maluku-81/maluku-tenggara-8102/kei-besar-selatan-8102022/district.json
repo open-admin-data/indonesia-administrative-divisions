@@ -1,0 +1,56 @@
+{
+  "id": "8102022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kei Besar Selatan",
+    "en": "Kei Besar Selatan",
+    "slug": "kei-besar-selatan-8102022"
+  },
+  "code": {
+    "id": "8102022",
+    "iso": null
+  },
+  "parent": {
+    "id": "8102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tenggara",
+      "en": "Maluku Tenggara",
+      "slug": "maluku-tenggara-8102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tenggara",
+        "en": "Maluku Tenggara",
+        "slug": "maluku-tenggara-8102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.838",
+    "lon": "132.921"
+  },
+  "metadata": {},
+  "source": {}
+}

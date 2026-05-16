@@ -1,0 +1,48 @@
+{
+  "id": "3306",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Purworejo",
+    "en": "Purworejo",
+    "slug": "purworejo-3306"
+  },
+  "code": {
+    "id": "3306",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 465
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.714",
+    "lon": "110.008"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "7173022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomohon Barat",
+      "en": "Tomohon Barat",
+      "slug": "tomohon-barat-7173022"
+    },
+    "code": {
+      "id": "7173022",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173",
+      "level": 2,
+      "name": {
+        "local": "Kota Tomohon",
+        "en": "Tomohon",
+        "slug": "tomohon-7173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.323",
+      "lon": "124.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomohon Selatan",
+      "en": "Tomohon Selatan",
+      "slug": "tomohon-selatan-7173010"
+    },
+    "code": {
+      "id": "7173010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173",
+      "level": 2,
+      "name": {
+        "local": "Kota Tomohon",
+        "en": "Tomohon",
+        "slug": "tomohon-7173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.285",
+      "lon": "124.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomohon Tengah",
+      "en": "Tomohon Tengah",
+      "slug": "tomohon-tengah-7173020"
+    },
+    "code": {
+      "id": "7173020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173",
+      "level": 2,
+      "name": {
+        "local": "Kota Tomohon",
+        "en": "Tomohon",
+        "slug": "tomohon-7173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.319",
+      "lon": "124.845"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomohon Timur",
+      "en": "Tomohon Timur",
+      "slug": "tomohon-timur-7173021"
+    },
+    "code": {
+      "id": "7173021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173",
+      "level": 2,
+      "name": {
+        "local": "Kota Tomohon",
+        "en": "Tomohon",
+        "slug": "tomohon-7173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.336",
+      "lon": "124.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7173030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomohon Utara",
+      "en": "Tomohon Utara",
+      "slug": "tomohon-utara-7173030"
+    },
+    "code": {
+      "id": "7173030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7173",
+      "level": 2,
+      "name": {
+        "local": "Kota Tomohon",
+        "en": "Tomohon",
+        "slug": "tomohon-7173"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7173",
+        "level": 2,
+        "name": {
+          "local": "Kota Tomohon",
+          "en": "Tomohon",
+          "slug": "tomohon-7173"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.363",
+      "lon": "124.82"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

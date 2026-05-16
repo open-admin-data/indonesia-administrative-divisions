@@ -1,0 +1,327 @@
+[
+  {
+    "id": "1272040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Keramat Kubah",
+      "en": "Keramat Kubah",
+      "slug": "keramat-kubah-1272040002"
+    },
+    "code": {
+      "id": "1272040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1272040",
+      "level": 3,
+      "name": {
+        "local": "Sei Tualang Raso",
+        "en": "Sei Tualang Raso",
+        "slug": "sei-tualang-raso-1272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1272",
+        "level": 2,
+        "name": {
+          "local": "Kota Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1272"
+        }
+      },
+      {
+        "id": "1272040",
+        "level": 3,
+        "name": {
+          "local": "Sei Tualang Raso",
+          "en": "Sei Tualang Raso",
+          "slug": "sei-tualang-raso-1272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21341"
+    ],
+    "geo": {
+      "lat": "2.974",
+      "lon": "99.806"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1272040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Sentosa",
+      "en": "Muara Sentosa",
+      "slug": "muara-sentosa-1272040004"
+    },
+    "code": {
+      "id": "1272040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1272040",
+      "level": 3,
+      "name": {
+        "local": "Sei Tualang Raso",
+        "en": "Sei Tualang Raso",
+        "slug": "sei-tualang-raso-1272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1272",
+        "level": 2,
+        "name": {
+          "local": "Kota Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1272"
+        }
+      },
+      {
+        "id": "1272040",
+        "level": 3,
+        "name": {
+          "local": "Sei Tualang Raso",
+          "en": "Sei Tualang Raso",
+          "slug": "sei-tualang-raso-1272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21341"
+    ],
+    "geo": {
+      "lat": "2.978",
+      "lon": "99.795"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1272040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasar Baru",
+      "en": "Pasar Baru",
+      "slug": "pasar-baru-1272040001"
+    },
+    "code": {
+      "id": "1272040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1272040",
+      "level": 3,
+      "name": {
+        "local": "Sei Tualang Raso",
+        "en": "Sei Tualang Raso",
+        "slug": "sei-tualang-raso-1272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1272",
+        "level": 2,
+        "name": {
+          "local": "Kota Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1272"
+        }
+      },
+      {
+        "id": "1272040",
+        "level": 3,
+        "name": {
+          "local": "Sei Tualang Raso",
+          "en": "Sei Tualang Raso",
+          "slug": "sei-tualang-raso-1272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21341"
+    ],
+    "geo": {
+      "lat": "2.975",
+      "lon": "99.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1272040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sei Raja",
+      "en": "Sei Raja",
+      "slug": "sei-raja-1272040005"
+    },
+    "code": {
+      "id": "1272040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1272040",
+      "level": 3,
+      "name": {
+        "local": "Sei Tualang Raso",
+        "en": "Sei Tualang Raso",
+        "slug": "sei-tualang-raso-1272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1272",
+        "level": 2,
+        "name": {
+          "local": "Kota Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1272"
+        }
+      },
+      {
+        "id": "1272040",
+        "level": 3,
+        "name": {
+          "local": "Sei Tualang Raso",
+          "en": "Sei Tualang Raso",
+          "slug": "sei-tualang-raso-1272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21341"
+    ],
+    "geo": {
+      "lat": "2.989",
+      "lon": "99.785"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1272040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumber Sari",
+      "en": "Sumber Sari",
+      "slug": "sumber-sari-1272040003"
+    },
+    "code": {
+      "id": "1272040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1272040",
+      "level": 3,
+      "name": {
+        "local": "Sei Tualang Raso",
+        "en": "Sei Tualang Raso",
+        "slug": "sei-tualang-raso-1272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1272",
+        "level": 2,
+        "name": {
+          "local": "Kota Tanjung Balai",
+          "en": "Tanjung Balai",
+          "slug": "tanjung-balai-1272"
+        }
+      },
+      {
+        "id": "1272040",
+        "level": 3,
+        "name": {
+          "local": "Sei Tualang Raso",
+          "en": "Sei Tualang Raso",
+          "slug": "sei-tualang-raso-1272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21341"
+    ],
+    "geo": {
+      "lat": "2.978",
+      "lon": "99.799"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

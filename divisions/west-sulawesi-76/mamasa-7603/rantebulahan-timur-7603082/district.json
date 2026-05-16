@@ -1,0 +1,56 @@
+{
+  "id": "7603082",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rantebulahan Timur",
+    "en": "Rantebulahan Timur",
+    "slug": "rantebulahan-timur-7603082"
+  },
+  "code": {
+    "id": "7603082",
+    "iso": null
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamasa",
+      "en": "Mamasa",
+      "slug": "mamasa-7603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamasa",
+        "en": "Mamasa",
+        "slug": "mamasa-7603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.989",
+    "lon": "119.228"
+  },
+  "metadata": {},
+  "source": {}
+}

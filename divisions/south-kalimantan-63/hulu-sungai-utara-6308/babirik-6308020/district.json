@@ -1,0 +1,56 @@
+{
+  "id": "6308020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Babirik",
+    "en": "Babirik",
+    "slug": "babirik-6308020"
+  },
+  "code": {
+    "id": "6308020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Utara",
+      "en": "Hulu Sungai Utara",
+      "slug": "hulu-sungai-utara-6308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Utara",
+        "en": "Hulu Sungai Utara",
+        "slug": "hulu-sungai-utara-6308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.517",
+    "lon": "115.116"
+  },
+  "metadata": {},
+  "source": {}
+}

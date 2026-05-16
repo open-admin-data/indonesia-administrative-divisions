@@ -1,0 +1,56 @@
+{
+  "id": "3673040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Serang",
+    "en": "Serang",
+    "slug": "serang-3673040"
+  },
+  "code": {
+    "id": "3673040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3673",
+    "level": 2,
+    "name": {
+      "local": "Kota Serang",
+      "en": "Serang",
+      "slug": "serang-3673"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3673",
+      "level": 2,
+      "name": {
+        "local": "Kota Serang",
+        "en": "Serang",
+        "slug": "serang-3673"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.11",
+    "lon": "106.166"
+  },
+  "metadata": {},
+  "source": {}
+}

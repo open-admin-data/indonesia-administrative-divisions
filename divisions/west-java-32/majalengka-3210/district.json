@@ -1,0 +1,1458 @@
+[
+  {
+    "id": "3210050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Argapura",
+      "en": "Argapura",
+      "slug": "argapura-3210050"
+    },
+    "code": {
+      "id": "3210050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.893",
+      "lon": "108.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjaran",
+      "en": "Banjaran",
+      "slug": "banjaran-3210041"
+    },
+    "code": {
+      "id": "3210041",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.956",
+      "lon": "108.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bantarujeg",
+      "en": "Bantarujeg",
+      "slug": "bantarujeg-3210020"
+    },
+    "code": {
+      "id": "3210020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.974",
+      "lon": "108.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cigasong",
+      "en": "Cigasong",
+      "slug": "cigasong-3210080"
+    },
+    "code": {
+      "id": "3210080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.825",
+      "lon": "108.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikijing",
+      "en": "Cikijing",
+      "slug": "cikijing-3210030"
+    },
+    "code": {
+      "id": "3210030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.002",
+      "lon": "108.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cingambul",
+      "en": "Cingambul",
+      "slug": "cingambul-3210031"
+    },
+    "code": {
+      "id": "3210031",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.041",
+      "lon": "108.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dawuan",
+      "en": "Dawuan",
+      "slug": "dawuan-3210150"
+    },
+    "code": {
+      "id": "3210150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.725",
+      "lon": "108.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jatitujuh",
+      "en": "Jatitujuh",
+      "slug": "jatitujuh-3210190"
+    },
+    "code": {
+      "id": "3210190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.629",
+      "lon": "108.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jatiwangi",
+      "en": "Jatiwangi",
+      "slug": "jatiwangi-3210140"
+    },
+    "code": {
+      "id": "3210140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.752",
+      "lon": "108.257"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kadipaten",
+      "en": "Kadipaten",
+      "slug": "kadipaten-3210170"
+    },
+    "code": {
+      "id": "3210170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.755",
+      "lon": "108.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210151",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kasokandel",
+      "en": "Kasokandel",
+      "slug": "kasokandel-3210151"
+    },
+    "code": {
+      "id": "3210151",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.778",
+      "lon": "108.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kertajati",
+      "en": "Kertajati",
+      "slug": "kertajati-3210180"
+    },
+    "code": {
+      "id": "3210180",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.638",
+      "lon": "108.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lemahsugih",
+      "en": "Lemahsugih",
+      "slug": "lemahsugih-3210010"
+    },
+    "code": {
+      "id": "3210010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.008",
+      "lon": "108.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leuwimunding",
+      "en": "Leuwimunding",
+      "slug": "leuwimunding-3210120"
+    },
+    "code": {
+      "id": "3210120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.744",
+      "lon": "108.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ligung",
+      "en": "Ligung",
+      "slug": "ligung-3210200"
+    },
+    "code": {
+      "id": "3210200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.663",
+      "lon": "108.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maja",
+      "en": "Maja",
+      "slug": "maja-3210060"
+    },
+    "code": {
+      "id": "3210060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.901",
+      "lon": "108.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Majalengka",
+      "en": "Majalengka",
+      "slug": "majalengka-3210070"
+    },
+    "code": {
+      "id": "3210070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.851",
+      "lon": "108.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malausma",
+      "en": "Malausma",
+      "slug": "malausma-3210021"
+    },
+    "code": {
+      "id": "3210021",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.035",
+      "lon": "108.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Palasah",
+      "en": "Palasah",
+      "slug": "palasah-3210130"
+    },
+    "code": {
+      "id": "3210130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.74",
+      "lon": "108.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panyingkiran",
+      "en": "Panyingkiran",
+      "slug": "panyingkiran-3210160"
+    },
+    "code": {
+      "id": "3210160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.816",
+      "lon": "108.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rajagaluh",
+      "en": "Rajagaluh",
+      "slug": "rajagaluh-3210100"
+    },
+    "code": {
+      "id": "3210100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.834",
+      "lon": "108.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sindang",
+      "en": "Sindang",
+      "slug": "sindang-3210091"
+    },
+    "code": {
+      "id": "3210091",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.833",
+      "lon": "108.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sindangwangi",
+      "en": "Sindangwangi",
+      "slug": "sindangwangi-3210110"
+    },
+    "code": {
+      "id": "3210110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.824",
+      "lon": "108.377"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukahaji",
+      "en": "Sukahaji",
+      "slug": "sukahaji-3210090"
+    },
+    "code": {
+      "id": "3210090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.821",
+      "lon": "108.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumberjaya",
+      "en": "Sumberjaya",
+      "slug": "sumberjaya-3210210"
+    },
+    "code": {
+      "id": "3210210",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.69",
+      "lon": "108.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3210040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Talaga",
+      "en": "Talaga",
+      "slug": "talaga-3210040"
+    },
+    "code": {
+      "id": "3210040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Majalengka",
+          "en": "Majalengka",
+          "slug": "majalengka-3210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.981",
+      "lon": "108.334"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

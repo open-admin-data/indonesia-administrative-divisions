@@ -1,0 +1,56 @@
+{
+  "id": "3525060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Benjeng",
+    "en": "Benjeng",
+    "slug": "benjeng-3525060"
+  },
+  "code": {
+    "id": "3525060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3525",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gresik",
+      "en": "Gresik",
+      "slug": "gresik-3525"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3525",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gresik",
+        "en": "Gresik",
+        "slug": "gresik-3525"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.245",
+    "lon": "112.493"
+  },
+  "metadata": {},
+  "source": {}
+}

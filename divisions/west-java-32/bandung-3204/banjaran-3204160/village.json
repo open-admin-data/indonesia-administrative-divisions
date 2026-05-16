@@ -1,0 +1,717 @@
+[
+  {
+    "id": "3204160009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banjaran",
+      "en": "Banjaran",
+      "slug": "banjaran-3204160009"
+    },
+    "code": {
+      "id": "3204160009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.048",
+      "lon": "107.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banjaran Wetan",
+      "en": "Banjaran Wetan",
+      "slug": "banjaran-wetan-3204160002"
+    },
+    "code": {
+      "id": "3204160002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.074",
+      "lon": "107.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ciapus",
+      "en": "Ciapus",
+      "slug": "ciapus-3204160003"
+    },
+    "code": {
+      "id": "3204160003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.067",
+      "lon": "107.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kamasan",
+      "en": "Kamasan",
+      "slug": "kamasan-3204160008"
+    },
+    "code": {
+      "id": "3204160008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.047",
+      "lon": "107.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kiangroke",
+      "en": "Kiangroke",
+      "slug": "kiangroke-3204160007"
+    },
+    "code": {
+      "id": "3204160007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.051",
+      "lon": "107.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Margahurip",
+      "en": "Margahurip",
+      "slug": "margahurip-3204160006"
+    },
+    "code": {
+      "id": "3204160006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.063",
+      "lon": "107.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mekarjaya",
+      "en": "Mekarjaya",
+      "slug": "mekarjaya-3204160001"
+    },
+    "code": {
+      "id": "3204160001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.096",
+      "lon": "107.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Neglasari",
+      "en": "Neglasari",
+      "slug": "neglasari-3204160005"
+    },
+    "code": {
+      "id": "3204160005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.066",
+      "lon": "107.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasirmulya",
+      "en": "Pasirmulya",
+      "slug": "pasirmulya-3204160011"
+    },
+    "code": {
+      "id": "3204160011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.113",
+      "lon": "107.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sindangpanon",
+      "en": "Sindangpanon",
+      "slug": "sindangpanon-3204160004"
+    },
+    "code": {
+      "id": "3204160004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.061",
+      "lon": "107.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3204160010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tarajusari",
+      "en": "Tarajusari",
+      "slug": "tarajusari-3204160010"
+    },
+    "code": {
+      "id": "3204160010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3204160",
+      "level": 3,
+      "name": {
+        "local": "Banjaran",
+        "en": "Banjaran",
+        "slug": "banjaran-3204160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bandung",
+          "en": "Bandung",
+          "slug": "bandung-3204"
+        }
+      },
+      {
+        "id": "3204160",
+        "level": 3,
+        "name": {
+          "local": "Banjaran",
+          "en": "Banjaran",
+          "slug": "banjaran-3204160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40379"
+    ],
+    "geo": {
+      "lat": "-7.036",
+      "lon": "107.585"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

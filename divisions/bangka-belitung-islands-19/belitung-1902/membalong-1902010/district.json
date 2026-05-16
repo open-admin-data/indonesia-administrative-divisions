@@ -1,0 +1,56 @@
+{
+  "id": "1902010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Membalong",
+    "en": "Membalong",
+    "slug": "membalong-1902010"
+  },
+  "code": {
+    "id": "1902010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1902",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belitung",
+      "en": "Belitung",
+      "slug": "belitung-1902"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belitung",
+        "en": "Belitung",
+        "slug": "belitung-1902"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.1",
+    "lon": "107.537"
+  },
+  "metadata": {},
+  "source": {}
+}

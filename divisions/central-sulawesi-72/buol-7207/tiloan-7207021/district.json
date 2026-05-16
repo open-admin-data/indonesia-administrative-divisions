@@ -1,0 +1,56 @@
+{
+  "id": "7207021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tiloan",
+    "en": "Tiloan",
+    "slug": "tiloan-7207021"
+  },
+  "code": {
+    "id": "7207021",
+    "iso": null
+  },
+  "parent": {
+    "id": "7207",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buol",
+      "en": "Buol",
+      "slug": "buol-7207"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buol",
+        "en": "Buol",
+        "slug": "buol-7207"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.909",
+    "lon": "121.106"
+  },
+  "metadata": {},
+  "source": {}
+}

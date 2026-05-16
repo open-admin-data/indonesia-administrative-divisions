@@ -1,0 +1,56 @@
+{
+  "id": "1709010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Talang Empat",
+    "en": "Talang Empat",
+    "slug": "talang-empat-1709010"
+  },
+  "code": {
+    "id": "1709010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1709",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Tengah",
+      "en": "Bengkulu Tengah",
+      "slug": "bengkulu-tengah-1709"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.806",
+    "lon": "102.381"
+  },
+  "metadata": {},
+  "source": {}
+}

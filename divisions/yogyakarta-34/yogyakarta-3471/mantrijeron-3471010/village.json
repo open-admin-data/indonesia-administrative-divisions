@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3471010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gedongkiwo",
+      "en": "Gedongkiwo",
+      "slug": "gedongkiwo-3471010001"
+    },
+    "code": {
+      "id": "3471010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471010",
+      "level": 3,
+      "name": {
+        "local": "Mantrijeron",
+        "en": "Mantrijeron",
+        "slug": "mantrijeron-3471010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471010",
+        "level": 3,
+        "name": {
+          "local": "Mantrijeron",
+          "en": "Mantrijeron",
+          "slug": "mantrijeron-3471010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55141"
+    ],
+    "geo": {
+      "lat": "-7.819",
+      "lon": "110.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mantrijeron",
+      "en": "Mantrijeron",
+      "slug": "mantrijeron-3471010003"
+    },
+    "code": {
+      "id": "3471010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471010",
+      "level": 3,
+      "name": {
+        "local": "Mantrijeron",
+        "en": "Mantrijeron",
+        "slug": "mantrijeron-3471010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471010",
+        "level": 3,
+        "name": {
+          "local": "Mantrijeron",
+          "en": "Mantrijeron",
+          "slug": "mantrijeron-3471010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55141"
+    ],
+    "geo": {
+      "lat": "-7.82",
+      "lon": "110.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suryodiningratan",
+      "en": "Suryodiningratan",
+      "slug": "suryodiningratan-3471010002"
+    },
+    "code": {
+      "id": "3471010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471010",
+      "level": 3,
+      "name": {
+        "local": "Mantrijeron",
+        "en": "Mantrijeron",
+        "slug": "mantrijeron-3471010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471010",
+        "level": 3,
+        "name": {
+          "local": "Mantrijeron",
+          "en": "Mantrijeron",
+          "slug": "mantrijeron-3471010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55141"
+    ],
+    "geo": {
+      "lat": "-7.818",
+      "lon": "110.359"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

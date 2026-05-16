@@ -1,0 +1,56 @@
+{
+  "id": "7404012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toari",
+    "en": "Toari",
+    "slug": "toari-7404012"
+  },
+  "code": {
+    "id": "7404012",
+    "iso": null
+  },
+  "parent": {
+    "id": "7404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kolaka",
+      "en": "Kolaka",
+      "slug": "kolaka-7404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kolaka",
+        "en": "Kolaka",
+        "slug": "kolaka-7404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.555",
+    "lon": "121.545"
+  },
+  "metadata": {},
+  "source": {}
+}

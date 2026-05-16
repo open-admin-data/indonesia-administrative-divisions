@@ -1,0 +1,56 @@
+{
+  "id": "7326070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tondon",
+    "en": "Tondon",
+    "slug": "tondon-7326070"
+  },
+  "code": {
+    "id": "7326070",
+    "iso": null
+  },
+  "parent": {
+    "id": "7326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toraja Utara",
+      "en": "Toraja Utara",
+      "slug": "toraja-utara-7326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toraja Utara",
+        "en": "Toraja Utara",
+        "slug": "toraja-utara-7326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.956",
+    "lon": "119.947"
+  },
+  "metadata": {},
+  "source": {}
+}

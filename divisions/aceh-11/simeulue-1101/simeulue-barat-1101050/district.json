@@ -1,0 +1,56 @@
+{
+  "id": "1101050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simeulue Barat",
+    "en": "Simeulue Barat",
+    "slug": "simeulue-barat-1101050"
+  },
+  "code": {
+    "id": "1101050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Simeulue",
+      "en": "Simeulue",
+      "slug": "simeulue-1101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Simeulue",
+        "en": "Simeulue",
+        "slug": "simeulue-1101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.795",
+    "lon": "95.953"
+  },
+  "metadata": {},
+  "source": {}
+}

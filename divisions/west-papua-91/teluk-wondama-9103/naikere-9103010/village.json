@@ -1,0 +1,392 @@
+[
+  {
+    "id": "9103010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Inyora",
+      "en": "Inyora",
+      "slug": "inyora-9103010005"
+    },
+    "code": {
+      "id": "9103010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103010",
+      "level": 3,
+      "name": {
+        "local": "Naikere",
+        "en": "Naikere",
+        "slug": "naikere-9103010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Teluk Wondama",
+          "en": "Teluk Wondama",
+          "slug": "teluk-wondama-9103"
+        }
+      },
+      {
+        "id": "9103010",
+        "level": 3,
+        "name": {
+          "local": "Naikere",
+          "en": "Naikere",
+          "slug": "naikere-9103010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98595"
+    ],
+    "geo": {
+      "lat": "-3",
+      "lon": "134.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9103010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Oya",
+      "en": "Oya",
+      "slug": "oya-9103010003"
+    },
+    "code": {
+      "id": "9103010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103010",
+      "level": 3,
+      "name": {
+        "local": "Naikere",
+        "en": "Naikere",
+        "slug": "naikere-9103010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Teluk Wondama",
+          "en": "Teluk Wondama",
+          "slug": "teluk-wondama-9103"
+        }
+      },
+      {
+        "id": "9103010",
+        "level": 3,
+        "name": {
+          "local": "Naikere",
+          "en": "Naikere",
+          "slug": "naikere-9103010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98595"
+    ],
+    "geo": {
+      "lat": "-3.354",
+      "lon": "134.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9103010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sararti",
+      "en": "Sararti",
+      "slug": "sararti-9103010001"
+    },
+    "code": {
+      "id": "9103010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103010",
+      "level": 3,
+      "name": {
+        "local": "Naikere",
+        "en": "Naikere",
+        "slug": "naikere-9103010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Teluk Wondama",
+          "en": "Teluk Wondama",
+          "slug": "teluk-wondama-9103"
+        }
+      },
+      {
+        "id": "9103010",
+        "level": 3,
+        "name": {
+          "local": "Naikere",
+          "en": "Naikere",
+          "slug": "naikere-9103010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98595"
+    ],
+    "geo": {
+      "lat": "-3.127",
+      "lon": "134.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9103010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Undurara",
+      "en": "Undurara",
+      "slug": "undurara-9103010006"
+    },
+    "code": {
+      "id": "9103010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103010",
+      "level": 3,
+      "name": {
+        "local": "Naikere",
+        "en": "Naikere",
+        "slug": "naikere-9103010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Teluk Wondama",
+          "en": "Teluk Wondama",
+          "slug": "teluk-wondama-9103"
+        }
+      },
+      {
+        "id": "9103010",
+        "level": 3,
+        "name": {
+          "local": "Naikere",
+          "en": "Naikere",
+          "slug": "naikere-9103010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98595"
+    ],
+    "geo": {
+      "lat": "-3.106",
+      "lon": "134.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9103010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wosimo",
+      "en": "Wosimo",
+      "slug": "wosimo-9103010002"
+    },
+    "code": {
+      "id": "9103010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103010",
+      "level": 3,
+      "name": {
+        "local": "Naikere",
+        "en": "Naikere",
+        "slug": "naikere-9103010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Teluk Wondama",
+          "en": "Teluk Wondama",
+          "slug": "teluk-wondama-9103"
+        }
+      },
+      {
+        "id": "9103010",
+        "level": 3,
+        "name": {
+          "local": "Naikere",
+          "en": "Naikere",
+          "slug": "naikere-9103010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98595"
+    ],
+    "geo": {
+      "lat": "-2.988",
+      "lon": "134.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9103010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Yabore",
+      "en": "Yabore",
+      "slug": "yabore-9103010004"
+    },
+    "code": {
+      "id": "9103010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103010",
+      "level": 3,
+      "name": {
+        "local": "Naikere",
+        "en": "Naikere",
+        "slug": "naikere-9103010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Teluk Wondama",
+          "en": "Teluk Wondama",
+          "slug": "teluk-wondama-9103"
+        }
+      },
+      {
+        "id": "9103010",
+        "level": 3,
+        "name": {
+          "local": "Naikere",
+          "en": "Naikere",
+          "slug": "naikere-9103010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98595"
+    ],
+    "geo": {
+      "lat": "-3.282",
+      "lon": "134.588"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

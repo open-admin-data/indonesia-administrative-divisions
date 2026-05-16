@@ -1,0 +1,56 @@
+{
+  "id": "3404160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pakem",
+    "en": "Pakem",
+    "slug": "pakem-3404160"
+  },
+  "code": {
+    "id": "3404160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sleman",
+      "en": "Sleman",
+      "slug": "sleman-3404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.622",
+    "lon": "110.418"
+  },
+  "metadata": {},
+  "source": {}
+}

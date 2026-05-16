@@ -1,0 +1,48 @@
+{
+  "id": "3507",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Malang",
+    "en": "Malang",
+    "slug": "malang-3507"
+  },
+  "code": {
+    "id": "3507",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 33,
+    "village": 366
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.105",
+    "lon": "112.573"
+  },
+  "metadata": {},
+  "source": {}
+}

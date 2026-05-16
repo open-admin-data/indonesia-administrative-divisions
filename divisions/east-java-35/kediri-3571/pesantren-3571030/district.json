@@ -1,0 +1,56 @@
+{
+  "id": "3571030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pesantren",
+    "en": "Pesantren",
+    "slug": "pesantren-3571030"
+  },
+  "code": {
+    "id": "3571030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3571",
+    "level": 2,
+    "name": {
+      "local": "Kota Kediri",
+      "en": "Kediri",
+      "slug": "kediri-3571"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3571",
+      "level": 2,
+      "name": {
+        "local": "Kota Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3571"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.847",
+    "lon": "112.049"
+  },
+  "metadata": {},
+  "source": {}
+}

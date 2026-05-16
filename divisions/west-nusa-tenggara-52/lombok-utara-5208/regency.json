@@ -1,0 +1,48 @@
+{
+  "id": "5208",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lombok Utara",
+    "en": "Lombok Utara",
+    "slug": "lombok-utara-5208"
+  },
+  "code": {
+    "id": "5208",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Barat",
+      "en": "West Nusa Tenggara",
+      "slug": "west-nusa-tenggara-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 30
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.356",
+    "lon": "116.159"
+  },
+  "metadata": {},
+  "source": {}
+}

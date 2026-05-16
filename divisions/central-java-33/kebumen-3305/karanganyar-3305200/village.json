@@ -1,0 +1,652 @@
+[
+  {
+    "id": "3305200005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Candi",
+      "en": "Candi",
+      "slug": "candi-3305200005"
+    },
+    "code": {
+      "id": "3305200005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.629",
+      "lon": "109.588"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Giripurno",
+      "en": "Giripurno",
+      "slug": "giripurno-3305200006"
+    },
+    "code": {
+      "id": "3305200006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.61",
+      "lon": "109.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jatiluhur",
+      "en": "Jatiluhur",
+      "slug": "jatiluhur-3305200004"
+    },
+    "code": {
+      "id": "3305200004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.641",
+      "lon": "109.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karanganyar",
+      "en": "Karanganyar",
+      "slug": "karanganyar-3305200003"
+    },
+    "code": {
+      "id": "3305200003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.613",
+      "lon": "109.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangkemiri",
+      "en": "Karangkemiri",
+      "slug": "karangkemiri-3305200008"
+    },
+    "code": {
+      "id": "3305200008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.621",
+      "lon": "109.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panjatan",
+      "en": "Panjatan",
+      "slug": "panjatan-3305200002"
+    },
+    "code": {
+      "id": "3305200002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.633",
+      "lon": "109.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Plarangan",
+      "en": "Plarangan",
+      "slug": "plarangan-3305200007"
+    },
+    "code": {
+      "id": "3305200007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.629",
+      "lon": "109.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pohkumbang",
+      "en": "Pohkumbang",
+      "slug": "pohkumbang-3305200011"
+    },
+    "code": {
+      "id": "3305200011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.583",
+      "lon": "109.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidomulyo",
+      "en": "Sidomulyo",
+      "slug": "sidomulyo-3305200001"
+    },
+    "code": {
+      "id": "3305200001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.623",
+      "lon": "109.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305200009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonorejo",
+      "en": "Wonorejo",
+      "slug": "wonorejo-3305200009"
+    },
+    "code": {
+      "id": "3305200009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305200",
+      "level": 3,
+      "name": {
+        "local": "Karanganyar",
+        "en": "Karanganyar",
+        "slug": "karanganyar-3305200"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305200",
+        "level": 3,
+        "name": {
+          "local": "Karanganyar",
+          "en": "Karanganyar",
+          "slug": "karanganyar-3305200"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54363"
+    ],
+    "geo": {
+      "lat": "-7.611",
+      "lon": "109.566"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

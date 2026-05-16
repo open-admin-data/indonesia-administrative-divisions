@@ -1,0 +1,56 @@
+{
+  "id": "8104027",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lilialy",
+    "en": "Lilialy",
+    "slug": "lilialy-8104027"
+  },
+  "code": {
+    "id": "8104027",
+    "iso": null
+  },
+  "parent": {
+    "id": "8104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buru",
+      "en": "Buru",
+      "slug": "buru-8104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.2",
+    "lon": "126.982"
+  },
+  "metadata": {},
+  "source": {}
+}

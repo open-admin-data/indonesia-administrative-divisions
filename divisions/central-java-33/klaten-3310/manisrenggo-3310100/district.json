@@ -1,0 +1,56 @@
+{
+  "id": "3310100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Manisrenggo",
+    "en": "Manisrenggo",
+    "slug": "manisrenggo-3310100"
+  },
+  "code": {
+    "id": "3310100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Klaten",
+      "en": "Klaten",
+      "slug": "klaten-3310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Klaten",
+        "en": "Klaten",
+        "slug": "klaten-3310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.69",
+    "lon": "110.499"
+  },
+  "metadata": {},
+  "source": {}
+}

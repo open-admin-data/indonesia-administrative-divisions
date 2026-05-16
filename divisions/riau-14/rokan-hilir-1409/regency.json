@@ -1,0 +1,48 @@
+{
+  "id": "1409",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Rokan Hilir",
+    "en": "Rokan Hilir",
+    "slug": "rokan-hilir-1409"
+  },
+  "code": {
+    "id": "1409",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 198
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.505",
+    "lon": "101.538"
+  },
+  "metadata": {},
+  "source": {}
+}

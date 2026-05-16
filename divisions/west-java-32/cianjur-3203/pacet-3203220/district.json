@@ -1,0 +1,56 @@
+{
+  "id": "3203220",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pacet",
+    "en": "Pacet",
+    "slug": "pacet-3203220"
+  },
+  "code": {
+    "id": "3203220",
+    "iso": null
+  },
+  "parent": {
+    "id": "3203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cianjur",
+      "en": "Cianjur",
+      "slug": "cianjur-3203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.739",
+    "lon": "107.03"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "8104024",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Kaiely",
+    "en": "Teluk Kaiely",
+    "slug": "teluk-kaiely-8104024"
+  },
+  "code": {
+    "id": "8104024",
+    "iso": null
+  },
+  "parent": {
+    "id": "8104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Buru",
+      "en": "Buru",
+      "slug": "buru-8104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.442",
+    "lon": "127.13"
+  },
+  "metadata": {},
+  "source": {}
+}

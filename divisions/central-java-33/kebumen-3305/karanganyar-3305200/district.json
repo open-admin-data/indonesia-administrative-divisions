@@ -1,0 +1,56 @@
+{
+  "id": "3305200",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karanganyar",
+    "en": "Karanganyar",
+    "slug": "karanganyar-3305200"
+  },
+  "code": {
+    "id": "3305200",
+    "iso": null
+  },
+  "parent": {
+    "id": "3305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kebumen",
+      "en": "Kebumen",
+      "slug": "kebumen-3305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kebumen",
+        "en": "Kebumen",
+        "slug": "kebumen-3305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.605",
+    "lon": "109.573"
+  },
+  "metadata": {},
+  "source": {}
+}

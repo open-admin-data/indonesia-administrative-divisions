@@ -1,0 +1,56 @@
+{
+  "id": "6306060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Raya",
+    "en": "Sungai Raya",
+    "slug": "sungai-raya-6306060"
+  },
+  "code": {
+    "id": "6306060",
+    "iso": null
+  },
+  "parent": {
+    "id": "6306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Selatan",
+      "en": "Hulu Sungai Selatan",
+      "slug": "hulu-sungai-selatan-6306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Selatan",
+        "en": "Hulu Sungai Selatan",
+        "slug": "hulu-sungai-selatan-6306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.845",
+    "lon": "115.225"
+  },
+  "metadata": {},
+  "source": {}
+}

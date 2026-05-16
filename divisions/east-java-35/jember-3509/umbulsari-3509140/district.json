@@ -1,0 +1,56 @@
+{
+  "id": "3509140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Umbulsari",
+    "en": "Umbulsari",
+    "slug": "umbulsari-3509140"
+  },
+  "code": {
+    "id": "3509140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3509",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jember",
+      "en": "Jember",
+      "slug": "jember-3509"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3509",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jember",
+        "en": "Jember",
+        "slug": "jember-3509"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.246",
+    "lon": "113.444"
+  },
+  "metadata": {},
+  "source": {}
+}

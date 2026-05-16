@@ -1,0 +1,56 @@
+{
+  "id": "7202010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Toili",
+    "en": "Toili",
+    "slug": "toili-7202010"
+  },
+  "code": {
+    "id": "7202010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banggai",
+      "en": "Banggai",
+      "slug": "banggai-7202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banggai",
+        "en": "Banggai",
+        "slug": "banggai-7202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.316",
+    "lon": "122.212"
+  },
+  "metadata": {},
+  "source": {}
+}

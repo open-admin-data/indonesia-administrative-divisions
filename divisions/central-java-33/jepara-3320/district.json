@@ -1,0 +1,898 @@
+[
+  {
+    "id": "3320100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bangsri",
+      "en": "Bangsri",
+      "slug": "bangsri-3320100"
+    },
+    "code": {
+      "id": "3320100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.52",
+      "lon": "110.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batealit",
+      "en": "Batealit",
+      "slug": "batealit-3320060"
+    },
+    "code": {
+      "id": "3320060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.65",
+      "lon": "110.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Donorojo",
+      "en": "Donorojo",
+      "slug": "donorojo-3320111"
+    },
+    "code": {
+      "id": "3320111",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.439",
+      "lon": "110.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jepara",
+      "en": "Jepara",
+      "slug": "jepara-3320080"
+    },
+    "code": {
+      "id": "3320080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.58",
+      "lon": "110.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalinyamatan",
+      "en": "Kalinyamatan",
+      "slug": "kalinyamatan-3320021"
+    },
+    "code": {
+      "id": "3320021",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.72",
+      "lon": "110.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karimunjawa",
+      "en": "Karimunjawa",
+      "slug": "karimunjawa-3320120"
+    },
+    "code": {
+      "id": "3320120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.811",
+      "lon": "110.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedung",
+      "en": "Kedung",
+      "slug": "kedung-3320010"
+    },
+    "code": {
+      "id": "3320010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.681",
+      "lon": "110.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Keling",
+      "en": "Keling",
+      "slug": "keling-3320110"
+    },
+    "code": {
+      "id": "3320110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.517",
+      "lon": "110.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kembang",
+      "en": "Kembang",
+      "slug": "kembang-3320101"
+    },
+    "code": {
+      "id": "3320101",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.518",
+      "lon": "110.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mayong",
+      "en": "Mayong",
+      "slug": "mayong-3320040"
+    },
+    "code": {
+      "id": "3320040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.716",
+      "lon": "110.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mlonggo",
+      "en": "Mlonggo",
+      "slug": "mlonggo-3320090"
+    },
+    "code": {
+      "id": "3320090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.518",
+      "lon": "110.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nalumsari",
+      "en": "Nalumsari",
+      "slug": "nalumsari-3320050"
+    },
+    "code": {
+      "id": "3320050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.727",
+      "lon": "110.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pakis Aji",
+      "en": "Pakis Aji",
+      "slug": "pakis-aji-3320091"
+    },
+    "code": {
+      "id": "3320091",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.582",
+      "lon": "110.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pecangaan",
+      "en": "Pecangaan",
+      "slug": "pecangaan-3320020"
+    },
+    "code": {
+      "id": "3320020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.7",
+      "lon": "110.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tahunan",
+      "en": "Tahunan",
+      "slug": "tahunan-3320070"
+    },
+    "code": {
+      "id": "3320070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.624",
+      "lon": "110.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3320030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Welahan",
+      "en": "Welahan",
+      "slug": "welahan-3320030"
+    },
+    "code": {
+      "id": "3320030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jepara",
+        "en": "Jepara",
+        "slug": "jepara-3320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jepara",
+          "en": "Jepara",
+          "slug": "jepara-3320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.765",
+      "lon": "110.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

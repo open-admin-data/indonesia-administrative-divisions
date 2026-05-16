@@ -1,0 +1,56 @@
+{
+  "id": "3213170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Binong",
+    "en": "Binong",
+    "slug": "binong-3213170"
+  },
+  "code": {
+    "id": "3213170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3213",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Subang",
+      "en": "Subang",
+      "slug": "subang-3213"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Subang",
+        "en": "Subang",
+        "slug": "subang-3213"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.401",
+    "lon": "107.796"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3216023",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cikarang Selatan",
+    "en": "Cikarang Selatan",
+    "slug": "cikarang-selatan-3216023"
+  },
+  "code": {
+    "id": "3216023",
+    "iso": null
+  },
+  "parent": {
+    "id": "3216",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bekasi",
+      "en": "Bekasi",
+      "slug": "bekasi-3216"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.333",
+    "lon": "107.125"
+  },
+  "metadata": {},
+  "source": {}
+}

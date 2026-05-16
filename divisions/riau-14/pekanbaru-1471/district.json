@@ -1,0 +1,674 @@
+[
+  {
+    "id": "1471020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukit Raya",
+      "en": "Bukit Raya",
+      "slug": "bukit-raya-1471020"
+    },
+    "code": {
+      "id": "1471020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.466",
+      "lon": "101.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Limapuluh",
+      "en": "Limapuluh",
+      "slug": "limapuluh-1471030"
+    },
+    "code": {
+      "id": "1471030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.541",
+      "lon": "101.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marpoyan Damai",
+      "en": "Marpoyan Damai",
+      "slug": "marpoyan-damai-1471021"
+    },
+    "code": {
+      "id": "1471021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.467",
+      "lon": "101.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Payung Sekaki",
+      "en": "Payung Sekaki",
+      "slug": "payung-sekaki-1471011"
+    },
+    "code": {
+      "id": "1471011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.529",
+      "lon": "101.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pekanbaru Kota",
+      "en": "Pekanbaru Kota",
+      "slug": "pekanbaru-kota-1471050"
+    },
+    "code": {
+      "id": "1471050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.52",
+      "lon": "101.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rumbai",
+      "en": "Rumbai",
+      "slug": "rumbai-1471080"
+    },
+    "code": {
+      "id": "1471080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.617",
+      "lon": "101.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rumbai Pesisir",
+      "en": "Rumbai Pesisir",
+      "slug": "rumbai-pesisir-1471081"
+    },
+    "code": {
+      "id": "1471081",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.6",
+      "lon": "101.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sail",
+      "en": "Sail",
+      "slug": "sail-1471040"
+    },
+    "code": {
+      "id": "1471040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.514",
+      "lon": "101.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Senapelan",
+      "en": "Senapelan",
+      "slug": "senapelan-1471070"
+    },
+    "code": {
+      "id": "1471070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.537",
+      "lon": "101.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukajadi",
+      "en": "Sukajadi",
+      "slug": "sukajadi-1471060"
+    },
+    "code": {
+      "id": "1471060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.517",
+      "lon": "101.438"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tampan",
+      "en": "Tampan",
+      "slug": "tampan-1471010"
+    },
+    "code": {
+      "id": "1471010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.462",
+      "lon": "101.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1471022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tenayan Raya",
+      "en": "Tenayan Raya",
+      "slug": "tenayan-raya-1471022"
+    },
+    "code": {
+      "id": "1471022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1471",
+        "level": 2,
+        "name": {
+          "local": "Kota Pekanbaru",
+          "en": "Pekanbaru",
+          "slug": "pekanbaru-1471"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.511",
+      "lon": "101.53"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

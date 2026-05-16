@@ -1,0 +1,786 @@
+[
+  {
+    "id": "7308040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bantimurung",
+      "en": "Bantimurung",
+      "slug": "bantimurung-7308040"
+    },
+    "code": {
+      "id": "7308040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.973",
+      "lon": "119.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bontoa",
+      "en": "Bontoa",
+      "slug": "bontoa-7308030"
+    },
+    "code": {
+      "id": "7308030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.915",
+      "lon": "119.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Camba",
+      "en": "Camba",
+      "slug": "camba-7308060"
+    },
+    "code": {
+      "id": "7308060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.921",
+      "lon": "119.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cenrana",
+      "en": "Cenrana",
+      "slug": "cenrana-7308061"
+    },
+    "code": {
+      "id": "7308061",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.025",
+      "lon": "119.808"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lau",
+      "en": "Lau",
+      "slug": "lau-7308023"
+    },
+    "code": {
+      "id": "7308023",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.966",
+      "lon": "119.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mallawa",
+      "en": "Mallawa",
+      "slug": "mallawa-7308070"
+    },
+    "code": {
+      "id": "7308070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.816",
+      "lon": "119.887"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mandai",
+      "en": "Mandai",
+      "slug": "mandai-7308010"
+    },
+    "code": {
+      "id": "7308010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.085",
+      "lon": "119.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maros Baru",
+      "en": "Maros Baru",
+      "slug": "maros-baru-7308020"
+    },
+    "code": {
+      "id": "7308020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.995",
+      "lon": "119.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marusu",
+      "en": "Marusu",
+      "slug": "marusu-7308021"
+    },
+    "code": {
+      "id": "7308021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.029",
+      "lon": "119.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moncongloe",
+      "en": "Moncongloe",
+      "slug": "moncongloe-7308011"
+    },
+    "code": {
+      "id": "7308011",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.143",
+      "lon": "119.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Simbang",
+      "en": "Simbang",
+      "slug": "simbang-7308041"
+    },
+    "code": {
+      "id": "7308041",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.048",
+      "lon": "119.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanralili",
+      "en": "Tanralili",
+      "slug": "tanralili-7308050"
+    },
+    "code": {
+      "id": "7308050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.102",
+      "lon": "119.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tompu Bulu",
+      "en": "Tompu Bulu",
+      "slug": "tompu-bulu-7308051"
+    },
+    "code": {
+      "id": "7308051",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.135",
+      "lon": "119.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7308022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Turikale",
+      "en": "Turikale",
+      "slug": "turikale-7308022"
+    },
+    "code": {
+      "id": "7308022",
+      "iso": null
+    },
+    "parent": {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7308",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Maros",
+          "en": "Maros",
+          "slug": "maros-7308"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.009",
+      "lon": "119.569"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

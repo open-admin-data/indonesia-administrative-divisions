@@ -1,0 +1,48 @@
+{
+  "id": "7501",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Boalemo",
+    "en": "Boalemo",
+    "slug": "boalemo-7501"
+  },
+  "code": {
+    "id": "7501",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "Gorontalo",
+      "en": "Gorontalo",
+      "slug": "gorontalo-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 82
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.629",
+    "lon": "122.981"
+  },
+  "metadata": {},
+  "source": {}
+}

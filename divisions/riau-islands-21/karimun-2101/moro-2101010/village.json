@@ -1,0 +1,782 @@
+[
+  {
+    "id": "2101010014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Buluh Patah",
+      "en": "Buluh Patah",
+      "slug": "buluh-patah-2101010014"
+    },
+    "code": {
+      "id": "2101010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.764",
+      "lon": "103.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jang",
+      "en": "Jang",
+      "slug": "jang-2101010009"
+    },
+    "code": {
+      "id": "2101010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.718",
+      "lon": "103.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Keban",
+      "en": "Keban",
+      "slug": "keban-2101010006"
+    },
+    "code": {
+      "id": "2101010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.847",
+      "lon": "103.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Moro",
+      "en": "Moro",
+      "slug": "moro-2101010003"
+    },
+    "code": {
+      "id": "2101010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.764",
+      "lon": "103.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Moro Timur",
+      "en": "Moro Timur",
+      "slug": "moro-timur-2101010010"
+    },
+    "code": {
+      "id": "2101010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.815",
+      "lon": "103.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Niur Permai",
+      "en": "Niur Permai",
+      "slug": "niur-permai-2101010012"
+    },
+    "code": {
+      "id": "2101010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.879",
+      "lon": "103.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pauh",
+      "en": "Pauh",
+      "slug": "pauh-2101010004"
+    },
+    "code": {
+      "id": "2101010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.804",
+      "lon": "103.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Moro",
+      "en": "Pulau Moro",
+      "slug": "pulau-moro-2101010011"
+    },
+    "code": {
+      "id": "2101010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.764",
+      "lon": "103.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rawa Jaya",
+      "en": "Rawa Jaya",
+      "slug": "rawa-jaya-2101010013"
+    },
+    "code": {
+      "id": "2101010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.863",
+      "lon": "103.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Selat Mie",
+      "en": "Selat Mie",
+      "slug": "selat-mie-2101010007"
+    },
+    "code": {
+      "id": "2101010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.833",
+      "lon": "103.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sugie",
+      "en": "Sugie",
+      "slug": "sugie-2101010005"
+    },
+    "code": {
+      "id": "2101010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.833",
+      "lon": "103.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Pelanduk",
+      "en": "Tanjung Pelanduk",
+      "slug": "tanjung-pelanduk-2101010008"
+    },
+    "code": {
+      "id": "2101010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101010",
+      "level": 3,
+      "name": {
+        "local": "Moro",
+        "en": "Moro",
+        "slug": "moro-2101010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      },
+      {
+        "id": "2101010",
+        "level": 3,
+        "name": {
+          "local": "Moro",
+          "en": "Moro",
+          "slug": "moro-2101010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29663"
+    ],
+    "geo": {
+      "lat": "0.865",
+      "lon": "103.851"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "9434",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Dogiyai",
+    "en": "Dogiyai",
+    "slug": "dogiyai-9434"
+  },
+  "code": {
+    "id": "9434",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 75
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.045",
+    "lon": "135.676"
+  },
+  "metadata": {},
+  "source": {}
+}

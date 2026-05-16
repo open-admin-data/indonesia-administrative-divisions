@@ -1,0 +1,56 @@
+{
+  "id": "7503050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paguat",
+    "en": "Paguat",
+    "slug": "paguat-7503050"
+  },
+  "code": {
+    "id": "7503050",
+    "iso": null
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pohuwato",
+      "en": "Pohuwato",
+      "slug": "pohuwato-7503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.498",
+    "lon": "122.052"
+  },
+  "metadata": {},
+  "source": {}
+}

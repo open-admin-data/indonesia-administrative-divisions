@@ -1,0 +1,56 @@
+{
+  "id": "1301030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siberut Selatan",
+    "en": "Siberut Selatan",
+    "slug": "siberut-selatan-1301030"
+  },
+  "code": {
+    "id": "1301030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1301",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Mentawai",
+      "en": "Kepulauan Mentawai",
+      "slug": "kepulauan-mentawai-1301"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Mentawai",
+        "en": "Kepulauan Mentawai",
+        "slug": "kepulauan-mentawai-1301"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.492",
+    "lon": "99.077"
+  },
+  "metadata": {},
+  "source": {}
+}

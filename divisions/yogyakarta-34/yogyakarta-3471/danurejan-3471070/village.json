@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3471070003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bausasran",
+      "en": "Bausasran",
+      "slug": "bausasran-3471070003"
+    },
+    "code": {
+      "id": "3471070003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471070",
+      "level": 3,
+      "name": {
+        "local": "Danurejan",
+        "en": "Danurejan",
+        "slug": "danurejan-3471070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471070",
+        "level": 3,
+        "name": {
+          "local": "Danurejan",
+          "en": "Danurejan",
+          "slug": "danurejan-3471070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55211"
+    ],
+    "geo": {
+      "lat": "-7.794",
+      "lon": "110.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471070001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suryatmajan",
+      "en": "Suryatmajan",
+      "slug": "suryatmajan-3471070001"
+    },
+    "code": {
+      "id": "3471070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471070",
+      "level": 3,
+      "name": {
+        "local": "Danurejan",
+        "en": "Danurejan",
+        "slug": "danurejan-3471070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471070",
+        "level": 3,
+        "name": {
+          "local": "Danurejan",
+          "en": "Danurejan",
+          "slug": "danurejan-3471070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55211"
+    ],
+    "geo": {
+      "lat": "-7.794",
+      "lon": "110.367"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471070002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tegal Panggung",
+      "en": "Tegal Panggung",
+      "slug": "tegal-panggung-3471070002"
+    },
+    "code": {
+      "id": "3471070002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471070",
+      "level": 3,
+      "name": {
+        "local": "Danurejan",
+        "en": "Danurejan",
+        "slug": "danurejan-3471070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471070",
+        "level": 3,
+        "name": {
+          "local": "Danurejan",
+          "en": "Danurejan",
+          "slug": "danurejan-3471070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55211"
+    ],
+    "geo": {
+      "lat": "-7.792",
+      "lon": "110.371"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "5207",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sumbawa Barat",
+    "en": "Sumbawa Barat",
+    "slug": "sumbawa-barat-5207"
+  },
+  "code": {
+    "id": "5207",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Barat",
+      "en": "West Nusa Tenggara",
+      "slug": "west-nusa-tenggara-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 62
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.754",
+    "lon": "116.854"
+  },
+  "metadata": {},
+  "source": {}
+}

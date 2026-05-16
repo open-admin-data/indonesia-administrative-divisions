@@ -1,0 +1,56 @@
+{
+  "id": "5303140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kupang Timur",
+    "en": "Kupang Timur",
+    "slug": "kupang-timur-5303140"
+  },
+  "code": {
+    "id": "5303140",
+    "iso": null
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kupang",
+      "en": "Kupang",
+      "slug": "kupang-5303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-10.088",
+    "lon": "123.836"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9110074",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ayamaru Barat",
+    "en": "Ayamaru Barat",
+    "slug": "ayamaru-barat-9110074"
+  },
+  "code": {
+    "id": "9110074",
+    "iso": null
+  },
+  "parent": {
+    "id": "9110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maybrat",
+      "en": "Maybrat",
+      "slug": "maybrat-9110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maybrat",
+        "en": "Maybrat",
+        "slug": "maybrat-9110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.289",
+    "lon": "132.098"
+  },
+  "metadata": {},
+  "source": {}
+}

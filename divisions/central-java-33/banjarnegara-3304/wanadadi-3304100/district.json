@@ -1,0 +1,56 @@
+{
+  "id": "3304100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wanadadi",
+    "en": "Wanadadi",
+    "slug": "wanadadi-3304100"
+  },
+  "code": {
+    "id": "3304100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banjarnegara",
+      "en": "Banjarnegara",
+      "slug": "banjarnegara-3304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banjarnegara",
+        "en": "Banjarnegara",
+        "slug": "banjarnegara-3304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.365",
+    "lon": "109.63"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1275110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Medan Sunggal",
+    "en": "Medan Sunggal",
+    "slug": "medan-sunggal-1275110"
+  },
+  "code": {
+    "id": "1275110",
+    "iso": null
+  },
+  "parent": {
+    "id": "1275",
+    "level": 2,
+    "name": {
+      "local": "Kota Medan",
+      "en": "Medan",
+      "slug": "medan-1275"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1275",
+      "level": 2,
+      "name": {
+        "local": "Kota Medan",
+        "en": "Medan",
+        "slug": "medan-1275"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.583",
+    "lon": "98.628"
+  },
+  "metadata": {},
+  "source": {}
+}

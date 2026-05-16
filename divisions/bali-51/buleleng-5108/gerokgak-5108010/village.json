@@ -1,0 +1,912 @@
+[
+  {
+    "id": "5108010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banyupoh",
+      "en": "Banyupoh",
+      "slug": "banyupoh-5108010005"
+    },
+    "code": {
+      "id": "5108010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.191",
+      "lon": "114.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Celukan Bawang",
+      "en": "Celukan Bawang",
+      "slug": "celukan-bawang-5108010013"
+    },
+    "code": {
+      "id": "5108010013",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.199",
+      "lon": "114.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gerokgak",
+      "en": "Gerokgak",
+      "slug": "gerokgak-5108010009"
+    },
+    "code": {
+      "id": "5108010009",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.215",
+      "lon": "114.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Musi",
+      "en": "Musi",
+      "slug": "musi-5108010007"
+    },
+    "code": {
+      "id": "5108010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.192",
+      "lon": "114.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Patas",
+      "en": "Patas",
+      "slug": "patas-5108010010"
+    },
+    "code": {
+      "id": "5108010010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.224",
+      "lon": "114.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pejarakan",
+      "en": "Pejarakan",
+      "slug": "pejarakan-5108010002"
+    },
+    "code": {
+      "id": "5108010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.157",
+      "lon": "114.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pemuteran",
+      "en": "Pemuteran",
+      "slug": "pemuteran-5108010004"
+    },
+    "code": {
+      "id": "5108010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.168",
+      "lon": "114.649"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pengulon",
+      "en": "Pengulon",
+      "slug": "pengulon-5108010011"
+    },
+    "code": {
+      "id": "5108010011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.217",
+      "lon": "114.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Penyabangan",
+      "en": "Penyabangan",
+      "slug": "penyabangan-5108010006"
+    },
+    "code": {
+      "id": "5108010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.174",
+      "lon": "114.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sanggalangit",
+      "en": "Sanggalangit",
+      "slug": "sanggalangit-5108010008"
+    },
+    "code": {
+      "id": "5108010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.194",
+      "lon": "114.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumber Klampok",
+      "en": "Sumber Klampok",
+      "slug": "sumber-klampok-5108010001"
+    },
+    "code": {
+      "id": "5108010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.143",
+      "lon": "114.489"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumberkima",
+      "en": "Sumberkima",
+      "slug": "sumberkima-5108010003"
+    },
+    "code": {
+      "id": "5108010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.17",
+      "lon": "114.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tinga Tinga",
+      "en": "Tinga Tinga",
+      "slug": "tinga-tinga-5108010012"
+    },
+    "code": {
+      "id": "5108010012",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.257",
+      "lon": "114.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5108010014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tukad Sumaga",
+      "en": "Tukad Sumaga",
+      "slug": "tukad-sumaga-5108010014"
+    },
+    "code": {
+      "id": "5108010014",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108010",
+      "level": 3,
+      "name": {
+        "local": "Gerokgak",
+        "en": "Gerokgak",
+        "slug": "gerokgak-5108010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buleleng",
+          "en": "Buleleng",
+          "slug": "buleleng-5108"
+        }
+      },
+      {
+        "id": "5108010",
+        "level": 3,
+        "name": {
+          "local": "Gerokgak",
+          "en": "Gerokgak",
+          "slug": "gerokgak-5108010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81155"
+    ],
+    "geo": {
+      "lat": "-8.255",
+      "lon": "114.863"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

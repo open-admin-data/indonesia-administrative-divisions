@@ -1,0 +1,56 @@
+{
+  "id": "3502110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Balong",
+    "en": "Balong",
+    "slug": "balong-3502110"
+  },
+  "code": {
+    "id": "3502110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ponorogo",
+      "en": "Ponorogo",
+      "slug": "ponorogo-3502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ponorogo",
+        "en": "Ponorogo",
+        "slug": "ponorogo-3502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.948",
+    "lon": "111.402"
+  },
+  "metadata": {},
+  "source": {}
+}

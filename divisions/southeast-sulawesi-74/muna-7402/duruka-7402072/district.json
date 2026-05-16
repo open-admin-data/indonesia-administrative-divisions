@@ -1,0 +1,56 @@
+{
+  "id": "7402072",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Duruka",
+    "en": "Duruka",
+    "slug": "duruka-7402072"
+  },
+  "code": {
+    "id": "7402072",
+    "iso": null
+  },
+  "parent": {
+    "id": "7402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Muna",
+      "en": "Muna",
+      "slug": "muna-7402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Muna",
+        "en": "Muna",
+        "slug": "muna-7402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.867",
+    "lon": "122.714"
+  },
+  "metadata": {},
+  "source": {}
+}

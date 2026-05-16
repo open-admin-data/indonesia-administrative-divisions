@@ -1,0 +1,132 @@
+[
+  {
+    "id": "3509210004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangpring",
+      "en": "Karangpring",
+      "slug": "karangpring-3509210004"
+    },
+    "code": {
+      "id": "3509210004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3509210",
+      "level": 3,
+      "name": {
+        "local": "Sukorambi",
+        "en": "Sukorambi",
+        "slug": "sukorambi-3509210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jember",
+          "en": "Jember",
+          "slug": "jember-3509"
+        }
+      },
+      {
+        "id": "3509210",
+        "level": 3,
+        "name": {
+          "local": "Sukorambi",
+          "en": "Sukorambi",
+          "slug": "sukorambi-3509210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68151"
+    ],
+    "geo": {
+      "lat": "-8.106",
+      "lon": "113.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3509210003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukorambi",
+      "en": "Sukorambi",
+      "slug": "sukorambi-3509210003"
+    },
+    "code": {
+      "id": "3509210003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3509210",
+      "level": 3,
+      "name": {
+        "local": "Sukorambi",
+        "en": "Sukorambi",
+        "slug": "sukorambi-3509210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jember",
+          "en": "Jember",
+          "slug": "jember-3509"
+        }
+      },
+      {
+        "id": "3509210",
+        "level": 3,
+        "name": {
+          "local": "Sukorambi",
+          "en": "Sukorambi",
+          "slug": "sukorambi-3509210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68151"
+    ],
+    "geo": {
+      "lat": "-8.119",
+      "lon": "113.662"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "3279",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Banjar",
+    "en": "Banjar",
+    "slug": "banjar-3279"
+  },
+  "code": {
+    "id": "3279",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 25
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.362",
+    "lon": "108.56"
+  },
+  "metadata": {},
+  "source": {}
+}

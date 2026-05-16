@@ -1,0 +1,56 @@
+{
+  "id": "6311041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paringin Selatan",
+    "en": "Paringin Selatan",
+    "slug": "paringin-selatan-6311041"
+  },
+  "code": {
+    "id": "6311041",
+    "iso": null
+  },
+  "parent": {
+    "id": "6311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Balangan",
+      "en": "Balangan",
+      "slug": "balangan-6311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Balangan",
+        "en": "Balangan",
+        "slug": "balangan-6311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.343",
+    "lon": "115.502"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3174010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kembangan",
+    "en": "Kembangan",
+    "slug": "kembangan-3174010"
+  },
+  "code": {
+    "id": "3174010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3174",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Barat",
+      "en": "Jakarta Barat",
+      "slug": "jakarta-barat-3174"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3174",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Barat",
+        "en": "Jakarta Barat",
+        "slug": "jakarta-barat-3174"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.191",
+    "lon": "106.741"
+  },
+  "metadata": {},
+  "source": {}
+}

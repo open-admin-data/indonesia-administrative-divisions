@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9108080002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Urbinasopen",
+      "en": "Urbinasopen",
+      "slug": "urbinasopen-9108080002"
+    },
+    "code": {
+      "id": "9108080002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108080",
+      "level": 3,
+      "name": {
+        "local": "Waigeo Timur",
+        "en": "Waigeo Timur",
+        "slug": "waigeo-timur-9108080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108080",
+        "level": 3,
+        "name": {
+          "local": "Waigeo Timur",
+          "en": "Waigeo Timur",
+          "slug": "waigeo-timur-9108080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98481"
+    ],
+    "geo": {
+      "lat": "-0.346",
+      "lon": "131.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9108080003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Yenbekaki",
+      "en": "Yenbekaki",
+      "slug": "yenbekaki-9108080003"
+    },
+    "code": {
+      "id": "9108080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9108080",
+      "level": 3,
+      "name": {
+        "local": "Waigeo Timur",
+        "en": "Waigeo Timur",
+        "slug": "waigeo-timur-9108080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9108",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Raja Ampat",
+          "en": "Raja Ampat",
+          "slug": "raja-ampat-9108"
+        }
+      },
+      {
+        "id": "9108080",
+        "level": 3,
+        "name": {
+          "local": "Waigeo Timur",
+          "en": "Waigeo Timur",
+          "slug": "waigeo-timur-9108080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98481"
+    ],
+    "geo": {
+      "lat": "-0.296",
+      "lon": "131.261"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

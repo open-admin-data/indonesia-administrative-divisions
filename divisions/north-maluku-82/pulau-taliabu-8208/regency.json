@@ -1,0 +1,48 @@
+{
+  "id": "8208",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pulau Taliabu",
+    "en": "Pulau Taliabu",
+    "slug": "pulau-taliabu-8208"
+  },
+  "code": {
+    "id": "8208",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Maluku Utara",
+      "en": "North Maluku",
+      "slug": "north-maluku-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.947",
+    "lon": "124.387"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6307040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batang Alai Selatan",
+    "en": "Batang Alai Selatan",
+    "slug": "batang-alai-selatan-6307040"
+  },
+  "code": {
+    "id": "6307040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Tengah",
+      "en": "Hulu Sungai Tengah",
+      "slug": "hulu-sungai-tengah-6307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.562",
+    "lon": "115.46"
+  },
+  "metadata": {},
+  "source": {}
+}

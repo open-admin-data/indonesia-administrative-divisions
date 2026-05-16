@@ -1,0 +1,56 @@
+{
+  "id": "3528050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pamekasan",
+    "en": "Pamekasan",
+    "slug": "pamekasan-3528050"
+  },
+  "code": {
+    "id": "3528050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3528",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pamekasan",
+      "en": "Pamekasan",
+      "slug": "pamekasan-3528"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3528",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pamekasan",
+        "en": "Pamekasan",
+        "slug": "pamekasan-3528"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.155",
+    "lon": "113.473"
+  },
+  "metadata": {},
+  "source": {}
+}

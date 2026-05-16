@@ -1,0 +1,954 @@
+[
+  {
+    "id": "1803132",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bakauheni",
+      "en": "Bakauheni",
+      "slug": "bakauheni-1803132"
+    },
+    "code": {
+      "id": "1803132",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.85",
+      "lon": "105.727"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Candipuro",
+      "en": "Candipuro",
+      "slug": "candipuro-1803101"
+    },
+    "code": {
+      "id": "1803101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.529",
+      "lon": "105.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jati Agung",
+      "en": "Jati Agung",
+      "slug": "jati-agung-1803070"
+    },
+    "code": {
+      "id": "1803070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.29",
+      "lon": "105.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kalianda",
+      "en": "Kalianda",
+      "slug": "kalianda-1803110"
+    },
+    "code": {
+      "id": "1803110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 29
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.695",
+      "lon": "105.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katibung",
+      "en": "Katibung",
+      "slug": "katibung-1803090"
+    },
+    "code": {
+      "id": "1803090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.543",
+      "lon": "105.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803131",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ketapang",
+      "en": "Ketapang",
+      "slug": "ketapang-1803131"
+    },
+    "code": {
+      "id": "1803131",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.75",
+      "lon": "105.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Merbau Mataram",
+      "en": "Merbau Mataram",
+      "slug": "merbau-mataram-1803091"
+    },
+    "code": {
+      "id": "1803091",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.458",
+      "lon": "105.43"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Natar",
+      "en": "Natar",
+      "slug": "natar-1803060"
+    },
+    "code": {
+      "id": "1803060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 26
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.269",
+      "lon": "105.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Palas",
+      "en": "Palas",
+      "slug": "palas-1803120"
+    },
+    "code": {
+      "id": "1803120",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.628",
+      "lon": "105.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penengahan",
+      "en": "Penengahan",
+      "slug": "penengahan-1803130"
+    },
+    "code": {
+      "id": "1803130",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.748",
+      "lon": "105.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rajabasa",
+      "en": "Rajabasa",
+      "slug": "rajabasa-1803111"
+    },
+    "code": {
+      "id": "1803111",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.871",
+      "lon": "105.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sidomulyo",
+      "en": "Sidomulyo",
+      "slug": "sidomulyo-1803100"
+    },
+    "code": {
+      "id": "1803100",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.597",
+      "lon": "105.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803121",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sragi",
+      "en": "Sragi",
+      "slug": "sragi-1803121"
+    },
+    "code": {
+      "id": "1803121",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.638",
+      "lon": "105.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanjung Bintang",
+      "en": "Tanjung Bintang",
+      "slug": "tanjung-bintang-1803080"
+    },
+    "code": {
+      "id": "1803080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.387",
+      "lon": "105.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanjung Sari",
+      "en": "Tanjung Sari",
+      "slug": "tanjung-sari-1803081"
+    },
+    "code": {
+      "id": "1803081",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.346",
+      "lon": "105.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803102",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Way Panji",
+      "en": "Way Panji",
+      "slug": "way-panji-1803102"
+    },
+    "code": {
+      "id": "1803102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.599",
+      "lon": "105.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803092",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Way Sulan",
+      "en": "Way Sulan",
+      "slug": "way-sulan-1803092"
+    },
+    "code": {
+      "id": "1803092",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Selatan",
+        "en": "Lampung Selatan",
+        "slug": "lampung-selatan-1803"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.477",
+      "lon": "105.544"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

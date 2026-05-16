@@ -1,0 +1,842 @@
+[
+  {
+    "id": "3519120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balerejo",
+      "en": "Balerejo",
+      "slug": "balerejo-3519120"
+    },
+    "code": {
+      "id": "3519120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.536",
+      "lon": "111.593"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dagangan",
+      "en": "Dagangan",
+      "slug": "dagangan-3519040"
+    },
+    "code": {
+      "id": "3519040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.723",
+      "lon": "111.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dolopo",
+      "en": "Dolopo",
+      "slug": "dolopo-3519030"
+    },
+    "code": {
+      "id": "3519030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.773",
+      "lon": "111.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Geger",
+      "en": "Geger",
+      "slug": "geger-3519020"
+    },
+    "code": {
+      "id": "3519020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.707",
+      "lon": "111.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gemarang",
+      "en": "Gemarang",
+      "slug": "gemarang-3519070"
+    },
+    "code": {
+      "id": "3519070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.661",
+      "lon": "111.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jiwan",
+      "en": "Jiwan",
+      "slug": "jiwan-3519150"
+    },
+    "code": {
+      "id": "3519150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.613",
+      "lon": "111.488"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kare",
+      "en": "Kare",
+      "slug": "kare-3519060"
+    },
+    "code": {
+      "id": "3519060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.727",
+      "lon": "111.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kebonsari",
+      "en": "Kebonsari",
+      "slug": "kebonsari-3519010"
+    },
+    "code": {
+      "id": "3519010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.744",
+      "lon": "111.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Madiun",
+      "en": "Madiun",
+      "slug": "madiun-3519130"
+    },
+    "code": {
+      "id": "3519130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.596",
+      "lon": "111.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mejayan",
+      "en": "Mejayan",
+      "slug": "mejayan-3519100"
+    },
+    "code": {
+      "id": "3519100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.585",
+      "lon": "111.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pilangkenceng",
+      "en": "Pilangkenceng",
+      "slug": "pilangkenceng-3519090"
+    },
+    "code": {
+      "id": "3519090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.471",
+      "lon": "111.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Saradan",
+      "en": "Saradan",
+      "slug": "saradan-3519080"
+    },
+    "code": {
+      "id": "3519080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.501",
+      "lon": "111.738"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sawahan",
+      "en": "Sawahan",
+      "slug": "sawahan-3519140"
+    },
+    "code": {
+      "id": "3519140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.569",
+      "lon": "111.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wonoasri",
+      "en": "Wonoasri",
+      "slug": "wonoasri-3519110"
+    },
+    "code": {
+      "id": "3519110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.589",
+      "lon": "111.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3519050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wungu",
+      "en": "Wungu",
+      "slug": "wungu-3519050"
+    },
+    "code": {
+      "id": "3519050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3519",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Madiun",
+        "en": "Madiun",
+        "slug": "madiun-3519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3519",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Madiun",
+          "en": "Madiun",
+          "slug": "madiun-3519"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.659",
+      "lon": "111.589"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "7271031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mantikulore",
+    "en": "Mantikulore",
+    "slug": "mantikulore-7271031"
+  },
+  "code": {
+    "id": "7271031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7271",
+    "level": 2,
+    "name": {
+      "local": "Kota Palu",
+      "en": "Palu",
+      "slug": "palu-7271"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7271",
+      "level": 2,
+      "name": {
+        "local": "Kota Palu",
+        "en": "Palu",
+        "slug": "palu-7271"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.858",
+    "lon": "119.955"
+  },
+  "metadata": {},
+  "source": {}
+}

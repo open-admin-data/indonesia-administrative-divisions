@@ -1,0 +1,56 @@
+{
+  "id": "7110020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bolang Uki",
+    "en": "Bolang Uki",
+    "slug": "bolang-uki-7110020"
+  },
+  "code": {
+    "id": "7110020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Selatan",
+      "en": "Bolaang Mongondow Selatan",
+      "slug": "bolaang-mongondow-selatan-7110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow Selatan",
+        "en": "Bolaang Mongondow Selatan",
+        "slug": "bolaang-mongondow-selatan-7110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.409",
+    "lon": "123.975"
+  },
+  "metadata": {},
+  "source": {}
+}

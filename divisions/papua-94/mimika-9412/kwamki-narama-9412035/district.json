@@ -1,0 +1,56 @@
+{
+  "id": "9412035",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kwamki Narama",
+    "en": "Kwamki Narama",
+    "slug": "kwamki-narama-9412035"
+  },
+  "code": {
+    "id": "9412035",
+    "iso": null
+  },
+  "parent": {
+    "id": "9412",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mimika",
+      "en": "Mimika",
+      "slug": "mimika-9412"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mimika",
+        "en": "Mimika",
+        "slug": "mimika-9412"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.61",
+    "lon": "136.796"
+  },
+  "metadata": {},
+  "source": {}
+}

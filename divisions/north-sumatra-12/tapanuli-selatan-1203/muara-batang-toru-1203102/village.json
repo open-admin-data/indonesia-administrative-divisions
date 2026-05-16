@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1203102002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bandar Hapinis",
+      "en": "Bandar Hapinis",
+      "slug": "bandar-hapinis-1203102002"
+    },
+    "code": {
+      "id": "1203102002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.456",
+      "lon": "99.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Huta Raja",
+      "en": "Huta Raja",
+      "slug": "huta-raja-1203102003"
+    },
+    "code": {
+      "id": "1203102003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.416",
+      "lon": "98.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Ampolu",
+      "en": "Muara Ampolu",
+      "slug": "muara-ampolu-1203102009"
+    },
+    "code": {
+      "id": "1203102009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.369",
+      "lon": "98.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Huta Raja",
+      "en": "Muara Huta Raja",
+      "slug": "muara-huta-raja-1203102008"
+    },
+    "code": {
+      "id": "1203102008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.416",
+      "lon": "98.913"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Manompas",
+      "en": "Muara Manompas",
+      "slug": "muara-manompas-1203102004"
+    },
+    "code": {
+      "id": "1203102004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.433",
+      "lon": "98.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muara Upu",
+      "en": "Muara Upu",
+      "slug": "muara-upu-1203102001"
+    },
+    "code": {
+      "id": "1203102001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.369",
+      "lon": "98.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pardamean",
+      "en": "Pardamean",
+      "slug": "pardamean-1203102006"
+    },
+    "code": {
+      "id": "1203102006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.465",
+      "lon": "99.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simarlelan",
+      "en": "Simarlelan",
+      "slug": "simarlelan-1203102010"
+    },
+    "code": {
+      "id": "1203102010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.459",
+      "lon": "98.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203102007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Terapung Raya",
+      "en": "Terapung Raya",
+      "slug": "terapung-raya-1203102007"
+    },
+    "code": {
+      "id": "1203102007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1203102",
+      "level": 3,
+      "name": {
+        "local": "Muara Batang Toru",
+        "en": "Muara Batang Toru",
+        "slug": "muara-batang-toru-1203102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tapanuli Selatan",
+          "en": "Tapanuli Selatan",
+          "slug": "tapanuli-selatan-1203"
+        }
+      },
+      {
+        "id": "1203102",
+        "level": 3,
+        "name": {
+          "local": "Muara Batang Toru",
+          "en": "Muara Batang Toru",
+          "slug": "muara-batang-toru-1203102"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22739"
+    ],
+    "geo": {
+      "lat": "1.465",
+      "lon": "98.994"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,1346 @@
+[
+  {
+    "id": "5303142",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amabi Oefeto",
+      "en": "Amabi Oefeto",
+      "slug": "amabi-oefeto-5303142"
+    },
+    "code": {
+      "id": "5303142",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.149",
+      "lon": "123.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303141",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amabi Oefeto Timur",
+      "en": "Amabi Oefeto Timur",
+      "slug": "amabi-oefeto-timur-5303141"
+    },
+    "code": {
+      "id": "5303141",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.103",
+      "lon": "124.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amarasi",
+      "en": "Amarasi",
+      "slug": "amarasi-5303130"
+    },
+    "code": {
+      "id": "5303130",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.213",
+      "lon": "123.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303131",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amarasi Barat",
+      "en": "Amarasi Barat",
+      "slug": "amarasi-barat-5303131"
+    },
+    "code": {
+      "id": "5303131",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.295",
+      "lon": "123.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303132",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amarasi Selatan",
+      "en": "Amarasi Selatan",
+      "slug": "amarasi-selatan-5303132"
+    },
+    "code": {
+      "id": "5303132",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.291",
+      "lon": "123.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303133",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amarasi Timur",
+      "en": "Amarasi Timur",
+      "slug": "amarasi-timur-5303133"
+    },
+    "code": {
+      "id": "5303133",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.188",
+      "lon": "124.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303181",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amfoang Barat Daya",
+      "en": "Amfoang Barat Daya",
+      "slug": "amfoang-barat-daya-5303181"
+    },
+    "code": {
+      "id": "5303181",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.697",
+      "lon": "123.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303191",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amfoang Barat Laut",
+      "en": "Amfoang Barat Laut",
+      "slug": "amfoang-barat-laut-5303191"
+    },
+    "code": {
+      "id": "5303191",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.618",
+      "lon": "123.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amfoang Selatan",
+      "en": "Amfoang Selatan",
+      "slug": "amfoang-selatan-5303180"
+    },
+    "code": {
+      "id": "5303180",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.711",
+      "lon": "123.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303182",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amfoang Tengah",
+      "en": "Amfoang Tengah",
+      "slug": "amfoang-tengah-5303182"
+    },
+    "code": {
+      "id": "5303182",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.616",
+      "lon": "124.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303192",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amfoang Timur",
+      "en": "Amfoang Timur",
+      "slug": "amfoang-timur-5303192"
+    },
+    "code": {
+      "id": "5303192",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.395",
+      "lon": "124.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amfoang Utara",
+      "en": "Amfoang Utara",
+      "slug": "amfoang-utara-5303190"
+    },
+    "code": {
+      "id": "5303190",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.506",
+      "lon": "123.876"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fatuleu",
+      "en": "Fatuleu",
+      "slug": "fatuleu-5303160"
+    },
+    "code": {
+      "id": "5303160",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.998",
+      "lon": "124.012"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303162",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fatuleu Barat",
+      "en": "Fatuleu Barat",
+      "slug": "fatuleu-barat-5303162"
+    },
+    "code": {
+      "id": "5303162",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.837",
+      "lon": "123.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303161",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fatuleu Tengah",
+      "en": "Fatuleu Tengah",
+      "slug": "fatuleu-tengah-5303161"
+    },
+    "code": {
+      "id": "5303161",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.914",
+      "lon": "123.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kupang Barat",
+      "en": "Kupang Barat",
+      "slug": "kupang-barat-5303110"
+    },
+    "code": {
+      "id": "5303110",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.284",
+      "lon": "123.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kupang Tengah",
+      "en": "Kupang Tengah",
+      "slug": "kupang-tengah-5303120"
+    },
+    "code": {
+      "id": "5303120",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.136",
+      "lon": "123.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kupang Timur",
+      "en": "Kupang Timur",
+      "slug": "kupang-timur-5303140"
+    },
+    "code": {
+      "id": "5303140",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.088",
+      "lon": "123.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nekamese",
+      "en": "Nekamese",
+      "slug": "nekamese-5303111"
+    },
+    "code": {
+      "id": "5303111",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.294",
+      "lon": "123.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semau",
+      "en": "Semau",
+      "slug": "semau-5303100"
+    },
+    "code": {
+      "id": "5303100",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.166",
+      "lon": "123.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semau Selatan",
+      "en": "Semau Selatan",
+      "slug": "semau-selatan-5303101"
+    },
+    "code": {
+      "id": "5303101",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.283",
+      "lon": "123.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sulamu",
+      "en": "Sulamu",
+      "slug": "sulamu-5303150"
+    },
+    "code": {
+      "id": "5303150",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.995",
+      "lon": "123.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303121",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taebenu",
+      "en": "Taebenu",
+      "slug": "taebenu-5303121"
+    },
+    "code": {
+      "id": "5303121",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.206",
+      "lon": "123.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5303170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Takari",
+      "en": "Takari",
+      "slug": "takari-5303170"
+    },
+    "code": {
+      "id": "5303170",
+      "iso": null
+    },
+    "parent": {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kupang",
+        "en": "Kupang",
+        "slug": "kupang-5303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kupang",
+          "en": "Kupang",
+          "slug": "kupang-5303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-9.887",
+      "lon": "123.972"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

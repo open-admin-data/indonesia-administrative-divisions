@@ -1,0 +1,56 @@
+{
+  "id": "1602120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sirah Pulau Padang",
+    "en": "Sirah Pulau Padang",
+    "slug": "sirah-pulau-padang-1602120"
+  },
+  "code": {
+    "id": "1602120",
+    "iso": null
+  },
+  "parent": {
+    "id": "1602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ilir",
+      "en": "Ogan Komering Ilir",
+      "slug": "ogan-komering-ilir-1602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ilir",
+        "en": "Ogan Komering Ilir",
+        "slug": "ogan-komering-ilir-1602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.274",
+    "lon": "104.874"
+  },
+  "metadata": {},
+  "source": {}
+}

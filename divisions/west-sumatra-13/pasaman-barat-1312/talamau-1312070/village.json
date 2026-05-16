@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1312070001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kajai",
+      "en": "Kajai",
+      "slug": "kajai-1312070001"
+    },
+    "code": {
+      "id": "1312070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312070",
+      "level": 3,
+      "name": {
+        "local": "Talamau",
+        "en": "Talamau",
+        "slug": "talamau-1312070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312070",
+        "level": 3,
+        "name": {
+          "local": "Talamau",
+          "en": "Talamau",
+          "slug": "talamau-1312070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26561"
+    ],
+    "geo": {
+      "lat": "0.156",
+      "lon": "99.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312070003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sinuruik",
+      "en": "Sinuruik",
+      "slug": "sinuruik-1312070003"
+    },
+    "code": {
+      "id": "1312070003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312070",
+      "level": 3,
+      "name": {
+        "local": "Talamau",
+        "en": "Talamau",
+        "slug": "talamau-1312070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312070",
+        "level": 3,
+        "name": {
+          "local": "Talamau",
+          "en": "Talamau",
+          "slug": "talamau-1312070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26561"
+    ],
+    "geo": {
+      "lat": "0.24",
+      "lon": "99.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312070002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talu",
+      "en": "Talu",
+      "slug": "talu-1312070002"
+    },
+    "code": {
+      "id": "1312070002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312070",
+      "level": 3,
+      "name": {
+        "local": "Talamau",
+        "en": "Talamau",
+        "slug": "talamau-1312070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312070",
+        "level": 3,
+        "name": {
+          "local": "Talamau",
+          "en": "Talamau",
+          "slug": "talamau-1312070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26561"
+    ],
+    "geo": {
+      "lat": "0.227",
+      "lon": "99.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3402090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Imogiri",
+    "en": "Imogiri",
+    "slug": "imogiri-3402090"
+  },
+  "code": {
+    "id": "3402090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bantul",
+      "en": "Bantul",
+      "slug": "bantul-3402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantul",
+        "en": "Bantul",
+        "slug": "bantul-3402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.938",
+    "lon": "110.396"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3529170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gapura",
+    "en": "Gapura",
+    "slug": "gapura-3529170"
+  },
+  "code": {
+    "id": "3529170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3529",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumenep",
+      "en": "Sumenep",
+      "slug": "sumenep-3529"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3529",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumenep",
+        "en": "Sumenep",
+        "slug": "sumenep-3529"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.003",
+    "lon": "113.961"
+  },
+  "metadata": {},
+  "source": {}
+}

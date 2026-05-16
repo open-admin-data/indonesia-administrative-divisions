@@ -1,0 +1,56 @@
+{
+  "id": "5103010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuta Selatan",
+    "en": "Kuta Selatan",
+    "slug": "kuta-selatan-5103010"
+  },
+  "code": {
+    "id": "5103010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Badung",
+      "en": "Badung",
+      "slug": "badung-5103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Badung",
+        "en": "Badung",
+        "slug": "badung-5103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.801",
+    "lon": "115.162"
+  },
+  "metadata": {},
+  "source": {}
+}

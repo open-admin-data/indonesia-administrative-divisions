@@ -1,0 +1,327 @@
+[
+  {
+    "id": "3203111002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Campakamulya",
+      "en": "Campakamulya",
+      "slug": "campakamulya-3203111002"
+    },
+    "code": {
+      "id": "3203111002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203111",
+      "level": 3,
+      "name": {
+        "local": "Campaka Mulya",
+        "en": "Campaka Mulya",
+        "slug": "campaka-mulya-3203111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      },
+      {
+        "id": "3203111",
+        "level": 3,
+        "name": {
+          "local": "Campaka Mulya",
+          "en": "Campaka Mulya",
+          "slug": "campaka-mulya-3203111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43278"
+    ],
+    "geo": {
+      "lat": "-7.081",
+      "lon": "107.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203111001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Campakawarna",
+      "en": "Campakawarna",
+      "slug": "campakawarna-3203111001"
+    },
+    "code": {
+      "id": "3203111001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203111",
+      "level": 3,
+      "name": {
+        "local": "Campaka Mulya",
+        "en": "Campaka Mulya",
+        "slug": "campaka-mulya-3203111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      },
+      {
+        "id": "3203111",
+        "level": 3,
+        "name": {
+          "local": "Campaka Mulya",
+          "en": "Campaka Mulya",
+          "slug": "campaka-mulya-3203111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43278"
+    ],
+    "geo": {
+      "lat": "-7.053",
+      "lon": "107.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203111004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibanggala",
+      "en": "Cibanggala",
+      "slug": "cibanggala-3203111004"
+    },
+    "code": {
+      "id": "3203111004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203111",
+      "level": 3,
+      "name": {
+        "local": "Campaka Mulya",
+        "en": "Campaka Mulya",
+        "slug": "campaka-mulya-3203111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      },
+      {
+        "id": "3203111",
+        "level": 3,
+        "name": {
+          "local": "Campaka Mulya",
+          "en": "Campaka Mulya",
+          "slug": "campaka-mulya-3203111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43278"
+    ],
+    "geo": {
+      "lat": "-7.078",
+      "lon": "107.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203111003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukabungah",
+      "en": "Sukabungah",
+      "slug": "sukabungah-3203111003"
+    },
+    "code": {
+      "id": "3203111003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203111",
+      "level": 3,
+      "name": {
+        "local": "Campaka Mulya",
+        "en": "Campaka Mulya",
+        "slug": "campaka-mulya-3203111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      },
+      {
+        "id": "3203111",
+        "level": 3,
+        "name": {
+          "local": "Campaka Mulya",
+          "en": "Campaka Mulya",
+          "slug": "campaka-mulya-3203111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43278"
+    ],
+    "geo": {
+      "lat": "-7.078",
+      "lon": "107.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203111005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukasirna",
+      "en": "Sukasirna",
+      "slug": "sukasirna-3203111005"
+    },
+    "code": {
+      "id": "3203111005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203111",
+      "level": 3,
+      "name": {
+        "local": "Campaka Mulya",
+        "en": "Campaka Mulya",
+        "slug": "campaka-mulya-3203111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      },
+      {
+        "id": "3203111",
+        "level": 3,
+        "name": {
+          "local": "Campaka Mulya",
+          "en": "Campaka Mulya",
+          "slug": "campaka-mulya-3203111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43278"
+    ],
+    "geo": {
+      "lat": "-7.078",
+      "lon": "107.208"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

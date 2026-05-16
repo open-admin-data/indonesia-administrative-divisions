@@ -1,0 +1,56 @@
+{
+  "id": "3374150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tugu",
+    "en": "Tugu",
+    "slug": "tugu-3374150"
+  },
+  "code": {
+    "id": "3374150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3374",
+    "level": 2,
+    "name": {
+      "local": "Kota Semarang",
+      "en": "Semarang",
+      "slug": "semarang-3374"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3374",
+      "level": 2,
+      "name": {
+        "local": "Kota Semarang",
+        "en": "Semarang",
+        "slug": "semarang-3374"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.962",
+    "lon": "110.328"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "5305026002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bakitolas",
+      "en": "Bakitolas",
+      "slug": "bakitolas-5305026002"
+    },
+    "code": {
+      "id": "5305026002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5305026",
+      "level": 3,
+      "name": {
+        "local": "Naibenu",
+        "en": "Naibenu",
+        "slug": "naibenu-5305026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Utara",
+          "en": "Timor Tengah Utara",
+          "slug": "timor-tengah-utara-5305"
+        }
+      },
+      {
+        "id": "5305026",
+        "level": 3,
+        "name": {
+          "local": "Naibenu",
+          "en": "Naibenu",
+          "slug": "naibenu-5305026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85626"
+    ],
+    "geo": {
+      "lat": "-9.3",
+      "lon": "124.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5305026004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Manamas",
+      "en": "Manamas",
+      "slug": "manamas-5305026004"
+    },
+    "code": {
+      "id": "5305026004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5305026",
+      "level": 3,
+      "name": {
+        "local": "Naibenu",
+        "en": "Naibenu",
+        "slug": "naibenu-5305026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Utara",
+          "en": "Timor Tengah Utara",
+          "slug": "timor-tengah-utara-5305"
+        }
+      },
+      {
+        "id": "5305026",
+        "level": 3,
+        "name": {
+          "local": "Naibenu",
+          "en": "Naibenu",
+          "slug": "naibenu-5305026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85626"
+    ],
+    "geo": {
+      "lat": "-9.233",
+      "lon": "124.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5305026001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sunsea",
+      "en": "Sunsea",
+      "slug": "sunsea-5305026001"
+    },
+    "code": {
+      "id": "5305026001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5305026",
+      "level": 3,
+      "name": {
+        "local": "Naibenu",
+        "en": "Naibenu",
+        "slug": "naibenu-5305026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Timor Tengah Utara",
+          "en": "Timor Tengah Utara",
+          "slug": "timor-tengah-utara-5305"
+        }
+      },
+      {
+        "id": "5305026",
+        "level": 3,
+        "name": {
+          "local": "Naibenu",
+          "en": "Naibenu",
+          "slug": "naibenu-5305026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85626"
+    ],
+    "geo": {
+      "lat": "-9.329",
+      "lon": "124.47"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

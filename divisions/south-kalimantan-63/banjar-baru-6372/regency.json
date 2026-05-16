@@ -1,0 +1,48 @@
+{
+  "id": "6372",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Banjar Baru",
+    "en": "Banjar Baru",
+    "slug": "banjar-baru-6372"
+  },
+  "code": {
+    "id": "6372",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Selatan",
+      "en": "South Kalimantan",
+      "slug": "south-kalimantan-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.439",
+    "lon": "114.831"
+  },
+  "metadata": {},
+  "source": {}
+}

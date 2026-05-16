@@ -1,0 +1,56 @@
+{
+  "id": "3507080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tirto Yudo",
+    "en": "Tirto Yudo",
+    "slug": "tirto-yudo-3507080"
+  },
+  "code": {
+    "id": "3507080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malang",
+      "en": "Malang",
+      "slug": "malang-3507"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malang",
+        "en": "Malang",
+        "slug": "malang-3507"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.27",
+    "lon": "112.846"
+  },
+  "metadata": {},
+  "source": {}
+}

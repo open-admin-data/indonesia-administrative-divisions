@@ -1,0 +1,56 @@
+{
+  "id": "1902063",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Selat Nasik",
+    "en": "Selat Nasik",
+    "slug": "selat-nasik-1902063"
+  },
+  "code": {
+    "id": "1902063",
+    "iso": null
+  },
+  "parent": {
+    "id": "1902",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belitung",
+      "en": "Belitung",
+      "slug": "belitung-1902"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belitung",
+        "en": "Belitung",
+        "slug": "belitung-1902"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.935",
+    "lon": "107.305"
+  },
+  "metadata": {},
+  "source": {}
+}

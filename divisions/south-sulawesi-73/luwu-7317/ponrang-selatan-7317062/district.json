@@ -1,0 +1,56 @@
+{
+  "id": "7317062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ponrang Selatan",
+    "en": "Ponrang Selatan",
+    "slug": "ponrang-selatan-7317062"
+  },
+  "code": {
+    "id": "7317062",
+    "iso": null
+  },
+  "parent": {
+    "id": "7317",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Luwu",
+      "en": "Luwu",
+      "slug": "luwu-7317"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu",
+        "en": "Luwu",
+        "slug": "luwu-7317"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.249",
+    "lon": "120.355"
+  },
+  "metadata": {},
+  "source": {}
+}

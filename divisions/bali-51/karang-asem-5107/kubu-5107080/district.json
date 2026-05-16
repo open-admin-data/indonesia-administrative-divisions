@@ -1,0 +1,56 @@
+{
+  "id": "5107080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kubu",
+    "en": "Kubu",
+    "slug": "kubu-5107080"
+  },
+  "code": {
+    "id": "5107080",
+    "iso": null
+  },
+  "parent": {
+    "id": "5107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Karang Asem",
+      "en": "Karang Asem",
+      "slug": "karang-asem-5107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karang Asem",
+        "en": "Karang Asem",
+        "slug": "karang-asem-5107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.256",
+    "lon": "115.524"
+  },
+  "metadata": {},
+  "source": {}
+}

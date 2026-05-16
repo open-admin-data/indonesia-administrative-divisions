@@ -1,0 +1,56 @@
+{
+  "id": "1111151",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lapang",
+    "en": "Lapang",
+    "slug": "lapang-1111151"
+  },
+  "code": {
+    "id": "1111151",
+    "iso": null
+  },
+  "parent": {
+    "id": "1111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Utara",
+      "en": "Aceh Utara",
+      "slug": "aceh-utara-1111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Utara",
+        "en": "Aceh Utara",
+        "slug": "aceh-utara-1111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.144",
+    "lon": "97.291"
+  },
+  "metadata": {},
+  "source": {}
+}

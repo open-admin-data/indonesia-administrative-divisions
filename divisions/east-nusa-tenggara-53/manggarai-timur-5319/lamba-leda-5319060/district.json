@@ -1,0 +1,56 @@
+{
+  "id": "5319060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lamba Leda",
+    "en": "Lamba Leda",
+    "slug": "lamba-leda-5319060"
+  },
+  "code": {
+    "id": "5319060",
+    "iso": null
+  },
+  "parent": {
+    "id": "5319",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Timur",
+      "en": "Manggarai Timur",
+      "slug": "manggarai-timur-5319"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Timur",
+        "en": "Manggarai Timur",
+        "slug": "manggarai-timur-5319"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.383",
+    "lon": "120.583"
+  },
+  "metadata": {},
+  "source": {}
+}

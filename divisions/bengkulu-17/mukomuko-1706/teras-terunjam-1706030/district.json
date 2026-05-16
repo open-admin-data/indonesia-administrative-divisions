@@ -1,0 +1,56 @@
+{
+  "id": "1706030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teras Terunjam",
+    "en": "Teras Terunjam",
+    "slug": "teras-terunjam-1706030"
+  },
+  "code": {
+    "id": "1706030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mukomuko",
+      "en": "Mukomuko",
+      "slug": "mukomuko-1706"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.56",
+    "lon": "101.235"
+  },
+  "metadata": {},
+  "source": {}
+}

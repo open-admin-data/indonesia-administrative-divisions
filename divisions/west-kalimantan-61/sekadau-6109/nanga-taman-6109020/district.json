@@ -1,0 +1,56 @@
+{
+  "id": "6109020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nanga Taman",
+    "en": "Nanga Taman",
+    "slug": "nanga-taman-6109020"
+  },
+  "code": {
+    "id": "6109020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sekadau",
+      "en": "Sekadau",
+      "slug": "sekadau-6109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sekadau",
+        "en": "Sekadau",
+        "slug": "sekadau-6109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.324",
+    "lon": "110.822"
+  },
+  "metadata": {},
+  "source": {}
+}

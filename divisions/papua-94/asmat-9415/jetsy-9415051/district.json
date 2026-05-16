@@ -1,0 +1,56 @@
+{
+  "id": "9415051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jetsy",
+    "en": "Jetsy",
+    "slug": "jetsy-9415051"
+  },
+  "code": {
+    "id": "9415051",
+    "iso": null
+  },
+  "parent": {
+    "id": "9415",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Asmat",
+      "en": "Asmat",
+      "slug": "asmat-9415"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9415",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Asmat",
+        "en": "Asmat",
+        "slug": "asmat-9415"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.266",
+    "lon": "138.605"
+  },
+  "metadata": {},
+  "source": {}
+}

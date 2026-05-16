@@ -1,0 +1,56 @@
+{
+  "id": "7403182",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tongauna",
+    "en": "Tongauna",
+    "slug": "tongauna-7403182"
+  },
+  "code": {
+    "id": "7403182",
+    "iso": null
+  },
+  "parent": {
+    "id": "7403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Konawe",
+      "en": "Konawe",
+      "slug": "konawe-7403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Konawe",
+        "en": "Konawe",
+        "slug": "konawe-7403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.765",
+    "lon": "122.014"
+  },
+  "metadata": {},
+  "source": {}
+}

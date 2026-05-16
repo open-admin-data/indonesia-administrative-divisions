@@ -1,0 +1,31 @@
+{
+  "id": "12",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sumatera Utara",
+    "en": "North Sumatra",
+    "slug": "north-sumatra-12"
+  },
+  "code": {
+    "id": "12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 33,
+    "village": 6102,
+    "district": 448
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.581",
+    "lon": "98.672"
+  },
+  "metadata": {},
+  "source": {}
+}

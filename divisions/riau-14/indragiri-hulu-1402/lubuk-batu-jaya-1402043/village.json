@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1402043031",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Air Putih",
+      "en": "Air Putih",
+      "slug": "air-putih-1402043031"
+    },
+    "code": {
+      "id": "1402043031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.302",
+      "lon": "102.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043027",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kulim Jaya",
+      "en": "Kulim Jaya",
+      "slug": "kulim-jaya-1402043027"
+    },
+    "code": {
+      "id": "1402043027",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.339",
+      "lon": "102.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lubuk Batu Tinggal",
+      "en": "Lubuk Batu Tinggal",
+      "slug": "lubuk-batu-tinggal-1402043005"
+    },
+    "code": {
+      "id": "1402043005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.321",
+      "lon": "102.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pondok Gelugur",
+      "en": "Pondok Gelugur",
+      "slug": "pondok-gelugur-1402043003"
+    },
+    "code": {
+      "id": "1402043003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.408",
+      "lon": "102.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043030",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pontian Mekar",
+      "en": "Pontian Mekar",
+      "slug": "pontian-mekar-1402043030"
+    },
+    "code": {
+      "id": "1402043030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.334",
+      "lon": "102.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rimpian",
+      "en": "Rimpian",
+      "slug": "rimpian-1402043004"
+    },
+    "code": {
+      "id": "1402043004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.371",
+      "lon": "102.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sei Beberas Hilir",
+      "en": "Sei Beberas Hilir",
+      "slug": "sei-beberas-hilir-1402043002"
+    },
+    "code": {
+      "id": "1402043002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.387",
+      "lon": "102.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sei Beras-beras",
+      "en": "Sei Beras-beras",
+      "slug": "sei-beras-beras-1402043001"
+    },
+    "code": {
+      "id": "1402043001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.371",
+      "lon": "102.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1402043029",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tasik Juang",
+      "en": "Tasik Juang",
+      "slug": "tasik-juang-1402043029"
+    },
+    "code": {
+      "id": "1402043029",
+      "iso": null
+    },
+    "parent": {
+      "id": "1402043",
+      "level": 3,
+      "name": {
+        "local": "Lubuk Batu Jaya",
+        "en": "Lubuk Batu Jaya",
+        "slug": "lubuk-batu-jaya-1402043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hulu",
+          "en": "Indragiri Hulu",
+          "slug": "indragiri-hulu-1402"
+        }
+      },
+      {
+        "id": "1402043",
+        "level": 3,
+        "name": {
+          "local": "Lubuk Batu Jaya",
+          "en": "Lubuk Batu Jaya",
+          "slug": "lubuk-batu-jaya-1402043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29358"
+    ],
+    "geo": {
+      "lat": "-0.378",
+      "lon": "102.08"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

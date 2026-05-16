@@ -1,0 +1,56 @@
+{
+  "id": "9111050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ransiki",
+    "en": "Ransiki",
+    "slug": "ransiki-9111050"
+  },
+  "code": {
+    "id": "9111050",
+    "iso": null
+  },
+  "parent": {
+    "id": "9111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manokwari Selatan",
+      "en": "Manokwari Selatan",
+      "slug": "manokwari-selatan-9111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manokwari Selatan",
+        "en": "Manokwari Selatan",
+        "slug": "manokwari-selatan-9111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.442",
+    "lon": "134.123"
+  },
+  "metadata": {},
+  "source": {}
+}

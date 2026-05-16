@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9433072005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bungok",
+      "en": "Bungok",
+      "slug": "bungok-9433072005"
+    },
+    "code": {
+      "id": "9433072005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433072",
+      "level": 3,
+      "name": {
+        "local": "Beoga Timur",
+        "en": "Beoga Timur",
+        "slug": "beoga-timur-9433072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433072",
+        "level": 3,
+        "name": {
+          "local": "Beoga Timur",
+          "en": "Beoga Timur",
+          "slug": "beoga-timur-9433072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98953"
+    ],
+    "geo": {
+      "lat": "-3.719",
+      "lon": "137.32"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9433072001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kelandiruma",
+      "en": "Kelandiruma",
+      "slug": "kelandiruma-9433072001"
+    },
+    "code": {
+      "id": "9433072001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433072",
+      "level": 3,
+      "name": {
+        "local": "Beoga Timur",
+        "en": "Beoga Timur",
+        "slug": "beoga-timur-9433072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433072",
+        "level": 3,
+        "name": {
+          "local": "Beoga Timur",
+          "en": "Beoga Timur",
+          "slug": "beoga-timur-9433072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98953"
+    ],
+    "geo": {
+      "lat": "-3.778",
+      "lon": "137.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9433072002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wandibet",
+      "en": "Wandibet",
+      "slug": "wandibet-9433072002"
+    },
+    "code": {
+      "id": "9433072002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9433072",
+      "level": 3,
+      "name": {
+        "local": "Beoga Timur",
+        "en": "Beoga Timur",
+        "slug": "beoga-timur-9433072"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9433",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Puncak",
+          "en": "Puncak",
+          "slug": "puncak-9433"
+        }
+      },
+      {
+        "id": "9433072",
+        "level": 3,
+        "name": {
+          "local": "Beoga Timur",
+          "en": "Beoga Timur",
+          "slug": "beoga-timur-9433072"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98953"
+    ],
+    "geo": {
+      "lat": "-3.719",
+      "lon": "137.32"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

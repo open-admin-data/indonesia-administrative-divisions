@@ -1,0 +1,56 @@
+{
+  "id": "1222050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kampung Rakyat",
+    "en": "Kampung Rakyat",
+    "slug": "kampung-rakyat-1222050"
+  },
+  "code": {
+    "id": "1222050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1222",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Labuhan Batu Selatan",
+      "en": "Labuhan Batu Selatan",
+      "slug": "labuhan-batu-selatan-1222"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.044",
+    "lon": "100.19"
+  },
+  "metadata": {},
+  "source": {}
+}

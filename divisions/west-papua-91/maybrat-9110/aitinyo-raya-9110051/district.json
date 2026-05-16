@@ -1,0 +1,56 @@
+{
+  "id": "9110051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aitinyo Raya",
+    "en": "Aitinyo Raya",
+    "slug": "aitinyo-raya-9110051"
+  },
+  "code": {
+    "id": "9110051",
+    "iso": null
+  },
+  "parent": {
+    "id": "9110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maybrat",
+      "en": "Maybrat",
+      "slug": "maybrat-9110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maybrat",
+        "en": "Maybrat",
+        "slug": "maybrat-9110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.308",
+    "lon": "132.334"
+  },
+  "metadata": {},
+  "source": {}
+}

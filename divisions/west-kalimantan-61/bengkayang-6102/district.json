@@ -1,0 +1,954 @@
+[
+  {
+    "id": "6102040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bengkayang",
+      "en": "Bengkayang",
+      "slug": "bengkayang-6102040"
+    },
+    "code": {
+      "id": "6102040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.846",
+      "lon": "109.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Capkala",
+      "en": "Capkala",
+      "slug": "capkala-6102011"
+    },
+    "code": {
+      "id": "6102011",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.644",
+      "lon": "109.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jagoi Babang",
+      "en": "Jagoi Babang",
+      "slug": "jagoi-babang-6102080"
+    },
+    "code": {
+      "id": "6102080",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.398",
+      "lon": "109.773"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ledo",
+      "en": "Ledo",
+      "slug": "ledo-6102050"
+    },
+    "code": {
+      "id": "6102050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.005",
+      "lon": "109.583"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembah Bawang",
+      "en": "Lembah Bawang",
+      "slug": "lembah-bawang-6102032"
+    },
+    "code": {
+      "id": "6102032",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.947",
+      "lon": "109.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lumar",
+      "en": "Lumar",
+      "slug": "lumar-6102052"
+    },
+    "code": {
+      "id": "6102052",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.969",
+      "lon": "109.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Monterado",
+      "en": "Monterado",
+      "slug": "monterado-6102031"
+    },
+    "code": {
+      "id": "6102031",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.799",
+      "lon": "109.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Samalantan",
+      "en": "Samalantan",
+      "slug": "samalantan-6102030"
+    },
+    "code": {
+      "id": "6102030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.789",
+      "lon": "109.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sanggau Ledo",
+      "en": "Sanggau Ledo",
+      "slug": "sanggau-ledo-6102060"
+    },
+    "code": {
+      "id": "6102060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.14",
+      "lon": "109.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Seluas",
+      "en": "Seluas",
+      "slug": "seluas-6102070"
+    },
+    "code": {
+      "id": "6102070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.207",
+      "lon": "109.753"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Siding",
+      "en": "Siding",
+      "slug": "siding-6102081"
+    },
+    "code": {
+      "id": "6102081",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.181",
+      "lon": "109.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Betung",
+      "en": "Sungai Betung",
+      "slug": "sungai-betung-6102042"
+    },
+    "code": {
+      "id": "6102042",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.815",
+      "lon": "109.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Raya",
+      "en": "Sungai Raya",
+      "slug": "sungai-raya-6102010"
+    },
+    "code": {
+      "id": "6102010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.604",
+      "lon": "108.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Raya Kepulauan",
+      "en": "Sungai Raya Kepulauan",
+      "slug": "sungai-raya-kepulauan-6102012"
+    },
+    "code": {
+      "id": "6102012",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.75",
+      "lon": "108.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suti Semarang",
+      "en": "Suti Semarang",
+      "slug": "suti-semarang-6102051"
+    },
+    "code": {
+      "id": "6102051",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.94",
+      "lon": "109.747"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teriak",
+      "en": "Teriak",
+      "slug": "teriak-6102041"
+    },
+    "code": {
+      "id": "6102041",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.81",
+      "lon": "109.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tujuhbelas",
+      "en": "Tujuhbelas",
+      "slug": "tujuhbelas-6102061"
+    },
+    "code": {
+      "id": "6102061",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkayang",
+        "en": "Bengkayang",
+        "slug": "bengkayang-6102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.026",
+      "lon": "109.776"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

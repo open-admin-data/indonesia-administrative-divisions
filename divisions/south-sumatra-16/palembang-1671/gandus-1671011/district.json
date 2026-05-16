@@ -1,0 +1,56 @@
+{
+  "id": "1671011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gandus",
+    "en": "Gandus",
+    "slug": "gandus-1671011"
+  },
+  "code": {
+    "id": "1671011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1671",
+    "level": 2,
+    "name": {
+      "local": "Kota Palembang",
+      "en": "Palembang",
+      "slug": "palembang-1671"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1671",
+      "level": 2,
+      "name": {
+        "local": "Kota Palembang",
+        "en": "Palembang",
+        "slug": "palembang-1671"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.001",
+    "lon": "104.687"
+  },
+  "metadata": {},
+  "source": {}
+}

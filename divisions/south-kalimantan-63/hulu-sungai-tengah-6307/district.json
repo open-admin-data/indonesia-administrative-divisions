@@ -1,0 +1,618 @@
+[
+  {
+    "id": "6307050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Barabai",
+      "en": "Barabai",
+      "slug": "barabai-6307050"
+    },
+    "code": {
+      "id": "6307050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.579",
+      "lon": "115.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batang Alai Selatan",
+      "en": "Batang Alai Selatan",
+      "slug": "batang-alai-selatan-6307040"
+    },
+    "code": {
+      "id": "6307040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.562",
+      "lon": "115.46"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batang Alai Timur",
+      "en": "Batang Alai Timur",
+      "slug": "batang-alai-timur-6307041"
+    },
+    "code": {
+      "id": "6307041",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.608",
+      "lon": "115.692"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batang Alai Utara",
+      "en": "Batang Alai Utara",
+      "slug": "batang-alai-utara-6307090"
+    },
+    "code": {
+      "id": "6307090",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.491",
+      "lon": "115.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Benawa",
+      "en": "Batu Benawa",
+      "slug": "batu-benawa-6307020"
+    },
+    "code": {
+      "id": "6307020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.622",
+      "lon": "115.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hantakan",
+      "en": "Hantakan",
+      "slug": "hantakan-6307030"
+    },
+    "code": {
+      "id": "6307030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.69",
+      "lon": "115.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haruyan",
+      "en": "Haruyan",
+      "slug": "haruyan-6307010"
+    },
+    "code": {
+      "id": "6307010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.705",
+      "lon": "115.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Labuan Amas Selatan",
+      "en": "Labuan Amas Selatan",
+      "slug": "labuan-amas-selatan-6307060"
+    },
+    "code": {
+      "id": "6307060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.645",
+      "lon": "115.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Labuan Amas Utara",
+      "en": "Labuan Amas Utara",
+      "slug": "labuan-amas-utara-6307070"
+    },
+    "code": {
+      "id": "6307070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.592",
+      "lon": "115.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Limpasu",
+      "en": "Limpasu",
+      "slug": "limpasu-6307091"
+    },
+    "code": {
+      "id": "6307091",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.493",
+      "lon": "115.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6307080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pandawan",
+      "en": "Pandawan",
+      "slug": "pandawan-6307080"
+    },
+    "code": {
+      "id": "6307080",
+      "iso": null
+    },
+    "parent": {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Tengah",
+        "en": "Hulu Sungai Tengah",
+        "slug": "hulu-sungai-tengah-6307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Selatan",
+          "en": "South Kalimantan",
+          "slug": "south-kalimantan-63"
+        }
+      },
+      {
+        "id": "6307",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Hulu Sungai Tengah",
+          "en": "Hulu Sungai Tengah",
+          "slug": "hulu-sungai-tengah-6307"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.553",
+      "lon": "115.304"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

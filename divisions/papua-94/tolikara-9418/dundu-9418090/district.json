@@ -1,0 +1,56 @@
+{
+  "id": "9418090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dundu",
+    "en": "Dundu",
+    "slug": "dundu-9418090"
+  },
+  "code": {
+    "id": "9418090",
+    "iso": null
+  },
+  "parent": {
+    "id": "9418",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tolikara",
+      "en": "Tolikara",
+      "slug": "tolikara-9418"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9418",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tolikara",
+        "en": "Tolikara",
+        "slug": "tolikara-9418"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.488",
+    "lon": "138.303"
+  },
+  "metadata": {},
+  "source": {}
+}

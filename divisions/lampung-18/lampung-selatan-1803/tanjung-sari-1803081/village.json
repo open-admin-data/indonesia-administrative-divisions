@@ -1,0 +1,522 @@
+[
+  {
+    "id": "1803081003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangunsari",
+      "en": "Bangunsari",
+      "slug": "bangunsari-1803081003"
+    },
+    "code": {
+      "id": "1803081003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.375",
+      "lon": "105.518"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kertosari",
+      "en": "Kertosari",
+      "slug": "kertosari-1803081005"
+    },
+    "code": {
+      "id": "1803081005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.336",
+      "lon": "105.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Malang Sari",
+      "en": "Malang Sari",
+      "slug": "malang-sari-1803081008"
+    },
+    "code": {
+      "id": "1803081008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.316",
+      "lon": "105.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mulyo Sari",
+      "en": "Mulyo Sari",
+      "slug": "mulyo-sari-1803081004"
+    },
+    "code": {
+      "id": "1803081004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.335",
+      "lon": "105.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Purwodadi Dalam",
+      "en": "Purwodadi Dalam",
+      "slug": "purwodadi-dalam-1803081007"
+    },
+    "code": {
+      "id": "1803081007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.372",
+      "lon": "105.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidomukti",
+      "en": "Sidomukti",
+      "slug": "sidomukti-1803081001"
+    },
+    "code": {
+      "id": "1803081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.38",
+      "lon": "105.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wawasan",
+      "en": "Wawasan",
+      "slug": "wawasan-1803081002"
+    },
+    "code": {
+      "id": "1803081002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.383",
+      "lon": "105.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1803081006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonodadi",
+      "en": "Wonodadi",
+      "slug": "wonodadi-1803081006"
+    },
+    "code": {
+      "id": "1803081006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1803081",
+      "level": 3,
+      "name": {
+        "local": "Tanjung Sari",
+        "en": "Tanjung Sari",
+        "slug": "tanjung-sari-1803081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1803",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Selatan",
+          "en": "Lampung Selatan",
+          "slug": "lampung-selatan-1803"
+        }
+      },
+      {
+        "id": "1803081",
+        "level": 3,
+        "name": {
+          "local": "Tanjung Sari",
+          "en": "Tanjung Sari",
+          "slug": "tanjung-sari-1803081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35565"
+    ],
+    "geo": {
+      "lat": "-5.369",
+      "lon": "105.48"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

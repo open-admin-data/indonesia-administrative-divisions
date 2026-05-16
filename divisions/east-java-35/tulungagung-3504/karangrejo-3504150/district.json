@@ -1,0 +1,56 @@
+{
+  "id": "3504150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karangrejo",
+    "en": "Karangrejo",
+    "slug": "karangrejo-3504150"
+  },
+  "code": {
+    "id": "3504150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulungagung",
+      "en": "Tulungagung",
+      "slug": "tulungagung-3504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulungagung",
+        "en": "Tulungagung",
+        "slug": "tulungagung-3504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.997",
+    "lon": "111.883"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "15",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Jambi",
+    "en": "Jambi",
+    "slug": "jambi-15"
+  },
+  "code": {
+    "id": "15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 11,
+    "village": 1562,
+    "district": 141
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.604",
+    "lon": "103.584"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1507021007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kempas Jaya",
+      "en": "Kempas Jaya",
+      "slug": "kempas-jaya-1507021007"
+    },
+    "code": {
+      "id": "1507021007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.78",
+      "lon": "103.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lumahan",
+      "en": "Lumahan",
+      "slug": "lumahan-1507021006"
+    },
+    "code": {
+      "id": "1507021006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.873",
+      "lon": "102.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Margo Rukun",
+      "en": "Margo Rukun",
+      "slug": "margo-rukun-1507021001"
+    },
+    "code": {
+      "id": "1507021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.817",
+      "lon": "103.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Senyerang",
+      "en": "Senyerang",
+      "slug": "senyerang-1507021005"
+    },
+    "code": {
+      "id": "1507021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.827",
+      "lon": "103.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Kayu Aro",
+      "en": "Sungai Kayu Aro",
+      "slug": "sungai-kayu-aro-1507021004"
+    },
+    "code": {
+      "id": "1507021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.78",
+      "lon": "103.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Kepayang",
+      "en": "Sungai Kepayang",
+      "slug": "sungai-kepayang-1507021009"
+    },
+    "code": {
+      "id": "1507021009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.827",
+      "lon": "103.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Landak",
+      "en": "Sungai Landak",
+      "slug": "sungai-landak-1507021010"
+    },
+    "code": {
+      "id": "1507021010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.827",
+      "lon": "103.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Rambai",
+      "en": "Sungai Rambai",
+      "slug": "sungai-rambai-1507021002"
+    },
+    "code": {
+      "id": "1507021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.873",
+      "lon": "103.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungsang",
+      "en": "Sungsang",
+      "slug": "sungsang-1507021008"
+    },
+    "code": {
+      "id": "1507021008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.847",
+      "lon": "103.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507021003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Ketapang",
+      "en": "Teluk Ketapang",
+      "slug": "teluk-ketapang-1507021003"
+    },
+    "code": {
+      "id": "1507021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1507021",
+      "level": 3,
+      "name": {
+        "local": "Senyerang",
+        "en": "Senyerang",
+        "slug": "senyerang-1507021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      },
+      {
+        "id": "1507",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanjung Jabung Barat",
+          "en": "Tanjung Jabung Barat",
+          "slug": "tanjung-jabung-barat-1507"
+        }
+      },
+      {
+        "id": "1507021",
+        "level": 3,
+        "name": {
+          "local": "Senyerang",
+          "en": "Senyerang",
+          "slug": "senyerang-1507021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36563"
+    ],
+    "geo": {
+      "lat": "-0.831",
+      "lon": "103.099"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

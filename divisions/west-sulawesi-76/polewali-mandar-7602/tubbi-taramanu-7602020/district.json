@@ -1,0 +1,56 @@
+{
+  "id": "7602020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tubbi Taramanu",
+    "en": "Tubbi Taramanu",
+    "slug": "tubbi-taramanu-7602020"
+  },
+  "code": {
+    "id": "7602020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Polewali Mandar",
+      "en": "Polewali Mandar",
+      "slug": "polewali-mandar-7602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Polewali Mandar",
+        "en": "Polewali Mandar",
+        "slug": "polewali-mandar-7602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.234",
+    "lon": "118.998"
+  },
+  "metadata": {},
+  "source": {}
+}

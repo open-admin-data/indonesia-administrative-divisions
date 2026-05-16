@@ -1,0 +1,56 @@
+{
+  "id": "1371010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bungus Teluk Kabung",
+    "en": "Bungus Teluk Kabung",
+    "slug": "bungus-teluk-kabung-1371010"
+  },
+  "code": {
+    "id": "1371010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1371",
+    "level": 2,
+    "name": {
+      "local": "Kota Padang",
+      "en": "Padang",
+      "slug": "padang-1371"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1371",
+      "level": 2,
+      "name": {
+        "local": "Kota Padang",
+        "en": "Padang",
+        "slug": "padang-1371"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.063",
+    "lon": "100.327"
+  },
+  "metadata": {},
+  "source": {}
+}

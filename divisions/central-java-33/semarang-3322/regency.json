@@ -1,0 +1,48 @@
+{
+  "id": "3322",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Semarang",
+    "en": "Semarang",
+    "slug": "semarang-3322"
+  },
+  "code": {
+    "id": "3322",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 211
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.129",
+    "lon": "110.404"
+  },
+  "metadata": {},
+  "source": {}
+}

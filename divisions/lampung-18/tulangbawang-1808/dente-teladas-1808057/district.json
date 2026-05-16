@@ -1,0 +1,56 @@
+{
+  "id": "1808057",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dente Teladas",
+    "en": "Dente Teladas",
+    "slug": "dente-teladas-1808057"
+  },
+  "code": {
+    "id": "1808057",
+    "iso": null
+  },
+  "parent": {
+    "id": "1808",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulangbawang",
+      "en": "Tulangbawang",
+      "slug": "tulangbawang-1808"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1808",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulangbawang",
+        "en": "Tulangbawang",
+        "slug": "tulangbawang-1808"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.497",
+    "lon": "105.797"
+  },
+  "metadata": {},
+  "source": {}
+}

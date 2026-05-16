@@ -1,0 +1,48 @@
+{
+  "id": "3271",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Bogor",
+    "en": "Bogor",
+    "slug": "bogor-3271"
+  },
+  "code": {
+    "id": "3271",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.595",
+    "lon": "106.794"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3602150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cikulur",
+    "en": "Cikulur",
+    "slug": "cikulur-3602150"
+  },
+  "code": {
+    "id": "3602150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lebak",
+      "en": "Lebak",
+      "slug": "lebak-3602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebak",
+        "en": "Lebak",
+        "slug": "lebak-3602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.395",
+    "lon": "106.147"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6110021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanah Pinoh Barat",
+    "en": "Tanah Pinoh Barat",
+    "slug": "tanah-pinoh-barat-6110021"
+  },
+  "code": {
+    "id": "6110021",
+    "iso": null
+  },
+  "parent": {
+    "id": "6110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Melawi",
+      "en": "Melawi",
+      "slug": "melawi-6110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.772",
+    "lon": "111.394"
+  },
+  "metadata": {},
+  "source": {}
+}

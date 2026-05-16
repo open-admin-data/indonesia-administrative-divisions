@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1312060001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muaro Kiawai",
+      "en": "Muaro Kiawai",
+      "slug": "muaro-kiawai-1312060001"
+    },
+    "code": {
+      "id": "1312060001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312060",
+      "level": 3,
+      "name": {
+        "local": "Gunung Tuleh",
+        "en": "Gunung Tuleh",
+        "slug": "gunung-tuleh-1312060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312060",
+        "level": 3,
+        "name": {
+          "local": "Gunung Tuleh",
+          "en": "Gunung Tuleh",
+          "slug": "gunung-tuleh-1312060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26571"
+    ],
+    "geo": {
+      "lat": "0.203",
+      "lon": "99.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312060002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rabi Jongor",
+      "en": "Rabi Jongor",
+      "slug": "rabi-jongor-1312060002"
+    },
+    "code": {
+      "id": "1312060002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312060",
+      "level": 3,
+      "name": {
+        "local": "Gunung Tuleh",
+        "en": "Gunung Tuleh",
+        "slug": "gunung-tuleh-1312060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312060",
+        "level": 3,
+        "name": {
+          "local": "Gunung Tuleh",
+          "en": "Gunung Tuleh",
+          "slug": "gunung-tuleh-1312060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26571"
+    ],
+    "geo": {
+      "lat": "0.388",
+      "lon": "99.701"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

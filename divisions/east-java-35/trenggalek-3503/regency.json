@@ -1,0 +1,48 @@
+{
+  "id": "3503",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Trenggalek",
+    "en": "Trenggalek",
+    "slug": "trenggalek-3503"
+  },
+  "code": {
+    "id": "3503",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 142
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.048",
+    "lon": "111.709"
+  },
+  "metadata": {},
+  "source": {}
+}

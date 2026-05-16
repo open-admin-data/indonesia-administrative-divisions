@@ -1,0 +1,56 @@
+{
+  "id": "6304070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mandastana",
+    "en": "Mandastana",
+    "slug": "mandastana-6304070"
+  },
+  "code": {
+    "id": "6304070",
+    "iso": null
+  },
+  "parent": {
+    "id": "6304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Barito Kuala",
+      "en": "Barito Kuala",
+      "slug": "barito-kuala-6304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Barito Kuala",
+        "en": "Barito Kuala",
+        "slug": "barito-kuala-6304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.209",
+    "lon": "114.674"
+  },
+  "metadata": {},
+  "source": {}
+}

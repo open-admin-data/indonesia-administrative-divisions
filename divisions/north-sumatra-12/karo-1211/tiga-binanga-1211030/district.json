@@ -1,0 +1,56 @@
+{
+  "id": "1211030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tiga Binanga",
+    "en": "Tiga Binanga",
+    "slug": "tiga-binanga-1211030"
+  },
+  "code": {
+    "id": "1211030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1211",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Karo",
+      "en": "Karo",
+      "slug": "karo-1211"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.093",
+    "lon": "98.221"
+  },
+  "metadata": {},
+  "source": {}
+}

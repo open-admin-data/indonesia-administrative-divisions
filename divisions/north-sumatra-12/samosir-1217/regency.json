@@ -1,0 +1,48 @@
+{
+  "id": "1217",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Samosir",
+    "en": "Samosir",
+    "slug": "samosir-1217"
+  },
+  "code": {
+    "id": "1217",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Utara",
+      "en": "North Sumatra",
+      "slug": "north-sumatra-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 134
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.56",
+    "lon": "98.722"
+  },
+  "metadata": {},
+  "source": {}
+}

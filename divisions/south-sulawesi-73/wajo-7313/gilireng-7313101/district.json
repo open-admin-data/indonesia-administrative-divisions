@@ -1,0 +1,56 @@
+{
+  "id": "7313101",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gilireng",
+    "en": "Gilireng",
+    "slug": "gilireng-7313101"
+  },
+  "code": {
+    "id": "7313101",
+    "iso": null
+  },
+  "parent": {
+    "id": "7313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wajo",
+      "en": "Wajo",
+      "slug": "wajo-7313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wajo",
+        "en": "Wajo",
+        "slug": "wajo-7313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.887",
+    "lon": "120.185"
+  },
+  "metadata": {},
+  "source": {}
+}

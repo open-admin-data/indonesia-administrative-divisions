@@ -1,0 +1,48 @@
+{
+  "id": "6101",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sambas",
+    "en": "Sambas",
+    "slug": "sambas-6101"
+  },
+  "code": {
+    "id": "6101",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 184
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.361",
+    "lon": "109.329"
+  },
+  "metadata": {},
+  "source": {}
+}

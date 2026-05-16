@@ -1,0 +1,56 @@
+{
+  "id": "1401060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cerenti",
+    "en": "Cerenti",
+    "slug": "cerenti-1401060"
+  },
+  "code": {
+    "id": "1401060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kuantan Singingi",
+      "en": "Kuantan Singingi",
+      "slug": "kuantan-singingi-1401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kuantan Singingi",
+        "en": "Kuantan Singingi",
+        "slug": "kuantan-singingi-1401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.493",
+    "lon": "101.862"
+  },
+  "metadata": {},
+  "source": {}
+}

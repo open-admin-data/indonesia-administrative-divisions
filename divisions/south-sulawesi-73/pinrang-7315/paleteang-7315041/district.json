@@ -1,0 +1,56 @@
+{
+  "id": "7315041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paleteang",
+    "en": "Paleteang",
+    "slug": "paleteang-7315041"
+  },
+  "code": {
+    "id": "7315041",
+    "iso": null
+  },
+  "parent": {
+    "id": "7315",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pinrang",
+      "en": "Pinrang",
+      "slug": "pinrang-7315"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.775",
+    "lon": "119.677"
+  },
+  "metadata": {},
+  "source": {}
+}

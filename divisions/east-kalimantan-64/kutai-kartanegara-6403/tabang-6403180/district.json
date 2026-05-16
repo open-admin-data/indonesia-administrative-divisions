@@ -1,0 +1,56 @@
+{
+  "id": "6403180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tabang",
+    "en": "Tabang",
+    "slug": "tabang-6403180"
+  },
+  "code": {
+    "id": "6403180",
+    "iso": null
+  },
+  "parent": {
+    "id": "6403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kutai Kartanegara",
+      "en": "Kutai Kartanegara",
+      "slug": "kutai-kartanegara-6403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kutai Kartanegara",
+        "en": "Kutai Kartanegara",
+        "slug": "kutai-kartanegara-6403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.916",
+    "lon": "115.881"
+  },
+  "metadata": {},
+  "source": {}
+}

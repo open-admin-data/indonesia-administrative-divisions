@@ -1,0 +1,56 @@
+{
+  "id": "9401050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muting",
+    "en": "Muting",
+    "slug": "muting-9401050"
+  },
+  "code": {
+    "id": "9401050",
+    "iso": null
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Merauke",
+      "en": "Merauke",
+      "slug": "merauke-9401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Merauke",
+        "en": "Merauke",
+        "slug": "merauke-9401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.303",
+    "lon": "140.387"
+  },
+  "metadata": {},
+  "source": {}
+}

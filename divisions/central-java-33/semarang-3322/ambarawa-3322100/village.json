@@ -1,0 +1,652 @@
+[
+  {
+    "id": "3322100010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baran",
+      "en": "Baran",
+      "slug": "baran-3322100010"
+    },
+    "code": {
+      "id": "3322100010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.244",
+      "lon": "110.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bejalen",
+      "en": "Bejalen",
+      "slug": "bejalen-3322100003"
+    },
+    "code": {
+      "id": "3322100003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.28",
+      "lon": "110.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kranggan",
+      "en": "Kranggan",
+      "slug": "kranggan-3322100007"
+    },
+    "code": {
+      "id": "3322100007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.254",
+      "lon": "110.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kupang",
+      "en": "Kupang",
+      "slug": "kupang-3322100005"
+    },
+    "code": {
+      "id": "3322100005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.253",
+      "lon": "110.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lodoyong",
+      "en": "Lodoyong",
+      "slug": "lodoyong-3322100006"
+    },
+    "code": {
+      "id": "3322100006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.267",
+      "lon": "110.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ngampin",
+      "en": "Ngampin",
+      "slug": "ngampin-3322100001"
+    },
+    "code": {
+      "id": "3322100001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.265",
+      "lon": "110.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panjang",
+      "en": "Panjang",
+      "slug": "panjang-3322100008"
+    },
+    "code": {
+      "id": "3322100008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.264",
+      "lon": "110.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasekan",
+      "en": "Pasekan",
+      "slug": "pasekan-3322100009"
+    },
+    "code": {
+      "id": "3322100009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.247",
+      "lon": "110.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pojoksari",
+      "en": "Pojoksari",
+      "slug": "pojoksari-3322100002"
+    },
+    "code": {
+      "id": "3322100002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.274",
+      "lon": "110.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3322100004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tambakboyo",
+      "en": "Tambakboyo",
+      "slug": "tambakboyo-3322100004"
+    },
+    "code": {
+      "id": "3322100004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3322100",
+      "level": 3,
+      "name": {
+        "local": "Ambarawa",
+        "en": "Ambarawa",
+        "slug": "ambarawa-3322100"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3322",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Semarang",
+          "en": "Semarang",
+          "slug": "semarang-3322"
+        }
+      },
+      {
+        "id": "3322100",
+        "level": 3,
+        "name": {
+          "local": "Ambarawa",
+          "en": "Ambarawa",
+          "slug": "ambarawa-3322100"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50566"
+    ],
+    "geo": {
+      "lat": "-7.263",
+      "lon": "110.423"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

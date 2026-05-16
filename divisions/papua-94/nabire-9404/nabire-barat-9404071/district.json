@@ -1,0 +1,56 @@
+{
+  "id": "9404071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nabire Barat",
+    "en": "Nabire Barat",
+    "slug": "nabire-barat-9404071"
+  },
+  "code": {
+    "id": "9404071",
+    "iso": null
+  },
+  "parent": {
+    "id": "9404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nabire",
+      "en": "Nabire",
+      "slug": "nabire-9404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nabire",
+        "en": "Nabire",
+        "slug": "nabire-9404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.418",
+    "lon": "135.47"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,394 @@
+[
+  {
+    "id": "9102010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buruway",
+      "en": "Buruway",
+      "slug": "buruway-9102010"
+    },
+    "code": {
+      "id": "9102010",
+      "iso": null
+    },
+    "parent": {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kaimana",
+          "en": "Kaimana",
+          "slug": "kaimana-9102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.786",
+      "lon": "133.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9102030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kaimana",
+      "en": "Kaimana",
+      "slug": "kaimana-9102030"
+    },
+    "code": {
+      "id": "9102030",
+      "iso": null
+    },
+    "parent": {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kaimana",
+          "en": "Kaimana",
+          "slug": "kaimana-9102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.593",
+      "lon": "134.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9102031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kambrau",
+      "en": "Kambrau",
+      "slug": "kambrau-9102031"
+    },
+    "code": {
+      "id": "9102031",
+      "iso": null
+    },
+    "parent": {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kaimana",
+          "en": "Kaimana",
+          "slug": "kaimana-9102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.423",
+      "lon": "133.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9102020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Arguni",
+      "en": "Teluk Arguni",
+      "slug": "teluk-arguni-9102020"
+    },
+    "code": {
+      "id": "9102020",
+      "iso": null
+    },
+    "parent": {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kaimana",
+          "en": "Kaimana",
+          "slug": "kaimana-9102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.123",
+      "lon": "133.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9102021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Arguni Bawah",
+      "en": "Teluk Arguni Bawah",
+      "slug": "teluk-arguni-bawah-9102021"
+    },
+    "code": {
+      "id": "9102021",
+      "iso": null
+    },
+    "parent": {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kaimana",
+          "en": "Kaimana",
+          "slug": "kaimana-9102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.22",
+      "lon": "133.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9102040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Etna",
+      "en": "Teluk Etna",
+      "slug": "teluk-etna-9102040"
+    },
+    "code": {
+      "id": "9102040",
+      "iso": null
+    },
+    "parent": {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kaimana",
+          "en": "Kaimana",
+          "slug": "kaimana-9102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.039",
+      "lon": "134.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9102041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Yamor",
+      "en": "Yamor",
+      "slug": "yamor-9102041"
+    },
+    "code": {
+      "id": "9102041",
+      "iso": null
+    },
+    "parent": {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaimana",
+        "en": "Kaimana",
+        "slug": "kaimana-9102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kaimana",
+          "en": "Kaimana",
+          "slug": "kaimana-9102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.881",
+      "lon": "134.756"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

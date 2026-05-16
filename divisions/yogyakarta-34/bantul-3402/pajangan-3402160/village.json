@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3402160003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Guwosari",
+      "en": "Guwosari",
+      "slug": "guwosari-3402160003"
+    },
+    "code": {
+      "id": "3402160003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402160",
+      "level": 3,
+      "name": {
+        "local": "Pajangan",
+        "en": "Pajangan",
+        "slug": "pajangan-3402160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      },
+      {
+        "id": "3402160",
+        "level": 3,
+        "name": {
+          "local": "Pajangan",
+          "en": "Pajangan",
+          "slug": "pajangan-3402160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55751"
+    ],
+    "geo": {
+      "lat": "-7.866",
+      "lon": "110.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402160002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sendangsari",
+      "en": "Sendangsari",
+      "slug": "sendangsari-3402160002"
+    },
+    "code": {
+      "id": "3402160002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402160",
+      "level": 3,
+      "name": {
+        "local": "Pajangan",
+        "en": "Pajangan",
+        "slug": "pajangan-3402160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      },
+      {
+        "id": "3402160",
+        "level": 3,
+        "name": {
+          "local": "Pajangan",
+          "en": "Pajangan",
+          "slug": "pajangan-3402160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55751"
+    ],
+    "geo": {
+      "lat": "-7.88",
+      "lon": "110.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402160001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Triwidadi",
+      "en": "Triwidadi",
+      "slug": "triwidadi-3402160001"
+    },
+    "code": {
+      "id": "3402160001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402160",
+      "level": 3,
+      "name": {
+        "local": "Pajangan",
+        "en": "Pajangan",
+        "slug": "pajangan-3402160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      },
+      {
+        "id": "3402160",
+        "level": 3,
+        "name": {
+          "local": "Pajangan",
+          "en": "Pajangan",
+          "slug": "pajangan-3402160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55751"
+    ],
+    "geo": {
+      "lat": "-7.857",
+      "lon": "110.277"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

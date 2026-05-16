@@ -1,0 +1,56 @@
+{
+  "id": "5207020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jereweh",
+    "en": "Jereweh",
+    "slug": "jereweh-5207020"
+  },
+  "code": {
+    "id": "5207020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5207",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumbawa Barat",
+      "en": "Sumbawa Barat",
+      "slug": "sumbawa-barat-5207"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumbawa Barat",
+        "en": "Sumbawa Barat",
+        "slug": "sumbawa-barat-5207"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.936",
+    "lon": "116.911"
+  },
+  "metadata": {},
+  "source": {}
+}

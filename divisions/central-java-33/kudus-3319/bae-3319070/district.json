@@ -1,0 +1,56 @@
+{
+  "id": "3319070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bae",
+    "en": "Bae",
+    "slug": "bae-3319070"
+  },
+  "code": {
+    "id": "3319070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3319",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kudus",
+      "en": "Kudus",
+      "slug": "kudus-3319"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kudus",
+        "en": "Kudus",
+        "slug": "kudus-3319"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.779",
+    "lon": "110.863"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7101060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lolayan",
+    "en": "Lolayan",
+    "slug": "lolayan-7101060"
+  },
+  "code": {
+    "id": "7101060",
+    "iso": null
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow",
+      "en": "Bolaang Mongondow",
+      "slug": "bolaang-mongondow-7101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow",
+        "en": "Bolaang Mongondow",
+        "slug": "bolaang-mongondow-7101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.677",
+    "lon": "124.224"
+  },
+  "metadata": {},
+  "source": {}
+}

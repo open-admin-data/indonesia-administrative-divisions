@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1673040008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Alun Dua",
+      "en": "Alun Dua",
+      "slug": "alun-dua-1673040008"
+    },
+    "code": {
+      "id": "1673040008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.009",
+      "lon": "103.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangun Jaya",
+      "en": "Bangun Jaya",
+      "slug": "bangun-jaya-1673040006"
+    },
+    "code": {
+      "id": "1673040006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.019",
+      "lon": "103.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangun Rejo",
+      "en": "Bangun Rejo",
+      "slug": "bangun-rejo-1673040002"
+    },
+    "code": {
+      "id": "1673040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.02",
+      "lon": "103.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Beringin Jaya",
+      "en": "Beringin Jaya",
+      "slug": "beringin-jaya-1673040007"
+    },
+    "code": {
+      "id": "1673040007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.013",
+      "lon": "103.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Curup Jare",
+      "en": "Curup Jare",
+      "slug": "curup-jare-1673040003"
+    },
+    "code": {
+      "id": "1673040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.009",
+      "lon": "103.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dempo Makmur",
+      "en": "Dempo Makmur",
+      "slug": "dempo-makmur-1673040001"
+    },
+    "code": {
+      "id": "1673040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.008",
+      "lon": "103.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuripan Babas",
+      "en": "Kuripan Babas",
+      "slug": "kuripan-babas-1673040009"
+    },
+    "code": {
+      "id": "1673040009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.004",
+      "lon": "103.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pagar Alam",
+      "en": "Pagar Alam",
+      "slug": "pagar-alam-1673040004"
+    },
+    "code": {
+      "id": "1673040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.019",
+      "lon": "103.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Selibar",
+      "en": "Selibar",
+      "slug": "selibar-1673040010"
+    },
+    "code": {
+      "id": "1673040010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-3.995",
+      "lon": "103.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1673040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukorejo",
+      "en": "Sukorejo",
+      "slug": "sukorejo-1673040005"
+    },
+    "code": {
+      "id": "1673040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1673040",
+      "level": 3,
+      "name": {
+        "local": "Pagar Alam Utara",
+        "en": "Pagar Alam Utara",
+        "slug": "pagar-alam-utara-1673040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1673",
+        "level": 2,
+        "name": {
+          "local": "Kota Pagar Alam",
+          "en": "Pagar Alam",
+          "slug": "pagar-alam-1673"
+        }
+      },
+      {
+        "id": "1673040",
+        "level": 3,
+        "name": {
+          "local": "Pagar Alam Utara",
+          "en": "Pagar Alam Utara",
+          "slug": "pagar-alam-utara-1673040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31511"
+    ],
+    "geo": {
+      "lat": "-4.021",
+      "lon": "103.248"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

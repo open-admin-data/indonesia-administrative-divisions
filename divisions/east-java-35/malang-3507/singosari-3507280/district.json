@@ -1,0 +1,56 @@
+{
+  "id": "3507280",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Singosari",
+    "en": "Singosari",
+    "slug": "singosari-3507280"
+  },
+  "code": {
+    "id": "3507280",
+    "iso": null
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malang",
+      "en": "Malang",
+      "slug": "malang-3507"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malang",
+        "en": "Malang",
+        "slug": "malang-3507"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.848",
+    "lon": "112.67"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "2102063",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bintan Pesisir",
+    "en": "Bintan Pesisir",
+    "slug": "bintan-pesisir-2102063"
+  },
+  "code": {
+    "id": "2102063",
+    "iso": null
+  },
+  "parent": {
+    "id": "2102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bintan",
+      "en": "Bintan",
+      "slug": "bintan-2102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.883",
+    "lon": "104.773"
+  },
+  "metadata": {},
+  "source": {}
+}

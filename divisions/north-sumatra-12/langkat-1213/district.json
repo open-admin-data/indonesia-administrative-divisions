@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "1213160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Babalan",
+      "en": "Babalan",
+      "slug": "babalan-1213160"
+    },
+    "code": {
+      "id": "1213160",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.024",
+      "lon": "98.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batang Serangan",
+      "en": "Batang Serangan",
+      "slug": "batang-serangan-1213090"
+    },
+    "code": {
+      "id": "1213090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.701",
+      "lon": "98.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Besitang",
+      "en": "Besitang",
+      "slug": "besitang-1213190"
+    },
+    "code": {
+      "id": "1213190",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.983",
+      "lon": "98.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Binjai",
+      "en": "Binjai",
+      "slug": "binjai-1213060"
+    },
+    "code": {
+      "id": "1213060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.66",
+      "lon": "98.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bohorok",
+      "en": "Bohorok",
+      "slug": "bohorok-1213010"
+    },
+    "code": {
+      "id": "1213010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.435",
+      "lon": "98.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Brandan Barat",
+      "en": "Brandan Barat",
+      "slug": "brandan-barat-1213180"
+    },
+    "code": {
+      "id": "1213180",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.031",
+      "lon": "98.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gebang",
+      "en": "Gebang",
+      "slug": "gebang-1213150"
+    },
+    "code": {
+      "id": "1213150",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.984",
+      "lon": "98.376"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hinai",
+      "en": "Hinai",
+      "slug": "hinai-1213120"
+    },
+    "code": {
+      "id": "1213120",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.841",
+      "lon": "98.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala",
+      "en": "Kuala",
+      "slug": "kuala-1213040"
+    },
+    "code": {
+      "id": "1213040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.433",
+      "lon": "98.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kutambaru",
+      "en": "Kutambaru",
+      "slug": "kutambaru-1213021"
+    },
+    "code": {
+      "id": "1213021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.332",
+      "lon": "98.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Padang Tualang",
+      "en": "Padang Tualang",
+      "slug": "padang-tualang-1213110"
+    },
+    "code": {
+      "id": "1213110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.802",
+      "lon": "98.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangkalan Susu",
+      "en": "Pangkalan Susu",
+      "slug": "pangkalan-susu-1213200"
+    },
+    "code": {
+      "id": "1213200",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.162",
+      "lon": "98.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213201",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pematang Jaya",
+      "en": "Pematang Jaya",
+      "slug": "pematang-jaya-1213201"
+    },
+    "code": {
+      "id": "1213201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.192",
+      "lon": "98.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Salapian",
+      "en": "Salapian",
+      "slug": "salapian-1213020"
+    },
+    "code": {
+      "id": "1213020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.434",
+      "lon": "98.307"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sawit Seberang",
+      "en": "Sawit Seberang",
+      "slug": "sawit-seberang-1213100"
+    },
+    "code": {
+      "id": "1213100",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.821",
+      "lon": "98.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Secanggang",
+      "en": "Secanggang",
+      "slug": "secanggang-1213130"
+    },
+    "code": {
+      "id": "1213130",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.86",
+      "lon": "98.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sei Bingai",
+      "en": "Sei Bingai",
+      "slug": "sei-bingai-1213030"
+    },
+    "code": {
+      "id": "1213030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.4",
+      "lon": "98.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sei Lepan",
+      "en": "Sei Lepan",
+      "slug": "sei-lepan-1213170"
+    },
+    "code": {
+      "id": "1213170",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.906",
+      "lon": "98.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selesai",
+      "en": "Selesai",
+      "slug": "selesai-1213050"
+    },
+    "code": {
+      "id": "1213050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.606",
+      "lon": "98.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sirapit",
+      "en": "Sirapit",
+      "slug": "sirapit-1213011"
+    },
+    "code": {
+      "id": "1213011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.571",
+      "lon": "98.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Stabat",
+      "en": "Stabat",
+      "slug": "stabat-1213070"
+    },
+    "code": {
+      "id": "1213070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.733",
+      "lon": "98.457"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanjung Pura",
+      "en": "Tanjung Pura",
+      "slug": "tanjung-pura-1213140"
+    },
+    "code": {
+      "id": "1213140",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.965",
+      "lon": "98.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wampu",
+      "en": "Wampu",
+      "slug": "wampu-1213080"
+    },
+    "code": {
+      "id": "1213080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1213",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Langkat",
+        "en": "Langkat",
+        "slug": "langkat-1213"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1213",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Langkat",
+          "en": "Langkat",
+          "slug": "langkat-1213"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.71",
+      "lon": "98.351"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

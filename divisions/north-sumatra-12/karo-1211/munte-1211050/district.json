@@ -1,0 +1,56 @@
+{
+  "id": "1211050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Munte",
+    "en": "Munte",
+    "slug": "munte-1211050"
+  },
+  "code": {
+    "id": "1211050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1211",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Karo",
+      "en": "Karo",
+      "slug": "karo-1211"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karo",
+        "en": "Karo",
+        "slug": "karo-1211"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.05",
+    "lon": "98.37"
+  },
+  "metadata": {},
+  "source": {}
+}

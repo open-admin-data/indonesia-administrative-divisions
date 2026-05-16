@@ -1,0 +1,56 @@
+{
+  "id": "3503090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Durenan",
+    "en": "Durenan",
+    "slug": "durenan-3503090"
+  },
+  "code": {
+    "id": "3503090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Trenggalek",
+      "en": "Trenggalek",
+      "slug": "trenggalek-3503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Trenggalek",
+        "en": "Trenggalek",
+        "slug": "trenggalek-3503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.088",
+    "lon": "111.808"
+  },
+  "metadata": {},
+  "source": {}
+}

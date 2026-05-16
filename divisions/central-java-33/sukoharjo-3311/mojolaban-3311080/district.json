@@ -1,0 +1,56 @@
+{
+  "id": "3311080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mojolaban",
+    "en": "Mojolaban",
+    "slug": "mojolaban-3311080"
+  },
+  "code": {
+    "id": "3311080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sukoharjo",
+      "en": "Sukoharjo",
+      "slug": "sukoharjo-3311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sukoharjo",
+        "en": "Sukoharjo",
+        "slug": "sukoharjo-3311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.596",
+    "lon": "110.872"
+  },
+  "metadata": {},
+  "source": {}
+}

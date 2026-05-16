@@ -1,0 +1,56 @@
+{
+  "id": "1471050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pekanbaru Kota",
+    "en": "Pekanbaru Kota",
+    "slug": "pekanbaru-kota-1471050"
+  },
+  "code": {
+    "id": "1471050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1471",
+    "level": 2,
+    "name": {
+      "local": "Kota Pekanbaru",
+      "en": "Pekanbaru",
+      "slug": "pekanbaru-1471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.52",
+    "lon": "101.448"
+  },
+  "metadata": {},
+  "source": {}
+}

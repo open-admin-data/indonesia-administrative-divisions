@@ -1,0 +1,56 @@
+{
+  "id": "6308071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Haur Gading",
+    "en": "Haur Gading",
+    "slug": "haur-gading-6308071"
+  },
+  "code": {
+    "id": "6308071",
+    "iso": null
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Hulu Sungai Utara",
+      "en": "Hulu Sungai Utara",
+      "slug": "hulu-sungai-utara-6308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Hulu Sungai Utara",
+        "en": "Hulu Sungai Utara",
+        "slug": "hulu-sungai-utara-6308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.373",
+    "lon": "115.236"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1303040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lolo",
+      "en": "Lolo",
+      "slug": "lolo-1303040002"
+    },
+    "code": {
+      "id": "1303040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303040",
+      "level": 3,
+      "name": {
+        "local": "Pantai Cermin",
+        "en": "Pantai Cermin",
+        "slug": "pantai-cermin-1303040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303040",
+        "level": 3,
+        "name": {
+          "local": "Pantai Cermin",
+          "en": "Pantai Cermin",
+          "slug": "pantai-cermin-1303040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27373"
+    ],
+    "geo": {
+      "lat": "-1.219",
+      "lon": "100.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Surian",
+      "en": "Surian",
+      "slug": "surian-1303040001"
+    },
+    "code": {
+      "id": "1303040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303040",
+      "level": 3,
+      "name": {
+        "local": "Pantai Cermin",
+        "en": "Pantai Cermin",
+        "slug": "pantai-cermin-1303040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303040",
+        "level": 3,
+        "name": {
+          "local": "Pantai Cermin",
+          "en": "Pantai Cermin",
+          "slug": "pantai-cermin-1303040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27373"
+    ],
+    "geo": {
+      "lat": "-1.252",
+      "lon": "100.896"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

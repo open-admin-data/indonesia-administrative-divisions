@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1906010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Balok",
+      "en": "Balok",
+      "slug": "balok-1906010008"
+    },
+    "code": {
+      "id": "1906010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906010",
+      "level": 3,
+      "name": {
+        "local": "Dendang",
+        "en": "Dendang",
+        "slug": "dendang-1906010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Belitung Timur",
+          "en": "Belitung Timur",
+          "slug": "belitung-timur-1906"
+        }
+      },
+      {
+        "id": "1906010",
+        "level": 3,
+        "name": {
+          "local": "Dendang",
+          "en": "Dendang",
+          "slug": "dendang-1906010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33561"
+    ],
+    "geo": {
+      "lat": "-3.034",
+      "lon": "107.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dendang",
+      "en": "Dendang",
+      "slug": "dendang-1906010004"
+    },
+    "code": {
+      "id": "1906010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906010",
+      "level": 3,
+      "name": {
+        "local": "Dendang",
+        "en": "Dendang",
+        "slug": "dendang-1906010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Belitung Timur",
+          "en": "Belitung Timur",
+          "slug": "belitung-timur-1906"
+        }
+      },
+      {
+        "id": "1906010",
+        "level": 3,
+        "name": {
+          "local": "Dendang",
+          "en": "Dendang",
+          "slug": "dendang-1906010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33561"
+    ],
+    "geo": {
+      "lat": "-2.967",
+      "lon": "107.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1906010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jangkang",
+      "en": "Jangkang",
+      "slug": "jangkang-1906010005"
+    },
+    "code": {
+      "id": "1906010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906010",
+      "level": 3,
+      "name": {
+        "local": "Dendang",
+        "en": "Dendang",
+        "slug": "dendang-1906010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Bangka Belitung",
+          "en": "Bangka Belitung Islands",
+          "slug": "bangka-belitung-islands-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Belitung Timur",
+          "en": "Belitung Timur",
+          "slug": "belitung-timur-1906"
+        }
+      },
+      {
+        "id": "1906010",
+        "level": 3,
+        "name": {
+          "local": "Dendang",
+          "en": "Dendang",
+          "slug": "dendang-1906010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33561"
+    ],
+    "geo": {
+      "lat": "-2.967",
+      "lon": "107.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

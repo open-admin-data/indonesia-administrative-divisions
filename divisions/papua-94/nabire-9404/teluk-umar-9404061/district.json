@@ -1,0 +1,56 @@
+{
+  "id": "9404061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Umar",
+    "en": "Teluk Umar",
+    "slug": "teluk-umar-9404061"
+  },
+  "code": {
+    "id": "9404061",
+    "iso": null
+  },
+  "parent": {
+    "id": "9404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nabire",
+      "en": "Nabire",
+      "slug": "nabire-9404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nabire",
+        "en": "Nabire",
+        "slug": "nabire-9404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.905",
+    "lon": "134.731"
+  },
+  "metadata": {},
+  "source": {}
+}

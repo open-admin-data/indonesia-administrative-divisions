@@ -1,0 +1,56 @@
+{
+  "id": "1812050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lambu Kibang",
+    "en": "Lambu Kibang",
+    "slug": "lambu-kibang-1812050"
+  },
+  "code": {
+    "id": "1812050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1812",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tulang Bawang Barat",
+      "en": "Tulang Bawang Barat",
+      "slug": "tulang-bawang-barat-1812"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1812",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tulang Bawang Barat",
+        "en": "Tulang Bawang Barat",
+        "slug": "tulang-bawang-barat-1812"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.357",
+    "lon": "105.17"
+  },
+  "metadata": {},
+  "source": {}
+}

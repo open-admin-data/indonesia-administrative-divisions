@@ -1,0 +1,56 @@
+{
+  "id": "7602042",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tapango",
+    "en": "Tapango",
+    "slug": "tapango-7602042"
+  },
+  "code": {
+    "id": "7602042",
+    "iso": null
+  },
+  "parent": {
+    "id": "7602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Polewali Mandar",
+      "en": "Polewali Mandar",
+      "slug": "polewali-mandar-7602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Polewali Mandar",
+        "en": "Polewali Mandar",
+        "slug": "polewali-mandar-7602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.318",
+    "lon": "119.264"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7501031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mananggu",
+    "en": "Mananggu",
+    "slug": "mananggu-7501031"
+  },
+  "code": {
+    "id": "7501031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Boalemo",
+      "en": "Boalemo",
+      "slug": "boalemo-7501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Boalemo",
+        "en": "Boalemo",
+        "slug": "boalemo-7501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.697",
+    "lon": "122.137"
+  },
+  "metadata": {},
+  "source": {}
+}

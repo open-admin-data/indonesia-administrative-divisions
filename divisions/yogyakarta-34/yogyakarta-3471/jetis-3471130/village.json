@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3471130001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bumijo",
+      "en": "Bumijo",
+      "slug": "bumijo-3471130001"
+    },
+    "code": {
+      "id": "3471130001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471130",
+      "level": 3,
+      "name": {
+        "local": "Jetis",
+        "en": "Jetis",
+        "slug": "jetis-3471130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471130",
+        "level": 3,
+        "name": {
+          "local": "Jetis",
+          "en": "Jetis",
+          "slug": "jetis-3471130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55231"
+    ],
+    "geo": {
+      "lat": "-7.785",
+      "lon": "110.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471130003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cokrodiningratan",
+      "en": "Cokrodiningratan",
+      "slug": "cokrodiningratan-3471130003"
+    },
+    "code": {
+      "id": "3471130003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471130",
+      "level": 3,
+      "name": {
+        "local": "Jetis",
+        "en": "Jetis",
+        "slug": "jetis-3471130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471130",
+        "level": 3,
+        "name": {
+          "local": "Jetis",
+          "en": "Jetis",
+          "slug": "jetis-3471130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55231"
+    ],
+    "geo": {
+      "lat": "-7.779",
+      "lon": "110.368"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471130002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gowongan",
+      "en": "Gowongan",
+      "slug": "gowongan-3471130002"
+    },
+    "code": {
+      "id": "3471130002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471130",
+      "level": 3,
+      "name": {
+        "local": "Jetis",
+        "en": "Jetis",
+        "slug": "jetis-3471130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471130",
+        "level": 3,
+        "name": {
+          "local": "Jetis",
+          "en": "Jetis",
+          "slug": "jetis-3471130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55231"
+    ],
+    "geo": {
+      "lat": "-7.785",
+      "lon": "110.365"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

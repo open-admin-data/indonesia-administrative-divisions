@@ -1,0 +1,56 @@
+{
+  "id": "3321110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karanganyar",
+    "en": "Karanganyar",
+    "slug": "karanganyar-3321110"
+  },
+  "code": {
+    "id": "3321110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3321",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Demak",
+      "en": "Demak",
+      "slug": "demak-3321"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.845",
+    "lon": "110.777"
+  },
+  "metadata": {},
+  "source": {}
+}

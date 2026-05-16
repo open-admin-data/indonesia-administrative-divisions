@@ -1,0 +1,48 @@
+{
+  "id": "9435",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Intan Jaya",
+    "en": "Intan Jaya",
+    "slug": "intan-jaya-9435"
+  },
+  "code": {
+    "id": "9435",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 77
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.508",
+    "lon": "136.748"
+  },
+  "metadata": {},
+  "source": {}
+}

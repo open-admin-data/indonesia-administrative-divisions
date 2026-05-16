@@ -1,0 +1,31 @@
+{
+  "id": "35",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Jawa Timur",
+    "en": "East Java",
+    "slug": "east-java-35"
+  },
+  "code": {
+    "id": "35",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 38,
+    "village": 7856,
+    "district": 666
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.246",
+    "lon": "112.739"
+  },
+  "metadata": {},
+  "source": {}
+}

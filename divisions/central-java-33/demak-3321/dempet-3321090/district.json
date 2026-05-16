@@ -1,0 +1,56 @@
+{
+  "id": "3321090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dempet",
+    "en": "Dempet",
+    "slug": "dempet-3321090"
+  },
+  "code": {
+    "id": "3321090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3321",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Demak",
+      "en": "Demak",
+      "slug": "demak-3321"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.967",
+    "lon": "110.737"
+  },
+  "metadata": {},
+  "source": {}
+}

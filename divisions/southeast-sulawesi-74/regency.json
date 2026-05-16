@@ -1,0 +1,818 @@
+[
+  {
+    "id": "7472",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Baubau",
+      "en": "Baubau",
+      "slug": "baubau-7472"
+    },
+    "code": {
+      "id": "7472",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.485",
+      "lon": "122.585"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7406",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bombana",
+      "en": "Bombana",
+      "slug": "bombana-7406"
+    },
+    "code": {
+      "id": "7406",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 22,
+      "village": 142
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.747",
+      "lon": "122.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7401",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Buton",
+      "en": "Buton",
+      "slug": "buton-7401"
+    },
+    "code": {
+      "id": "7401",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 94
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.061",
+      "lon": "121.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7415",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Buton Selatan",
+      "en": "Buton Selatan",
+      "slug": "buton-selatan-7415"
+    },
+    "code": {
+      "id": "7415",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.608",
+      "lon": "122.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7414",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Buton Tengah",
+      "en": "Buton Tengah",
+      "slug": "buton-tengah-7414"
+    },
+    "code": {
+      "id": "7414",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 74
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.316",
+      "lon": "122.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7409",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Buton Utara",
+      "en": "Buton Utara",
+      "slug": "buton-utara-7409"
+    },
+    "code": {
+      "id": "7409",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.512",
+      "lon": "122.111"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7471",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Kendari",
+      "en": "Kendari",
+      "slug": "kendari-7471"
+    },
+    "code": {
+      "id": "7471",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.973",
+      "lon": "122.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7404",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kolaka",
+      "en": "Kolaka",
+      "slug": "kolaka-7404"
+    },
+    "code": {
+      "id": "7404",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 134
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.496",
+      "lon": "122.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7411",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kolaka Timur",
+      "en": "Kolaka Timur",
+      "slug": "kolaka-timur-7411"
+    },
+    "code": {
+      "id": "7411",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 132
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.001",
+      "lon": "121.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7408",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kolaka Utara",
+      "en": "Kolaka Utara",
+      "slug": "kolaka-utara-7408"
+    },
+    "code": {
+      "id": "7408",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 131
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.49",
+      "lon": "120.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7403",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Konawe",
+      "en": "Konawe",
+      "slug": "konawe-7403"
+    },
+    "code": {
+      "id": "7403",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 29,
+      "village": 349
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.798",
+      "lon": "122.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7412",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Konawe Kepulauan",
+      "en": "Konawe Kepulauan",
+      "slug": "konawe-kepulauan-7412"
+    },
+    "code": {
+      "id": "7412",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 7,
+      "village": 89
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.053",
+      "lon": "122.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7405",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Konawe Selatan",
+      "en": "Konawe Selatan",
+      "slug": "konawe-selatan-7405"
+    },
+    "code": {
+      "id": "7405",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 25,
+      "village": 356
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.332",
+      "lon": "122.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7410",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Konawe Utara",
+      "en": "Konawe Utara",
+      "slug": "konawe-utara-7410"
+    },
+    "code": {
+      "id": "7410",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.801",
+      "lon": "122.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7402",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Muna",
+      "en": "Muna",
+      "slug": "muna-7402"
+    },
+    "code": {
+      "id": "7402",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 22,
+      "village": 181
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.854",
+      "lon": "122.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7413",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Muna Barat",
+      "en": "Muna Barat",
+      "slug": "muna-barat-7413"
+    },
+    "code": {
+      "id": "7413",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 86
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.792",
+      "lon": "122.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7407",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Wakatobi",
+      "en": "Wakatobi",
+      "slug": "wakatobi-7407"
+    },
+    "code": {
+      "id": "7407",
+      "iso": null
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tenggara",
+          "en": "Southeast Sulawesi",
+          "slug": "southeast-sulawesi-74"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 99
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.328",
+      "lon": "23.539"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

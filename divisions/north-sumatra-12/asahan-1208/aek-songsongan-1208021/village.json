@@ -1,0 +1,587 @@
+[
+  {
+    "id": "1208021004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aek Bamban",
+      "en": "Aek Bamban",
+      "slug": "aek-bamban-1208021004"
+    },
+    "code": {
+      "id": "1208021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.61",
+      "lon": "99.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aek Songsongan",
+      "en": "Aek Songsongan",
+      "slug": "aek-songsongan-1208021006"
+    },
+    "code": {
+      "id": "1208021006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.664",
+      "lon": "99.52"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lobu Rappa",
+      "en": "Lobu Rappa",
+      "slug": "lobu-rappa-1208021002"
+    },
+    "code": {
+      "id": "1208021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.579",
+      "lon": "99.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marjanji Aceh",
+      "en": "Marjanji Aceh",
+      "slug": "marjanji-aceh-1208021003"
+    },
+    "code": {
+      "id": "1208021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.618",
+      "lon": "99.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mekar Marjanji",
+      "en": "Mekar Marjanji",
+      "slug": "mekar-marjanji-1208021008"
+    },
+    "code": {
+      "id": "1208021008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.588",
+      "lon": "99.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Bandar Pulau",
+      "en": "Perkebunan Bandar Pulau",
+      "slug": "perkebunan-bandar-pulau-1208021005"
+    },
+    "code": {
+      "id": "1208021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.647",
+      "lon": "99.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Perkebunan Bandar Selamat",
+      "en": "Perkebunan Bandar Selamat",
+      "slug": "perkebunan-bandar-selamat-1208021007"
+    },
+    "code": {
+      "id": "1208021007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.637",
+      "lon": "99.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Situnjak",
+      "en": "Situnjak",
+      "slug": "situnjak-1208021009"
+    },
+    "code": {
+      "id": "1208021009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.598",
+      "lon": "99.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1208021001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tangga",
+      "en": "Tangga",
+      "slug": "tangga-1208021001"
+    },
+    "code": {
+      "id": "1208021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1208021",
+      "level": 3,
+      "name": {
+        "local": "Aek Songsongan",
+        "en": "Aek Songsongan",
+        "slug": "aek-songsongan-1208021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1208",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Asahan",
+          "en": "Asahan",
+          "slug": "asahan-1208"
+        }
+      },
+      {
+        "id": "1208021",
+        "level": 3,
+        "name": {
+          "local": "Aek Songsongan",
+          "en": "Aek Songsongan",
+          "slug": "aek-songsongan-1208021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21293"
+    ],
+    "geo": {
+      "lat": "2.589",
+      "lon": "99.351"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

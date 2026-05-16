@@ -1,0 +1,48 @@
+{
+  "id": "7312",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Soppeng",
+    "en": "Soppeng",
+    "slug": "soppeng-7312"
+  },
+  "code": {
+    "id": "7312",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 65
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.364",
+    "lon": "119.898"
+  },
+  "metadata": {},
+  "source": {}
+}

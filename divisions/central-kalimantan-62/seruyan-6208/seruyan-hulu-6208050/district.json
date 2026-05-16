@@ -1,0 +1,56 @@
+{
+  "id": "6208050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seruyan Hulu",
+    "en": "Seruyan Hulu",
+    "slug": "seruyan-hulu-6208050"
+  },
+  "code": {
+    "id": "6208050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Seruyan",
+      "en": "Seruyan",
+      "slug": "seruyan-6208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Seruyan",
+        "en": "Seruyan",
+        "slug": "seruyan-6208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.139",
+    "lon": "111.872"
+  },
+  "metadata": {},
+  "source": {}
+}

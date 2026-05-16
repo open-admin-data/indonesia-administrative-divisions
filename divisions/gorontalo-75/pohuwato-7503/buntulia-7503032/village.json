@@ -1,0 +1,457 @@
+[
+  {
+    "id": "7503032004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Buntulia Tengah",
+      "en": "Buntulia Tengah",
+      "slug": "buntulia-tengah-7503032004"
+    },
+    "code": {
+      "id": "7503032004",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503032",
+      "level": 3,
+      "name": {
+        "local": "Buntulia",
+        "en": "Buntulia",
+        "slug": "buntulia-7503032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      },
+      {
+        "id": "7503032",
+        "level": 3,
+        "name": {
+          "local": "Buntulia",
+          "en": "Buntulia",
+          "slug": "buntulia-7503032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96463"
+    ],
+    "geo": {
+      "lat": "0.488",
+      "lon": "121.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503032001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Buntulia Utara",
+      "en": "Buntulia Utara",
+      "slug": "buntulia-utara-7503032001"
+    },
+    "code": {
+      "id": "7503032001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503032",
+      "level": 3,
+      "name": {
+        "local": "Buntulia",
+        "en": "Buntulia",
+        "slug": "buntulia-7503032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      },
+      {
+        "id": "7503032",
+        "level": 3,
+        "name": {
+          "local": "Buntulia",
+          "en": "Buntulia",
+          "slug": "buntulia-7503032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96463"
+    ],
+    "geo": {
+      "lat": "0.504",
+      "lon": "121.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503032003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hulawa",
+      "en": "Hulawa",
+      "slug": "hulawa-7503032003"
+    },
+    "code": {
+      "id": "7503032003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503032",
+      "level": 3,
+      "name": {
+        "local": "Buntulia",
+        "en": "Buntulia",
+        "slug": "buntulia-7503032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      },
+      {
+        "id": "7503032",
+        "level": 3,
+        "name": {
+          "local": "Buntulia",
+          "en": "Buntulia",
+          "slug": "buntulia-7503032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96463"
+    ],
+    "geo": {
+      "lat": "0.72",
+      "lon": "121.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503032005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karya Indah",
+      "en": "Karya Indah",
+      "slug": "karya-indah-7503032005"
+    },
+    "code": {
+      "id": "7503032005",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503032",
+      "level": 3,
+      "name": {
+        "local": "Buntulia",
+        "en": "Buntulia",
+        "slug": "buntulia-7503032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      },
+      {
+        "id": "7503032",
+        "level": 3,
+        "name": {
+          "local": "Buntulia",
+          "en": "Buntulia",
+          "slug": "buntulia-7503032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96463"
+    ],
+    "geo": {
+      "lat": "0.521",
+      "lon": "121.943"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503032006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sipatana",
+      "en": "Sipatana",
+      "slug": "sipatana-7503032006"
+    },
+    "code": {
+      "id": "7503032006",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503032",
+      "level": 3,
+      "name": {
+        "local": "Buntulia",
+        "en": "Buntulia",
+        "slug": "buntulia-7503032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      },
+      {
+        "id": "7503032",
+        "level": 3,
+        "name": {
+          "local": "Buntulia",
+          "en": "Buntulia",
+          "slug": "buntulia-7503032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96463"
+    ],
+    "geo": {
+      "lat": "0.481",
+      "lon": "121.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503032002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Taluduyunu",
+      "en": "Taluduyunu",
+      "slug": "taluduyunu-7503032002"
+    },
+    "code": {
+      "id": "7503032002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503032",
+      "level": 3,
+      "name": {
+        "local": "Buntulia",
+        "en": "Buntulia",
+        "slug": "buntulia-7503032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      },
+      {
+        "id": "7503032",
+        "level": 3,
+        "name": {
+          "local": "Buntulia",
+          "en": "Buntulia",
+          "slug": "buntulia-7503032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96463"
+    ],
+    "geo": {
+      "lat": "0.5",
+      "lon": "121.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503032007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Taluduyunu Utara",
+      "en": "Taluduyunu Utara",
+      "slug": "taluduyunu-utara-7503032007"
+    },
+    "code": {
+      "id": "7503032007",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503032",
+      "level": 3,
+      "name": {
+        "local": "Buntulia",
+        "en": "Buntulia",
+        "slug": "buntulia-7503032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      },
+      {
+        "id": "7503032",
+        "level": 3,
+        "name": {
+          "local": "Buntulia",
+          "en": "Buntulia",
+          "slug": "buntulia-7503032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96463"
+    ],
+    "geo": {
+      "lat": "0.518",
+      "lon": "121.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,530 @@
+[
+  {
+    "id": "1504",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Batang Hari",
+      "en": "Batang Hari",
+      "slug": "batang-hari-1504"
+    },
+    "code": {
+      "id": "1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.694",
+      "lon": "103.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1509",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Bungo",
+      "en": "Bungo",
+      "slug": "bungo-1509"
+    },
+    "code": {
+      "id": "1509",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 153
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.466",
+      "lon": "102.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1571",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Jambi",
+      "en": "Jambi",
+      "slug": "jambi-1571"
+    },
+    "code": {
+      "id": "1571",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.631",
+      "lon": "103.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1501",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Kerinci",
+      "en": "Kerinci",
+      "slug": "kerinci-1501"
+    },
+    "code": {
+      "id": "1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 16,
+      "village": 287
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.057",
+      "lon": "101.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1502",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Merangin",
+      "en": "Merangin",
+      "slug": "merangin-1502"
+    },
+    "code": {
+      "id": "1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 24,
+      "village": 215
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.06",
+      "lon": "102.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1505",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Muaro Jambi",
+      "en": "Muaro Jambi",
+      "slug": "muaro-jambi-1505"
+    },
+    "code": {
+      "id": "1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 155
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.448",
+      "lon": "103.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1503",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Sarolangun",
+      "en": "Sarolangun",
+      "slug": "sarolangun-1503"
+    },
+    "code": {
+      "id": "1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 158
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.313",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1572",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Sungai Penuh",
+      "en": "Sungai Penuh",
+      "slug": "sungai-penuh-1572"
+    },
+    "code": {
+      "id": "1572",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.071",
+      "lon": "101.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1507",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tanjung Jabung Barat",
+      "en": "Tanjung Jabung Barat",
+      "slug": "tanjung-jabung-barat-1507"
+    },
+    "code": {
+      "id": "1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 13,
+      "village": 134
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.206",
+      "lon": "103.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1506",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tanjung Jabung Timur",
+      "en": "Tanjung Jabung Timur",
+      "slug": "tanjung-jabung-timur-1506"
+    },
+    "code": {
+      "id": "1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.827",
+      "lon": "103.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1508",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tebo",
+      "en": "Tebo",
+      "slug": "tebo-1508"
+    },
+    "code": {
+      "id": "1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "local": "Jambi",
+          "en": "Jambi",
+          "slug": "jambi-15"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 112
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.516",
+      "lon": "102.119"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

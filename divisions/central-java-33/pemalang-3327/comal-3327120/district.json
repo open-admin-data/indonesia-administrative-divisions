@@ -1,0 +1,56 @@
+{
+  "id": "3327120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Comal",
+    "en": "Comal",
+    "slug": "comal-3327120"
+  },
+  "code": {
+    "id": "3327120",
+    "iso": null
+  },
+  "parent": {
+    "id": "3327",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pemalang",
+      "en": "Pemalang",
+      "slug": "pemalang-3327"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.888",
+    "lon": "109.527"
+  },
+  "metadata": {},
+  "source": {}
+}

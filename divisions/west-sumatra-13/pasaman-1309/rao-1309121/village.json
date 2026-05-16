@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1309121002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Padang Mantinggi",
+      "en": "Padang Mantinggi",
+      "slug": "padang-mantinggi-1309121002"
+    },
+    "code": {
+      "id": "1309121002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309121",
+      "level": 3,
+      "name": {
+        "local": "Rao",
+        "en": "Rao",
+        "slug": "rao-1309121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309121",
+        "level": 3,
+        "name": {
+          "local": "Rao",
+          "en": "Rao",
+          "slug": "rao-1309121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26355"
+    ],
+    "geo": {
+      "lat": "0.583",
+      "lon": "99.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309121001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Taruang-taruang",
+      "en": "Taruang-taruang",
+      "slug": "taruang-taruang-1309121001"
+    },
+    "code": {
+      "id": "1309121001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309121",
+      "level": 3,
+      "name": {
+        "local": "Rao",
+        "en": "Rao",
+        "slug": "rao-1309121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309121",
+        "level": 3,
+        "name": {
+          "local": "Rao",
+          "en": "Rao",
+          "slug": "rao-1309121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26355"
+    ],
+    "geo": {
+      "lat": "0.527",
+      "lon": "100.002"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

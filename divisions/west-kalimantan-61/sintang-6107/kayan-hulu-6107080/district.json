@@ -1,0 +1,56 @@
+{
+  "id": "6107080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kayan Hulu",
+    "en": "Kayan Hulu",
+    "slug": "kayan-hulu-6107080"
+  },
+  "code": {
+    "id": "6107080",
+    "iso": null
+  },
+  "parent": {
+    "id": "6107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sintang",
+      "en": "Sintang",
+      "slug": "sintang-6107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sintang",
+        "en": "Sintang",
+        "slug": "sintang-6107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 31
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.081",
+    "lon": "112.241"
+  },
+  "metadata": {},
+  "source": {}
+}

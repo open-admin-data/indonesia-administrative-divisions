@@ -1,0 +1,717 @@
+[
+  {
+    "id": "3573050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dinoyo",
+      "en": "Dinoyo",
+      "slug": "dinoyo-3573050002"
+    },
+    "code": {
+      "id": "3573050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.944",
+      "lon": "112.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jatimulyo",
+      "en": "Jatimulyo",
+      "slug": "jatimulyo-3573050005"
+    },
+    "code": {
+      "id": "3573050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.943",
+      "lon": "112.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ketawanggede",
+      "en": "Ketawanggede",
+      "slug": "ketawanggede-3573050004"
+    },
+    "code": {
+      "id": "3573050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.951",
+      "lon": "112.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lowokwaru",
+      "en": "Lowokwaru",
+      "slug": "lowokwaru-3573050006"
+    },
+    "code": {
+      "id": "3573050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.958",
+      "lon": "112.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Merjosari",
+      "en": "Merjosari",
+      "slug": "merjosari-3573050001"
+    },
+    "code": {
+      "id": "3573050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.946",
+      "lon": "112.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mojolangu",
+      "en": "Mojolangu",
+      "slug": "mojolangu-3573050008"
+    },
+    "code": {
+      "id": "3573050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.938",
+      "lon": "112.627"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumbersari",
+      "en": "Sumbersari",
+      "slug": "sumbersari-3573050003"
+    },
+    "code": {
+      "id": "3573050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.961",
+      "lon": "112.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tasikmadu",
+      "en": "Tasikmadu",
+      "slug": "tasikmadu-3573050010"
+    },
+    "code": {
+      "id": "3573050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.918",
+      "lon": "112.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tlogomas",
+      "en": "Tlogomas",
+      "slug": "tlogomas-3573050012"
+    },
+    "code": {
+      "id": "3573050012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.934",
+      "lon": "112.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tulusrejo",
+      "en": "Tulusrejo",
+      "slug": "tulusrejo-3573050007"
+    },
+    "code": {
+      "id": "3573050007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.947",
+      "lon": "112.633"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3573050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tunjungsekar",
+      "en": "Tunjungsekar",
+      "slug": "tunjungsekar-3573050009"
+    },
+    "code": {
+      "id": "3573050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3573050",
+      "level": 3,
+      "name": {
+        "local": "Lowokwaru",
+        "en": "Lowokwaru",
+        "slug": "lowokwaru-3573050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3573",
+        "level": 2,
+        "name": {
+          "local": "Kota Malang",
+          "en": "Malang",
+          "slug": "malang-3573"
+        }
+      },
+      {
+        "id": "3573050",
+        "level": 3,
+        "name": {
+          "local": "Lowokwaru",
+          "en": "Lowokwaru",
+          "slug": "lowokwaru-3573050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65141"
+    ],
+    "geo": {
+      "lat": "-7.93",
+      "lon": "112.633"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

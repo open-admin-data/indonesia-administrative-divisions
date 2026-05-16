@@ -1,0 +1,56 @@
+{
+  "id": "3309080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sawit",
+    "en": "Sawit",
+    "slug": "sawit-3309080"
+  },
+  "code": {
+    "id": "3309080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Boyolali",
+      "en": "Boyolali",
+      "slug": "boyolali-3309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Boyolali",
+        "en": "Boyolali",
+        "slug": "boyolali-3309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.574",
+    "lon": "110.685"
+  },
+  "metadata": {},
+  "source": {}
+}

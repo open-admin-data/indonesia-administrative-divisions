@@ -1,0 +1,56 @@
+{
+  "id": "6302170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelumpang Utara",
+    "en": "Kelumpang Utara",
+    "slug": "kelumpang-utara-6302170"
+  },
+  "code": {
+    "id": "6302170",
+    "iso": null
+  },
+  "parent": {
+    "id": "6302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kota Baru",
+      "en": "Kota Baru",
+      "slug": "kota-baru-6302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kota Baru",
+        "en": "Kota Baru",
+        "slug": "kota-baru-6302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.866",
+    "lon": "116.306"
+  },
+  "metadata": {},
+  "source": {}
+}

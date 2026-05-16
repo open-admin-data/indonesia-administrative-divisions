@@ -1,0 +1,56 @@
+{
+  "id": "3515070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Candi",
+    "en": "Candi",
+    "slug": "candi-3515070"
+  },
+  "code": {
+    "id": "3515070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3515",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sidoarjo",
+      "en": "Sidoarjo",
+      "slug": "sidoarjo-3515"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3515",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sidoarjo",
+        "en": "Sidoarjo",
+        "slug": "sidoarjo-3515"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.485",
+    "lon": "112.732"
+  },
+  "metadata": {},
+  "source": {}
+}

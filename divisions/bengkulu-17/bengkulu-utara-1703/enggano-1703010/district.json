@@ -1,0 +1,56 @@
+{
+  "id": "1703010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Enggano",
+    "en": "Enggano",
+    "slug": "enggano-1703010"
+  },
+  "code": {
+    "id": "1703010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1703",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Utara",
+      "en": "Bengkulu Utara",
+      "slug": "bengkulu-utara-1703"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Utara",
+        "en": "Bengkulu Utara",
+        "slug": "bengkulu-utara-1703"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.398",
+    "lon": "102.241"
+  },
+  "metadata": {},
+  "source": {}
+}

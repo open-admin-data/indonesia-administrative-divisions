@@ -1,0 +1,226 @@
+[
+  {
+    "id": "5171030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Denpasar Barat",
+      "en": "Denpasar Barat",
+      "slug": "denpasar-barat-5171030"
+    },
+    "code": {
+      "id": "5171030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5171",
+      "level": 2,
+      "name": {
+        "local": "Kota Denpasar",
+        "en": "Denpasar",
+        "slug": "denpasar-5171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5171",
+        "level": 2,
+        "name": {
+          "local": "Kota Denpasar",
+          "en": "Denpasar",
+          "slug": "denpasar-5171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.662",
+      "lon": "115.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5171010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Denpasar Selatan",
+      "en": "Denpasar Selatan",
+      "slug": "denpasar-selatan-5171010"
+    },
+    "code": {
+      "id": "5171010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5171",
+      "level": 2,
+      "name": {
+        "local": "Kota Denpasar",
+        "en": "Denpasar",
+        "slug": "denpasar-5171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5171",
+        "level": 2,
+        "name": {
+          "local": "Kota Denpasar",
+          "en": "Denpasar",
+          "slug": "denpasar-5171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.708",
+      "lon": "115.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5171020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Denpasar Timur",
+      "en": "Denpasar Timur",
+      "slug": "denpasar-timur-5171020"
+    },
+    "code": {
+      "id": "5171020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5171",
+      "level": 2,
+      "name": {
+        "local": "Kota Denpasar",
+        "en": "Denpasar",
+        "slug": "denpasar-5171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5171",
+        "level": 2,
+        "name": {
+          "local": "Kota Denpasar",
+          "en": "Denpasar",
+          "slug": "denpasar-5171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.634",
+      "lon": "115.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5171031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Denpasar Utara",
+      "en": "Denpasar Utara",
+      "slug": "denpasar-utara-5171031"
+    },
+    "code": {
+      "id": "5171031",
+      "iso": null
+    },
+    "parent": {
+      "id": "5171",
+      "level": 2,
+      "name": {
+        "local": "Kota Denpasar",
+        "en": "Denpasar",
+        "slug": "denpasar-5171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5171",
+        "level": 2,
+        "name": {
+          "local": "Kota Denpasar",
+          "en": "Denpasar",
+          "slug": "denpasar-5171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.625",
+      "lon": "115.212"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "8103051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Masohi",
+    "en": "Kota Masohi",
+    "slug": "kota-masohi-8103051"
+  },
+  "code": {
+    "id": "8103051",
+    "iso": null
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tengah",
+      "en": "Maluku Tengah",
+      "slug": "maluku-tengah-8103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.304",
+    "lon": "128.958"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1277030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Padangsidimpuan Batunadua",
+    "en": "Padangsidimpuan Batunadua",
+    "slug": "padangsidimpuan-batunadua-1277030"
+  },
+  "code": {
+    "id": "1277030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1277",
+    "level": 2,
+    "name": {
+      "local": "Kota Padangsidimpuan",
+      "en": "Padangsidimpuan",
+      "slug": "padangsidimpuan-1277"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1277",
+      "level": 2,
+      "name": {
+        "local": "Kota Padangsidimpuan",
+        "en": "Padangsidimpuan",
+        "slug": "padangsidimpuan-1277"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.406",
+    "lon": "99.298"
+  },
+  "metadata": {},
+  "source": {}
+}

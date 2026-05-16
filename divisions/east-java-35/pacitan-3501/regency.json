@@ -1,0 +1,48 @@
+{
+  "id": "3501",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pacitan",
+    "en": "Pacitan",
+    "slug": "pacitan-3501"
+  },
+  "code": {
+    "id": "3501",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 153
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.194",
+    "lon": "111.103"
+  },
+  "metadata": {},
+  "source": {}
+}

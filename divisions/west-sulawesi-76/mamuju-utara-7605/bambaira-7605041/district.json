@@ -1,0 +1,56 @@
+{
+  "id": "7605041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bambaira",
+    "en": "Bambaira",
+    "slug": "bambaira-7605041"
+  },
+  "code": {
+    "id": "7605041",
+    "iso": null
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju Utara",
+      "en": "Mamuju Utara",
+      "slug": "mamuju-utara-7605"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju Utara",
+        "en": "Mamuju Utara",
+        "slug": "mamuju-utara-7605"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.987",
+    "lon": "119.525"
+  },
+  "metadata": {},
+  "source": {}
+}

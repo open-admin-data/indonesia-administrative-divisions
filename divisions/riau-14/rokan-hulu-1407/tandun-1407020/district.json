@@ -1,0 +1,56 @@
+{
+  "id": "1407020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tandun",
+    "en": "Tandun",
+    "slug": "tandun-1407020"
+  },
+  "code": {
+    "id": "1407020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1407",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rokan Hulu",
+      "en": "Rokan Hulu",
+      "slug": "rokan-hulu-1407"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rokan Hulu",
+        "en": "Rokan Hulu",
+        "slug": "rokan-hulu-1407"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.591",
+    "lon": "100.617"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3301120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kawunganten",
+    "en": "Kawunganten",
+    "slug": "kawunganten-3301120"
+  },
+  "code": {
+    "id": "3301120",
+    "iso": null
+  },
+  "parent": {
+    "id": "3301",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cilacap",
+      "en": "Cilacap",
+      "slug": "cilacap-3301"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cilacap",
+        "en": "Cilacap",
+        "slug": "cilacap-3301"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.601",
+    "lon": "108.944"
+  },
+  "metadata": {},
+  "source": {}
+}

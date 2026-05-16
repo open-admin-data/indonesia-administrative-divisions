@@ -1,0 +1,56 @@
+{
+  "id": "1608071",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Runjung Agung",
+    "en": "Runjung Agung",
+    "slug": "runjung-agung-1608071"
+  },
+  "code": {
+    "id": "1608071",
+    "iso": null
+  },
+  "parent": {
+    "id": "1608",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Selatan",
+      "en": "Ogan Komering Ulu Selatan",
+      "slug": "ogan-komering-ulu-selatan-1608"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu Selatan",
+        "en": "Ogan Komering Ulu Selatan",
+        "slug": "ogan-komering-ulu-selatan-1608"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.425",
+    "lon": "103.894"
+  },
+  "metadata": {},
+  "source": {}
+}

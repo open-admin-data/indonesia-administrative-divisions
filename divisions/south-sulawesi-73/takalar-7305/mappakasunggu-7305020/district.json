@@ -1,0 +1,56 @@
+{
+  "id": "7305020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mappakasunggu",
+    "en": "Mappakasunggu",
+    "slug": "mappakasunggu-7305020"
+  },
+  "code": {
+    "id": "7305020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Takalar",
+      "en": "Takalar",
+      "slug": "takalar-7305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Takalar",
+        "en": "Takalar",
+        "slug": "takalar-7305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.464",
+    "lon": "119.307"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5307063",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lembur",
+    "en": "Lembur",
+    "slug": "lembur-5307063"
+  },
+  "code": {
+    "id": "5307063",
+    "iso": null
+  },
+  "parent": {
+    "id": "5307",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Alor",
+      "en": "Alor",
+      "slug": "alor-5307"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5307",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Alor",
+        "en": "Alor",
+        "slug": "alor-5307"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.204",
+    "lon": "124.714"
+  },
+  "metadata": {},
+  "source": {}
+}

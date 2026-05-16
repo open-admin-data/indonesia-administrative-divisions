@@ -1,0 +1,48 @@
+{
+  "id": "6112",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kubu Raya",
+    "en": "Kubu Raya",
+    "slug": "kubu-raya-6112"
+  },
+  "code": {
+    "id": "6112",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 116
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.127",
+    "lon": "109.404"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5304081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Fautmolo",
+    "en": "Fautmolo",
+    "slug": "fautmolo-5304081"
+  },
+  "code": {
+    "id": "5304081",
+    "iso": null
+  },
+  "parent": {
+    "id": "5304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Timor Tengah Selatan",
+      "en": "Timor Tengah Selatan",
+      "slug": "timor-tengah-selatan-5304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Timor Tengah Selatan",
+        "en": "Timor Tengah Selatan",
+        "slug": "timor-tengah-selatan-5304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.777",
+    "lon": "124.568"
+  },
+  "metadata": {},
+  "source": {}
+}

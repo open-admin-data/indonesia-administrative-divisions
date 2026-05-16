@@ -1,0 +1,56 @@
+{
+  "id": "7402022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Marobo",
+    "en": "Marobo",
+    "slug": "marobo-7402022"
+  },
+  "code": {
+    "id": "7402022",
+    "iso": null
+  },
+  "parent": {
+    "id": "7402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Muna",
+      "en": "Muna",
+      "slug": "muna-7402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Muna",
+        "en": "Muna",
+        "slug": "muna-7402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.129",
+    "lon": "122.351"
+  },
+  "metadata": {},
+  "source": {}
+}

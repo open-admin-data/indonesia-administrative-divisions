@@ -1,0 +1,56 @@
+{
+  "id": "3309170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kemusu",
+    "en": "Kemusu",
+    "slug": "kemusu-3309170"
+  },
+  "code": {
+    "id": "3309170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Boyolali",
+      "en": "Boyolali",
+      "slug": "boyolali-3309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Boyolali",
+        "en": "Boyolali",
+        "slug": "boyolali-3309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.282",
+    "lon": "110.759"
+  },
+  "metadata": {},
+  "source": {}
+}

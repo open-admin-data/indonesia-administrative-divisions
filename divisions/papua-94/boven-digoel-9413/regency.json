@@ -1,0 +1,48 @@
+{
+  "id": "9413",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Boven Digoel",
+    "en": "Boven Digoel",
+    "slug": "boven-digoel-9413"
+  },
+  "code": {
+    "id": "9413",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "Papua",
+      "en": "Papua",
+      "slug": "papua-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 20,
+    "village": 105
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.74",
+    "lon": "140.348"
+  },
+  "metadata": {},
+  "source": {}
+}

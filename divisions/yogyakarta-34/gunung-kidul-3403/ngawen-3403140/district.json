@@ -1,0 +1,56 @@
+{
+  "id": "3403140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngawen",
+    "en": "Ngawen",
+    "slug": "ngawen-3403140"
+  },
+  "code": {
+    "id": "3403140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gunung Kidul",
+      "en": "Gunung Kidul",
+      "slug": "gunung-kidul-3403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gunung Kidul",
+        "en": "Gunung Kidul",
+        "slug": "gunung-kidul-3403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.836",
+    "lon": "110.699"
+  },
+  "metadata": {},
+  "source": {}
+}

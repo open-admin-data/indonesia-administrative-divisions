@@ -1,0 +1,48 @@
+{
+  "id": "3504",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Tulungagung",
+    "en": "Tulungagung",
+    "slug": "tulungagung-3504"
+  },
+  "code": {
+    "id": "3504",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 19,
+    "village": 246
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.064",
+    "lon": "111.901"
+  },
+  "metadata": {},
+  "source": {}
+}

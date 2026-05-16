@@ -1,0 +1,56 @@
+{
+  "id": "9434080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kamu",
+    "en": "Kamu",
+    "slug": "kamu-9434080"
+  },
+  "code": {
+    "id": "9434080",
+    "iso": null
+  },
+  "parent": {
+    "id": "9434",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dogiyai",
+      "en": "Dogiyai",
+      "slug": "dogiyai-9434"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9434",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dogiyai",
+        "en": "Dogiyai",
+        "slug": "dogiyai-9434"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.023",
+    "lon": "136.06"
+  },
+  "metadata": {},
+  "source": {}
+}

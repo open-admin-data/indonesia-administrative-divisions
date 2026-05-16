@@ -1,0 +1,56 @@
+{
+  "id": "5311050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wolowaru",
+    "en": "Wolowaru",
+    "slug": "wolowaru-5311050"
+  },
+  "code": {
+    "id": "5311050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ende",
+      "en": "Ende",
+      "slug": "ende-5311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ende",
+        "en": "Ende",
+        "slug": "ende-5311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.773",
+    "lon": "121.88"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7503010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Popayato",
+    "en": "Popayato",
+    "slug": "popayato-7503010"
+  },
+  "code": {
+    "id": "7503010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pohuwato",
+      "en": "Pohuwato",
+      "slug": "pohuwato-7503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.63",
+    "lon": "121.461"
+  },
+  "metadata": {},
+  "source": {}
+}

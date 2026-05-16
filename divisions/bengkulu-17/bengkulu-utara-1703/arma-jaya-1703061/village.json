@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1703061009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Air Merah",
+      "en": "Air Merah",
+      "slug": "air-merah-1703061009"
+    },
+    "code": {
+      "id": "1703061009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.429",
+      "lon": "102.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gardu",
+      "en": "Gardu",
+      "slug": "gardu-1703061001"
+    },
+    "code": {
+      "id": "1703061001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.476",
+      "lon": "102.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gunung Besar",
+      "en": "Gunung Besar",
+      "slug": "gunung-besar-1703061006"
+    },
+    "code": {
+      "id": "1703061006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.446",
+      "lon": "102.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalai Duai",
+      "en": "Kalai Duai",
+      "slug": "kalai-duai-1703061012"
+    },
+    "code": {
+      "id": "1703061012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.369",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kali",
+      "en": "Kali",
+      "slug": "kali-1703061007"
+    },
+    "code": {
+      "id": "1703061007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.447",
+      "lon": "102.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kemumu",
+      "en": "Kemumu",
+      "slug": "kemumu-1703061011"
+    },
+    "code": {
+      "id": "1703061011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.415",
+      "lon": "102.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pagar Banyu",
+      "en": "Pagar Banyu",
+      "slug": "pagar-banyu-1703061002"
+    },
+    "code": {
+      "id": "1703061002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.495",
+      "lon": "102.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pagar Ruyung",
+      "en": "Pagar Ruyung",
+      "slug": "pagar-ruyung-1703061008"
+    },
+    "code": {
+      "id": "1703061008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.426",
+      "lon": "102.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pematang Sapang",
+      "en": "Pematang Sapang",
+      "slug": "pematang-sapang-1703061003"
+    },
+    "code": {
+      "id": "1703061003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.485",
+      "lon": "102.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidodadi",
+      "en": "Sidodadi",
+      "slug": "sidodadi-1703061005"
+    },
+    "code": {
+      "id": "1703061005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.448",
+      "lon": "102.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumber Agung",
+      "en": "Sumber Agung",
+      "slug": "sumber-agung-1703061004"
+    },
+    "code": {
+      "id": "1703061004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.468",
+      "lon": "102.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703061010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tebing Kaning",
+      "en": "Tebing Kaning",
+      "slug": "tebing-kaning-1703061010"
+    },
+    "code": {
+      "id": "1703061010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703061",
+      "level": 3,
+      "name": {
+        "local": "Arma Jaya",
+        "en": "Arma Jaya",
+        "slug": "arma-jaya-1703061"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703061",
+        "level": 3,
+        "name": {
+          "local": "Arma Jaya",
+          "en": "Arma Jaya",
+          "slug": "arma-jaya-1703061"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38611"
+    ],
+    "geo": {
+      "lat": "-3.428",
+      "lon": "102.258"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

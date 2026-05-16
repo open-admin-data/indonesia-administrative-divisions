@@ -1,0 +1,56 @@
+{
+  "id": "3314040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kedawung",
+    "en": "Kedawung",
+    "slug": "kedawung-3314040"
+  },
+  "code": {
+    "id": "3314040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sragen",
+      "en": "Sragen",
+      "slug": "sragen-3314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sragen",
+        "en": "Sragen",
+        "slug": "sragen-3314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.5",
+    "lon": "111.029"
+  },
+  "metadata": {},
+  "source": {}
+}

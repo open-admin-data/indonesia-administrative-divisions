@@ -1,0 +1,56 @@
+{
+  "id": "1704010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nasal",
+    "en": "Nasal",
+    "slug": "nasal-1704010"
+  },
+  "code": {
+    "id": "1704010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kaur",
+      "en": "Kaur",
+      "slug": "kaur-1704"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kaur",
+        "en": "Kaur",
+        "slug": "kaur-1704"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.76",
+    "lon": "103.629"
+  },
+  "metadata": {},
+  "source": {}
+}

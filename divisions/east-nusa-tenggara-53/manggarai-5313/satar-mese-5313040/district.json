@@ -1,0 +1,56 @@
+{
+  "id": "5313040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Satar Mese",
+    "en": "Satar Mese",
+    "slug": "satar-mese-5313040"
+  },
+  "code": {
+    "id": "5313040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai",
+      "en": "Manggarai",
+      "slug": "manggarai-5313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai",
+        "en": "Manggarai",
+        "slug": "manggarai-5313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.723",
+    "lon": "120.439"
+  },
+  "metadata": {},
+  "source": {}
+}

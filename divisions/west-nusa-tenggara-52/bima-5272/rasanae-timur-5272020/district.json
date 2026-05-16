@@ -1,0 +1,56 @@
+{
+  "id": "5272020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rasanae Timur",
+    "en": "Rasanae Timur",
+    "slug": "rasanae-timur-5272020"
+  },
+  "code": {
+    "id": "5272020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5272",
+    "level": 2,
+    "name": {
+      "local": "Kota Bima",
+      "en": "Bima",
+      "slug": "bima-5272"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5272",
+      "level": 2,
+      "name": {
+        "local": "Kota Bima",
+        "en": "Bima",
+        "slug": "bima-5272"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.493",
+    "lon": "118.825"
+  },
+  "metadata": {},
+  "source": {}
+}

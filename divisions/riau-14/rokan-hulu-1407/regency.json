@@ -1,0 +1,48 @@
+{
+  "id": "1407",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Rokan Hulu",
+    "en": "Rokan Hulu",
+    "slug": "rokan-hulu-1407"
+  },
+  "code": {
+    "id": "1407",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 16,
+    "village": 148
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.099",
+    "lon": "100.818"
+  },
+  "metadata": {},
+  "source": {}
+}

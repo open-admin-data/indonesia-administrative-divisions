@@ -1,0 +1,48 @@
+{
+  "id": "3373",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Salatiga",
+    "en": "Salatiga",
+    "slug": "salatiga-3373"
+  },
+  "code": {
+    "id": "3373",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.33",
+    "lon": "110.501"
+  },
+  "metadata": {},
+  "source": {}
+}

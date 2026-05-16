@@ -1,0 +1,338 @@
+[
+  {
+    "id": "5271010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ampenan",
+      "en": "Ampenan",
+      "slug": "ampenan-5271010"
+    },
+    "code": {
+      "id": "5271010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5271",
+      "level": 2,
+      "name": {
+        "local": "Kota Mataram",
+        "en": "Mataram",
+        "slug": "mataram-5271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5271",
+        "level": 2,
+        "name": {
+          "local": "Kota Mataram",
+          "en": "Mataram",
+          "slug": "mataram-5271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.57",
+      "lon": "116.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5271030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cakranegara",
+      "en": "Cakranegara",
+      "slug": "cakranegara-5271030"
+    },
+    "code": {
+      "id": "5271030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5271",
+      "level": 2,
+      "name": {
+        "local": "Kota Mataram",
+        "en": "Mataram",
+        "slug": "mataram-5271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5271",
+        "level": 2,
+        "name": {
+          "local": "Kota Mataram",
+          "en": "Mataram",
+          "slug": "mataram-5271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.583",
+      "lon": "116.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5271020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mataram",
+      "en": "Mataram",
+      "slug": "mataram-5271020"
+    },
+    "code": {
+      "id": "5271020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5271",
+      "level": 2,
+      "name": {
+        "local": "Kota Mataram",
+        "en": "Mataram",
+        "slug": "mataram-5271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5271",
+        "level": 2,
+        "name": {
+          "local": "Kota Mataram",
+          "en": "Mataram",
+          "slug": "mataram-5271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.603",
+      "lon": "116.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5271031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sandubaya",
+      "en": "Sandubaya",
+      "slug": "sandubaya-5271031"
+    },
+    "code": {
+      "id": "5271031",
+      "iso": null
+    },
+    "parent": {
+      "id": "5271",
+      "level": 2,
+      "name": {
+        "local": "Kota Mataram",
+        "en": "Mataram",
+        "slug": "mataram-5271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5271",
+        "level": 2,
+        "name": {
+          "local": "Kota Mataram",
+          "en": "Mataram",
+          "slug": "mataram-5271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.595",
+      "lon": "116.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5271011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekarbela",
+      "en": "Sekarbela",
+      "slug": "sekarbela-5271011"
+    },
+    "code": {
+      "id": "5271011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5271",
+      "level": 2,
+      "name": {
+        "local": "Kota Mataram",
+        "en": "Mataram",
+        "slug": "mataram-5271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5271",
+        "level": 2,
+        "name": {
+          "local": "Kota Mataram",
+          "en": "Mataram",
+          "slug": "mataram-5271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.605",
+      "lon": "116.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5271021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selaparang",
+      "en": "Selaparang",
+      "slug": "selaparang-5271021"
+    },
+    "code": {
+      "id": "5271021",
+      "iso": null
+    },
+    "parent": {
+      "id": "5271",
+      "level": 2,
+      "name": {
+        "local": "Kota Mataram",
+        "en": "Mataram",
+        "slug": "mataram-5271"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5271",
+        "level": 2,
+        "name": {
+          "local": "Kota Mataram",
+          "en": "Mataram",
+          "slug": "mataram-5271"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.572",
+      "lon": "116.109"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

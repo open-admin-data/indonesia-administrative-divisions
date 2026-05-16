@@ -1,0 +1,282 @@
+[
+  {
+    "id": "8172011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kur Selatan",
+      "en": "Kur Selatan",
+      "slug": "kur-selatan-8172011"
+    },
+    "code": {
+      "id": "8172011",
+      "iso": null
+    },
+    "parent": {
+      "id": "8172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tual",
+        "en": "Tual",
+        "slug": "tual-8172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8172",
+        "level": 2,
+        "name": {
+          "local": "Kota Tual",
+          "en": "Tual",
+          "slug": "tual-8172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.5",
+      "lon": "131.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8172010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pp. Kur",
+      "en": "Pp. Kur",
+      "slug": "pp-kur-8172010"
+    },
+    "code": {
+      "id": "8172010",
+      "iso": null
+    },
+    "parent": {
+      "id": "8172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tual",
+        "en": "Tual",
+        "slug": "tual-8172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8172",
+        "level": 2,
+        "name": {
+          "local": "Kota Tual",
+          "en": "Tual",
+          "slug": "tual-8172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.24",
+      "lon": "132.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8172040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Dullah Selatan",
+      "en": "Pulau Dullah Selatan",
+      "slug": "pulau-dullah-selatan-8172040"
+    },
+    "code": {
+      "id": "8172040",
+      "iso": null
+    },
+    "parent": {
+      "id": "8172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tual",
+        "en": "Tual",
+        "slug": "tual-8172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8172",
+        "level": 2,
+        "name": {
+          "local": "Kota Tual",
+          "en": "Tual",
+          "slug": "tual-8172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.631",
+      "lon": "132.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8172030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Dullah Utara",
+      "en": "Pulau Dullah Utara",
+      "slug": "pulau-dullah-utara-8172030"
+    },
+    "code": {
+      "id": "8172030",
+      "iso": null
+    },
+    "parent": {
+      "id": "8172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tual",
+        "en": "Tual",
+        "slug": "tual-8172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8172",
+        "level": 2,
+        "name": {
+          "local": "Kota Tual",
+          "en": "Tual",
+          "slug": "tual-8172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.563",
+      "lon": "132.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8172020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tayando Tam",
+      "en": "Tayando Tam",
+      "slug": "tayando-tam-8172020"
+    },
+    "code": {
+      "id": "8172020",
+      "iso": null
+    },
+    "parent": {
+      "id": "8172",
+      "level": 2,
+      "name": {
+        "local": "Kota Tual",
+        "en": "Tual",
+        "slug": "tual-8172"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8172",
+        "level": 2,
+        "name": {
+          "local": "Kota Tual",
+          "en": "Tual",
+          "slug": "tual-8172"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.644",
+      "lon": "132.273"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

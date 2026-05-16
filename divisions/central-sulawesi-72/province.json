@@ -1,0 +1,31 @@
+{
+  "id": "72",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Sulawesi Tengah",
+    "en": "Central Sulawesi",
+    "slug": "central-sulawesi-72"
+  },
+  "code": {
+    "id": "72",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 13,
+    "village": 1953,
+    "district": 175
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.891",
+    "lon": "119.871"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7308070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mallawa",
+    "en": "Mallawa",
+    "slug": "mallawa-7308070"
+  },
+  "code": {
+    "id": "7308070",
+    "iso": null
+  },
+  "parent": {
+    "id": "7308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maros",
+      "en": "Maros",
+      "slug": "maros-7308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maros",
+        "en": "Maros",
+        "slug": "maros-7308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.816",
+    "lon": "119.887"
+  },
+  "metadata": {},
+  "source": {}
+}

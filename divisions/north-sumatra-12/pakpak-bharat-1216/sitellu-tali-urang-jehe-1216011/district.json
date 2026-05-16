@@ -1,0 +1,56 @@
+{
+  "id": "1216011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sitellu Tali Urang Jehe",
+    "en": "Sitellu Tali Urang Jehe",
+    "slug": "sitellu-tali-urang-jehe-1216011"
+  },
+  "code": {
+    "id": "1216011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1216",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pakpak Bharat",
+      "en": "Pakpak Bharat",
+      "slug": "pakpak-bharat-1216"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pakpak Bharat",
+        "en": "Pakpak Bharat",
+        "slug": "pakpak-bharat-1216"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.666",
+    "lon": "98.17"
+  },
+  "metadata": {},
+  "source": {}
+}

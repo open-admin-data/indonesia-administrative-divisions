@@ -1,0 +1,56 @@
+{
+  "id": "3207160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cisaga",
+    "en": "Cisaga",
+    "slug": "cisaga-3207160"
+  },
+  "code": {
+    "id": "3207160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3207",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ciamis",
+      "en": "Ciamis",
+      "slug": "ciamis-3207"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.309",
+    "lon": "108.502"
+  },
+  "metadata": {},
+  "source": {}
+}

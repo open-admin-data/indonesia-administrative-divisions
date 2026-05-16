@@ -1,0 +1,56 @@
+{
+  "id": "3308060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dukun",
+    "en": "Dukun",
+    "slug": "dukun-3308060"
+  },
+  "code": {
+    "id": "3308060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Magelang",
+      "en": "Magelang",
+      "slug": "magelang-3308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magelang",
+        "en": "Magelang",
+        "slug": "magelang-3308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.547",
+    "lon": "110.372"
+  },
+  "metadata": {},
+  "source": {}
+}

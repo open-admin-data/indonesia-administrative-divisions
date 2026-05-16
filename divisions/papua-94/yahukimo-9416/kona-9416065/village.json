@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9416065004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalpok",
+      "en": "Kalpok",
+      "slug": "kalpok-9416065004"
+    },
+    "code": {
+      "id": "9416065004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9416065",
+      "level": 3,
+      "name": {
+        "local": "Kona",
+        "en": "Kona",
+        "slug": "kona-9416065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9416",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Yahukimo",
+          "en": "Yahukimo",
+          "slug": "yahukimo-9416"
+        }
+      },
+      {
+        "id": "9416065",
+        "level": 3,
+        "name": {
+          "local": "Kona",
+          "en": "Kona",
+          "slug": "kona-9416065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99074"
+    ],
+    "geo": {
+      "lat": "-3.982",
+      "lon": "139.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9416065002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kona",
+      "en": "Kona",
+      "slug": "kona-9416065002"
+    },
+    "code": {
+      "id": "9416065002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9416065",
+      "level": 3,
+      "name": {
+        "local": "Kona",
+        "en": "Kona",
+        "slug": "kona-9416065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9416",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Yahukimo",
+          "en": "Yahukimo",
+          "slug": "yahukimo-9416"
+        }
+      },
+      {
+        "id": "9416065",
+        "level": 3,
+        "name": {
+          "local": "Kona",
+          "en": "Kona",
+          "slug": "kona-9416065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99074"
+    ],
+    "geo": {
+      "lat": "-4.02",
+      "lon": "139.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9416065005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seklak",
+      "en": "Seklak",
+      "slug": "seklak-9416065005"
+    },
+    "code": {
+      "id": "9416065005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9416065",
+      "level": 3,
+      "name": {
+        "local": "Kona",
+        "en": "Kona",
+        "slug": "kona-9416065"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9416",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Yahukimo",
+          "en": "Yahukimo",
+          "slug": "yahukimo-9416"
+        }
+      },
+      {
+        "id": "9416065",
+        "level": 3,
+        "name": {
+          "local": "Kona",
+          "en": "Kona",
+          "slug": "kona-9416065"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99074"
+    ],
+    "geo": {
+      "lat": "-3.916",
+      "lon": "139.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

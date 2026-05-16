@@ -1,0 +1,56 @@
+{
+  "id": "7312050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Donri Donri",
+    "en": "Donri Donri",
+    "slug": "donri-donri-7312050"
+  },
+  "code": {
+    "id": "7312050",
+    "iso": null
+  },
+  "parent": {
+    "id": "7312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Soppeng",
+      "en": "Soppeng",
+      "slug": "soppeng-7312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Soppeng",
+        "en": "Soppeng",
+        "slug": "soppeng-7312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.263",
+    "lon": "119.851"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "5321110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kobalima",
+    "en": "Kobalima",
+    "slug": "kobalima-5321110"
+  },
+  "code": {
+    "id": "5321110",
+    "iso": null
+  },
+  "parent": {
+    "id": "5321",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malaka",
+      "en": "Malaka",
+      "slug": "malaka-5321"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malaka",
+        "en": "Malaka",
+        "slug": "malaka-5321"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.465",
+    "lon": "124.998"
+  },
+  "metadata": {},
+  "source": {}
+}

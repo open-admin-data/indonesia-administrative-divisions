@@ -1,0 +1,56 @@
+{
+  "id": "3578110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wonokromo",
+    "en": "Wonokromo",
+    "slug": "wonokromo-3578110"
+  },
+  "code": {
+    "id": "3578110",
+    "iso": null
+  },
+  "parent": {
+    "id": "3578",
+    "level": 2,
+    "name": {
+      "local": "Kota Surabaya",
+      "en": "Surabaya",
+      "slug": "surabaya-3578"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3578",
+      "level": 2,
+      "name": {
+        "local": "Kota Surabaya",
+        "en": "Surabaya",
+        "slug": "surabaya-3578"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.294",
+    "lon": "112.738"
+  },
+  "metadata": {},
+  "source": {}
+}

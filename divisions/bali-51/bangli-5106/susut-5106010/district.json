@@ -1,0 +1,56 @@
+{
+  "id": "5106010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Susut",
+    "en": "Susut",
+    "slug": "susut-5106010"
+  },
+  "code": {
+    "id": "5106010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangli",
+      "en": "Bangli",
+      "slug": "bangli-5106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangli",
+        "en": "Bangli",
+        "slug": "bangli-5106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.428",
+    "lon": "115.34"
+  },
+  "metadata": {},
+  "source": {}
+}

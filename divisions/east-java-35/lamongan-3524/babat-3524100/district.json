@@ -1,0 +1,56 @@
+{
+  "id": "3524100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Babat",
+    "en": "Babat",
+    "slug": "babat-3524100"
+  },
+  "code": {
+    "id": "3524100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3524",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lamongan",
+      "en": "Lamongan",
+      "slug": "lamongan-3524"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3524",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamongan",
+        "en": "Lamongan",
+        "slug": "lamongan-3524"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.109",
+    "lon": "112.21"
+  },
+  "metadata": {},
+  "source": {}
+}

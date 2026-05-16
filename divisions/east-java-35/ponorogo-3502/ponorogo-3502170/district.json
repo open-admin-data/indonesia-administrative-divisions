@@ -1,0 +1,56 @@
+{
+  "id": "3502170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ponorogo",
+    "en": "Ponorogo",
+    "slug": "ponorogo-3502170"
+  },
+  "code": {
+    "id": "3502170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3502",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ponorogo",
+      "en": "Ponorogo",
+      "slug": "ponorogo-3502"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3502",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ponorogo",
+        "en": "Ponorogo",
+        "slug": "ponorogo-3502"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.866",
+    "lon": "111.469"
+  },
+  "metadata": {},
+  "source": {}
+}

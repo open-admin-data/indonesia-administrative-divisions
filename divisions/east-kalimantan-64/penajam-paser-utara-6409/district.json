@@ -1,0 +1,226 @@
+[
+  {
+    "id": "6409010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Babulu",
+      "en": "Babulu",
+      "slug": "babulu-6409010"
+    },
+    "code": {
+      "id": "6409010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Penajam Paser Utara",
+        "en": "Penajam Paser Utara",
+        "slug": "penajam-paser-utara-6409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Penajam Paser Utara",
+          "en": "Penajam Paser Utara",
+          "slug": "penajam-paser-utara-6409"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.458",
+      "lon": "116.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6409030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penajam",
+      "en": "Penajam",
+      "slug": "penajam-6409030"
+    },
+    "code": {
+      "id": "6409030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Penajam Paser Utara",
+        "en": "Penajam Paser Utara",
+        "slug": "penajam-paser-utara-6409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Penajam Paser Utara",
+          "en": "Penajam Paser Utara",
+          "slug": "penajam-paser-utara-6409"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.163",
+      "lon": "116.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6409040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sepaku",
+      "en": "Sepaku",
+      "slug": "sepaku-6409040"
+    },
+    "code": {
+      "id": "6409040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Penajam Paser Utara",
+        "en": "Penajam Paser Utara",
+        "slug": "penajam-paser-utara-6409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Penajam Paser Utara",
+          "en": "Penajam Paser Utara",
+          "slug": "penajam-paser-utara-6409"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.974",
+      "lon": "116.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6409020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waru",
+      "en": "Waru",
+      "slug": "waru-6409020"
+    },
+    "code": {
+      "id": "6409020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Penajam Paser Utara",
+        "en": "Penajam Paser Utara",
+        "slug": "penajam-paser-utara-6409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6409",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Penajam Paser Utara",
+          "en": "Penajam Paser Utara",
+          "slug": "penajam-paser-utara-6409"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.316",
+      "lon": "116.494"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

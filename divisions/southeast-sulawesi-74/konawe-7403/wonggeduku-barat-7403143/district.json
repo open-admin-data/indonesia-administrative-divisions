@@ -1,0 +1,56 @@
+{
+  "id": "7403143",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wonggeduku Barat",
+    "en": "Wonggeduku Barat",
+    "slug": "wonggeduku-barat-7403143"
+  },
+  "code": {
+    "id": "7403143",
+    "iso": null
+  },
+  "parent": {
+    "id": "7403",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Konawe",
+      "en": "Konawe",
+      "slug": "konawe-7403"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7403",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Konawe",
+        "en": "Konawe",
+        "slug": "konawe-7403"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.939",
+    "lon": "122.147"
+  },
+  "metadata": {},
+  "source": {}
+}

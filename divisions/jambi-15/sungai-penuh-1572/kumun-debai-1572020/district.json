@@ -1,0 +1,56 @@
+{
+  "id": "1572020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kumun Debai",
+    "en": "Kumun Debai",
+    "slug": "kumun-debai-1572020"
+  },
+  "code": {
+    "id": "1572020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1572",
+    "level": 2,
+    "name": {
+      "local": "Kota Sungai Penuh",
+      "en": "Sungai Penuh",
+      "slug": "sungai-penuh-1572"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1572",
+      "level": 2,
+      "name": {
+        "local": "Kota Sungai Penuh",
+        "en": "Sungai Penuh",
+        "slug": "sungai-penuh-1572"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.166",
+    "lon": "101.355"
+  },
+  "metadata": {},
+  "source": {}
+}

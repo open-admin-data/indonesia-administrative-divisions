@@ -1,0 +1,56 @@
+{
+  "id": "3204310",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cimenyan",
+    "en": "Cimenyan",
+    "slug": "cimenyan-3204310"
+  },
+  "code": {
+    "id": "3204310",
+    "iso": null
+  },
+  "parent": {
+    "id": "3204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.863",
+    "lon": "107.668"
+  },
+  "metadata": {},
+  "source": {}
+}

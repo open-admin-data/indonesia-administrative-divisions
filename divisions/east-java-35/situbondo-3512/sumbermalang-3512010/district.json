@@ -1,0 +1,56 @@
+{
+  "id": "3512010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumbermalang",
+    "en": "Sumbermalang",
+    "slug": "sumbermalang-3512010"
+  },
+  "code": {
+    "id": "3512010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3512",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Situbondo",
+      "en": "Situbondo",
+      "slug": "situbondo-3512"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.874",
+    "lon": "113.673"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3201050012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bojong Jengkol",
+      "en": "Bojong Jengkol",
+      "slug": "bojong-jengkol-3201050012"
+    },
+    "code": {
+      "id": "3201050012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.576",
+      "lon": "106.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050016",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bojong Rangkas",
+      "en": "Bojong Rangkas",
+      "slug": "bojong-rangkas-3201050016"
+    },
+    "code": {
+      "id": "3201050016",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.559",
+      "lon": "106.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ciampea",
+      "en": "Ciampea",
+      "slug": "ciampea-3201050019"
+    },
+    "code": {
+      "id": "3201050019",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.575",
+      "lon": "106.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ciampea Udik",
+      "en": "Ciampea Udik",
+      "slug": "ciampea-udik-3201050004"
+    },
+    "code": {
+      "id": "3201050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.613",
+      "lon": "106.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050017",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibadak",
+      "en": "Cibadak",
+      "slug": "cibadak-3201050017"
+    },
+    "code": {
+      "id": "3201050017",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.561",
+      "lon": "106.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050015",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibanteng",
+      "en": "Cibanteng",
+      "slug": "cibanteng-3201050015"
+    },
+    "code": {
+      "id": "3201050015",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.555",
+      "lon": "106.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cibuntu",
+      "en": "Cibuntu",
+      "slug": "cibuntu-3201050009"
+    },
+    "code": {
+      "id": "3201050009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.594",
+      "lon": "106.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cicadas",
+      "en": "Cicadas",
+      "slug": "cicadas-3201050010"
+    },
+    "code": {
+      "id": "3201050010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.578",
+      "lon": "106.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cihideung Ilir",
+      "en": "Cihideung Ilir",
+      "slug": "cihideung-ilir-3201050014"
+    },
+    "code": {
+      "id": "3201050014",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.57",
+      "lon": "106.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cihideung Udik",
+      "en": "Cihideung Udik",
+      "slug": "cihideung-udik-3201050013"
+    },
+    "code": {
+      "id": "3201050013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.583",
+      "lon": "106.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cinangka",
+      "en": "Cinangka",
+      "slug": "cinangka-3201050008"
+    },
+    "code": {
+      "id": "3201050008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.593",
+      "lon": "106.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3201050011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tegal Waru",
+      "en": "Tegal Waru",
+      "slug": "tegal-waru-3201050011"
+    },
+    "code": {
+      "id": "3201050011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3201050",
+      "level": 3,
+      "name": {
+        "local": "Ciampea",
+        "en": "Ciampea",
+        "slug": "ciampea-3201050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bogor",
+          "en": "Bogor",
+          "slug": "bogor-3201"
+        }
+      },
+      {
+        "id": "3201050",
+        "level": 3,
+        "name": {
+          "local": "Ciampea",
+          "en": "Ciampea",
+          "slug": "ciampea-3201050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "16621"
+    ],
+    "geo": {
+      "lat": "-6.573",
+      "lon": "106.697"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

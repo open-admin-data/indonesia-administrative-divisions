@@ -1,0 +1,56 @@
+{
+  "id": "7102093",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Langowan Selatan",
+    "en": "Langowan Selatan",
+    "slug": "langowan-selatan-7102093"
+  },
+  "code": {
+    "id": "7102093",
+    "iso": null
+  },
+  "parent": {
+    "id": "7102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Minahasa",
+      "en": "Minahasa",
+      "slug": "minahasa-7102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Minahasa",
+        "en": "Minahasa",
+        "slug": "minahasa-7102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.083",
+    "lon": "124.883"
+  },
+  "metadata": {},
+  "source": {}
+}

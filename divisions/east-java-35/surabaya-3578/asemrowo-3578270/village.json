@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3578270003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Asemrowo",
+      "en": "Asemrowo",
+      "slug": "asemrowo-3578270003"
+    },
+    "code": {
+      "id": "3578270003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578270",
+      "level": 3,
+      "name": {
+        "local": "Asemrowo",
+        "en": "Asemrowo",
+        "slug": "asemrowo-3578270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578270",
+        "level": 3,
+        "name": {
+          "local": "Asemrowo",
+          "en": "Asemrowo",
+          "slug": "asemrowo-3578270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60182"
+    ],
+    "geo": {
+      "lat": "-7.235",
+      "lon": "112.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578270006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Genting Kalianak",
+      "en": "Genting Kalianak",
+      "slug": "genting-kalianak-3578270006"
+    },
+    "code": {
+      "id": "3578270006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578270",
+      "level": 3,
+      "name": {
+        "local": "Asemrowo",
+        "en": "Asemrowo",
+        "slug": "asemrowo-3578270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578270",
+        "level": 3,
+        "name": {
+          "local": "Asemrowo",
+          "en": "Asemrowo",
+          "slug": "asemrowo-3578270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60182"
+    ],
+    "geo": {
+      "lat": "-7.24",
+      "lon": "112.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578270007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tambak Sarioso",
+      "en": "Tambak Sarioso",
+      "slug": "tambak-sarioso-3578270007"
+    },
+    "code": {
+      "id": "3578270007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578270",
+      "level": 3,
+      "name": {
+        "local": "Asemrowo",
+        "en": "Asemrowo",
+        "slug": "asemrowo-3578270"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578270",
+        "level": 3,
+        "name": {
+          "local": "Asemrowo",
+          "en": "Asemrowo",
+          "slug": "asemrowo-3578270"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60182"
+    ],
+    "geo": {
+      "lat": "-7.225",
+      "lon": "112.666"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "7301041001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Benteng Selatan",
+      "en": "Benteng Selatan",
+      "slug": "benteng-selatan-7301041001"
+    },
+    "code": {
+      "id": "7301041001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7301041",
+      "level": 3,
+      "name": {
+        "local": "Benteng",
+        "en": "Benteng",
+        "slug": "benteng-7301041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Selayar",
+          "en": "Kepulauan Selayar",
+          "slug": "kepulauan-selayar-7301"
+        }
+      },
+      {
+        "id": "7301041",
+        "level": 3,
+        "name": {
+          "local": "Benteng",
+          "en": "Benteng",
+          "slug": "benteng-7301041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92812"
+    ],
+    "geo": {
+      "lat": "-6.125",
+      "lon": "120.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7301041003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Benteng Utara",
+      "en": "Benteng Utara",
+      "slug": "benteng-utara-7301041003"
+    },
+    "code": {
+      "id": "7301041003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7301041",
+      "level": 3,
+      "name": {
+        "local": "Benteng",
+        "en": "Benteng",
+        "slug": "benteng-7301041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7301",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kepulauan Selayar",
+          "en": "Kepulauan Selayar",
+          "slug": "kepulauan-selayar-7301"
+        }
+      },
+      {
+        "id": "7301041",
+        "level": 3,
+        "name": {
+          "local": "Benteng",
+          "en": "Benteng",
+          "slug": "benteng-7301041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92812"
+    ],
+    "geo": {
+      "lat": "-6.106",
+      "lon": "120.466"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

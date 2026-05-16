@@ -1,0 +1,56 @@
+{
+  "id": "1506033",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kuala Jambi",
+    "en": "Kuala Jambi",
+    "slug": "kuala-jambi-1506033"
+  },
+  "code": {
+    "id": "1506033",
+    "iso": null
+  },
+  "parent": {
+    "id": "1506",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanjung Jabung Timur",
+      "en": "Tanjung Jabung Timur",
+      "slug": "tanjung-jabung-timur-1506"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanjung Jabung Timur",
+        "en": "Tanjung Jabung Timur",
+        "slug": "tanjung-jabung-timur-1506"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.055",
+    "lon": "103.789"
+  },
+  "metadata": {},
+  "source": {}
+}

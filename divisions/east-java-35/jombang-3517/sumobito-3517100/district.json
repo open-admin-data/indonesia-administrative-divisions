@@ -1,0 +1,56 @@
+{
+  "id": "3517100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sumobito",
+    "en": "Sumobito",
+    "slug": "sumobito-3517100"
+  },
+  "code": {
+    "id": "3517100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3517",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jombang",
+      "en": "Jombang",
+      "slug": "jombang-3517"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3517",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jombang",
+        "en": "Jombang",
+        "slug": "jombang-3517"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.524",
+    "lon": "112.329"
+  },
+  "metadata": {},
+  "source": {}
+}

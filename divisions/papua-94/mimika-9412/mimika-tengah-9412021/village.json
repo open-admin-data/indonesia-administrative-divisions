@@ -1,0 +1,327 @@
+[
+  {
+    "id": "9412021004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aikawapuka",
+      "en": "Aikawapuka",
+      "slug": "aikawapuka-9412021004"
+    },
+    "code": {
+      "id": "9412021004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412021",
+      "level": 3,
+      "name": {
+        "local": "Mimika Tengah",
+        "en": "Mimika Tengah",
+        "slug": "mimika-tengah-9412021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mimika",
+          "en": "Mimika",
+          "slug": "mimika-9412"
+        }
+      },
+      {
+        "id": "9412021",
+        "level": 3,
+        "name": {
+          "local": "Mimika Tengah",
+          "en": "Mimika Tengah",
+          "slug": "mimika-tengah-9412021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99972"
+    ],
+    "geo": {
+      "lat": "-4.647",
+      "lon": "136.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9412021003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Atuka",
+      "en": "Atuka",
+      "slug": "atuka-9412021003"
+    },
+    "code": {
+      "id": "9412021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412021",
+      "level": 3,
+      "name": {
+        "local": "Mimika Tengah",
+        "en": "Mimika Tengah",
+        "slug": "mimika-tengah-9412021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mimika",
+          "en": "Mimika",
+          "slug": "mimika-9412"
+        }
+      },
+      {
+        "id": "9412021",
+        "level": 3,
+        "name": {
+          "local": "Mimika Tengah",
+          "en": "Mimika Tengah",
+          "slug": "mimika-tengah-9412021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99972"
+    ],
+    "geo": {
+      "lat": "-4.775",
+      "lon": "136.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9412021005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kamora",
+      "en": "Kamora",
+      "slug": "kamora-9412021005"
+    },
+    "code": {
+      "id": "9412021005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412021",
+      "level": 3,
+      "name": {
+        "local": "Mimika Tengah",
+        "en": "Mimika Tengah",
+        "slug": "mimika-tengah-9412021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mimika",
+          "en": "Mimika",
+          "slug": "mimika-9412"
+        }
+      },
+      {
+        "id": "9412021",
+        "level": 3,
+        "name": {
+          "local": "Mimika Tengah",
+          "en": "Mimika Tengah",
+          "slug": "mimika-tengah-9412021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99972"
+    ],
+    "geo": {
+      "lat": "-4.698",
+      "lon": "136.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9412021001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Keakwa",
+      "en": "Keakwa",
+      "slug": "keakwa-9412021001"
+    },
+    "code": {
+      "id": "9412021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412021",
+      "level": 3,
+      "name": {
+        "local": "Mimika Tengah",
+        "en": "Mimika Tengah",
+        "slug": "mimika-tengah-9412021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mimika",
+          "en": "Mimika",
+          "slug": "mimika-9412"
+        }
+      },
+      {
+        "id": "9412021",
+        "level": 3,
+        "name": {
+          "local": "Mimika Tengah",
+          "en": "Mimika Tengah",
+          "slug": "mimika-tengah-9412021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99972"
+    ],
+    "geo": {
+      "lat": "-4.738",
+      "lon": "136.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9412021002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tiwaka",
+      "en": "Tiwaka",
+      "slug": "tiwaka-9412021002"
+    },
+    "code": {
+      "id": "9412021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412021",
+      "level": 3,
+      "name": {
+        "local": "Mimika Tengah",
+        "en": "Mimika Tengah",
+        "slug": "mimika-tengah-9412021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mimika",
+          "en": "Mimika",
+          "slug": "mimika-9412"
+        }
+      },
+      {
+        "id": "9412021",
+        "level": 3,
+        "name": {
+          "local": "Mimika Tengah",
+          "en": "Mimika Tengah",
+          "slug": "mimika-tengah-9412021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99972"
+    ],
+    "geo": {
+      "lat": "-4.79",
+      "lon": "136.7"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

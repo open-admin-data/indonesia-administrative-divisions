@@ -1,0 +1,48 @@
+{
+  "id": "3502",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Ponorogo",
+    "en": "Ponorogo",
+    "slug": "ponorogo-3502"
+  },
+  "code": {
+    "id": "3502",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 277
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.871",
+    "lon": "111.463"
+  },
+  "metadata": {},
+  "source": {}
+}

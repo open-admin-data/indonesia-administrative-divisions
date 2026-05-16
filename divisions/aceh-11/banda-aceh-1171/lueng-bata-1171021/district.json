@@ -1,0 +1,56 @@
+{
+  "id": "1171021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lueng Bata",
+    "en": "Lueng Bata",
+    "slug": "lueng-bata-1171021"
+  },
+  "code": {
+    "id": "1171021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1171",
+    "level": 2,
+    "name": {
+      "local": "Kota Banda Aceh",
+      "en": "Banda Aceh",
+      "slug": "banda-aceh-1171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1171",
+      "level": 2,
+      "name": {
+        "local": "Kota Banda Aceh",
+        "en": "Banda Aceh",
+        "slug": "banda-aceh-1171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.54",
+    "lon": "95.335"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3515140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waru",
+    "en": "Waru",
+    "slug": "waru-3515140"
+  },
+  "code": {
+    "id": "3515140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3515",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sidoarjo",
+      "en": "Sidoarjo",
+      "slug": "sidoarjo-3515"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3515",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sidoarjo",
+        "en": "Sidoarjo",
+        "slug": "sidoarjo-3515"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.354",
+    "lon": "112.768"
+  },
+  "metadata": {},
+  "source": {}
+}

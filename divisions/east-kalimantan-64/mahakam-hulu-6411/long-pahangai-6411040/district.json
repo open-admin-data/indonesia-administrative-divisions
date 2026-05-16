@@ -1,0 +1,56 @@
+{
+  "id": "6411040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Long Pahangai",
+    "en": "Long Pahangai",
+    "slug": "long-pahangai-6411040"
+  },
+  "code": {
+    "id": "6411040",
+    "iso": null
+  },
+  "parent": {
+    "id": "6411",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mahakam Hulu",
+      "en": "Mahakam Hulu",
+      "slug": "mahakam-hulu-6411"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6411",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mahakam Hulu",
+        "en": "Mahakam Hulu",
+        "slug": "mahakam-hulu-6411"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.979",
+    "lon": "114.682"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "2104011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kepulauan Posek",
+      "en": "Kepulauan Posek",
+      "slug": "kepulauan-posek-2104011"
+    },
+    "code": {
+      "id": "2104011",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.377",
+      "lon": "104.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lingga",
+      "en": "Lingga",
+      "slug": "lingga-2104030"
+    },
+    "code": {
+      "id": "2104030",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.649",
+      "lon": "105.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lingga Timur",
+      "en": "Lingga Timur",
+      "slug": "lingga-timur-2104032"
+    },
+    "code": {
+      "id": "2104032",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.259",
+      "lon": "104.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lingga Utara",
+      "en": "Lingga Utara",
+      "slug": "lingga-utara-2104040"
+    },
+    "code": {
+      "id": "2104040",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.151",
+      "lon": "104.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selayar",
+      "en": "Selayar",
+      "slug": "selayar-2104031"
+    },
+    "code": {
+      "id": "2104031",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.297",
+      "lon": "104.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Senayang",
+      "en": "Senayang",
+      "slug": "senayang-2104050"
+    },
+    "code": {
+      "id": "2104050",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.158",
+      "lon": "104.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkep",
+      "en": "Singkep",
+      "slug": "singkep-2104020"
+    },
+    "code": {
+      "id": "2104020",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.557",
+      "lon": "104.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkep Barat",
+      "en": "Singkep Barat",
+      "slug": "singkep-barat-2104010"
+    },
+    "code": {
+      "id": "2104010",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.492",
+      "lon": "104.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkep Pesisir",
+      "en": "Singkep Pesisir",
+      "slug": "singkep-pesisir-2104022"
+    },
+    "code": {
+      "id": "2104022",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.408",
+      "lon": "104.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkep Selatan",
+      "en": "Singkep Selatan",
+      "slug": "singkep-selatan-2104021"
+    },
+    "code": {
+      "id": "2104021",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lingga",
+        "en": "Lingga",
+        "slug": "lingga-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.675",
+      "lon": "104.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

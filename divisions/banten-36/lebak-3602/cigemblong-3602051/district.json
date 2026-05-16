@@ -1,0 +1,56 @@
+{
+  "id": "3602051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cigemblong",
+    "en": "Cigemblong",
+    "slug": "cigemblong-3602051"
+  },
+  "code": {
+    "id": "3602051",
+    "iso": null
+  },
+  "parent": {
+    "id": "3602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lebak",
+      "en": "Lebak",
+      "slug": "lebak-3602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebak",
+        "en": "Lebak",
+        "slug": "lebak-3602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.75",
+    "lon": "106.179"
+  },
+  "metadata": {},
+  "source": {}
+}

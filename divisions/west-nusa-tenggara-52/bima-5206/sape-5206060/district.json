@@ -1,0 +1,56 @@
+{
+  "id": "5206060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sape",
+    "en": "Sape",
+    "slug": "sape-5206060"
+  },
+  "code": {
+    "id": "5206060",
+    "iso": null
+  },
+  "parent": {
+    "id": "5206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bima",
+      "en": "Bima",
+      "slug": "bima-5206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bima",
+        "en": "Bima",
+        "slug": "bima-5206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.506",
+    "lon": "119.098"
+  },
+  "metadata": {},
+  "source": {}
+}

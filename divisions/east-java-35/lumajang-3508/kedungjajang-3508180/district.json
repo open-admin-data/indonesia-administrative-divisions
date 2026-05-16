@@ -1,0 +1,56 @@
+{
+  "id": "3508180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kedungjajang",
+    "en": "Kedungjajang",
+    "slug": "kedungjajang-3508180"
+  },
+  "code": {
+    "id": "3508180",
+    "iso": null
+  },
+  "parent": {
+    "id": "3508",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lumajang",
+      "en": "Lumajang",
+      "slug": "lumajang-3508"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3508",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lumajang",
+        "en": "Lumajang",
+        "slug": "lumajang-3508"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.036",
+    "lon": "113.23"
+  },
+  "metadata": {},
+  "source": {}
+}

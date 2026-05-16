@@ -1,0 +1,56 @@
+{
+  "id": "3578160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suko Manunggal",
+    "en": "Suko Manunggal",
+    "slug": "suko-manunggal-3578160"
+  },
+  "code": {
+    "id": "3578160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3578",
+    "level": 2,
+    "name": {
+      "local": "Kota Surabaya",
+      "en": "Surabaya",
+      "slug": "surabaya-3578"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3578",
+      "level": 2,
+      "name": {
+        "local": "Kota Surabaya",
+        "en": "Surabaya",
+        "slug": "surabaya-3578"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.27",
+    "lon": "112.699"
+  },
+  "metadata": {},
+  "source": {}
+}

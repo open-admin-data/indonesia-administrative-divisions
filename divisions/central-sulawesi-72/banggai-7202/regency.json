@@ -1,0 +1,48 @@
+{
+  "id": "7202",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Banggai",
+    "en": "Banggai",
+    "slug": "banggai-7202"
+  },
+  "code": {
+    "id": "7202",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tengah",
+      "en": "Central Sulawesi",
+      "slug": "central-sulawesi-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 23,
+    "village": 324
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.395",
+    "lon": "120.755"
+  },
+  "metadata": {},
+  "source": {}
+}

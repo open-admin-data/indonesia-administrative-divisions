@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3175050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kelapa Gading Barat",
+      "en": "Kelapa Gading Barat",
+      "slug": "kelapa-gading-barat-3175050001"
+    },
+    "code": {
+      "id": "3175050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3175050",
+      "level": 3,
+      "name": {
+        "local": "Kelapa Gading",
+        "en": "Kelapa Gading",
+        "slug": "kelapa-gading-3175050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3175",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Utara",
+          "en": "Jakarta Utara",
+          "slug": "jakarta-utara-3175"
+        }
+      },
+      {
+        "id": "3175050",
+        "level": 3,
+        "name": {
+          "local": "Kelapa Gading",
+          "en": "Kelapa Gading",
+          "slug": "kelapa-gading-3175050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14240"
+    ],
+    "geo": {
+      "lat": "-6.156",
+      "lon": "106.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3175050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kelapa Gading Timur",
+      "en": "Kelapa Gading Timur",
+      "slug": "kelapa-gading-timur-3175050002"
+    },
+    "code": {
+      "id": "3175050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3175050",
+      "level": 3,
+      "name": {
+        "local": "Kelapa Gading",
+        "en": "Kelapa Gading",
+        "slug": "kelapa-gading-3175050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3175",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Utara",
+          "en": "Jakarta Utara",
+          "slug": "jakarta-utara-3175"
+        }
+      },
+      {
+        "id": "3175050",
+        "level": 3,
+        "name": {
+          "local": "Kelapa Gading",
+          "en": "Kelapa Gading",
+          "slug": "kelapa-gading-3175050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14240"
+    ],
+    "geo": {
+      "lat": "-6.166",
+      "lon": "106.903"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3175050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pegangsaan Dua",
+      "en": "Pegangsaan Dua",
+      "slug": "pegangsaan-dua-3175050003"
+    },
+    "code": {
+      "id": "3175050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3175050",
+      "level": 3,
+      "name": {
+        "local": "Kelapa Gading",
+        "en": "Kelapa Gading",
+        "slug": "kelapa-gading-3175050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "Dki Jakarta",
+          "en": "Jakarta",
+          "slug": "jakarta-31"
+        }
+      },
+      {
+        "id": "3175",
+        "level": 2,
+        "name": {
+          "local": "Kota Jakarta Utara",
+          "en": "Jakarta Utara",
+          "slug": "jakarta-utara-3175"
+        }
+      },
+      {
+        "id": "3175050",
+        "level": 3,
+        "name": {
+          "local": "Kelapa Gading",
+          "en": "Kelapa Gading",
+          "slug": "kelapa-gading-3175050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "14240"
+    ],
+    "geo": {
+      "lat": "-6.166",
+      "lon": "106.915"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

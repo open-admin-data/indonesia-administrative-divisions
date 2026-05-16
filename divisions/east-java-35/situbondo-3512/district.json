@@ -1,0 +1,954 @@
+[
+  {
+    "id": "3512140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arjasa",
+      "en": "Arjasa",
+      "slug": "arjasa-3512140"
+    },
+    "code": {
+      "id": "3512140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.85",
+      "lon": "114.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Asembagus",
+      "en": "Asembagus",
+      "slug": "asembagus-3512160"
+    },
+    "code": {
+      "id": "3512160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.842",
+      "lon": "114.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyuglugur",
+      "en": "Banyuglugur",
+      "slug": "banyuglugur-3512030"
+    },
+    "code": {
+      "id": "3512030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.757",
+      "lon": "113.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyuputih",
+      "en": "Banyuputih",
+      "slug": "banyuputih-3512170"
+    },
+    "code": {
+      "id": "3512170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.826",
+      "lon": "114.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Besuki",
+      "en": "Besuki",
+      "slug": "besuki-3512040"
+    },
+    "code": {
+      "id": "3512040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.751",
+      "lon": "113.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bungatan",
+      "en": "Bungatan",
+      "slug": "bungatan-3512070"
+    },
+    "code": {
+      "id": "3512070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.74",
+      "lon": "113.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jangkar",
+      "en": "Jangkar",
+      "slug": "jangkar-3512150"
+    },
+    "code": {
+      "id": "3512150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.776",
+      "lon": "114.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jatibanteng",
+      "en": "Jatibanteng",
+      "slug": "jatibanteng-3512020"
+    },
+    "code": {
+      "id": "3512020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.83",
+      "lon": "113.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kapongan",
+      "en": "Kapongan",
+      "slug": "kapongan-3512130"
+    },
+    "code": {
+      "id": "3512130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.712",
+      "lon": "114.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kendit",
+      "en": "Kendit",
+      "slug": "kendit-3512080"
+    },
+    "code": {
+      "id": "3512080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.742",
+      "lon": "113.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mangaran",
+      "en": "Mangaran",
+      "slug": "mangaran-3512110"
+    },
+    "code": {
+      "id": "3512110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.64",
+      "lon": "114.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mlandingan",
+      "en": "Mlandingan",
+      "slug": "mlandingan-3512060"
+    },
+    "code": {
+      "id": "3512060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.775",
+      "lon": "113.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panarukan",
+      "en": "Panarukan",
+      "slug": "panarukan-3512090"
+    },
+    "code": {
+      "id": "3512090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.693",
+      "lon": "113.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panji",
+      "en": "Panji",
+      "slug": "panji-3512120"
+    },
+    "code": {
+      "id": "3512120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.708",
+      "lon": "114.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Situbondo",
+      "en": "Situbondo",
+      "slug": "situbondo-3512100"
+    },
+    "code": {
+      "id": "3512100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.72",
+      "lon": "113.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suboh",
+      "en": "Suboh",
+      "slug": "suboh-3512050"
+    },
+    "code": {
+      "id": "3512050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.764",
+      "lon": "113.739"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3512010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumbermalang",
+      "en": "Sumbermalang",
+      "slug": "sumbermalang-3512010"
+    },
+    "code": {
+      "id": "3512010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3512",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Situbondo",
+        "en": "Situbondo",
+        "slug": "situbondo-3512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3512",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Situbondo",
+          "en": "Situbondo",
+          "slug": "situbondo-3512"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.874",
+      "lon": "113.673"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

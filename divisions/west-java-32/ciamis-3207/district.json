@@ -1,0 +1,1514 @@
+[
+  {
+    "id": "3207101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjaranyar",
+      "en": "Banjaranyar",
+      "slug": "banjaranyar-3207101"
+    },
+    "code": {
+      "id": "3207101",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.51",
+      "lon": "108.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banjarsari",
+      "en": "Banjarsari",
+      "slug": "banjarsari-3207100"
+    },
+    "code": {
+      "id": "3207100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.511",
+      "lon": "108.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207211",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baregbeg",
+      "en": "Baregbeg",
+      "slug": "baregbeg-3207211"
+    },
+    "code": {
+      "id": "3207211",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.294",
+      "lon": "108.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ciamis",
+      "en": "Ciamis",
+      "slug": "ciamis-3207210"
+    },
+    "code": {
+      "id": "3207210",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.328",
+      "lon": "108.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cidolog",
+      "en": "Cidolog",
+      "slug": "cidolog-3207130"
+    },
+    "code": {
+      "id": "3207130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.434",
+      "lon": "108.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207230",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cihaurbeuti",
+      "en": "Cihaurbeuti",
+      "slug": "cihaurbeuti-3207230"
+    },
+    "code": {
+      "id": "3207230",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.235",
+      "lon": "108.237"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cijeungjing",
+      "en": "Cijeungjing",
+      "slug": "cijeungjing-3207150"
+    },
+    "code": {
+      "id": "3207150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.323",
+      "lon": "108.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikoneng",
+      "en": "Cikoneng",
+      "slug": "cikoneng-3207220"
+    },
+    "code": {
+      "id": "3207220",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.282",
+      "lon": "108.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cimaragas",
+      "en": "Cimaragas",
+      "slug": "cimaragas-3207140"
+    },
+    "code": {
+      "id": "3207140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.383",
+      "lon": "108.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207250",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cipaku",
+      "en": "Cipaku",
+      "slug": "cipaku-3207250"
+    },
+    "code": {
+      "id": "3207250",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.234",
+      "lon": "108.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cisaga",
+      "en": "Cisaga",
+      "slug": "cisaga-3207160"
+    },
+    "code": {
+      "id": "3207160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.309",
+      "lon": "108.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207260",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jatinagara",
+      "en": "Jatinagara",
+      "slug": "jatinagara-3207260"
+    },
+    "code": {
+      "id": "3207260",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.186",
+      "lon": "108.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207280",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawali",
+      "en": "Kawali",
+      "slug": "kawali-3207280"
+    },
+    "code": {
+      "id": "3207280",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.173",
+      "lon": "108.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lakbok",
+      "en": "Lakbok",
+      "slug": "lakbok-3207110"
+    },
+    "code": {
+      "id": "3207110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.401",
+      "lon": "108.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207281",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lumbung",
+      "en": "Lumbung",
+      "slug": "lumbung-3207281"
+    },
+    "code": {
+      "id": "3207281",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.155",
+      "lon": "108.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pamarican",
+      "en": "Pamarican",
+      "slug": "pamarican-3207120"
+    },
+    "code": {
+      "id": "3207120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.454",
+      "lon": "108.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207270",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panawangan",
+      "en": "Panawangan",
+      "slug": "panawangan-3207270"
+    },
+    "code": {
+      "id": "3207270",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.102",
+      "lon": "108.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207290",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panjalu",
+      "en": "Panjalu",
+      "slug": "panjalu-3207290"
+    },
+    "code": {
+      "id": "3207290",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.137",
+      "lon": "108.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207300",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panumbangan",
+      "en": "Panumbangan",
+      "slug": "panumbangan-3207300"
+    },
+    "code": {
+      "id": "3207300",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.124",
+      "lon": "108.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Purwadadi",
+      "en": "Purwadadi",
+      "slug": "purwadadi-3207111"
+    },
+    "code": {
+      "id": "3207111",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.443",
+      "lon": "108.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rajadesa",
+      "en": "Rajadesa",
+      "slug": "rajadesa-3207190"
+    },
+    "code": {
+      "id": "3207190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.178",
+      "lon": "108.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rancah",
+      "en": "Rancah",
+      "slug": "rancah-3207180"
+    },
+    "code": {
+      "id": "3207180",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.204",
+      "lon": "108.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207240",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sadananya",
+      "en": "Sadananya",
+      "slug": "sadananya-3207240"
+    },
+    "code": {
+      "id": "3207240",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.258",
+      "lon": "108.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207221",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sindangkasih",
+      "en": "Sindangkasih",
+      "slug": "sindangkasih-3207221"
+    },
+    "code": {
+      "id": "3207221",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.29",
+      "lon": "108.236"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukadana",
+      "en": "Sukadana",
+      "slug": "sukadana-3207200"
+    },
+    "code": {
+      "id": "3207200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.271",
+      "lon": "108.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207291",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukamantri",
+      "en": "Sukamantri",
+      "slug": "sukamantri-3207291"
+    },
+    "code": {
+      "id": "3207291",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.081",
+      "lon": "108.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3207170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambaksari",
+      "en": "Tambaksari",
+      "slug": "tambaksari-3207170"
+    },
+    "code": {
+      "id": "3207170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ciamis",
+        "en": "Ciamis",
+        "slug": "ciamis-3207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3207",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ciamis",
+          "en": "Ciamis",
+          "slug": "ciamis-3207"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.239",
+      "lon": "108.548"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

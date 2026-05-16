@@ -1,0 +1,56 @@
+{
+  "id": "6503050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tana Lia",
+    "en": "Tana Lia",
+    "slug": "tana-lia-6503050"
+  },
+  "code": {
+    "id": "6503050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tana Tidung",
+      "en": "Tana Tidung",
+      "slug": "tana-tidung-6503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tana Tidung",
+        "en": "Tana Tidung",
+        "slug": "tana-tidung-6503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.688",
+    "lon": "117.652"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,786 @@
+[
+  {
+    "id": "3527090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyuates",
+      "en": "Banyuates",
+      "slug": "banyuates-3527090"
+    },
+    "code": {
+      "id": "3527090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.954",
+      "lon": "113.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Camplong",
+      "en": "Camplong",
+      "slug": "camplong-3527040"
+    },
+    "code": {
+      "id": "3527040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.184",
+      "lon": "113.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jrengik",
+      "en": "Jrengik",
+      "slug": "jrengik-3527070"
+    },
+    "code": {
+      "id": "3527070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.132",
+      "lon": "113.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527101",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karang Penang",
+      "en": "Karang Penang",
+      "slug": "karang-penang-3527101"
+    },
+    "code": {
+      "id": "3527101",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.023",
+      "lon": "113.372"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedungdung",
+      "en": "Kedungdung",
+      "slug": "kedungdung-3527060"
+    },
+    "code": {
+      "id": "3527060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.065",
+      "lon": "113.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ketapang",
+      "en": "Ketapang",
+      "slug": "ketapang-3527110"
+    },
+    "code": {
+      "id": "3527110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.929",
+      "lon": "113.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Omben",
+      "en": "Omben",
+      "slug": "omben-3527050"
+    },
+    "code": {
+      "id": "3527050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.104",
+      "lon": "113.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pangarengan",
+      "en": "Pangarengan",
+      "slug": "pangarengan-3527021"
+    },
+    "code": {
+      "id": "3527021",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.192",
+      "lon": "113.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Robatal",
+      "en": "Robatal",
+      "slug": "robatal-3527100"
+    },
+    "code": {
+      "id": "3527100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.008",
+      "lon": "113.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sampang",
+      "en": "Sampang",
+      "slug": "sampang-3527030"
+    },
+    "code": {
+      "id": "3527030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.213",
+      "lon": "113.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sokobanah",
+      "en": "Sokobanah",
+      "slug": "sokobanah-3527120"
+    },
+    "code": {
+      "id": "3527120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.942",
+      "lon": "113.401"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sreseh",
+      "en": "Sreseh",
+      "slug": "sreseh-3527010"
+    },
+    "code": {
+      "id": "3527010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.19",
+      "lon": "113.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tambelangan",
+      "en": "Tambelangan",
+      "slug": "tambelangan-3527080"
+    },
+    "code": {
+      "id": "3527080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.035",
+      "lon": "113.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3527020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Torjun",
+      "en": "Torjun",
+      "slug": "torjun-3527020"
+    },
+    "code": {
+      "id": "3527020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3527",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sampang",
+        "en": "Sampang",
+        "slug": "sampang-3527"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3527",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sampang",
+          "en": "Sampang",
+          "slug": "sampang-3527"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.146",
+      "lon": "113.198"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

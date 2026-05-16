@@ -1,0 +1,56 @@
+{
+  "id": "3507180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kromengan",
+    "en": "Kromengan",
+    "slug": "kromengan-3507180"
+  },
+  "code": {
+    "id": "3507180",
+    "iso": null
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malang",
+      "en": "Malang",
+      "slug": "malang-3507"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malang",
+        "en": "Malang",
+        "slug": "malang-3507"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.127",
+    "lon": "112.495"
+  },
+  "metadata": {},
+  "source": {}
+}

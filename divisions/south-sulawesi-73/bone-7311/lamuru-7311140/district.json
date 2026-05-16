@@ -1,0 +1,56 @@
+{
+  "id": "7311140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lamuru",
+    "en": "Lamuru",
+    "slug": "lamuru-7311140"
+  },
+  "code": {
+    "id": "7311140",
+    "iso": null
+  },
+  "parent": {
+    "id": "7311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bone",
+      "en": "Bone",
+      "slug": "bone-7311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bone",
+        "en": "Bone",
+        "slug": "bone-7311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.588",
+    "lon": "119.971"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9107133",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salawati Tengah",
+    "en": "Salawati Tengah",
+    "slug": "salawati-tengah-9107133"
+  },
+  "code": {
+    "id": "9107133",
+    "iso": null
+  },
+  "parent": {
+    "id": "9107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sorong",
+      "en": "Sorong",
+      "slug": "sorong-9107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sorong",
+        "en": "Sorong",
+        "slug": "sorong-9107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.876",
+    "lon": "131.256"
+  },
+  "metadata": {},
+  "source": {}
+}

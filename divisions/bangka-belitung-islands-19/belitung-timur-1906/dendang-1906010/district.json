@@ -1,0 +1,56 @@
+{
+  "id": "1906010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dendang",
+    "en": "Dendang",
+    "slug": "dendang-1906010"
+  },
+  "code": {
+    "id": "1906010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1906",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belitung Timur",
+      "en": "Belitung Timur",
+      "slug": "belitung-timur-1906"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belitung Timur",
+        "en": "Belitung Timur",
+        "slug": "belitung-timur-1906"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.998",
+    "lon": "107.876"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3578010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Pilang",
+      "en": "Karang Pilang",
+      "slug": "karang-pilang-3578010002"
+    },
+    "code": {
+      "id": "3578010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578010",
+      "level": 3,
+      "name": {
+        "local": "Karang Pilang",
+        "en": "Karang Pilang",
+        "slug": "karang-pilang-3578010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578010",
+        "level": 3,
+        "name": {
+          "local": "Karang Pilang",
+          "en": "Karang Pilang",
+          "slug": "karang-pilang-3578010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60221"
+    ],
+    "geo": {
+      "lat": "-7.338",
+      "lon": "112.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kebraon",
+      "en": "Kebraon",
+      "slug": "kebraon-3578010003"
+    },
+    "code": {
+      "id": "3578010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578010",
+      "level": 3,
+      "name": {
+        "local": "Karang Pilang",
+        "en": "Karang Pilang",
+        "slug": "karang-pilang-3578010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578010",
+        "level": 3,
+        "name": {
+          "local": "Karang Pilang",
+          "en": "Karang Pilang",
+          "slug": "karang-pilang-3578010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60221"
+    ],
+    "geo": {
+      "lat": "-7.332",
+      "lon": "112.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3578010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Warugunung",
+      "en": "Warugunung",
+      "slug": "warugunung-3578010001"
+    },
+    "code": {
+      "id": "3578010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3578010",
+      "level": 3,
+      "name": {
+        "local": "Karang Pilang",
+        "en": "Karang Pilang",
+        "slug": "karang-pilang-3578010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3578",
+        "level": 2,
+        "name": {
+          "local": "Kota Surabaya",
+          "en": "Surabaya",
+          "slug": "surabaya-3578"
+        }
+      },
+      {
+        "id": "3578010",
+        "level": 3,
+        "name": {
+          "local": "Karang Pilang",
+          "en": "Karang Pilang",
+          "slug": "karang-pilang-3578010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60221"
+    ],
+    "geo": {
+      "lat": "-7.343",
+      "lon": "112.676"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

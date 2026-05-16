@@ -1,0 +1,56 @@
+{
+  "id": "1173011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Langsa Lama",
+    "en": "Langsa Lama",
+    "slug": "langsa-lama-1173011"
+  },
+  "code": {
+    "id": "1173011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1173",
+    "level": 2,
+    "name": {
+      "local": "Kota Langsa",
+      "en": "Langsa",
+      "slug": "langsa-1173"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1173",
+      "level": 2,
+      "name": {
+        "local": "Kota Langsa",
+        "en": "Langsa",
+        "slug": "langsa-1173"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.448",
+    "lon": "97.962"
+  },
+  "metadata": {},
+  "source": {}
+}

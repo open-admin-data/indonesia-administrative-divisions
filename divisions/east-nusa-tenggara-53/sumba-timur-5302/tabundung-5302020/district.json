@@ -1,0 +1,56 @@
+{
+  "id": "5302020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tabundung",
+    "en": "Tabundung",
+    "slug": "tabundung-5302020"
+  },
+  "code": {
+    "id": "5302020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5302",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Timur",
+      "en": "Sumba Timur",
+      "slug": "sumba-timur-5302"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5302",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Timur",
+        "en": "Sumba Timur",
+        "slug": "sumba-timur-5302"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.954",
+    "lon": "120.055"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9413044001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Fefero",
+      "en": "Fefero",
+      "slug": "fefero-9413044001"
+    },
+    "code": {
+      "id": "9413044001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413044",
+      "level": 3,
+      "name": {
+        "local": "Yaniruma",
+        "en": "Yaniruma",
+        "slug": "yaniruma-9413044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413044",
+        "level": 3,
+        "name": {
+          "local": "Yaniruma",
+          "en": "Yaniruma",
+          "slug": "yaniruma-9413044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99675"
+    ],
+    "geo": {
+      "lat": "-5.596",
+      "lon": "139.814"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9413044004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Manggemahe",
+      "en": "Manggemahe",
+      "slug": "manggemahe-9413044004"
+    },
+    "code": {
+      "id": "9413044004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413044",
+      "level": 3,
+      "name": {
+        "local": "Yaniruma",
+        "en": "Yaniruma",
+        "slug": "yaniruma-9413044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413044",
+        "level": 3,
+        "name": {
+          "local": "Yaniruma",
+          "en": "Yaniruma",
+          "slug": "yaniruma-9413044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99675"
+    ],
+    "geo": {
+      "lat": "-5.337",
+      "lon": "139.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9413044003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Yaniruma",
+      "en": "Yaniruma",
+      "slug": "yaniruma-9413044003"
+    },
+    "code": {
+      "id": "9413044003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413044",
+      "level": 3,
+      "name": {
+        "local": "Yaniruma",
+        "en": "Yaniruma",
+        "slug": "yaniruma-9413044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413044",
+        "level": 3,
+        "name": {
+          "local": "Yaniruma",
+          "en": "Yaniruma",
+          "slug": "yaniruma-9413044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99675"
+    ],
+    "geo": {
+      "lat": "-5.133",
+      "lon": "139.814"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

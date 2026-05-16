@@ -1,0 +1,48 @@
+{
+  "id": "1473",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota D U M A I",
+    "en": "D U M A I",
+    "slug": "d-u-m-a-i-1473"
+  },
+  "code": {
+    "id": "1473",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 33
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.667",
+    "lon": "101.4"
+  },
+  "metadata": {},
+  "source": {}
+}

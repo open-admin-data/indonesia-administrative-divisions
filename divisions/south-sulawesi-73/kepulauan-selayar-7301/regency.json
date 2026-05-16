@@ -1,0 +1,48 @@
+{
+  "id": "7301",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kepulauan Selayar",
+    "en": "Kepulauan Selayar",
+    "slug": "kepulauan-selayar-7301"
+  },
+  "code": {
+    "id": "7301",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 11,
+    "village": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.12",
+    "lon": "120.466"
+  },
+  "metadata": {},
+  "source": {}
+}

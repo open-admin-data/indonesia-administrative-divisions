@@ -1,0 +1,56 @@
+{
+  "id": "6211062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Miri Manasa",
+    "en": "Miri Manasa",
+    "slug": "miri-manasa-6211062"
+  },
+  "code": {
+    "id": "6211062",
+    "iso": null
+  },
+  "parent": {
+    "id": "6211",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gunung Mas",
+      "en": "Gunung Mas",
+      "slug": "gunung-mas-6211"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gunung Mas",
+        "en": "Gunung Mas",
+        "slug": "gunung-mas-6211"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.572",
+    "lon": "113.59"
+  },
+  "metadata": {},
+  "source": {}
+}

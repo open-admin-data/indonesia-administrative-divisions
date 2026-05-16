@@ -1,0 +1,48 @@
+{
+  "id": "1402",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Indragiri Hulu",
+    "en": "Indragiri Hulu",
+    "slug": "indragiri-hulu-1402"
+  },
+  "code": {
+    "id": "1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 194
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.393",
+    "lon": "102.438"
+  },
+  "metadata": {},
+  "source": {}
+}

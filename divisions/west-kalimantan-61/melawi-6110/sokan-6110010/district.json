@@ -1,0 +1,56 @@
+{
+  "id": "6110010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sokan",
+    "en": "Sokan",
+    "slug": "sokan-6110010"
+  },
+  "code": {
+    "id": "6110010",
+    "iso": null
+  },
+  "parent": {
+    "id": "6110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Melawi",
+      "en": "Melawi",
+      "slug": "melawi-6110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Melawi",
+        "en": "Melawi",
+        "slug": "melawi-6110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.095",
+    "lon": "111.376"
+  },
+  "metadata": {},
+  "source": {}
+}

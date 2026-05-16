@@ -1,0 +1,56 @@
+{
+  "id": "9432030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Abenaho",
+    "en": "Abenaho",
+    "slug": "abenaho-9432030"
+  },
+  "code": {
+    "id": "9432030",
+    "iso": null
+  },
+  "parent": {
+    "id": "9432",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Yalimo",
+      "en": "Yalimo",
+      "slug": "yalimo-9432"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9432",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Yalimo",
+        "en": "Yalimo",
+        "slug": "yalimo-9432"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 87
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.856",
+    "lon": "139.17"
+  },
+  "metadata": {},
+  "source": {}
+}

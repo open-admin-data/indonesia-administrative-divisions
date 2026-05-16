@@ -1,0 +1,56 @@
+{
+  "id": "8105030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau-pulau Aru",
+    "en": "Pulau-pulau Aru",
+    "slug": "pulau-pulau-aru-8105030"
+  },
+  "code": {
+    "id": "8105030",
+    "iso": null
+  },
+  "parent": {
+    "id": "8105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Aru",
+      "en": "Kepulauan Aru",
+      "slug": "kepulauan-aru-8105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Aru",
+        "en": "Kepulauan Aru",
+        "slug": "kepulauan-aru-8105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.753",
+    "lon": "134.366"
+  },
+  "metadata": {},
+  "source": {}
+}

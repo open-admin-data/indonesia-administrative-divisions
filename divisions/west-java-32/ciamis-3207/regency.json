@@ -1,0 +1,48 @@
+{
+  "id": "3207",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Ciamis",
+    "en": "Ciamis",
+    "slug": "ciamis-3207"
+  },
+  "code": {
+    "id": "3207",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 27,
+    "village": 259
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.326",
+    "lon": "108.351"
+  },
+  "metadata": {},
+  "source": {}
+}

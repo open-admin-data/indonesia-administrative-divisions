@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3402120001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sitimulyo",
+      "en": "Sitimulyo",
+      "slug": "sitimulyo-3402120001"
+    },
+    "code": {
+      "id": "3402120001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402120",
+      "level": 3,
+      "name": {
+        "local": "Piyungan",
+        "en": "Piyungan",
+        "slug": "piyungan-3402120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      },
+      {
+        "id": "3402120",
+        "level": 3,
+        "name": {
+          "local": "Piyungan",
+          "en": "Piyungan",
+          "slug": "piyungan-3402120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55792"
+    ],
+    "geo": {
+      "lat": "-7.847",
+      "lon": "110.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402120003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Srimartani",
+      "en": "Srimartani",
+      "slug": "srimartani-3402120003"
+    },
+    "code": {
+      "id": "3402120003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402120",
+      "level": 3,
+      "name": {
+        "local": "Piyungan",
+        "en": "Piyungan",
+        "slug": "piyungan-3402120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      },
+      {
+        "id": "3402120",
+        "level": 3,
+        "name": {
+          "local": "Piyungan",
+          "en": "Piyungan",
+          "slug": "piyungan-3402120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55792"
+    ],
+    "geo": {
+      "lat": "-7.828",
+      "lon": "110.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3402120002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Srimulyo",
+      "en": "Srimulyo",
+      "slug": "srimulyo-3402120002"
+    },
+    "code": {
+      "id": "3402120002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3402120",
+      "level": 3,
+      "name": {
+        "local": "Piyungan",
+        "en": "Piyungan",
+        "slug": "piyungan-3402120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3402",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bantul",
+          "en": "Bantul",
+          "slug": "bantul-3402"
+        }
+      },
+      {
+        "id": "3402120",
+        "level": 3,
+        "name": {
+          "local": "Piyungan",
+          "en": "Piyungan",
+          "slug": "piyungan-3402120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55792"
+    ],
+    "geo": {
+      "lat": "-7.848",
+      "lon": "110.468"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "1301012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sikakap",
+    "en": "Sikakap",
+    "slug": "sikakap-1301012"
+  },
+  "code": {
+    "id": "1301012",
+    "iso": null
+  },
+  "parent": {
+    "id": "1301",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Mentawai",
+      "en": "Kepulauan Mentawai",
+      "slug": "kepulauan-mentawai-1301"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Mentawai",
+        "en": "Kepulauan Mentawai",
+        "slug": "kepulauan-mentawai-1301"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.772",
+    "lon": "100.144"
+  },
+  "metadata": {},
+  "source": {}
+}

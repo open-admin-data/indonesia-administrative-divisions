@@ -1,0 +1,327 @@
+[
+  {
+    "id": "6112090001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Mandor A",
+      "en": "Kuala Mandor A",
+      "slug": "kuala-mandor-a-6112090001"
+    },
+    "code": {
+      "id": "6112090001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112090",
+      "level": 3,
+      "name": {
+        "local": "Kuala Mandor-b",
+        "en": "Kuala Mandor-b",
+        "slug": "kuala-mandor-b-6112090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      },
+      {
+        "id": "6112090",
+        "level": 3,
+        "name": {
+          "local": "Kuala Mandor-b",
+          "en": "Kuala Mandor-b",
+          "slug": "kuala-mandor-b-6112090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78394"
+    ],
+    "geo": {
+      "lat": "0.004",
+      "lon": "109.598"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112090002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Mandor-b",
+      "en": "Kuala Mandor-b",
+      "slug": "kuala-mandor-b-6112090002"
+    },
+    "code": {
+      "id": "6112090002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112090",
+      "level": 3,
+      "name": {
+        "local": "Kuala Mandor-b",
+        "en": "Kuala Mandor-b",
+        "slug": "kuala-mandor-b-6112090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      },
+      {
+        "id": "6112090",
+        "level": 3,
+        "name": {
+          "local": "Kuala Mandor-b",
+          "en": "Kuala Mandor-b",
+          "slug": "kuala-mandor-b-6112090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78394"
+    ],
+    "geo": {
+      "lat": "0.106",
+      "lon": "109.426"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112090004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kubu Padi",
+      "en": "Kubu Padi",
+      "slug": "kubu-padi-6112090004"
+    },
+    "code": {
+      "id": "6112090004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112090",
+      "level": 3,
+      "name": {
+        "local": "Kuala Mandor-b",
+        "en": "Kuala Mandor-b",
+        "slug": "kuala-mandor-b-6112090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      },
+      {
+        "id": "6112090",
+        "level": 3,
+        "name": {
+          "local": "Kuala Mandor-b",
+          "en": "Kuala Mandor-b",
+          "slug": "kuala-mandor-b-6112090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78394"
+    ],
+    "geo": {
+      "lat": "0.159",
+      "lon": "109.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112090005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Retok",
+      "en": "Retok",
+      "slug": "retok-6112090005"
+    },
+    "code": {
+      "id": "6112090005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112090",
+      "level": 3,
+      "name": {
+        "local": "Kuala Mandor-b",
+        "en": "Kuala Mandor-b",
+        "slug": "kuala-mandor-b-6112090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      },
+      {
+        "id": "6112090",
+        "level": 3,
+        "name": {
+          "local": "Kuala Mandor-b",
+          "en": "Kuala Mandor-b",
+          "slug": "kuala-mandor-b-6112090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78394"
+    ],
+    "geo": {
+      "lat": "0.132",
+      "lon": "109.485"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112090003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Enau",
+      "en": "Sungai Enau",
+      "slug": "sungai-enau-6112090003"
+    },
+    "code": {
+      "id": "6112090003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112090",
+      "level": 3,
+      "name": {
+        "local": "Kuala Mandor-b",
+        "en": "Kuala Mandor-b",
+        "slug": "kuala-mandor-b-6112090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      },
+      {
+        "id": "6112090",
+        "level": 3,
+        "name": {
+          "local": "Kuala Mandor-b",
+          "en": "Kuala Mandor-b",
+          "slug": "kuala-mandor-b-6112090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "78394"
+    ],
+    "geo": {
+      "lat": "0.062",
+      "lon": "109.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

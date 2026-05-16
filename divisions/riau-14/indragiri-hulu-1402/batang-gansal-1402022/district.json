@@ -1,0 +1,56 @@
+{
+  "id": "1402022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Batang Gansal",
+    "en": "Batang Gansal",
+    "slug": "batang-gansal-1402022"
+  },
+  "code": {
+    "id": "1402022",
+    "iso": null
+  },
+  "parent": {
+    "id": "1402",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Indragiri Hulu",
+      "en": "Indragiri Hulu",
+      "slug": "indragiri-hulu-1402"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Indragiri Hulu",
+        "en": "Indragiri Hulu",
+        "slug": "indragiri-hulu-1402"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.785",
+    "lon": "102.501"
+  },
+  "metadata": {},
+  "source": {}
+}

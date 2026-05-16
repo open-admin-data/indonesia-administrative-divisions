@@ -1,0 +1,652 @@
+[
+  {
+    "id": "1403040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Enok",
+      "en": "Kuala Enok",
+      "slug": "kuala-enok-1403040003"
+    },
+    "code": {
+      "id": "1403040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.539",
+      "lon": "103.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Selat Nama",
+      "en": "Selat Nama",
+      "slug": "selat-nama-1403040002"
+    },
+    "code": {
+      "id": "1403040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.558",
+      "lon": "103.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Laut",
+      "en": "Sungai Laut",
+      "slug": "sungai-laut-1403040004"
+    },
+    "code": {
+      "id": "1403040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.484",
+      "lon": "103.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Nyiur",
+      "en": "Sungai Nyiur",
+      "slug": "sungai-nyiur-1403040001"
+    },
+    "code": {
+      "id": "1403040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.484",
+      "lon": "103.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanah Merah",
+      "en": "Tanah Merah",
+      "slug": "tanah-merah-1403040006"
+    },
+    "code": {
+      "id": "1403040006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.502",
+      "lon": "103.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Baru",
+      "en": "Tanjung Baru",
+      "slug": "tanjung-baru-1403040007"
+    },
+    "code": {
+      "id": "1403040007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.452",
+      "lon": "103.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Pasir",
+      "en": "Tanjung Pasir",
+      "slug": "tanjung-pasir-1403040005"
+    },
+    "code": {
+      "id": "1403040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.447",
+      "lon": "103.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tekulai Bugis",
+      "en": "Tekulai Bugis",
+      "slug": "tekulai-bugis-1403040010"
+    },
+    "code": {
+      "id": "1403040010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.374",
+      "lon": "103.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tekulai Hilir",
+      "en": "Tekulai Hilir",
+      "slug": "tekulai-hilir-1403040009"
+    },
+    "code": {
+      "id": "1403040009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.388",
+      "lon": "103.295"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1403040008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tekulai Hulu",
+      "en": "Tekulai Hulu",
+      "slug": "tekulai-hulu-1403040008"
+    },
+    "code": {
+      "id": "1403040008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1403040",
+      "level": 3,
+      "name": {
+        "local": "Tanah Merah",
+        "en": "Tanah Merah",
+        "slug": "tanah-merah-1403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indragiri Hilir",
+          "en": "Indragiri Hilir",
+          "slug": "indragiri-hilir-1403"
+        }
+      },
+      {
+        "id": "1403040",
+        "level": 3,
+        "name": {
+          "local": "Tanah Merah",
+          "en": "Tanah Merah",
+          "slug": "tanah-merah-1403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29271"
+    ],
+    "geo": {
+      "lat": "-0.411",
+      "lon": "103.255"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "81",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Maluku",
+    "en": "Maluku",
+    "slug": "maluku-81"
+  },
+  "code": {
+    "id": "81",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 11,
+    "village": 1180,
+    "district": 118
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.694",
+    "lon": "128.183"
+  },
+  "metadata": {},
+  "source": {}
+}

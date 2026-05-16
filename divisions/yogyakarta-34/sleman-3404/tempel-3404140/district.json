@@ -1,0 +1,56 @@
+{
+  "id": "3404140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tempel",
+    "en": "Tempel",
+    "slug": "tempel-3404140"
+  },
+  "code": {
+    "id": "3404140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3404",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sleman",
+      "en": "Sleman",
+      "slug": "sleman-3404"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    },
+    {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sleman",
+        "en": "Sleman",
+        "slug": "sleman-3404"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.662",
+    "lon": "110.319"
+  },
+  "metadata": {},
+  "source": {}
+}

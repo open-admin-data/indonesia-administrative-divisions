@@ -1,0 +1,392 @@
+[
+  {
+    "id": "2102040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bintan Buyu",
+      "en": "Bintan Buyu",
+      "slug": "bintan-buyu-2102040005"
+    },
+    "code": {
+      "id": "2102040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102040",
+      "level": 3,
+      "name": {
+        "local": "Teluk Bintan",
+        "en": "Teluk Bintan",
+        "slug": "teluk-bintan-2102040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102040",
+        "level": 3,
+        "name": {
+          "local": "Teluk Bintan",
+          "en": "Teluk Bintan",
+          "slug": "teluk-bintan-2102040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29131"
+    ],
+    "geo": {
+      "lat": "1.071",
+      "lon": "104.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pangkil",
+      "en": "Pangkil",
+      "slug": "pangkil-2102040001"
+    },
+    "code": {
+      "id": "2102040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102040",
+      "level": 3,
+      "name": {
+        "local": "Teluk Bintan",
+        "en": "Teluk Bintan",
+        "slug": "teluk-bintan-2102040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102040",
+        "level": 3,
+        "name": {
+          "local": "Teluk Bintan",
+          "en": "Teluk Bintan",
+          "slug": "teluk-bintan-2102040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29131"
+    ],
+    "geo": {
+      "lat": "0.83",
+      "lon": "104.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Penaga",
+      "en": "Penaga",
+      "slug": "penaga-2102040003"
+    },
+    "code": {
+      "id": "2102040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102040",
+      "level": 3,
+      "name": {
+        "local": "Teluk Bintan",
+        "en": "Teluk Bintan",
+        "slug": "teluk-bintan-2102040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102040",
+        "level": 3,
+        "name": {
+          "local": "Teluk Bintan",
+          "en": "Teluk Bintan",
+          "slug": "teluk-bintan-2102040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29131"
+    ],
+    "geo": {
+      "lat": "1.067",
+      "lon": "104.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102040002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pengujan",
+      "en": "Pengujan",
+      "slug": "pengujan-2102040002"
+    },
+    "code": {
+      "id": "2102040002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102040",
+      "level": 3,
+      "name": {
+        "local": "Teluk Bintan",
+        "en": "Teluk Bintan",
+        "slug": "teluk-bintan-2102040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102040",
+        "level": 3,
+        "name": {
+          "local": "Teluk Bintan",
+          "en": "Teluk Bintan",
+          "slug": "teluk-bintan-2102040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29131"
+    ],
+    "geo": {
+      "lat": "1.021",
+      "lon": "104.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tembeling",
+      "en": "Tembeling",
+      "slug": "tembeling-2102040004"
+    },
+    "code": {
+      "id": "2102040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102040",
+      "level": 3,
+      "name": {
+        "local": "Teluk Bintan",
+        "en": "Teluk Bintan",
+        "slug": "teluk-bintan-2102040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102040",
+        "level": 3,
+        "name": {
+          "local": "Teluk Bintan",
+          "en": "Teluk Bintan",
+          "slug": "teluk-bintan-2102040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29131"
+    ],
+    "geo": {
+      "lat": "1.053",
+      "lon": "104.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102040006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tembeling Tanjung",
+      "en": "Tembeling Tanjung",
+      "slug": "tembeling-tanjung-2102040006"
+    },
+    "code": {
+      "id": "2102040006",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102040",
+      "level": 3,
+      "name": {
+        "local": "Teluk Bintan",
+        "en": "Teluk Bintan",
+        "slug": "teluk-bintan-2102040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102040",
+        "level": 3,
+        "name": {
+          "local": "Teluk Bintan",
+          "en": "Teluk Bintan",
+          "slug": "teluk-bintan-2102040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29131"
+    ],
+    "geo": {
+      "lat": "1.016",
+      "lon": "104.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

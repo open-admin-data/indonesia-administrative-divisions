@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1810080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Adi Luwih",
+      "en": "Adi Luwih",
+      "slug": "adi-luwih-1810080"
+    },
+    "code": {
+      "id": "1810080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.246",
+      "lon": "105.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ambarawa",
+      "en": "Ambarawa",
+      "slug": "ambarawa-1810020"
+    },
+    "code": {
+      "id": "1810020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.409",
+      "lon": "104.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyumas",
+      "en": "Banyumas",
+      "slug": "banyumas-1810070"
+    },
+    "code": {
+      "id": "1810070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.291",
+      "lon": "104.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gading Rejo",
+      "en": "Gading Rejo",
+      "slug": "gading-rejo-1810050"
+    },
+    "code": {
+      "id": "1810050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.371",
+      "lon": "105.019"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pagelaran",
+      "en": "Pagelaran",
+      "slug": "pagelaran-1810030"
+    },
+    "code": {
+      "id": "1810030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.29",
+      "lon": "104.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pagelaran Utara",
+      "en": "Pagelaran Utara",
+      "slug": "pagelaran-utara-1810031"
+    },
+    "code": {
+      "id": "1810031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.287",
+      "lon": "104.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pardasuka",
+      "en": "Pardasuka",
+      "slug": "pardasuka-1810010"
+    },
+    "code": {
+      "id": "1810010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.497",
+      "lon": "104.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pringsewu",
+      "en": "Pringsewu",
+      "slug": "pringsewu-1810040"
+    },
+    "code": {
+      "id": "1810040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.355",
+      "lon": "104.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1810060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukoharjo",
+      "en": "Sukoharjo",
+      "slug": "sukoharjo-1810060"
+    },
+    "code": {
+      "id": "1810060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1810",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pringsewu",
+          "en": "Pringsewu",
+          "slug": "pringsewu-1810"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.302",
+      "lon": "104.977"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "9419021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pantai Timur Bagian Barat",
+    "en": "Pantai Timur Bagian Barat",
+    "slug": "pantai-timur-bagian-barat-9419021"
+  },
+  "code": {
+    "id": "9419021",
+    "iso": null
+  },
+  "parent": {
+    "id": "9419",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sarmi",
+      "en": "Sarmi",
+      "slug": "sarmi-9419"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9419",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sarmi",
+        "en": "Sarmi",
+        "slug": "sarmi-9419"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.178",
+    "lon": "139.025"
+  },
+  "metadata": {},
+  "source": {}
+}

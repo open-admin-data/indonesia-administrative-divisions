@@ -1,0 +1,56 @@
+{
+  "id": "7306070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tinggimoncong",
+    "en": "Tinggimoncong",
+    "slug": "tinggimoncong-7306070"
+  },
+  "code": {
+    "id": "7306070",
+    "iso": null
+  },
+  "parent": {
+    "id": "7306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gowa",
+      "en": "Gowa",
+      "slug": "gowa-7306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gowa",
+        "en": "Gowa",
+        "slug": "gowa-7306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.25",
+    "lon": "119.847"
+  },
+  "metadata": {},
+  "source": {}
+}

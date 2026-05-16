@@ -1,0 +1,730 @@
+[
+  {
+    "id": "6209111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukit Raya",
+      "en": "Bukit Raya",
+      "slug": "bukit-raya-6209111"
+    },
+    "code": {
+      "id": "6209111",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.89",
+      "lon": "112.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kamipang",
+      "en": "Kamipang",
+      "slug": "kamipang-6209030"
+    },
+    "code": {
+      "id": "6209030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.318",
+      "lon": "113.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katingan Hilir",
+      "en": "Katingan Hilir",
+      "slug": "katingan-hilir-6209050"
+    },
+    "code": {
+      "id": "6209050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.875",
+      "lon": "113.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katingan Hulu",
+      "en": "Katingan Hulu",
+      "slug": "katingan-hulu-6209110"
+    },
+    "code": {
+      "id": "6209110",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 23
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.005",
+      "lon": "112.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katingan Kuala",
+      "en": "Katingan Kuala",
+      "slug": "katingan-kuala-6209010"
+    },
+    "code": {
+      "id": "6209010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.065",
+      "lon": "113.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Katingan Tengah",
+      "en": "Katingan Tengah",
+      "slug": "katingan-tengah-6209080"
+    },
+    "code": {
+      "id": "6209080",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.416",
+      "lon": "113.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marikit",
+      "en": "Marikit",
+      "slug": "marikit-6209100"
+    },
+    "code": {
+      "id": "6209100",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.979",
+      "lon": "112.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mendawai",
+      "en": "Mendawai",
+      "slug": "mendawai-6209020"
+    },
+    "code": {
+      "id": "6209020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.699",
+      "lon": "113.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Petak Malai",
+      "en": "Petak Malai",
+      "slug": "petak-malai-6209091"
+    },
+    "code": {
+      "id": "6209091",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.809",
+      "lon": "112.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pulau Malan",
+      "en": "Pulau Malan",
+      "slug": "pulau-malan-6209070"
+    },
+    "code": {
+      "id": "6209070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.628",
+      "lon": "113.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sanaman Mantikei",
+      "en": "Sanaman Mantikei",
+      "slug": "sanaman-mantikei-6209090"
+    },
+    "code": {
+      "id": "6209090",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.192",
+      "lon": "113.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tasik Payawan",
+      "en": "Tasik Payawan",
+      "slug": "tasik-payawan-6209040"
+    },
+    "code": {
+      "id": "6209040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.03",
+      "lon": "113.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6209060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tewang Sangalang Garing",
+      "en": "Tewang Sangalang Garing",
+      "slug": "tewang-sangalang-garing-6209060"
+    },
+    "code": {
+      "id": "6209060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Tengah",
+          "en": "Central Kalimantan",
+          "slug": "central-kalimantan-62"
+        }
+      },
+      {
+        "id": "6209",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Katingan",
+          "en": "Katingan",
+          "slug": "katingan-6209"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.739",
+      "lon": "113.313"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

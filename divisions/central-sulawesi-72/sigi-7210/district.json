@@ -1,0 +1,842 @@
+[
+  {
+    "id": "7210110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dolo",
+      "en": "Dolo",
+      "slug": "dolo-7210110"
+    },
+    "code": {
+      "id": "7210110",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.015",
+      "lon": "119.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dolo Barat",
+      "en": "Dolo Barat",
+      "slug": "dolo-barat-7210090"
+    },
+    "code": {
+      "id": "7210090",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.063",
+      "lon": "119.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dolo Selatan",
+      "en": "Dolo Selatan",
+      "slug": "dolo-selatan-7210080"
+    },
+    "code": {
+      "id": "7210080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.261",
+      "lon": "119.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gumbasa",
+      "en": "Gumbasa",
+      "slug": "gumbasa-7210070"
+    },
+    "code": {
+      "id": "7210070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.259",
+      "lon": "119.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kinovaro",
+      "en": "Kinovaro",
+      "slug": "kinovaro-7210150"
+    },
+    "code": {
+      "id": "7210150",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.942",
+      "lon": "119.812"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kulawi",
+      "en": "Kulawi",
+      "slug": "kulawi-7210030"
+    },
+    "code": {
+      "id": "7210030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.541",
+      "lon": "119.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kulawi Selatan",
+      "en": "Kulawi Selatan",
+      "slug": "kulawi-selatan-7210020"
+    },
+    "code": {
+      "id": "7210020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.685",
+      "lon": "120.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lindu",
+      "en": "Lindu",
+      "slug": "lindu-7210040"
+    },
+    "code": {
+      "id": "7210040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.366",
+      "lon": "120.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marawola",
+      "en": "Marawola",
+      "slug": "marawola-7210130"
+    },
+    "code": {
+      "id": "7210130",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.969",
+      "lon": "119.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marawola Barat",
+      "en": "Marawola Barat",
+      "slug": "marawola-barat-7210140"
+    },
+    "code": {
+      "id": "7210140",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.968",
+      "lon": "119.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nokilalaki",
+      "en": "Nokilalaki",
+      "slug": "nokilalaki-7210050"
+    },
+    "code": {
+      "id": "7210050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.201",
+      "lon": "120.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Palolo",
+      "en": "Palolo",
+      "slug": "palolo-7210060"
+    },
+    "code": {
+      "id": "7210060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.12",
+      "lon": "120.158"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pipikoro",
+      "en": "Pipikoro",
+      "slug": "pipikoro-7210010"
+    },
+    "code": {
+      "id": "7210010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.835",
+      "lon": "119.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sigi Biromaru",
+      "en": "Sigi Biromaru",
+      "slug": "sigi-biromaru-7210120"
+    },
+    "code": {
+      "id": "7210120",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.999",
+      "lon": "119.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7210100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanambulava",
+      "en": "Tanambulava",
+      "slug": "tanambulava-7210100"
+    },
+    "code": {
+      "id": "7210100",
+      "iso": null
+    },
+    "parent": {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sigi",
+        "en": "Sigi",
+        "slug": "sigi-7210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Tengah",
+          "en": "Central Sulawesi",
+          "slug": "central-sulawesi-72"
+        }
+      },
+      {
+        "id": "7210",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sigi",
+          "en": "Sigi",
+          "slug": "sigi-7210"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.139",
+      "lon": "119.945"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

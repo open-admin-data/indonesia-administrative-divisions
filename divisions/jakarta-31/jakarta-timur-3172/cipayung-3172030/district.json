@@ -1,0 +1,56 @@
+{
+  "id": "3172030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cipayung",
+    "en": "Cipayung",
+    "slug": "cipayung-3172030"
+  },
+  "code": {
+    "id": "3172030",
+    "iso": null
+  },
+  "parent": {
+    "id": "3172",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Timur",
+      "en": "Jakarta Timur",
+      "slug": "jakarta-timur-3172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3172",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Timur",
+        "en": "Jakarta Timur",
+        "slug": "jakarta-timur-3172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.328",
+    "lon": "106.903"
+  },
+  "metadata": {},
+  "source": {}
+}

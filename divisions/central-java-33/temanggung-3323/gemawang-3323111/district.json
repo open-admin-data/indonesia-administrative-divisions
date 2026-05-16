@@ -1,0 +1,56 @@
+{
+  "id": "3323111",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gemawang",
+    "en": "Gemawang",
+    "slug": "gemawang-3323111"
+  },
+  "code": {
+    "id": "3323111",
+    "iso": null
+  },
+  "parent": {
+    "id": "3323",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Temanggung",
+      "en": "Temanggung",
+      "slug": "temanggung-3323"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3323",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Temanggung",
+        "en": "Temanggung",
+        "slug": "temanggung-3323"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.187",
+    "lon": "110.16"
+  },
+  "metadata": {},
+  "source": {}
+}

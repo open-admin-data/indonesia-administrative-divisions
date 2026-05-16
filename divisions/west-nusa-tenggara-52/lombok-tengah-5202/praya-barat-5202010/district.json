@@ -1,0 +1,56 @@
+{
+  "id": "5202010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Praya Barat",
+    "en": "Praya Barat",
+    "slug": "praya-barat-5202010"
+  },
+  "code": {
+    "id": "5202010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Tengah",
+      "en": "Lombok Tengah",
+      "slug": "lombok-tengah-5202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Tengah",
+        "en": "Lombok Tengah",
+        "slug": "lombok-tengah-5202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.811",
+    "lon": "116.196"
+  },
+  "metadata": {},
+  "source": {}
+}

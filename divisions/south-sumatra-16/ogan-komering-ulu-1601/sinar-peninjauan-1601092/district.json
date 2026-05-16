@@ -1,0 +1,56 @@
+{
+  "id": "1601092",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sinar Peninjauan",
+    "en": "Sinar Peninjauan",
+    "slug": "sinar-peninjauan-1601092"
+  },
+  "code": {
+    "id": "1601092",
+    "iso": null
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu",
+      "en": "Ogan Komering Ulu",
+      "slug": "ogan-komering-ulu-1601"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.941",
+    "lon": "104.406"
+  },
+  "metadata": {},
+  "source": {}
+}

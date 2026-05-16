@@ -1,0 +1,56 @@
+{
+  "id": "6172020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Singkawang Timur",
+    "en": "Singkawang Timur",
+    "slug": "singkawang-timur-6172020"
+  },
+  "code": {
+    "id": "6172020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6172",
+    "level": 2,
+    "name": {
+      "local": "Kota Singkawang",
+      "en": "Singkawang",
+      "slug": "singkawang-6172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6172",
+      "level": 2,
+      "name": {
+        "local": "Kota Singkawang",
+        "en": "Singkawang",
+        "slug": "singkawang-6172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.936",
+    "lon": "109.084"
+  },
+  "metadata": {},
+  "source": {}
+}

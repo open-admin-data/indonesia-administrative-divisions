@@ -1,0 +1,48 @@
+{
+  "id": "7109",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Minahasa Tenggara",
+    "en": "Minahasa Tenggara",
+    "slug": "minahasa-tenggara-7109"
+  },
+  "code": {
+    "id": "7109",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Utara",
+      "en": "North Sulawesi",
+      "slug": "north-sulawesi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 141
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.745",
+    "lon": "125.362"
+  },
+  "metadata": {},
+  "source": {}
+}

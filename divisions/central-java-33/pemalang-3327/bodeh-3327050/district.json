@@ -1,0 +1,56 @@
+{
+  "id": "3327050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bodeh",
+    "en": "Bodeh",
+    "slug": "bodeh-3327050"
+  },
+  "code": {
+    "id": "3327050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3327",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pemalang",
+      "en": "Pemalang",
+      "slug": "pemalang-3327"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3327",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pemalang",
+        "en": "Pemalang",
+        "slug": "pemalang-3327"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.019",
+    "lon": "109.491"
+  },
+  "metadata": {},
+  "source": {}
+}

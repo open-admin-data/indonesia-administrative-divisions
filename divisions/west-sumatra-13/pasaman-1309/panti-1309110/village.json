@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1309110001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panti",
+      "en": "Panti",
+      "slug": "panti-1309110001"
+    },
+    "code": {
+      "id": "1309110001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309110",
+      "level": 3,
+      "name": {
+        "local": "Panti",
+        "en": "Panti",
+        "slug": "panti-1309110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309110",
+        "level": 3,
+        "name": {
+          "local": "Panti",
+          "en": "Panti",
+          "slug": "panti-1309110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26351"
+    ],
+    "geo": {
+      "lat": "0.35",
+      "lon": "100.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309110002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panti Selatan",
+      "en": "Panti Selatan",
+      "slug": "panti-selatan-1309110002"
+    },
+    "code": {
+      "id": "1309110002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309110",
+      "level": 3,
+      "name": {
+        "local": "Panti",
+        "en": "Panti",
+        "slug": "panti-1309110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309110",
+        "level": 3,
+        "name": {
+          "local": "Panti",
+          "en": "Panti",
+          "slug": "panti-1309110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26351"
+    ],
+    "geo": {
+      "lat": "0.358",
+      "lon": "100.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309110003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panti Timur",
+      "en": "Panti Timur",
+      "slug": "panti-timur-1309110003"
+    },
+    "code": {
+      "id": "1309110003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309110",
+      "level": 3,
+      "name": {
+        "local": "Panti",
+        "en": "Panti",
+        "slug": "panti-1309110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309110",
+        "level": 3,
+        "name": {
+          "local": "Panti",
+          "en": "Panti",
+          "slug": "panti-1309110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26351"
+    ],
+    "geo": {
+      "lat": "0.35",
+      "lon": "100.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

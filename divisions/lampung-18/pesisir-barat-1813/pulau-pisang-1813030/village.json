@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1813030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bandar Dalam",
+      "en": "Bandar Dalam",
+      "slug": "bandar-dalam-1813030003"
+    },
+    "code": {
+      "id": "1813030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1813030",
+      "level": 3,
+      "name": {
+        "local": "Pulau Pisang",
+        "en": "Pulau Pisang",
+        "slug": "pulau-pisang-1813030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1813",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Barat",
+          "en": "Pesisir Barat",
+          "slug": "pesisir-barat-1813"
+        }
+      },
+      {
+        "id": "1813030",
+        "level": 3,
+        "name": {
+          "local": "Pulau Pisang",
+          "en": "Pulau Pisang",
+          "slug": "pulau-pisang-1813030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34896"
+    ],
+    "geo": {
+      "lat": "-5.123",
+      "lon": "103.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1813030006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Labuhan",
+      "en": "Labuhan",
+      "slug": "labuhan-1813030006"
+    },
+    "code": {
+      "id": "1813030006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1813030",
+      "level": 3,
+      "name": {
+        "local": "Pulau Pisang",
+        "en": "Pulau Pisang",
+        "slug": "pulau-pisang-1813030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1813",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Barat",
+          "en": "Pesisir Barat",
+          "slug": "pesisir-barat-1813"
+        }
+      },
+      {
+        "id": "1813030",
+        "level": 3,
+        "name": {
+          "local": "Pulau Pisang",
+          "en": "Pulau Pisang",
+          "slug": "pulau-pisang-1813030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34896"
+    ],
+    "geo": {
+      "lat": "-5.117",
+      "lon": "103.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1813030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasar Pulau Pisang",
+      "en": "Pasar Pulau Pisang",
+      "slug": "pasar-pulau-pisang-1813030004"
+    },
+    "code": {
+      "id": "1813030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1813030",
+      "level": 3,
+      "name": {
+        "local": "Pulau Pisang",
+        "en": "Pulau Pisang",
+        "slug": "pulau-pisang-1813030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1813",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Barat",
+          "en": "Pesisir Barat",
+          "slug": "pesisir-barat-1813"
+        }
+      },
+      {
+        "id": "1813030",
+        "level": 3,
+        "name": {
+          "local": "Pulau Pisang",
+          "en": "Pulau Pisang",
+          "slug": "pulau-pisang-1813030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34896"
+    ],
+    "geo": {
+      "lat": "-5.118",
+      "lon": "103.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1813030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pekon Lok",
+      "en": "Pekon Lok",
+      "slug": "pekon-lok-1813030002"
+    },
+    "code": {
+      "id": "1813030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1813030",
+      "level": 3,
+      "name": {
+        "local": "Pulau Pisang",
+        "en": "Pulau Pisang",
+        "slug": "pulau-pisang-1813030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1813",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Barat",
+          "en": "Pesisir Barat",
+          "slug": "pesisir-barat-1813"
+        }
+      },
+      {
+        "id": "1813030",
+        "level": 3,
+        "name": {
+          "local": "Pulau Pisang",
+          "en": "Pulau Pisang",
+          "slug": "pulau-pisang-1813030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34896"
+    ],
+    "geo": {
+      "lat": "-5.124",
+      "lon": "103.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1813030005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukadana",
+      "en": "Sukadana",
+      "slug": "sukadana-1813030005"
+    },
+    "code": {
+      "id": "1813030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1813030",
+      "level": 3,
+      "name": {
+        "local": "Pulau Pisang",
+        "en": "Pulau Pisang",
+        "slug": "pulau-pisang-1813030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1813",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Barat",
+          "en": "Pesisir Barat",
+          "slug": "pesisir-barat-1813"
+        }
+      },
+      {
+        "id": "1813030",
+        "level": 3,
+        "name": {
+          "local": "Pulau Pisang",
+          "en": "Pulau Pisang",
+          "slug": "pulau-pisang-1813030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34896"
+    ],
+    "geo": {
+      "lat": "-5.119",
+      "lon": "103.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1813030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukamarga",
+      "en": "Sukamarga",
+      "slug": "sukamarga-1813030001"
+    },
+    "code": {
+      "id": "1813030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1813030",
+      "level": 3,
+      "name": {
+        "local": "Pulau Pisang",
+        "en": "Pulau Pisang",
+        "slug": "pulau-pisang-1813030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1813",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pesisir Barat",
+          "en": "Pesisir Barat",
+          "slug": "pesisir-barat-1813"
+        }
+      },
+      {
+        "id": "1813030",
+        "level": 3,
+        "name": {
+          "local": "Pulau Pisang",
+          "en": "Pulau Pisang",
+          "slug": "pulau-pisang-1813030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34896"
+    ],
+    "geo": {
+      "lat": "-5.123",
+      "lon": "103.843"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1306081001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gasan Gadang",
+      "en": "Gasan Gadang",
+      "slug": "gasan-gadang-1306081001"
+    },
+    "code": {
+      "id": "1306081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306081",
+      "level": 3,
+      "name": {
+        "local": "Batang Gasan",
+        "en": "Batang Gasan",
+        "slug": "batang-gasan-1306081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306081",
+        "level": 3,
+        "name": {
+          "local": "Batang Gasan",
+          "en": "Batang Gasan",
+          "slug": "batang-gasan-1306081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25563"
+    ],
+    "geo": {
+      "lat": "-0.42",
+      "lon": "99.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306081002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Malai V Suku",
+      "en": "Malai V Suku",
+      "slug": "malai-v-suku-1306081002"
+    },
+    "code": {
+      "id": "1306081002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306081",
+      "level": 3,
+      "name": {
+        "local": "Batang Gasan",
+        "en": "Batang Gasan",
+        "slug": "batang-gasan-1306081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306081",
+        "level": 3,
+        "name": {
+          "local": "Batang Gasan",
+          "en": "Batang Gasan",
+          "slug": "batang-gasan-1306081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25563"
+    ],
+    "geo": {
+      "lat": "-0.434",
+      "lon": "100.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306081003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Malai V Suku Timur",
+      "en": "Malai V Suku Timur",
+      "slug": "malai-v-suku-timur-1306081003"
+    },
+    "code": {
+      "id": "1306081003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306081",
+      "level": 3,
+      "name": {
+        "local": "Batang Gasan",
+        "en": "Batang Gasan",
+        "slug": "batang-gasan-1306081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306081",
+        "level": 3,
+        "name": {
+          "local": "Batang Gasan",
+          "en": "Batang Gasan",
+          "slug": "batang-gasan-1306081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25563"
+    ],
+    "geo": {
+      "lat": "-0.423",
+      "lon": "100.054"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

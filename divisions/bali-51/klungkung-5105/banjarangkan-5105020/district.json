@@ -1,0 +1,56 @@
+{
+  "id": "5105020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banjarangkan",
+    "en": "Banjarangkan",
+    "slug": "banjarangkan-5105020"
+  },
+  "code": {
+    "id": "5105020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Klungkung",
+      "en": "Klungkung",
+      "slug": "klungkung-5105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Klungkung",
+        "en": "Klungkung",
+        "slug": "klungkung-5105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.515",
+    "lon": "115.378"
+  },
+  "metadata": {},
+  "source": {}
+}

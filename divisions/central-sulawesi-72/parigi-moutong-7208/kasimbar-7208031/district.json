@@ -1,0 +1,56 @@
+{
+  "id": "7208031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kasimbar",
+    "en": "Kasimbar",
+    "slug": "kasimbar-7208031"
+  },
+  "code": {
+    "id": "7208031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Parigi Moutong",
+      "en": "Parigi Moutong",
+      "slug": "parigi-moutong-7208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Parigi Moutong",
+        "en": "Parigi Moutong",
+        "slug": "parigi-moutong-7208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.144",
+    "lon": "119.971"
+  },
+  "metadata": {},
+  "source": {}
+}

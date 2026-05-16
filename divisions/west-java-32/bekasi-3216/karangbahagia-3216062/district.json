@@ -1,0 +1,56 @@
+{
+  "id": "3216062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karangbahagia",
+    "en": "Karangbahagia",
+    "slug": "karangbahagia-3216062"
+  },
+  "code": {
+    "id": "3216062",
+    "iso": null
+  },
+  "parent": {
+    "id": "3216",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bekasi",
+      "en": "Bekasi",
+      "slug": "bekasi-3216"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.211",
+    "lon": "107.201"
+  },
+  "metadata": {},
+  "source": {}
+}

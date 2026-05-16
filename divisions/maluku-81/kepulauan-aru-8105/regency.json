@@ -1,0 +1,48 @@
+{
+  "id": "8105",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kepulauan Aru",
+    "en": "Kepulauan Aru",
+    "slug": "kepulauan-aru-8105"
+  },
+  "code": {
+    "id": "8105",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 113
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.104",
+    "lon": "130.489"
+  },
+  "metadata": {},
+  "source": {}
+}

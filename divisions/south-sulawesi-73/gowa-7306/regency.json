@@ -1,0 +1,48 @@
+{
+  "id": "7306",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Gowa",
+    "en": "Gowa",
+    "slug": "gowa-7306"
+  },
+  "code": {
+    "id": "7306",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 18,
+    "village": 167
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.2",
+    "lon": "119.453"
+  },
+  "metadata": {},
+  "source": {}
+}

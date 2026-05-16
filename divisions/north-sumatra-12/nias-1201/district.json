@@ -1,0 +1,562 @@
+[
+  {
+    "id": "1201061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bawolato",
+      "en": "Bawolato",
+      "slug": "bawolato-1201061"
+    },
+    "code": {
+      "id": "1201061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.982",
+      "lon": "97.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201132",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Botomuzoi",
+      "en": "Botomuzoi",
+      "slug": "botomuzoi-1201132"
+    },
+    "code": {
+      "id": "1201132",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.17",
+      "lon": "97.543"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gido",
+      "en": "Gido",
+      "slug": "gido-1201070"
+    },
+    "code": {
+      "id": "1201070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.12",
+      "lon": "97.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201131",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hili Serangkai",
+      "en": "Hili Serangkai",
+      "slug": "hili-serangkai-1201131"
+    },
+    "code": {
+      "id": "1201131",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.149",
+      "lon": "97.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hiliduho",
+      "en": "Hiliduho",
+      "slug": "hiliduho-1201130"
+    },
+    "code": {
+      "id": "1201130",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.236",
+      "lon": "97.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Idano Gawo",
+      "en": "Idano Gawo",
+      "slug": "idano-gawo-1201060"
+    },
+    "code": {
+      "id": "1201060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 28
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.053",
+      "lon": "97.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ma U",
+      "en": "Ma U",
+      "slug": "ma-u-1201081"
+    },
+    "code": {
+      "id": "1201081",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.042",
+      "lon": "97.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sogaeadu",
+      "en": "Sogaeadu",
+      "slug": "sogaeadu-1201071"
+    },
+    "code": {
+      "id": "1201071",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.1",
+      "lon": "97.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Somolo - Molo",
+      "en": "Somolo - Molo",
+      "slug": "somolo-molo-1201082"
+    },
+    "code": {
+      "id": "1201082",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.035",
+      "lon": "97.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulugawo",
+      "en": "Ulugawo",
+      "slug": "ulugawo-1201062"
+    },
+    "code": {
+      "id": "1201062",
+      "iso": null
+    },
+    "parent": {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias",
+        "en": "Nias",
+        "slug": "nias-1201"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1201",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nias",
+          "en": "Nias",
+          "slug": "nias-1201"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.99",
+      "lon": "97.729"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

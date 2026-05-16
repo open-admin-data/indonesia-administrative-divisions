@@ -1,0 +1,48 @@
+{
+  "id": "3672",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Cilegon",
+    "en": "Cilegon",
+    "slug": "cilegon-3672"
+  },
+  "code": {
+    "id": "3672",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "Banten",
+      "en": "Banten",
+      "slug": "banten-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 41
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.01",
+    "lon": "106.042"
+  },
+  "metadata": {},
+  "source": {}
+}

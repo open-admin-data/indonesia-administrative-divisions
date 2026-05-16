@@ -1,0 +1,56 @@
+{
+  "id": "8203041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mangoli Utara",
+    "en": "Mangoli Utara",
+    "slug": "mangoli-utara-8203041"
+  },
+  "code": {
+    "id": "8203041",
+    "iso": null
+  },
+  "parent": {
+    "id": "8203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Sula",
+      "en": "Kepulauan Sula",
+      "slug": "kepulauan-sula-8203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sula",
+        "en": "Kepulauan Sula",
+        "slug": "kepulauan-sula-8203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.813",
+    "lon": "125.64"
+  },
+  "metadata": {},
+  "source": {}
+}

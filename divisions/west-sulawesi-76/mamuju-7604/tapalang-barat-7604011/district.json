@@ -1,0 +1,56 @@
+{
+  "id": "7604011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tapalang Barat",
+    "en": "Tapalang Barat",
+    "slug": "tapalang-barat-7604011"
+  },
+  "code": {
+    "id": "7604011",
+    "iso": null
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju",
+      "en": "Mamuju",
+      "slug": "mamuju-7604"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.768",
+    "lon": "118.798"
+  },
+  "metadata": {},
+  "source": {}
+}

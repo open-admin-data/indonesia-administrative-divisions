@@ -1,0 +1,56 @@
+{
+  "id": "3516170",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Dawar Blandong",
+    "en": "Dawar Blandong",
+    "slug": "dawar-blandong-3516170"
+  },
+  "code": {
+    "id": "3516170",
+    "iso": null
+  },
+  "parent": {
+    "id": "3516",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mojokerto",
+      "en": "Mojokerto",
+      "slug": "mojokerto-3516"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3516",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mojokerto",
+        "en": "Mojokerto",
+        "slug": "mojokerto-3516"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.345",
+    "lon": "112.415"
+  },
+  "metadata": {},
+  "source": {}
+}

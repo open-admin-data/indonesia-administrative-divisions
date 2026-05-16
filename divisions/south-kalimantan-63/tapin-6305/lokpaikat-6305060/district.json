@@ -1,0 +1,56 @@
+{
+  "id": "6305060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lokpaikat",
+    "en": "Lokpaikat",
+    "slug": "lokpaikat-6305060"
+  },
+  "code": {
+    "id": "6305060",
+    "iso": null
+  },
+  "parent": {
+    "id": "6305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapin",
+      "en": "Tapin",
+      "slug": "tapin-6305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapin",
+        "en": "Tapin",
+        "slug": "tapin-6305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.909",
+    "lon": "115.218"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "3520130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Barat",
+      "en": "Barat",
+      "slug": "barat-3520130"
+    },
+    "code": {
+      "id": "3520130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.554",
+      "lon": "111.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bendo",
+      "en": "Bendo",
+      "slug": "bendo-3520100"
+    },
+    "code": {
+      "id": "3520100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.637",
+      "lon": "111.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangrejo",
+      "en": "Karangrejo",
+      "slug": "karangrejo-3520120"
+    },
+    "code": {
+      "id": "3520120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.563",
+      "lon": "111.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520121",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-3520121"
+    },
+    "code": {
+      "id": "3520121",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.575",
+      "lon": "111.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520131",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kartoharjo",
+      "en": "Kartoharjo",
+      "slug": "kartoharjo-3520131"
+    },
+    "code": {
+      "id": "3520131",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.532",
+      "lon": "111.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kawedanan",
+      "en": "Kawedanan",
+      "slug": "kawedanan-3520050"
+    },
+    "code": {
+      "id": "3520050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.696",
+      "lon": "111.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembeyan",
+      "en": "Lembeyan",
+      "slug": "lembeyan-3520030"
+    },
+    "code": {
+      "id": "3520030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.748",
+      "lon": "111.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Magetan",
+      "en": "Magetan",
+      "slug": "magetan-3520060"
+    },
+    "code": {
+      "id": "3520060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.646",
+      "lon": "111.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Maospati",
+      "en": "Maospati",
+      "slug": "maospati-3520110"
+    },
+    "code": {
+      "id": "3520110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.6",
+      "lon": "111.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngariboyo",
+      "en": "Ngariboyo",
+      "slug": "ngariboyo-3520061"
+    },
+    "code": {
+      "id": "3520061",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.691",
+      "lon": "111.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Nguntoronadi",
+      "en": "Nguntoronadi",
+      "slug": "nguntoronadi-3520041"
+    },
+    "code": {
+      "id": "3520041",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.712",
+      "lon": "111.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panekan",
+      "en": "Panekan",
+      "slug": "panekan-3520080"
+    },
+    "code": {
+      "id": "3520080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.614",
+      "lon": "111.274"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Parang",
+      "en": "Parang",
+      "slug": "parang-3520020"
+    },
+    "code": {
+      "id": "3520020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.747",
+      "lon": "111.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Plaosan",
+      "en": "Plaosan",
+      "slug": "plaosan-3520070"
+    },
+    "code": {
+      "id": "3520070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.669",
+      "lon": "111.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Poncol",
+      "en": "Poncol",
+      "slug": "poncol-3520010"
+    },
+    "code": {
+      "id": "3520010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.722",
+      "lon": "111.245"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sidorejo",
+      "en": "Sidorejo",
+      "slug": "sidorejo-3520071"
+    },
+    "code": {
+      "id": "3520071",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.652",
+      "lon": "111.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukomoro",
+      "en": "Sukomoro",
+      "slug": "sukomoro-3520090"
+    },
+    "code": {
+      "id": "3520090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.627",
+      "lon": "111.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3520040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Takeran",
+      "en": "Takeran",
+      "slug": "takeran-3520040"
+    },
+    "code": {
+      "id": "3520040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3520",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magetan",
+        "en": "Magetan",
+        "slug": "magetan-3520"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3520",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Magetan",
+          "en": "Magetan",
+          "slug": "magetan-3520"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.683",
+      "lon": "111.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

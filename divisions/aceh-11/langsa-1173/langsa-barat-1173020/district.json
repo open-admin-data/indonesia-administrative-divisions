@@ -1,0 +1,56 @@
+{
+  "id": "1173020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Langsa Barat",
+    "en": "Langsa Barat",
+    "slug": "langsa-barat-1173020"
+  },
+  "code": {
+    "id": "1173020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1173",
+    "level": 2,
+    "name": {
+      "local": "Kota Langsa",
+      "en": "Langsa",
+      "slug": "langsa-1173"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1173",
+      "level": 2,
+      "name": {
+        "local": "Kota Langsa",
+        "en": "Langsa",
+        "slug": "langsa-1173"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.516",
+    "lon": "98.013"
+  },
+  "metadata": {},
+  "source": {}
+}

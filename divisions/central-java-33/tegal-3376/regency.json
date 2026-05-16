@@ -1,0 +1,48 @@
+{
+  "id": "3376",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Tegal",
+    "en": "Tegal",
+    "slug": "tegal-3376"
+  },
+  "code": {
+    "id": "3376",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 4,
+    "village": 26
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.87",
+    "lon": "109.137"
+  },
+  "metadata": {},
+  "source": {}
+}

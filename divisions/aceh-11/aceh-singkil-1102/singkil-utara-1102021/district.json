@@ -1,0 +1,56 @@
+{
+  "id": "1102021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Singkil Utara",
+    "en": "Singkil Utara",
+    "slug": "singkil-utara-1102021"
+  },
+  "code": {
+    "id": "1102021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Singkil",
+      "en": "Aceh Singkil",
+      "slug": "aceh-singkil-1102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Singkil",
+        "en": "Aceh Singkil",
+        "slug": "aceh-singkil-1102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.245",
+    "lon": "98.006"
+  },
+  "metadata": {},
+  "source": {}
+}

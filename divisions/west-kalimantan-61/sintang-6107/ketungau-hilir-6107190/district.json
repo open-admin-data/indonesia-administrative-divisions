@@ -1,0 +1,56 @@
+{
+  "id": "6107190",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ketungau Hilir",
+    "en": "Ketungau Hilir",
+    "slug": "ketungau-hilir-6107190"
+  },
+  "code": {
+    "id": "6107190",
+    "iso": null
+  },
+  "parent": {
+    "id": "6107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sintang",
+      "en": "Sintang",
+      "slug": "sintang-6107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sintang",
+        "en": "Sintang",
+        "slug": "sintang-6107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.446",
+    "lon": "111.479"
+  },
+  "metadata": {},
+  "source": {}
+}

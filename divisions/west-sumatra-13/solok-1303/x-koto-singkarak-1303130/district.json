@@ -1,0 +1,56 @@
+{
+  "id": "1303130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "X Koto Singkarak",
+    "en": "X Koto Singkarak",
+    "slug": "x-koto-singkarak-1303130"
+  },
+  "code": {
+    "id": "1303130",
+    "iso": null
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Solok",
+      "en": "Solok",
+      "slug": "solok-1303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.69",
+    "lon": "100.554"
+  },
+  "metadata": {},
+  "source": {}
+}

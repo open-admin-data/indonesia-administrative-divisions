@@ -1,0 +1,48 @@
+{
+  "id": "1118",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pidie Jaya",
+    "en": "Pidie Jaya",
+    "slug": "pidie-jaya-1118"
+  },
+  "code": {
+    "id": "1118",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 222
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.229",
+    "lon": "96.245"
+  },
+  "metadata": {},
+  "source": {}
+}

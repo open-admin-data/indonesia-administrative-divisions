@@ -1,0 +1,56 @@
+{
+  "id": "1108061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Baitussalam",
+    "en": "Baitussalam",
+    "slug": "baitussalam-1108061"
+  },
+  "code": {
+    "id": "1108061",
+    "iso": null
+  },
+  "parent": {
+    "id": "1108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Besar",
+      "en": "Aceh Besar",
+      "slug": "aceh-besar-1108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Besar",
+        "en": "Aceh Besar",
+        "slug": "aceh-besar-1108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.6",
+    "lon": "95.383"
+  },
+  "metadata": {},
+  "source": {}
+}

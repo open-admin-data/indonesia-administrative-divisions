@@ -1,0 +1,327 @@
+[
+  {
+    "id": "3509010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cakru",
+      "en": "Cakru",
+      "slug": "cakru-3509010002"
+    },
+    "code": {
+      "id": "3509010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3509010",
+      "level": 3,
+      "name": {
+        "local": "Kencong",
+        "en": "Kencong",
+        "slug": "kencong-3509010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jember",
+          "en": "Jember",
+          "slug": "jember-3509"
+        }
+      },
+      {
+        "id": "3509010",
+        "level": 3,
+        "name": {
+          "local": "Kencong",
+          "en": "Kencong",
+          "slug": "kencong-3509010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68167"
+    ],
+    "geo": {
+      "lat": "-8.282",
+      "lon": "113.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3509010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kencong",
+      "en": "Kencong",
+      "slug": "kencong-3509010005"
+    },
+    "code": {
+      "id": "3509010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3509010",
+      "level": 3,
+      "name": {
+        "local": "Kencong",
+        "en": "Kencong",
+        "slug": "kencong-3509010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jember",
+          "en": "Jember",
+          "slug": "jember-3509"
+        }
+      },
+      {
+        "id": "3509010",
+        "level": 3,
+        "name": {
+          "local": "Kencong",
+          "en": "Kencong",
+          "slug": "kencong-3509010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68167"
+    ],
+    "geo": {
+      "lat": "-8.306",
+      "lon": "113.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3509010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kraton",
+      "en": "Kraton",
+      "slug": "kraton-3509010003"
+    },
+    "code": {
+      "id": "3509010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3509010",
+      "level": 3,
+      "name": {
+        "local": "Kencong",
+        "en": "Kencong",
+        "slug": "kencong-3509010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jember",
+          "en": "Jember",
+          "slug": "jember-3509"
+        }
+      },
+      {
+        "id": "3509010",
+        "level": 3,
+        "name": {
+          "local": "Kencong",
+          "en": "Kencong",
+          "slug": "kencong-3509010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68167"
+    ],
+    "geo": {
+      "lat": "-8.303",
+      "lon": "113.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3509010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Paseban",
+      "en": "Paseban",
+      "slug": "paseban-3509010001"
+    },
+    "code": {
+      "id": "3509010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3509010",
+      "level": 3,
+      "name": {
+        "local": "Kencong",
+        "en": "Kencong",
+        "slug": "kencong-3509010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jember",
+          "en": "Jember",
+          "slug": "jember-3509"
+        }
+      },
+      {
+        "id": "3509010",
+        "level": 3,
+        "name": {
+          "local": "Kencong",
+          "en": "Kencong",
+          "slug": "kencong-3509010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68167"
+    ],
+    "geo": {
+      "lat": "-8.312",
+      "lon": "113.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3509010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wonorejo",
+      "en": "Wonorejo",
+      "slug": "wonorejo-3509010004"
+    },
+    "code": {
+      "id": "3509010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3509010",
+      "level": 3,
+      "name": {
+        "local": "Kencong",
+        "en": "Kencong",
+        "slug": "kencong-3509010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3509",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jember",
+          "en": "Jember",
+          "slug": "jember-3509"
+        }
+      },
+      {
+        "id": "3509010",
+        "level": 3,
+        "name": {
+          "local": "Kencong",
+          "en": "Kencong",
+          "slug": "kencong-3509010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "68167"
+    ],
+    "geo": {
+      "lat": "-8.299",
+      "lon": "113.376"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

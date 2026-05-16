@@ -1,0 +1,56 @@
+{
+  "id": "6405050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sambaliung",
+    "en": "Sambaliung",
+    "slug": "sambaliung-6405050"
+  },
+  "code": {
+    "id": "6405050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Berau",
+      "en": "Berau",
+      "slug": "berau-6405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Berau",
+        "en": "Berau",
+        "slug": "berau-6405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.969",
+    "lon": "117.512"
+  },
+  "metadata": {},
+  "source": {}
+}

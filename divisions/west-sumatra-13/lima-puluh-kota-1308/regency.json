@@ -1,0 +1,48 @@
+{
+  "id": "1308",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lima Puluh Kota",
+    "en": "Lima Puluh Kota",
+    "slug": "lima-puluh-kota-1308"
+  },
+  "code": {
+    "id": "1308",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 13,
+    "village": 79
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.14",
+    "lon": "100.167"
+  },
+  "metadata": {},
+  "source": {}
+}

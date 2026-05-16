@@ -1,0 +1,48 @@
+{
+  "id": "3511",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bondowoso",
+    "en": "Bondowoso",
+    "slug": "bondowoso-3511"
+  },
+  "code": {
+    "id": "3511",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 23,
+    "village": 210
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.914",
+    "lon": "113.822"
+  },
+  "metadata": {},
+  "source": {}
+}

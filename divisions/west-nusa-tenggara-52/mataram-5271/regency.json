@@ -1,0 +1,48 @@
+{
+  "id": "5271",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Mataram",
+    "en": "Mataram",
+    "slug": "mataram-5271"
+  },
+  "code": {
+    "id": "5271",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Barat",
+      "en": "West Nusa Tenggara",
+      "slug": "west-nusa-tenggara-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 49
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.583",
+    "lon": "116.108"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "6411",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Mahakam Hulu",
+    "en": "Mahakam Hulu",
+    "slug": "mahakam-hulu-6411"
+  },
+  "code": {
+    "id": "6411",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Timur",
+      "en": "East Kalimantan",
+      "slug": "east-kalimantan-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 5,
+    "village": 50
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.506",
+    "lon": "115.271"
+  },
+  "metadata": {},
+  "source": {}
+}

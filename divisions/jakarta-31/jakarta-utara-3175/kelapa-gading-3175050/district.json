@@ -1,0 +1,56 @@
+{
+  "id": "3175050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelapa Gading",
+    "en": "Kelapa Gading",
+    "slug": "kelapa-gading-3175050"
+  },
+  "code": {
+    "id": "3175050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3175",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Utara",
+      "en": "Jakarta Utara",
+      "slug": "jakarta-utara-3175"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3175",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Utara",
+        "en": "Jakarta Utara",
+        "slug": "jakarta-utara-3175"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.16",
+    "lon": "106.901"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "5204062004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rhee Loka",
+      "en": "Rhee Loka",
+      "slug": "rhee-loka-5204062004"
+    },
+    "code": {
+      "id": "5204062004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204062",
+      "level": 3,
+      "name": {
+        "local": "Rhee",
+        "en": "Rhee",
+        "slug": "rhee-5204062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204062",
+        "level": 3,
+        "name": {
+          "local": "Rhee",
+          "en": "Rhee",
+          "slug": "rhee-5204062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84362"
+    ],
+    "geo": {
+      "lat": "-8.43",
+      "lon": "117.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204062001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sampe",
+      "en": "Sampe",
+      "slug": "sampe-5204062001"
+    },
+    "code": {
+      "id": "5204062001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204062",
+      "level": 3,
+      "name": {
+        "local": "Rhee",
+        "en": "Rhee",
+        "slug": "rhee-5204062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204062",
+        "level": 3,
+        "name": {
+          "local": "Rhee",
+          "en": "Rhee",
+          "slug": "rhee-5204062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84362"
+    ],
+    "geo": {
+      "lat": "-8.432",
+      "lon": "117.256"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3204290",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cileunyi",
+    "en": "Cileunyi",
+    "slug": "cileunyi-3204290"
+  },
+  "code": {
+    "id": "3204290",
+    "iso": null
+  },
+  "parent": {
+    "id": "3204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bandung",
+      "en": "Bandung",
+      "slug": "bandung-3204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bandung",
+        "en": "Bandung",
+        "slug": "bandung-3204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.925",
+    "lon": "107.734"
+  },
+  "metadata": {},
+  "source": {}
+}

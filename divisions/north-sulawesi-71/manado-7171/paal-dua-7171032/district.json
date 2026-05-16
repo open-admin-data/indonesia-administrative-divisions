@@ -1,0 +1,56 @@
+{
+  "id": "7171032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Paal Dua",
+    "en": "Paal Dua",
+    "slug": "paal-dua-7171032"
+  },
+  "code": {
+    "id": "7171032",
+    "iso": null
+  },
+  "parent": {
+    "id": "7171",
+    "level": 2,
+    "name": {
+      "local": "Kota Manado",
+      "en": "Manado",
+      "slug": "manado-7171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.476",
+    "lon": "124.872"
+  },
+  "metadata": {},
+  "source": {}
+}

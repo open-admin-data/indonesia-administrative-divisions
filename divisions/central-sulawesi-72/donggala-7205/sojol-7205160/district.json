@@ -1,0 +1,56 @@
+{
+  "id": "7205160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sojol",
+    "en": "Sojol",
+    "slug": "sojol-7205160"
+  },
+  "code": {
+    "id": "7205160",
+    "iso": null
+  },
+  "parent": {
+    "id": "7205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Donggala",
+      "en": "Donggala",
+      "slug": "donggala-7205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Donggala",
+        "en": "Donggala",
+        "slug": "donggala-7205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.516",
+    "lon": "119.997"
+  },
+  "metadata": {},
+  "source": {}
+}

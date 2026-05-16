@@ -1,0 +1,56 @@
+{
+  "id": "1204073",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Barus Utara",
+    "en": "Barus Utara",
+    "slug": "barus-utara-1204073"
+  },
+  "code": {
+    "id": "1204073",
+    "iso": null
+  },
+  "parent": {
+    "id": "1204",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tapanuli Tengah",
+      "en": "Tapanuli Tengah",
+      "slug": "tapanuli-tengah-1204"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tapanuli Tengah",
+        "en": "Tapanuli Tengah",
+        "slug": "tapanuli-tengah-1204"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.06",
+    "lon": "98.438"
+  },
+  "metadata": {},
+  "source": {}
+}

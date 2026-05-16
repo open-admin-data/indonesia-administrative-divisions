@@ -1,0 +1,56 @@
+{
+  "id": "1603031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rambang",
+    "en": "Rambang",
+    "slug": "rambang-1603031"
+  },
+  "code": {
+    "id": "1603031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Muara Enim",
+      "en": "Muara Enim",
+      "slug": "muara-enim-1603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Muara Enim",
+        "en": "Muara Enim",
+        "slug": "muara-enim-1603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.61",
+    "lon": "104.161"
+  },
+  "metadata": {},
+  "source": {}
+}

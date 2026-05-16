@@ -1,0 +1,56 @@
+{
+  "id": "1117060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Syiah Utama",
+    "en": "Syiah Utama",
+    "slug": "syiah-utama-1117060"
+  },
+  "code": {
+    "id": "1117060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1117",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bener Meriah",
+      "en": "Bener Meriah",
+      "slug": "bener-meriah-1117"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1117",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bener Meriah",
+        "en": "Bener Meriah",
+        "slug": "bener-meriah-1117"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.745",
+    "lon": "97.154"
+  },
+  "metadata": {},
+  "source": {}
+}

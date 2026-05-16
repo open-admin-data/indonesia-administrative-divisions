@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1303060003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aia Luo",
+      "en": "Aia Luo",
+      "slug": "aia-luo-1303060003"
+    },
+    "code": {
+      "id": "1303060003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303060",
+      "level": 3,
+      "name": {
+        "local": "Payung Sekaki",
+        "en": "Payung Sekaki",
+        "slug": "payung-sekaki-1303060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303060",
+        "level": 3,
+        "name": {
+          "local": "Payung Sekaki",
+          "en": "Payung Sekaki",
+          "slug": "payung-sekaki-1303060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27387"
+    ],
+    "geo": {
+      "lat": "-0.82",
+      "lon": "100.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303060001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sirukam",
+      "en": "Sirukam",
+      "slug": "sirukam-1303060001"
+    },
+    "code": {
+      "id": "1303060001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303060",
+      "level": 3,
+      "name": {
+        "local": "Payung Sekaki",
+        "en": "Payung Sekaki",
+        "slug": "payung-sekaki-1303060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303060",
+        "level": 3,
+        "name": {
+          "local": "Payung Sekaki",
+          "en": "Payung Sekaki",
+          "slug": "payung-sekaki-1303060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27387"
+    ],
+    "geo": {
+      "lat": "-0.937",
+      "lon": "100.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303060002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Supayang",
+      "en": "Supayang",
+      "slug": "supayang-1303060002"
+    },
+    "code": {
+      "id": "1303060002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303060",
+      "level": 3,
+      "name": {
+        "local": "Payung Sekaki",
+        "en": "Payung Sekaki",
+        "slug": "payung-sekaki-1303060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303060",
+        "level": 3,
+        "name": {
+          "local": "Payung Sekaki",
+          "en": "Payung Sekaki",
+          "slug": "payung-sekaki-1303060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27387"
+    ],
+    "geo": {
+      "lat": "-0.88",
+      "lon": "100.811"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

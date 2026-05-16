@@ -1,0 +1,48 @@
+{
+  "id": "3471",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Yogyakarta",
+    "en": "Yogyakarta",
+    "slug": "yogyakarta-3471"
+  },
+  "code": {
+    "id": "3471",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "Di Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 43
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.8",
+    "lon": "110.391"
+  },
+  "metadata": {},
+  "source": {}
+}

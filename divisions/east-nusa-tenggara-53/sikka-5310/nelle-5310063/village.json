@@ -1,0 +1,197 @@
+[
+  {
+    "id": "5310063003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Manubura",
+      "en": "Manubura",
+      "slug": "manubura-5310063003"
+    },
+    "code": {
+      "id": "5310063003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5310063",
+      "level": 3,
+      "name": {
+        "local": "Nelle",
+        "en": "Nelle",
+        "slug": "nelle-5310063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sikka",
+          "en": "Sikka",
+          "slug": "sikka-5310"
+        }
+      },
+      {
+        "id": "5310063",
+        "level": 3,
+        "name": {
+          "local": "Nelle",
+          "en": "Nelle",
+          "slug": "nelle-5310063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86159"
+    ],
+    "geo": {
+      "lat": "-8.68",
+      "lon": "122.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5310063004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nelle Barat",
+      "en": "Nelle Barat",
+      "slug": "nelle-barat-5310063004"
+    },
+    "code": {
+      "id": "5310063004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5310063",
+      "level": 3,
+      "name": {
+        "local": "Nelle",
+        "en": "Nelle",
+        "slug": "nelle-5310063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sikka",
+          "en": "Sikka",
+          "slug": "sikka-5310"
+        }
+      },
+      {
+        "id": "5310063",
+        "level": 3,
+        "name": {
+          "local": "Nelle",
+          "en": "Nelle",
+          "slug": "nelle-5310063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86159"
+    ],
+    "geo": {
+      "lat": "-8.698",
+      "lon": "122.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5310063002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nelle Lorang",
+      "en": "Nelle Lorang",
+      "slug": "nelle-lorang-5310063002"
+    },
+    "code": {
+      "id": "5310063002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5310063",
+      "level": 3,
+      "name": {
+        "local": "Nelle",
+        "en": "Nelle",
+        "slug": "nelle-5310063"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5310",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sikka",
+          "en": "Sikka",
+          "slug": "sikka-5310"
+        }
+      },
+      {
+        "id": "5310063",
+        "level": 3,
+        "name": {
+          "local": "Nelle",
+          "en": "Nelle",
+          "slug": "nelle-5310063"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86159"
+    ],
+    "geo": {
+      "lat": "-8.676",
+      "lon": "122.217"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

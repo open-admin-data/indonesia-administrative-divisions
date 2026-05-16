@@ -1,0 +1,48 @@
+{
+  "id": "3202",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sukabumi",
+    "en": "Sukabumi",
+    "slug": "sukabumi-3202"
+  },
+  "code": {
+    "id": "3202",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 47,
+    "village": 380
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.989",
+    "lon": "106.55"
+  },
+  "metadata": {},
+  "source": {}
+}

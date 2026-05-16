@@ -1,0 +1,56 @@
+{
+  "id": "5208010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pemenang",
+    "en": "Pemenang",
+    "slug": "pemenang-5208010"
+  },
+  "code": {
+    "id": "5208010",
+    "iso": null
+  },
+  "parent": {
+    "id": "5208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Utara",
+      "en": "Lombok Utara",
+      "slug": "lombok-utara-5208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Utara",
+        "en": "Lombok Utara",
+        "slug": "lombok-utara-5208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.406",
+    "lon": "116.081"
+  },
+  "metadata": {},
+  "source": {}
+}

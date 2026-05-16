@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3471110003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pakuncen",
+      "en": "Pakuncen",
+      "slug": "pakuncen-3471110003"
+    },
+    "code": {
+      "id": "3471110003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471110",
+      "level": 3,
+      "name": {
+        "local": "Wirobrajan",
+        "en": "Wirobrajan",
+        "slug": "wirobrajan-3471110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471110",
+        "level": 3,
+        "name": {
+          "local": "Wirobrajan",
+          "en": "Wirobrajan",
+          "slug": "wirobrajan-3471110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55251"
+    ],
+    "geo": {
+      "lat": "-7.798",
+      "lon": "110.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471110001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Patangpuluhan",
+      "en": "Patangpuluhan",
+      "slug": "patangpuluhan-3471110001"
+    },
+    "code": {
+      "id": "3471110001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471110",
+      "level": 3,
+      "name": {
+        "local": "Wirobrajan",
+        "en": "Wirobrajan",
+        "slug": "wirobrajan-3471110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471110",
+        "level": 3,
+        "name": {
+          "local": "Wirobrajan",
+          "en": "Wirobrajan",
+          "slug": "wirobrajan-3471110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55251"
+    ],
+    "geo": {
+      "lat": "-7.811",
+      "lon": "110.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3471110002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wirobrajan",
+      "en": "Wirobrajan",
+      "slug": "wirobrajan-3471110002"
+    },
+    "code": {
+      "id": "3471110002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3471110",
+      "level": 3,
+      "name": {
+        "local": "Wirobrajan",
+        "en": "Wirobrajan",
+        "slug": "wirobrajan-3471110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3471",
+        "level": 2,
+        "name": {
+          "local": "Kota Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-3471"
+        }
+      },
+      {
+        "id": "3471110",
+        "level": 3,
+        "name": {
+          "local": "Wirobrajan",
+          "en": "Wirobrajan",
+          "slug": "wirobrajan-3471110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55251"
+    ],
+    "geo": {
+      "lat": "-7.803",
+      "lon": "110.35"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

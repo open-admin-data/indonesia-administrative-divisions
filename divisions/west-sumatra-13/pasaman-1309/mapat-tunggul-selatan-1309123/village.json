@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1309123001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muaro Sei Lolo",
+      "en": "Muaro Sei Lolo",
+      "slug": "muaro-sei-lolo-1309123001"
+    },
+    "code": {
+      "id": "1309123001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309123",
+      "level": 3,
+      "name": {
+        "local": "Mapat Tunggul Selatan",
+        "en": "Mapat Tunggul Selatan",
+        "slug": "mapat-tunggul-selatan-1309123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309123",
+        "level": 3,
+        "name": {
+          "local": "Mapat Tunggul Selatan",
+          "en": "Mapat Tunggul Selatan",
+          "slug": "mapat-tunggul-selatan-1309123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26354"
+    ],
+    "geo": {
+      "lat": "0.276",
+      "lon": "100.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1309123002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Silayang",
+      "en": "Silayang",
+      "slug": "silayang-1309123002"
+    },
+    "code": {
+      "id": "1309123002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1309123",
+      "level": 3,
+      "name": {
+        "local": "Mapat Tunggul Selatan",
+        "en": "Mapat Tunggul Selatan",
+        "slug": "mapat-tunggul-selatan-1309123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1309",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman",
+          "en": "Pasaman",
+          "slug": "pasaman-1309"
+        }
+      },
+      {
+        "id": "1309123",
+        "level": 3,
+        "name": {
+          "local": "Mapat Tunggul Selatan",
+          "en": "Mapat Tunggul Selatan",
+          "slug": "mapat-tunggul-selatan-1309123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26354"
+    ],
+    "geo": {
+      "lat": "0.499",
+      "lon": "100.193"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

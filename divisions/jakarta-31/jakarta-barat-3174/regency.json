@@ -1,0 +1,48 @@
+{
+  "id": "3174",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Jakarta Barat",
+    "en": "Jakarta Barat",
+    "slug": "jakarta-barat-3174"
+  },
+  "code": {
+    "id": "3174",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "Dki Jakarta",
+      "en": "Jakarta",
+      "slug": "jakarta-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 54
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.248",
+    "lon": "106.808"
+  },
+  "metadata": {},
+  "source": {}
+}

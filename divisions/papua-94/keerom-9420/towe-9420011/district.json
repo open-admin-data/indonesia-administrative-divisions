@@ -1,0 +1,56 @@
+{
+  "id": "9420011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Towe",
+    "en": "Towe",
+    "slug": "towe-9420011"
+  },
+  "code": {
+    "id": "9420011",
+    "iso": null
+  },
+  "parent": {
+    "id": "9420",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Keerom",
+      "en": "Keerom",
+      "slug": "keerom-9420"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9420",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Keerom",
+        "en": "Keerom",
+        "slug": "keerom-9420"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.836",
+    "lon": "140.824"
+  },
+  "metadata": {},
+  "source": {}
+}

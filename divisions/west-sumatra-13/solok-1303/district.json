@@ -1,0 +1,786 @@
+[
+  {
+    "id": "1303090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bukit Sundi",
+      "en": "Bukit Sundi",
+      "slug": "bukit-sundi-1303090"
+    },
+    "code": {
+      "id": "1303090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.882",
+      "lon": "100.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Danau Kembar",
+      "en": "Danau Kembar",
+      "slug": "danau-kembar-1303071"
+    },
+    "code": {
+      "id": "1303071",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.049",
+      "lon": "100.688"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gunung Talang",
+      "en": "Gunung Talang",
+      "slug": "gunung-talang-1303080"
+    },
+    "code": {
+      "id": "1303080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.963",
+      "lon": "100.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hiliran Gumanti",
+      "en": "Hiliran Gumanti",
+      "slug": "hiliran-gumanti-1303051"
+    },
+    "code": {
+      "id": "1303051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.153",
+      "lon": "100.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ix Koto Sungai Lasi",
+      "en": "Ix Koto Sungai Lasi",
+      "slug": "ix-koto-sungai-lasi-1303100"
+    },
+    "code": {
+      "id": "1303100",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.789",
+      "lon": "100.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Junjung Sirih",
+      "en": "Junjung Sirih",
+      "slug": "junjung-sirih-1303140"
+    },
+    "code": {
+      "id": "1303140",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.68",
+      "lon": "100.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kubung",
+      "en": "Kubung",
+      "slug": "kubung-1303110"
+    },
+    "code": {
+      "id": "1303110",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.817",
+      "lon": "100.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembah Gumanti",
+      "en": "Lembah Gumanti",
+      "slug": "lembah-gumanti-1303050"
+    },
+    "code": {
+      "id": "1303050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.087",
+      "lon": "100.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembang Jaya",
+      "en": "Lembang Jaya",
+      "slug": "lembang-jaya-1303070"
+    },
+    "code": {
+      "id": "1303070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.963",
+      "lon": "100.717"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pantai Cermin",
+      "en": "Pantai Cermin",
+      "slug": "pantai-cermin-1303040"
+    },
+    "code": {
+      "id": "1303040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.238",
+      "lon": "100.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Payung Sekaki",
+      "en": "Payung Sekaki",
+      "slug": "payung-sekaki-1303060"
+    },
+    "code": {
+      "id": "1303060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.884",
+      "lon": "100.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tigo Lurah",
+      "en": "Tigo Lurah",
+      "slug": "tigo-lurah-1303061"
+    },
+    "code": {
+      "id": "1303061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-1.027",
+      "lon": "101.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "X Koto Diatas",
+      "en": "X Koto Diatas",
+      "slug": "x-koto-diatas-1303120"
+    },
+    "code": {
+      "id": "1303120",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.641",
+      "lon": "100.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "X Koto Singkarak",
+      "en": "X Koto Singkarak",
+      "slug": "x-koto-singkarak-1303130"
+    },
+    "code": {
+      "id": "1303130",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.69",
+      "lon": "100.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

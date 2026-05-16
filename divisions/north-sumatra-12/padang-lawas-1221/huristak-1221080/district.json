@@ -1,0 +1,56 @@
+{
+  "id": "1221080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Huristak",
+    "en": "Huristak",
+    "slug": "huristak-1221080"
+  },
+  "code": {
+    "id": "1221080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1221",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Padang Lawas",
+      "en": "Padang Lawas",
+      "slug": "padang-lawas-1221"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1221",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Padang Lawas",
+        "en": "Padang Lawas",
+        "slug": "padang-lawas-1221"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.394",
+    "lon": "99.923"
+  },
+  "metadata": {},
+  "source": {}
+}

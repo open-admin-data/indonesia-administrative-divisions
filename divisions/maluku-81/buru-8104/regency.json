@@ -1,0 +1,48 @@
+{
+  "id": "8104",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Buru",
+    "en": "Buru",
+    "slug": "buru-8104"
+  },
+  "code": {
+    "id": "8104",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "Maluku",
+      "en": "Maluku",
+      "slug": "maluku-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 81
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.259",
+    "lon": "127.103"
+  },
+  "metadata": {},
+  "source": {}
+}

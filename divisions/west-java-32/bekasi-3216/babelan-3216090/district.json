@@ -1,0 +1,56 @@
+{
+  "id": "3216090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Babelan",
+    "en": "Babelan",
+    "slug": "babelan-3216090"
+  },
+  "code": {
+    "id": "3216090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3216",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bekasi",
+      "en": "Bekasi",
+      "slug": "bekasi-3216"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3216",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bekasi",
+        "en": "Bekasi",
+        "slug": "bekasi-3216"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.127",
+    "lon": "107.03"
+  },
+  "metadata": {},
+  "source": {}
+}

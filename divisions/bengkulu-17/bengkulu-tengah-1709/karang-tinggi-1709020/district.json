@@ -1,0 +1,56 @@
+{
+  "id": "1709020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Karang Tinggi",
+    "en": "Karang Tinggi",
+    "slug": "karang-tinggi-1709020"
+  },
+  "code": {
+    "id": "1709020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1709",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bengkulu Tengah",
+      "en": "Bengkulu Tengah",
+      "slug": "bengkulu-tengah-1709"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1709",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bengkulu Tengah",
+        "en": "Bengkulu Tengah",
+        "slug": "bengkulu-tengah-1709"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.764",
+    "lon": "102.463"
+  },
+  "metadata": {},
+  "source": {}
+}

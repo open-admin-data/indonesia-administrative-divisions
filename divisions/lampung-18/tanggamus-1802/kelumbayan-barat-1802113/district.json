@@ -1,0 +1,56 @@
+{
+  "id": "1802113",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelumbayan Barat",
+    "en": "Kelumbayan Barat",
+    "slug": "kelumbayan-barat-1802113"
+  },
+  "code": {
+    "id": "1802113",
+    "iso": null
+  },
+  "parent": {
+    "id": "1802",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanggamus",
+      "en": "Tanggamus",
+      "slug": "tanggamus-1802"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanggamus",
+        "en": "Tanggamus",
+        "slug": "tanggamus-1802"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.639",
+    "lon": "105.019"
+  },
+  "metadata": {},
+  "source": {}
+}

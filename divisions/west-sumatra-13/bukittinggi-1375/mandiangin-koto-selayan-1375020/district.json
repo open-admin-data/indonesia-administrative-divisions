@@ -1,0 +1,56 @@
+{
+  "id": "1375020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mandiangin Koto Selayan",
+    "en": "Mandiangin Koto Selayan",
+    "slug": "mandiangin-koto-selayan-1375020"
+  },
+  "code": {
+    "id": "1375020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1375",
+    "level": 2,
+    "name": {
+      "local": "Kota Bukittinggi",
+      "en": "Bukittinggi",
+      "slug": "bukittinggi-1375"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1375",
+      "level": 2,
+      "name": {
+        "local": "Kota Bukittinggi",
+        "en": "Bukittinggi",
+        "slug": "bukittinggi-1375"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.291",
+    "lon": "100.365"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1801064",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Air Hitam",
+      "en": "Air Hitam",
+      "slug": "air-hitam-1801064"
+    },
+    "code": {
+      "id": "1801064",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.103",
+      "lon": "104.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Balik Bukit",
+      "en": "Balik Bukit",
+      "slug": "balik-bukit-1801040"
+    },
+    "code": {
+      "id": "1801040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.019",
+      "lon": "104.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801056",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bandar Negeri Suoh",
+      "en": "Bandar Negeri Suoh",
+      "slug": "bandar-negeri-suoh-1801056"
+    },
+    "code": {
+      "id": "1801056",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.233",
+      "lon": "104.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801053",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Brak",
+      "en": "Batu Brak",
+      "slug": "batu-brak-1801053"
+    },
+    "code": {
+      "id": "1801053",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.096",
+      "lon": "104.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801055",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Ketulis",
+      "en": "Batu Ketulis",
+      "slug": "batu-ketulis-1801055"
+    },
+    "code": {
+      "id": "1801055",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.008",
+      "lon": "104.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belalau",
+      "en": "Belalau",
+      "slug": "belalau-1801050"
+    },
+    "code": {
+      "id": "1801050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.966",
+      "lon": "104.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gedung Surian",
+      "en": "Gedung Surian",
+      "slug": "gedung-surian-1801062"
+    },
+    "code": {
+      "id": "1801062",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.106",
+      "lon": "104.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801063",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kebun Tebu",
+      "en": "Kebun Tebu",
+      "slug": "kebun-tebu-1801063"
+    },
+    "code": {
+      "id": "1801063",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.061",
+      "lon": "104.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lumbok Seminung",
+      "en": "Lumbok Seminung",
+      "slug": "lumbok-seminung-1801042"
+    },
+    "code": {
+      "id": "1801042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.935",
+      "lon": "103.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801054",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pagar Dewa",
+      "en": "Pagar Dewa",
+      "slug": "pagar-dewa-1801054"
+    },
+    "code": {
+      "id": "1801054",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.933",
+      "lon": "104.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sekincau",
+      "en": "Sekincau",
+      "slug": "sekincau-1801051"
+    },
+    "code": {
+      "id": "1801051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.996",
+      "lon": "104.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukau",
+      "en": "Sukau",
+      "slug": "sukau-1801041"
+    },
+    "code": {
+      "id": "1801041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.951",
+      "lon": "104.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sumber Jaya",
+      "en": "Sumber Jaya",
+      "slug": "sumber-jaya-1801060"
+    },
+    "code": {
+      "id": "1801060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.997",
+      "lon": "104.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suoh",
+      "en": "Suoh",
+      "slug": "suoh-1801052"
+    },
+    "code": {
+      "id": "1801052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.288",
+      "lon": "104.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1801061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Way Tenong",
+      "en": "Way Tenong",
+      "slug": "way-tenong-1801061"
+    },
+    "code": {
+      "id": "1801061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Barat",
+          "en": "Lampung Barat",
+          "slug": "lampung-barat-1801"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-5.056",
+      "lon": "104.383"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3603051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelapa Dua",
+    "en": "Kelapa Dua",
+    "slug": "kelapa-dua-3603051"
+  },
+  "code": {
+    "id": "3603051",
+    "iso": null
+  },
+  "parent": {
+    "id": "3603",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tangerang",
+      "en": "Tangerang",
+      "slug": "tangerang-3603"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3603",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tangerang",
+        "en": "Tangerang",
+        "slug": "tangerang-3603"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.239",
+    "lon": "106.614"
+  },
+  "metadata": {},
+  "source": {}
+}

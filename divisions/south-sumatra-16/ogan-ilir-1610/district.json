@@ -1,0 +1,898 @@
+[
+  {
+    "id": "1610060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Indralaya",
+      "en": "Indralaya",
+      "slug": "indralaya-1610060"
+    },
+    "code": {
+      "id": "1610060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.247",
+      "lon": "104.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Indralaya Selatan",
+      "en": "Indralaya Selatan",
+      "slug": "indralaya-selatan-1610062"
+    },
+    "code": {
+      "id": "1610062",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.304",
+      "lon": "104.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Indralaya Utara",
+      "en": "Indralaya Utara",
+      "slug": "indralaya-utara-1610061"
+    },
+    "code": {
+      "id": "1610061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.157",
+      "lon": "104.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kandis",
+      "en": "Kandis",
+      "slug": "kandis-1610031"
+    },
+    "code": {
+      "id": "1610031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.427",
+      "lon": "104.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lubuk Keliat",
+      "en": "Lubuk Keliat",
+      "slug": "lubuk-keliat-1610012"
+    },
+    "code": {
+      "id": "1610012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.478",
+      "lon": "104.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muara Kuang",
+      "en": "Muara Kuang",
+      "slug": "muara-kuang-1610010"
+    },
+    "code": {
+      "id": "1610010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.679",
+      "lon": "104.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Payaraman",
+      "en": "Payaraman",
+      "slug": "payaraman-1610021"
+    },
+    "code": {
+      "id": "1610021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.427",
+      "lon": "104.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pemulutan",
+      "en": "Pemulutan",
+      "slug": "pemulutan-1610050"
+    },
+    "code": {
+      "id": "1610050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 25
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.108",
+      "lon": "104.759"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pemulutan Barat",
+      "en": "Pemulutan Barat",
+      "slug": "pemulutan-barat-1610052"
+    },
+    "code": {
+      "id": "1610052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.179",
+      "lon": "104.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pemulutan Selatan",
+      "en": "Pemulutan Selatan",
+      "slug": "pemulutan-selatan-1610051"
+    },
+    "code": {
+      "id": "1610051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.224",
+      "lon": "104.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rambang Kuang",
+      "en": "Rambang Kuang",
+      "slug": "rambang-kuang-1610011"
+    },
+    "code": {
+      "id": "1610011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.624",
+      "lon": "104.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rantau Alai",
+      "en": "Rantau Alai",
+      "slug": "rantau-alai-1610030"
+    },
+    "code": {
+      "id": "1610030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.442",
+      "lon": "104.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rantau Panjang",
+      "en": "Rantau Panjang",
+      "slug": "rantau-panjang-1610041"
+    },
+    "code": {
+      "id": "1610041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.28",
+      "lon": "104.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Pinang",
+      "en": "Sungai Pinang",
+      "slug": "sungai-pinang-1610042"
+    },
+    "code": {
+      "id": "1610042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.358",
+      "lon": "104.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanjung Batu",
+      "en": "Tanjung Batu",
+      "slug": "tanjung-batu-1610020"
+    },
+    "code": {
+      "id": "1610020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.33",
+      "lon": "104.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1610040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanjung Raja",
+      "en": "Tanjung Raja",
+      "slug": "tanjung-raja-1610040"
+    },
+    "code": {
+      "id": "1610040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Ilir",
+        "en": "Ogan Ilir",
+        "slug": "ogan-ilir-1610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1610",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Ilir",
+          "en": "Ogan Ilir",
+          "slug": "ogan-ilir-1610"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.345",
+      "lon": "104.742"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

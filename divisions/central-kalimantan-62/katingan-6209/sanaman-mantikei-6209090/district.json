@@ -1,0 +1,56 @@
+{
+  "id": "6209090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sanaman Mantikei",
+    "en": "Sanaman Mantikei",
+    "slug": "sanaman-mantikei-6209090"
+  },
+  "code": {
+    "id": "6209090",
+    "iso": null
+  },
+  "parent": {
+    "id": "6209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Katingan",
+      "en": "Katingan",
+      "slug": "katingan-6209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Katingan",
+        "en": "Katingan",
+        "slug": "katingan-6209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.192",
+    "lon": "113.059"
+  },
+  "metadata": {},
+  "source": {}
+}

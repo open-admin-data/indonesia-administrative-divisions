@@ -1,0 +1,56 @@
+{
+  "id": "3205010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cisewu",
+    "en": "Cisewu",
+    "slug": "cisewu-3205010"
+  },
+  "code": {
+    "id": "3205010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Garut",
+      "en": "Garut",
+      "slug": "garut-3205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Garut",
+        "en": "Garut",
+        "slug": "garut-3205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.381",
+    "lon": "107.52"
+  },
+  "metadata": {},
+  "source": {}
+}

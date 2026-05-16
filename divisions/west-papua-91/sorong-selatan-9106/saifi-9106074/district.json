@@ -1,0 +1,56 @@
+{
+  "id": "9106074",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Saifi",
+    "en": "Saifi",
+    "slug": "saifi-9106074"
+  },
+  "code": {
+    "id": "9106074",
+    "iso": null
+  },
+  "parent": {
+    "id": "9106",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sorong Selatan",
+      "en": "Sorong Selatan",
+      "slug": "sorong-selatan-9106"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9106",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sorong Selatan",
+        "en": "Sorong Selatan",
+        "slug": "sorong-selatan-9106"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.48",
+    "lon": "131.815"
+  },
+  "metadata": {},
+  "source": {}
+}

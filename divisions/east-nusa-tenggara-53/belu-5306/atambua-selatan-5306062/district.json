@@ -1,0 +1,56 @@
+{
+  "id": "5306062",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Atambua Selatan",
+    "en": "Atambua Selatan",
+    "slug": "atambua-selatan-5306062"
+  },
+  "code": {
+    "id": "5306062",
+    "iso": null
+  },
+  "parent": {
+    "id": "5306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belu",
+      "en": "Belu",
+      "slug": "belu-5306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belu",
+        "en": "Belu",
+        "slug": "belu-5306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.122",
+    "lon": "124.881"
+  },
+  "metadata": {},
+  "source": {}
+}

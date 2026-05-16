@@ -1,0 +1,56 @@
+{
+  "id": "7303020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bantaeng",
+    "en": "Bantaeng",
+    "slug": "bantaeng-7303020"
+  },
+  "code": {
+    "id": "7303020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bantaeng",
+      "en": "Bantaeng",
+      "slug": "bantaeng-7303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bantaeng",
+        "en": "Bantaeng",
+        "slug": "bantaeng-7303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.504",
+    "lon": "119.966"
+  },
+  "metadata": {},
+  "source": {}
+}

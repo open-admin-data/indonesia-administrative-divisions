@@ -1,0 +1,786 @@
+[
+  {
+    "id": "3321060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bonang",
+      "en": "Bonang",
+      "slug": "bonang-3321060"
+    },
+    "code": {
+      "id": "3321060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.853",
+      "lon": "110.594"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Demak",
+      "en": "Demak",
+      "slug": "demak-3321070"
+    },
+    "code": {
+      "id": "3321070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.87",
+      "lon": "110.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dempet",
+      "en": "Dempet",
+      "slug": "dempet-3321090"
+    },
+    "code": {
+      "id": "3321090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.967",
+      "lon": "110.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gajah",
+      "en": "Gajah",
+      "slug": "gajah-3321100"
+    },
+    "code": {
+      "id": "3321100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.903",
+      "lon": "110.748"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Guntur",
+      "en": "Guntur",
+      "slug": "guntur-3321030"
+    },
+    "code": {
+      "id": "3321030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.978",
+      "lon": "110.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karang Tengah",
+      "en": "Karang Tengah",
+      "slug": "karang-tengah-3321050"
+    },
+    "code": {
+      "id": "3321050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.901",
+      "lon": "110.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karanganyar",
+      "en": "Karanganyar",
+      "slug": "karanganyar-3321110"
+    },
+    "code": {
+      "id": "3321110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.845",
+      "lon": "110.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangawen",
+      "en": "Karangawen",
+      "slug": "karangawen-3321020"
+    },
+    "code": {
+      "id": "3321020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.073",
+      "lon": "110.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kebonagung",
+      "en": "Kebonagung",
+      "slug": "kebonagung-3321091"
+    },
+    "code": {
+      "id": "3321091",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.009",
+      "lon": "110.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mijen",
+      "en": "Mijen",
+      "slug": "mijen-3321120"
+    },
+    "code": {
+      "id": "3321120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.815",
+      "lon": "110.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mranggen",
+      "en": "Mranggen",
+      "slug": "mranggen-3321010"
+    },
+    "code": {
+      "id": "3321010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.05",
+      "lon": "110.522"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sayung",
+      "en": "Sayung",
+      "slug": "sayung-3321040"
+    },
+    "code": {
+      "id": "3321040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.924",
+      "lon": "110.513"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wedung",
+      "en": "Wedung",
+      "slug": "wedung-3321130"
+    },
+    "code": {
+      "id": "3321130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.771",
+      "lon": "110.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3321080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wonosalam",
+      "en": "Wonosalam",
+      "slug": "wonosalam-3321080"
+    },
+    "code": {
+      "id": "3321080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Demak",
+        "en": "Demak",
+        "slug": "demak-3321"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3321",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Demak",
+          "en": "Demak",
+          "slug": "demak-3321"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.921",
+      "lon": "110.658"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

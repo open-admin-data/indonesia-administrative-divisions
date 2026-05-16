@@ -1,0 +1,56 @@
+{
+  "id": "1301011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagai Selatan",
+    "en": "Pagai Selatan",
+    "slug": "pagai-selatan-1301011"
+  },
+  "code": {
+    "id": "1301011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1301",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Mentawai",
+      "en": "Kepulauan Mentawai",
+      "slug": "kepulauan-mentawai-1301"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Mentawai",
+        "en": "Kepulauan Mentawai",
+        "slug": "kepulauan-mentawai-1301"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.417",
+    "lon": "100.599"
+  },
+  "metadata": {},
+  "source": {}
+}

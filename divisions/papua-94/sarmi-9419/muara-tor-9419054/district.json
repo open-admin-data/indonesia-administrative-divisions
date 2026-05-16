@@ -1,0 +1,56 @@
+{
+  "id": "9419054",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Tor",
+    "en": "Muara Tor",
+    "slug": "muara-tor-9419054"
+  },
+  "code": {
+    "id": "9419054",
+    "iso": null
+  },
+  "parent": {
+    "id": "9419",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sarmi",
+      "en": "Sarmi",
+      "slug": "sarmi-9419"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9419",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sarmi",
+        "en": "Sarmi",
+        "slug": "sarmi-9419"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.468",
+    "lon": "139.203"
+  },
+  "metadata": {},
+  "source": {}
+}

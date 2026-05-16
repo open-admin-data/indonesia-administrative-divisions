@@ -1,0 +1,56 @@
+{
+  "id": "7326140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bengkelekila",
+    "en": "Bengkelekila",
+    "slug": "bengkelekila-7326140"
+  },
+  "code": {
+    "id": "7326140",
+    "iso": null
+  },
+  "parent": {
+    "id": "7326",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toraja Utara",
+      "en": "Toraja Utara",
+      "slug": "toraja-utara-7326"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7326",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toraja Utara",
+        "en": "Toraja Utara",
+        "slug": "toraja-utara-7326"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.889",
+    "lon": "119.9"
+  },
+  "metadata": {},
+  "source": {}
+}

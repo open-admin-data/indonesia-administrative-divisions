@@ -1,0 +1,842 @@
+[
+  {
+    "id": "1706041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Air Dikit",
+      "en": "Air Dikit",
+      "slug": "air-dikit-1706041"
+    },
+    "code": {
+      "id": "1706041",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.657",
+      "lon": "101.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Air Manjunto",
+      "en": "Air Manjunto",
+      "slug": "air-manjunto-1706051"
+    },
+    "code": {
+      "id": "1706051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.49",
+      "lon": "101.17"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Air Rami",
+      "en": "Air Rami",
+      "slug": "air-rami-1706011"
+    },
+    "code": {
+      "id": "1706011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.021",
+      "lon": "101.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ipuh",
+      "en": "Ipuh",
+      "slug": "ipuh-1706010"
+    },
+    "code": {
+      "id": "1706010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.992",
+      "lon": "101.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Mukomuko",
+      "en": "Kota Mukomuko",
+      "slug": "kota-mukomuko-1706040"
+    },
+    "code": {
+      "id": "1706040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.582",
+      "lon": "101.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lubuk Pinang",
+      "en": "Lubuk Pinang",
+      "slug": "lubuk-pinang-1706050"
+    },
+    "code": {
+      "id": "1706050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.422",
+      "lon": "101.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malin Deman",
+      "en": "Malin Deman",
+      "slug": "malin-deman-1706012"
+    },
+    "code": {
+      "id": "1706012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.825",
+      "lon": "101.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penarik",
+      "en": "Penarik",
+      "slug": "penarik-1706031"
+    },
+    "code": {
+      "id": "1706031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.6",
+      "lon": "101.433"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pondok Suguh",
+      "en": "Pondok Suguh",
+      "slug": "pondok-suguh-1706020"
+    },
+    "code": {
+      "id": "1706020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.724",
+      "lon": "101.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selagan Raya",
+      "en": "Selagan Raya",
+      "slug": "selagan-raya-1706032"
+    },
+    "code": {
+      "id": "1706032",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.495",
+      "lon": "101.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Rumbai",
+      "en": "Sungai Rumbai",
+      "slug": "sungai-rumbai-1706021"
+    },
+    "code": {
+      "id": "1706021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.769",
+      "lon": "101.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teramang Jaya",
+      "en": "Teramang Jaya",
+      "slug": "teramang-jaya-1706022"
+    },
+    "code": {
+      "id": "1706022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.682",
+      "lon": "101.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teras Terunjam",
+      "en": "Teras Terunjam",
+      "slug": "teras-terunjam-1706030"
+    },
+    "code": {
+      "id": "1706030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.56",
+      "lon": "101.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "V Koto",
+      "en": "V Koto",
+      "slug": "v-koto-1706052"
+    },
+    "code": {
+      "id": "1706052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.418",
+      "lon": "101.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1706042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Xiv Koto",
+      "en": "Xiv Koto",
+      "slug": "xiv-koto-1706042"
+    },
+    "code": {
+      "id": "1706042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mukomuko",
+        "en": "Mukomuko",
+        "slug": "mukomuko-1706"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1706",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mukomuko",
+          "en": "Mukomuko",
+          "slug": "mukomuko-1706"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.472",
+      "lon": "101.079"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

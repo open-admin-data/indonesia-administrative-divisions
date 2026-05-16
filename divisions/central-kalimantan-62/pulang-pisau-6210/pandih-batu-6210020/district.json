@@ -1,0 +1,56 @@
+{
+  "id": "6210020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pandih Batu",
+    "en": "Pandih Batu",
+    "slug": "pandih-batu-6210020"
+  },
+  "code": {
+    "id": "6210020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pulang Pisau",
+      "en": "Pulang Pisau",
+      "slug": "pulang-pisau-6210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pulang Pisau",
+        "en": "Pulang Pisau",
+        "slug": "pulang-pisau-6210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.079",
+    "lon": "114.109"
+  },
+  "metadata": {},
+  "source": {}
+}

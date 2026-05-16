@@ -1,0 +1,48 @@
+{
+  "id": "1805",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lampung Tengah",
+    "en": "Lampung Tengah",
+    "slug": "lampung-tengah-1805"
+  },
+  "code": {
+    "id": "1805",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 28,
+    "village": 314
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.495",
+    "lon": "105.22"
+  },
+  "metadata": {},
+  "source": {}
+}

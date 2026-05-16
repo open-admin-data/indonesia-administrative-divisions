@@ -1,0 +1,56 @@
+{
+  "id": "1309121",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rao",
+    "en": "Rao",
+    "slug": "rao-1309121"
+  },
+  "code": {
+    "id": "1309121",
+    "iso": null
+  },
+  "parent": {
+    "id": "1309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pasaman",
+      "en": "Pasaman",
+      "slug": "pasaman-1309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pasaman",
+        "en": "Pasaman",
+        "slug": "pasaman-1309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.565",
+    "lon": "99.982"
+  },
+  "metadata": {},
+  "source": {}
+}

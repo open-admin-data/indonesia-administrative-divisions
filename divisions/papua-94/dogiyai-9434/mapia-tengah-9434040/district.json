@@ -1,0 +1,56 @@
+{
+  "id": "9434040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mapia Tengah",
+    "en": "Mapia Tengah",
+    "slug": "mapia-tengah-9434040"
+  },
+  "code": {
+    "id": "9434040",
+    "iso": null
+  },
+  "parent": {
+    "id": "9434",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dogiyai",
+      "en": "Dogiyai",
+      "slug": "dogiyai-9434"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9434",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dogiyai",
+        "en": "Dogiyai",
+        "slug": "dogiyai-9434"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.098",
+    "lon": "135.826"
+  },
+  "metadata": {},
+  "source": {}
+}

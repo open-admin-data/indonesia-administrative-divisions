@@ -1,0 +1,56 @@
+{
+  "id": "6311031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tebing Tinggi",
+    "en": "Tebing Tinggi",
+    "slug": "tebing-tinggi-6311031"
+  },
+  "code": {
+    "id": "6311031",
+    "iso": null
+  },
+  "parent": {
+    "id": "6311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Balangan",
+      "en": "Balangan",
+      "slug": "balangan-6311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Balangan",
+        "en": "Balangan",
+        "slug": "balangan-6311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.479",
+    "lon": "115.684"
+  },
+  "metadata": {},
+  "source": {}
+}

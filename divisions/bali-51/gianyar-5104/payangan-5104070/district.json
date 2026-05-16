@@ -1,0 +1,56 @@
+{
+  "id": "5104070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Payangan",
+    "en": "Payangan",
+    "slug": "payangan-5104070"
+  },
+  "code": {
+    "id": "5104070",
+    "iso": null
+  },
+  "parent": {
+    "id": "5104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gianyar",
+      "en": "Gianyar",
+      "slug": "gianyar-5104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.395",
+    "lon": "115.26"
+  },
+  "metadata": {},
+  "source": {}
+}

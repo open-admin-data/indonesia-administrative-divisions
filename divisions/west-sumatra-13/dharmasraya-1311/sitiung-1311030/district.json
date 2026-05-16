@@ -1,0 +1,56 @@
+{
+  "id": "1311030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sitiung",
+    "en": "Sitiung",
+    "slug": "sitiung-1311030"
+  },
+  "code": {
+    "id": "1311030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dharmasraya",
+      "en": "Dharmasraya",
+      "slug": "dharmasraya-1311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.006",
+    "lon": "101.629"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,48 @@
+{
+  "id": "3401",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kulon Progo",
+    "en": "Kulon Progo",
+    "slug": "kulon-progo-3401"
+  },
+  "code": {
+    "id": "3401",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "Di Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 83
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.858",
+    "lon": "110.159"
+  },
+  "metadata": {},
+  "source": {}
+}

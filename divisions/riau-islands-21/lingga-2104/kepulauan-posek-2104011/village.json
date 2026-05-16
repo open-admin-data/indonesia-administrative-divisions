@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2104011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Busung Panjang",
+      "en": "Busung Panjang",
+      "slug": "busung-panjang-2104011003"
+    },
+    "code": {
+      "id": "2104011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104011",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Posek",
+        "en": "Kepulauan Posek",
+        "slug": "kepulauan-posek-2104011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104011",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Posek",
+          "en": "Kepulauan Posek",
+          "slug": "kepulauan-posek-2104011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29876"
+    ],
+    "geo": {
+      "lat": "1.012",
+      "lon": "104.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Posek",
+      "en": "Posek",
+      "slug": "posek-2104011001"
+    },
+    "code": {
+      "id": "2104011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104011",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Posek",
+        "en": "Kepulauan Posek",
+        "slug": "kepulauan-posek-2104011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104011",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Posek",
+          "en": "Kepulauan Posek",
+          "slug": "kepulauan-posek-2104011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29876"
+    ],
+    "geo": {
+      "lat": "-0.377",
+      "lon": "104.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suak Buaya",
+      "en": "Suak Buaya",
+      "slug": "suak-buaya-2104011002"
+    },
+    "code": {
+      "id": "2104011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104011",
+      "level": 3,
+      "name": {
+        "local": "Kepulauan Posek",
+        "en": "Kepulauan Posek",
+        "slug": "kepulauan-posek-2104011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104011",
+        "level": 3,
+        "name": {
+          "local": "Kepulauan Posek",
+          "en": "Kepulauan Posek",
+          "slug": "kepulauan-posek-2104011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29876"
+    ],
+    "geo": {
+      "lat": "0.177",
+      "lon": "104.222"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

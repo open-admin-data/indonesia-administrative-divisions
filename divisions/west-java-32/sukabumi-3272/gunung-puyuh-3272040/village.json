@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3272040004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karamat",
+      "en": "Karamat",
+      "slug": "karamat-3272040004"
+    },
+    "code": {
+      "id": "3272040004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272040",
+      "level": 3,
+      "name": {
+        "local": "Gunung Puyuh",
+        "en": "Gunung Puyuh",
+        "slug": "gunung-puyuh-3272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      },
+      {
+        "id": "3272040",
+        "level": 3,
+        "name": {
+          "local": "Gunung Puyuh",
+          "en": "Gunung Puyuh",
+          "slug": "gunung-puyuh-3272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43121"
+    ],
+    "geo": {
+      "lat": "-6.906",
+      "lon": "106.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272040001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Tengah",
+      "en": "Karang Tengah",
+      "slug": "karang-tengah-3272040001"
+    },
+    "code": {
+      "id": "3272040001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272040",
+      "level": 3,
+      "name": {
+        "local": "Gunung Puyuh",
+        "en": "Gunung Puyuh",
+        "slug": "gunung-puyuh-3272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      },
+      {
+        "id": "3272040",
+        "level": 3,
+        "name": {
+          "local": "Gunung Puyuh",
+          "en": "Gunung Puyuh",
+          "slug": "gunung-puyuh-3272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43121"
+    ],
+    "geo": {
+      "lat": "-6.906",
+      "lon": "106.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3272040003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sriwidari",
+      "en": "Sriwidari",
+      "slug": "sriwidari-3272040003"
+    },
+    "code": {
+      "id": "3272040003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3272040",
+      "level": 3,
+      "name": {
+        "local": "Gunung Puyuh",
+        "en": "Gunung Puyuh",
+        "slug": "gunung-puyuh-3272040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3272",
+        "level": 2,
+        "name": {
+          "local": "Kota Sukabumi",
+          "en": "Sukabumi",
+          "slug": "sukabumi-3272"
+        }
+      },
+      {
+        "id": "3272040",
+        "level": 3,
+        "name": {
+          "local": "Gunung Puyuh",
+          "en": "Gunung Puyuh",
+          "slug": "gunung-puyuh-3272040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43121"
+    ],
+    "geo": {
+      "lat": "-6.916",
+      "lon": "106.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

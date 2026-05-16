@@ -1,0 +1,56 @@
+{
+  "id": "3374140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Semarang Barat",
+    "en": "Semarang Barat",
+    "slug": "semarang-barat-3374140"
+  },
+  "code": {
+    "id": "3374140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3374",
+    "level": 2,
+    "name": {
+      "local": "Kota Semarang",
+      "en": "Semarang",
+      "slug": "semarang-3374"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3374",
+      "level": 2,
+      "name": {
+        "local": "Kota Semarang",
+        "en": "Semarang",
+        "slug": "semarang-3374"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.98",
+    "lon": "110.383"
+  },
+  "metadata": {},
+  "source": {}
+}

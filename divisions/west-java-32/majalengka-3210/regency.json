@@ -1,0 +1,48 @@
+{
+  "id": "3210",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Majalengka",
+    "en": "Majalengka",
+    "slug": "majalengka-3210"
+  },
+  "code": {
+    "id": "3210",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 26,
+    "village": 330
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.836",
+    "lon": "108.228"
+  },
+  "metadata": {},
+  "source": {}
+}

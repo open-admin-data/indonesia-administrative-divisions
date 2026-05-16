@@ -1,0 +1,48 @@
+{
+  "id": "3313",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Karanganyar",
+    "en": "Karanganyar",
+    "slug": "karanganyar-3313"
+  },
+  "code": {
+    "id": "3313",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "Jawa Tengah",
+      "en": "Central Java",
+      "slug": "central-java-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 162
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.596",
+    "lon": "110.94"
+  },
+  "metadata": {},
+  "source": {}
+}

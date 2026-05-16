@@ -1,0 +1,56 @@
+{
+  "id": "7503030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Marisa",
+    "en": "Marisa",
+    "slug": "marisa-7503030"
+  },
+  "code": {
+    "id": "7503030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pohuwato",
+      "en": "Pohuwato",
+      "slug": "pohuwato-7503"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.471",
+    "lon": "121.962"
+  },
+  "metadata": {},
+  "source": {}
+}

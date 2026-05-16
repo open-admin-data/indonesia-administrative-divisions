@@ -1,0 +1,48 @@
+{
+  "id": "3527",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sampang",
+    "en": "Sampang",
+    "slug": "sampang-3527"
+  },
+  "code": {
+    "id": "3527",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "Jawa Timur",
+      "en": "East Java",
+      "slug": "east-java-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 14,
+    "village": 178
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.188",
+    "lon": "113.237"
+  },
+  "metadata": {},
+  "source": {}
+}

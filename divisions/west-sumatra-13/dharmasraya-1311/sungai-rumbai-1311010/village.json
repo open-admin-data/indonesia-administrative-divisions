@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1311010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kurnia Koto Salak",
+      "en": "Kurnia Koto Salak",
+      "slug": "kurnia-koto-salak-1311010006"
+    },
+    "code": {
+      "id": "1311010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311010",
+      "level": 3,
+      "name": {
+        "local": "Sungai Rumbai",
+        "en": "Sungai Rumbai",
+        "slug": "sungai-rumbai-1311010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311010",
+        "level": 3,
+        "name": {
+          "local": "Sungai Rumbai",
+          "en": "Sungai Rumbai",
+          "slug": "sungai-rumbai-1311010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27686"
+    ],
+    "geo": {
+      "lat": "-1.201",
+      "lon": "101.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311010008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kurnia Selatan",
+      "en": "Kurnia Selatan",
+      "slug": "kurnia-selatan-1311010008"
+    },
+    "code": {
+      "id": "1311010008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311010",
+      "level": 3,
+      "name": {
+        "local": "Sungai Rumbai",
+        "en": "Sungai Rumbai",
+        "slug": "sungai-rumbai-1311010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311010",
+        "level": 3,
+        "name": {
+          "local": "Sungai Rumbai",
+          "en": "Sungai Rumbai",
+          "slug": "sungai-rumbai-1311010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27686"
+    ],
+    "geo": {
+      "lat": "-1.22",
+      "lon": "101.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Rumbai",
+      "en": "Sungai Rumbai",
+      "slug": "sungai-rumbai-1311010005"
+    },
+    "code": {
+      "id": "1311010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311010",
+      "level": 3,
+      "name": {
+        "local": "Sungai Rumbai",
+        "en": "Sungai Rumbai",
+        "slug": "sungai-rumbai-1311010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311010",
+        "level": 3,
+        "name": {
+          "local": "Sungai Rumbai",
+          "en": "Sungai Rumbai",
+          "slug": "sungai-rumbai-1311010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27686"
+    ],
+    "geo": {
+      "lat": "-1.215",
+      "lon": "101.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1311010007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Rumbai Timur",
+      "en": "Sungai Rumbai Timur",
+      "slug": "sungai-rumbai-timur-1311010007"
+    },
+    "code": {
+      "id": "1311010007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1311010",
+      "level": 3,
+      "name": {
+        "local": "Sungai Rumbai",
+        "en": "Sungai Rumbai",
+        "slug": "sungai-rumbai-1311010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1311",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Dharmasraya",
+          "en": "Dharmasraya",
+          "slug": "dharmasraya-1311"
+        }
+      },
+      {
+        "id": "1311010",
+        "level": 3,
+        "name": {
+          "local": "Sungai Rumbai",
+          "en": "Sungai Rumbai",
+          "slug": "sungai-rumbai-1311010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27686"
+    ],
+    "geo": {
+      "lat": "-1.208",
+      "lon": "101.744"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "6103",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Landak",
+    "en": "Landak",
+    "slug": "landak-6103"
+  },
+  "code": {
+    "id": "6103",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 13,
+    "village": 149
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.123",
+    "lon": "110.596"
+  },
+  "metadata": {},
+  "source": {}
+}

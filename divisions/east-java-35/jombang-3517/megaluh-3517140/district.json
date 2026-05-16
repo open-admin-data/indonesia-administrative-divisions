@@ -1,0 +1,56 @@
+{
+  "id": "3517140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Megaluh",
+    "en": "Megaluh",
+    "slug": "megaluh-3517140"
+  },
+  "code": {
+    "id": "3517140",
+    "iso": null
+  },
+  "parent": {
+    "id": "3517",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Jombang",
+      "en": "Jombang",
+      "slug": "jombang-3517"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3517",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jombang",
+        "en": "Jombang",
+        "slug": "jombang-3517"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.501",
+    "lon": "112.191"
+  },
+  "metadata": {},
+  "source": {}
+}

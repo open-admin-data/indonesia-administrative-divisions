@@ -1,0 +1,132 @@
+[
+  {
+    "id": "7604023001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Balabalakang",
+      "en": "Balabalakang",
+      "slug": "balabalakang-7604023001"
+    },
+    "code": {
+      "id": "7604023001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604023",
+      "level": 3,
+      "name": {
+        "local": "Balabalakang",
+        "en": "Balabalakang",
+        "slug": "balabalakang-7604023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      },
+      {
+        "id": "7604023",
+        "level": 3,
+        "name": {
+          "local": "Balabalakang",
+          "en": "Balabalakang",
+          "slug": "balabalakang-7604023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91554"
+    ],
+    "geo": {
+      "lat": "-2.492",
+      "lon": "119.325"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7604023002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Balabalakang Timur",
+      "en": "Balabalakang Timur",
+      "slug": "balabalakang-timur-7604023002"
+    },
+    "code": {
+      "id": "7604023002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7604023",
+      "level": 3,
+      "name": {
+        "local": "Balabalakang",
+        "en": "Balabalakang",
+        "slug": "balabalakang-7604023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Barat",
+          "en": "West Sulawesi",
+          "slug": "west-sulawesi-76"
+        }
+      },
+      {
+        "id": "7604",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Mamuju",
+          "en": "Mamuju",
+          "slug": "mamuju-7604"
+        }
+      },
+      {
+        "id": "7604023",
+        "level": 3,
+        "name": {
+          "local": "Balabalakang",
+          "en": "Balabalakang",
+          "slug": "balabalakang-7604023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91554"
+    ],
+    "geo": {
+      "lat": "-2.492",
+      "lon": "119.325"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

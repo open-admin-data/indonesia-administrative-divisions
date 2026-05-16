@@ -1,0 +1,56 @@
+{
+  "id": "6111050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seponti",
+    "en": "Seponti",
+    "slug": "seponti-6111050"
+  },
+  "code": {
+    "id": "6111050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6111",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kayong Utara",
+      "en": "Kayong Utara",
+      "slug": "kayong-utara-6111"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6111",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kayong Utara",
+        "en": "Kayong Utara",
+        "slug": "kayong-utara-6111"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.844",
+    "lon": "109.922"
+  },
+  "metadata": {},
+  "source": {}
+}

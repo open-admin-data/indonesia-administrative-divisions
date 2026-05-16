@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2102062003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mantang Baru",
+      "en": "Mantang Baru",
+      "slug": "mantang-baru-2102062003"
+    },
+    "code": {
+      "id": "2102062003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102062",
+      "level": 3,
+      "name": {
+        "local": "Mantang",
+        "en": "Mantang",
+        "slug": "mantang-2102062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102062",
+        "level": 3,
+        "name": {
+          "local": "Mantang",
+          "en": "Mantang",
+          "slug": "mantang-2102062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29194"
+    ],
+    "geo": {
+      "lat": "0.764",
+      "lon": "104.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102062002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mantang Besar",
+      "en": "Mantang Besar",
+      "slug": "mantang-besar-2102062002"
+    },
+    "code": {
+      "id": "2102062002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102062",
+      "level": 3,
+      "name": {
+        "local": "Mantang",
+        "en": "Mantang",
+        "slug": "mantang-2102062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102062",
+        "level": 3,
+        "name": {
+          "local": "Mantang",
+          "en": "Mantang",
+          "slug": "mantang-2102062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29194"
+    ],
+    "geo": {
+      "lat": "0.77",
+      "lon": "104.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2102062001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mantang Lama",
+      "en": "Mantang Lama",
+      "slug": "mantang-lama-2102062001"
+    },
+    "code": {
+      "id": "2102062001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2102062",
+      "level": 3,
+      "name": {
+        "local": "Mantang",
+        "en": "Mantang",
+        "slug": "mantang-2102062"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bintan",
+          "en": "Bintan",
+          "slug": "bintan-2102"
+        }
+      },
+      {
+        "id": "2102062",
+        "level": 3,
+        "name": {
+          "local": "Mantang",
+          "en": "Mantang",
+          "slug": "mantang-2102062"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29194"
+    ],
+    "geo": {
+      "lat": "0.78",
+      "lon": "104.571"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

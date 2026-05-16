@@ -1,0 +1,56 @@
+{
+  "id": "1606102",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tungkal Jaya",
+    "en": "Tungkal Jaya",
+    "slug": "tungkal-jaya-1606102"
+  },
+  "code": {
+    "id": "1606102",
+    "iso": null
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Musi Banyuasin",
+      "en": "Musi Banyuasin",
+      "slug": "musi-banyuasin-1606"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Musi Banyuasin",
+        "en": "Musi Banyuasin",
+        "slug": "musi-banyuasin-1606"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.302",
+    "lon": "103.788"
+  },
+  "metadata": {},
+  "source": {}
+}

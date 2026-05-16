@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1303051002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sariak Alahan Tigo",
+      "en": "Sariak Alahan Tigo",
+      "slug": "sariak-alahan-tigo-1303051002"
+    },
+    "code": {
+      "id": "1303051002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303051",
+      "level": 3,
+      "name": {
+        "local": "Hiliran Gumanti",
+        "en": "Hiliran Gumanti",
+        "slug": "hiliran-gumanti-1303051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303051",
+        "level": 3,
+        "name": {
+          "local": "Hiliran Gumanti",
+          "en": "Hiliran Gumanti",
+          "slug": "hiliran-gumanti-1303051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27372"
+    ],
+    "geo": {
+      "lat": "-1.124",
+      "lon": "100.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303051001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Abu",
+      "en": "Sungai Abu",
+      "slug": "sungai-abu-1303051001"
+    },
+    "code": {
+      "id": "1303051001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303051",
+      "level": 3,
+      "name": {
+        "local": "Hiliran Gumanti",
+        "en": "Hiliran Gumanti",
+        "slug": "hiliran-gumanti-1303051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303051",
+        "level": 3,
+        "name": {
+          "local": "Hiliran Gumanti",
+          "en": "Hiliran Gumanti",
+          "slug": "hiliran-gumanti-1303051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27372"
+    ],
+    "geo": {
+      "lat": "-1.181",
+      "lon": "100.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303051003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talang Babungo",
+      "en": "Talang Babungo",
+      "slug": "talang-babungo-1303051003"
+    },
+    "code": {
+      "id": "1303051003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303051",
+      "level": 3,
+      "name": {
+        "local": "Hiliran Gumanti",
+        "en": "Hiliran Gumanti",
+        "slug": "hiliran-gumanti-1303051"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303051",
+        "level": 3,
+        "name": {
+          "local": "Hiliran Gumanti",
+          "en": "Hiliran Gumanti",
+          "slug": "hiliran-gumanti-1303051"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27372"
+    ],
+    "geo": {
+      "lat": "-1.096",
+      "lon": "100.868"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

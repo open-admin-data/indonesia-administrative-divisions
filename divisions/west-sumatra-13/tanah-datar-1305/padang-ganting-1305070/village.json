@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1305070002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Atar",
+      "en": "Atar",
+      "slug": "atar-1305070002"
+    },
+    "code": {
+      "id": "1305070002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305070",
+      "level": 3,
+      "name": {
+        "local": "Padang Ganting",
+        "en": "Padang Ganting",
+        "slug": "padang-ganting-1305070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanah Datar",
+          "en": "Tanah Datar",
+          "slug": "tanah-datar-1305"
+        }
+      },
+      {
+        "id": "1305070",
+        "level": 3,
+        "name": {
+          "local": "Padang Ganting",
+          "en": "Padang Ganting",
+          "slug": "padang-ganting-1305070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27282"
+    ],
+    "geo": {
+      "lat": "-0.53",
+      "lon": "100.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1305070001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Padang Ganting",
+      "en": "Padang Ganting",
+      "slug": "padang-ganting-1305070001"
+    },
+    "code": {
+      "id": "1305070001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1305070",
+      "level": 3,
+      "name": {
+        "local": "Padang Ganting",
+        "en": "Padang Ganting",
+        "slug": "padang-ganting-1305070"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tanah Datar",
+          "en": "Tanah Datar",
+          "slug": "tanah-datar-1305"
+        }
+      },
+      {
+        "id": "1305070",
+        "level": 3,
+        "name": {
+          "local": "Padang Ganting",
+          "en": "Padang Ganting",
+          "slug": "padang-ganting-1305070"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27282"
+    ],
+    "geo": {
+      "lat": "-0.545",
+      "lon": "100.699"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

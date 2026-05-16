@@ -1,0 +1,56 @@
+{
+  "id": "5311040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ndona",
+    "en": "Ndona",
+    "slug": "ndona-5311040"
+  },
+  "code": {
+    "id": "5311040",
+    "iso": null
+  },
+  "parent": {
+    "id": "5311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ende",
+      "en": "Ende",
+      "slug": "ende-5311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ende",
+        "en": "Ende",
+        "slug": "ende-5311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.829",
+    "lon": "121.752"
+  },
+  "metadata": {},
+  "source": {}
+}

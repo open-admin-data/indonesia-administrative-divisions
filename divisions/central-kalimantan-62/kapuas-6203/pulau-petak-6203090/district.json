@@ -1,0 +1,56 @@
+{
+  "id": "6203090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Petak",
+    "en": "Pulau Petak",
+    "slug": "pulau-petak-6203090"
+  },
+  "code": {
+    "id": "6203090",
+    "iso": null
+  },
+  "parent": {
+    "id": "6203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kapuas",
+      "en": "Kapuas",
+      "slug": "kapuas-6203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kapuas",
+        "en": "Kapuas",
+        "slug": "kapuas-6203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.912",
+    "lon": "114.487"
+  },
+  "metadata": {},
+  "source": {}
+}

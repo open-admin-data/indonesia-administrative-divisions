@@ -1,0 +1,197 @@
+[
+  {
+    "id": "6504160001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lapri",
+      "en": "Lapri",
+      "slug": "lapri-6504160001"
+    },
+    "code": {
+      "id": "6504160001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504160",
+      "level": 3,
+      "name": {
+        "local": "Sebatik Utara",
+        "en": "Sebatik Utara",
+        "slug": "sebatik-utara-6504160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504160",
+        "level": 3,
+        "name": {
+          "local": "Sebatik Utara",
+          "en": "Sebatik Utara",
+          "slug": "sebatik-utara-6504160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77437"
+    ],
+    "geo": {
+      "lat": "4.159",
+      "lon": "117.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6504160002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pancang",
+      "en": "Pancang",
+      "slug": "pancang-6504160002"
+    },
+    "code": {
+      "id": "6504160002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504160",
+      "level": 3,
+      "name": {
+        "local": "Sebatik Utara",
+        "en": "Sebatik Utara",
+        "slug": "sebatik-utara-6504160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504160",
+        "level": 3,
+        "name": {
+          "local": "Sebatik Utara",
+          "en": "Sebatik Utara",
+          "slug": "sebatik-utara-6504160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77437"
+    ],
+    "geo": {
+      "lat": "4.153",
+      "lon": "117.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6504160003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Seberang",
+      "en": "Seberang",
+      "slug": "seberang-6504160003"
+    },
+    "code": {
+      "id": "6504160003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6504160",
+      "level": 3,
+      "name": {
+        "local": "Sebatik Utara",
+        "en": "Sebatik Utara",
+        "slug": "sebatik-utara-6504160"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "65",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Utara",
+          "en": "North Kalimantan",
+          "slug": "north-kalimantan-65"
+        }
+      },
+      {
+        "id": "6504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nunukan",
+          "en": "Nunukan",
+          "slug": "nunukan-6504"
+        }
+      },
+      {
+        "id": "6504160",
+        "level": 3,
+        "name": {
+          "local": "Sebatik Utara",
+          "en": "Sebatik Utara",
+          "slug": "sebatik-utara-6504160"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "77437"
+    ],
+    "geo": {
+      "lat": "4.161",
+      "lon": "117.877"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

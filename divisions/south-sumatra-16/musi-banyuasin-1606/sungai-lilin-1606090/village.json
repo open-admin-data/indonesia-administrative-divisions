@@ -1,0 +1,977 @@
+[
+  {
+    "id": "1606090021",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Berlian Makmur",
+      "en": "Berlian Makmur",
+      "slug": "berlian-makmur-1606090021"
+    },
+    "code": {
+      "id": "1606090021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.422",
+      "lon": "103.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090035",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bukit Jaya",
+      "en": "Bukit Jaya",
+      "slug": "bukit-jaya-1606090035"
+    },
+    "code": {
+      "id": "1606090035",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.536",
+      "lon": "104.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090023",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bumi Kencana",
+      "en": "Bumi Kencana",
+      "slug": "bumi-kencana-1606090023"
+    },
+    "code": {
+      "id": "1606090023",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.431",
+      "lon": "104.001"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090020",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cinta Damai",
+      "en": "Cinta Damai",
+      "slug": "cinta-damai-1606090020"
+    },
+    "code": {
+      "id": "1606090020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.441",
+      "lon": "103.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090026",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Linggo Sari",
+      "en": "Linggo Sari",
+      "slug": "linggo-sari-1606090026"
+    },
+    "code": {
+      "id": "1606090026",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.478",
+      "lon": "104.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090029",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mekar Jadi",
+      "en": "Mekar Jadi",
+      "slug": "mekar-jadi-1606090029"
+    },
+    "code": {
+      "id": "1606090029",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.552",
+      "lon": "104.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090025",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mulyorejo",
+      "en": "Mulyorejo",
+      "slug": "mulyorejo-1606090025"
+    },
+    "code": {
+      "id": "1606090025",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.459",
+      "lon": "104.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090027",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nusa Serasan",
+      "en": "Nusa Serasan",
+      "slug": "nusa-serasan-1606090027"
+    },
+    "code": {
+      "id": "1606090027",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.507",
+      "lon": "104.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090024",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Panca Tunggal",
+      "en": "Panca Tunggal",
+      "slug": "panca-tunggal-1606090024"
+    },
+    "code": {
+      "id": "1606090024",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.44",
+      "lon": "104.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090028",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pinang Banjar",
+      "en": "Pinang Banjar",
+      "slug": "pinang-banjar-1606090028"
+    },
+    "code": {
+      "id": "1606090028",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.646",
+      "lon": "104.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090022",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Srigunung",
+      "en": "Srigunung",
+      "slug": "srigunung-1606090022"
+    },
+    "code": {
+      "id": "1606090022",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.484",
+      "lon": "103.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090019",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sukadamai Baru",
+      "en": "Sukadamai Baru",
+      "slug": "sukadamai-baru-1606090019"
+    },
+    "code": {
+      "id": "1606090019",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.553",
+      "lon": "104.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090018",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sumber Rejeki",
+      "en": "Sumber Rejeki",
+      "slug": "sumber-rejeki-1606090018"
+    },
+    "code": {
+      "id": "1606090018",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.572",
+      "lon": "104.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Lilin",
+      "en": "Sungai Lilin",
+      "slug": "sungai-lilin-1606090007"
+    },
+    "code": {
+      "id": "1606090007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.522",
+      "lon": "104.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1606090036",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Lilin Jaya",
+      "en": "Sungai Lilin Jaya",
+      "slug": "sungai-lilin-jaya-1606090036"
+    },
+    "code": {
+      "id": "1606090036",
+      "iso": null
+    },
+    "parent": {
+      "id": "1606090",
+      "level": 3,
+      "name": {
+        "local": "Sungai Lilin",
+        "en": "Sungai Lilin",
+        "slug": "sungai-lilin-1606090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1606",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Musi Banyuasin",
+          "en": "Musi Banyuasin",
+          "slug": "musi-banyuasin-1606"
+        }
+      },
+      {
+        "id": "1606090",
+        "level": 3,
+        "name": {
+          "local": "Sungai Lilin",
+          "en": "Sungai Lilin",
+          "slug": "sungai-lilin-1606090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30757"
+    ],
+    "geo": {
+      "lat": "-2.522",
+      "lon": "104.03"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

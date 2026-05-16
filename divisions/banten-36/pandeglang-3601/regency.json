@@ -1,0 +1,48 @@
+{
+  "id": "3601",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pandeglang",
+    "en": "Pandeglang",
+    "slug": "pandeglang-3601"
+  },
+  "code": {
+    "id": "3601",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "Banten",
+      "en": "Banten",
+      "slug": "banten-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 35,
+    "village": 327
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.317",
+    "lon": "106.115"
+  },
+  "metadata": {},
+  "source": {}
+}

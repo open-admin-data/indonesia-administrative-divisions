@@ -1,0 +1,48 @@
+{
+  "id": "9110",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Maybrat",
+    "en": "Maybrat",
+    "slug": "maybrat-9110"
+  },
+  "code": {
+    "id": "9110",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "Papua Barat",
+      "en": "West Papua",
+      "slug": "west-papua-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 24,
+    "village": 143
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.869",
+    "lon": "138.744"
+  },
+  "metadata": {},
+  "source": {}
+}

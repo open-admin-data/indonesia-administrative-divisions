@@ -1,0 +1,56 @@
+{
+  "id": "7201061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bulagi Selatan",
+    "en": "Bulagi Selatan",
+    "slug": "bulagi-selatan-7201061"
+  },
+  "code": {
+    "id": "7201061",
+    "iso": null
+  },
+  "parent": {
+    "id": "7201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banggai Kepulauan",
+      "en": "Banggai Kepulauan",
+      "slug": "banggai-kepulauan-7201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    },
+    {
+      "id": "7201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banggai Kepulauan",
+        "en": "Banggai Kepulauan",
+        "slug": "banggai-kepulauan-7201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.464",
+    "lon": "122.969"
+  },
+  "metadata": {},
+  "source": {}
+}

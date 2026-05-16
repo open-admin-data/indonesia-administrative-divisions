@@ -1,0 +1,56 @@
+{
+  "id": "5201011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lembar",
+    "en": "Lembar",
+    "slug": "lembar-5201011"
+  },
+  "code": {
+    "id": "5201011",
+    "iso": null
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Barat",
+      "en": "Lombok Barat",
+      "slug": "lombok-barat-5201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Barat",
+        "en": "Lombok Barat",
+        "slug": "lombok-barat-5201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.748",
+    "lon": "116.099"
+  },
+  "metadata": {},
+  "source": {}
+}

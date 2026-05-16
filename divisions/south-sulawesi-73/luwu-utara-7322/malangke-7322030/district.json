@@ -1,0 +1,56 @@
+{
+  "id": "7322030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malangke",
+    "en": "Malangke",
+    "slug": "malangke-7322030"
+  },
+  "code": {
+    "id": "7322030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7322",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Luwu Utara",
+      "en": "Luwu Utara",
+      "slug": "luwu-utara-7322"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7322",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Utara",
+        "en": "Luwu Utara",
+        "slug": "luwu-utara-7322"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.757",
+    "lon": "120.437"
+  },
+  "metadata": {},
+  "source": {}
+}

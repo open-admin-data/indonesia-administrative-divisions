@@ -1,0 +1,56 @@
+{
+  "id": "5104050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ubud",
+    "en": "Ubud",
+    "slug": "ubud-5104050"
+  },
+  "code": {
+    "id": "5104050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Gianyar",
+      "en": "Gianyar",
+      "slug": "gianyar-5104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Gianyar",
+        "en": "Gianyar",
+        "slug": "gianyar-5104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.517",
+    "lon": "115.256"
+  },
+  "metadata": {},
+  "source": {}
+}

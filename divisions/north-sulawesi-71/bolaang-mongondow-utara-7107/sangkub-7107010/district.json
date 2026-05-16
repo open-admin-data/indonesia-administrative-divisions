@@ -1,0 +1,56 @@
+{
+  "id": "7107010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sangkub",
+    "en": "Sangkub",
+    "slug": "sangkub-7107010"
+  },
+  "code": {
+    "id": "7107010",
+    "iso": null
+  },
+  "parent": {
+    "id": "7107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Utara",
+      "en": "Bolaang Mongondow Utara",
+      "slug": "bolaang-mongondow-utara-7107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow Utara",
+        "en": "Bolaang Mongondow Utara",
+        "slug": "bolaang-mongondow-utara-7107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.862",
+    "lon": "123.639"
+  },
+  "metadata": {},
+  "source": {}
+}

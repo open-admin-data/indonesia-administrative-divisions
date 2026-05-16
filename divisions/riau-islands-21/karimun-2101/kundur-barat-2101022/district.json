@@ -1,0 +1,56 @@
+{
+  "id": "2101022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kundur Barat",
+    "en": "Kundur Barat",
+    "slug": "kundur-barat-2101022"
+  },
+  "code": {
+    "id": "2101022",
+    "iso": null
+  },
+  "parent": {
+    "id": "2101",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Karimun",
+      "en": "Karimun",
+      "slug": "karimun-2101"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.79",
+    "lon": "103.388"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,31 @@
+{
+  "id": "31",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Dki Jakarta",
+    "en": "Jakarta",
+    "slug": "jakarta-31"
+  },
+  "code": {
+    "id": "31",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 6,
+    "village": 254,
+    "district": 44
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.178",
+    "lon": "106.828"
+  },
+  "metadata": {},
+  "source": {}
+}

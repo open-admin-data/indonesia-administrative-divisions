@@ -1,0 +1,56 @@
+{
+  "id": "8201130",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ibu",
+    "en": "Ibu",
+    "slug": "ibu-8201130"
+  },
+  "code": {
+    "id": "8201130",
+    "iso": null
+  },
+  "parent": {
+    "id": "8201",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Halmahera Barat",
+      "en": "Halmahera Barat",
+      "slug": "halmahera-barat-8201"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8201",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Barat",
+        "en": "Halmahera Barat",
+        "slug": "halmahera-barat-8201"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.503",
+    "lon": "127.603"
+  },
+  "metadata": {},
+  "source": {}
+}

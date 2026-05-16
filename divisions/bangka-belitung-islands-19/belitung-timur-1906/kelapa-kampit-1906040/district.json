@@ -1,0 +1,56 @@
+{
+  "id": "1906040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kelapa Kampit",
+    "en": "Kelapa Kampit",
+    "slug": "kelapa-kampit-1906040"
+  },
+  "code": {
+    "id": "1906040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1906",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belitung Timur",
+      "en": "Belitung Timur",
+      "slug": "belitung-timur-1906"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    },
+    {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belitung Timur",
+        "en": "Belitung Timur",
+        "slug": "belitung-timur-1906"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.69",
+    "lon": "108.016"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "1217050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nainggolan",
+    "en": "Nainggolan",
+    "slug": "nainggolan-1217050"
+  },
+  "code": {
+    "id": "1217050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1217",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Samosir",
+      "en": "Samosir",
+      "slug": "samosir-1217"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1217",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Samosir",
+        "en": "Samosir",
+        "slug": "samosir-1217"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.486",
+    "lon": "98.893"
+  },
+  "metadata": {},
+  "source": {}
+}

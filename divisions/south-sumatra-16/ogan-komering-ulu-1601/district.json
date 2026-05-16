@@ -1,0 +1,730 @@
+[
+  {
+    "id": "1601140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Raja Barat",
+      "en": "Batu Raja Barat",
+      "slug": "batu-raja-barat-1601140"
+    },
+    "code": {
+      "id": "1601140",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.114",
+      "lon": "104.11"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Raja Timur",
+      "en": "Batu Raja Timur",
+      "slug": "batu-raja-timur-1601130"
+    },
+    "code": {
+      "id": "1601130",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.148",
+      "lon": "104.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601093",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kedaton Peninjauan Raya",
+      "en": "Kedaton Peninjauan Raya",
+      "slug": "kedaton-peninjauan-raya-1601093"
+    },
+    "code": {
+      "id": "1601093",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.811",
+      "lon": "104.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lengkiti",
+      "en": "Lengkiti",
+      "slug": "lengkiti-1601052"
+    },
+    "code": {
+      "id": "1601052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.325",
+      "lon": "104.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601091",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lubuk Batang",
+      "en": "Lubuk Batang",
+      "slug": "lubuk-batang-1601091"
+    },
+    "code": {
+      "id": "1601091",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.964",
+      "lon": "104.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601131",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lubuk Raja",
+      "en": "Lubuk Raja",
+      "slug": "lubuk-raja-1601131"
+    },
+    "code": {
+      "id": "1601131",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.128",
+      "lon": "104.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601083",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Muara Jaya",
+      "en": "Muara Jaya",
+      "slug": "muara-jaya-1601083"
+    },
+    "code": {
+      "id": "1601083",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.149",
+      "lon": "103.869"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pengandonan",
+      "en": "Pengandonan",
+      "slug": "pengandonan-1601080"
+    },
+    "code": {
+      "id": "1601080",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.11",
+      "lon": "103.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Peninjauan",
+      "en": "Peninjauan",
+      "slug": "peninjauan-1601090"
+    },
+    "code": {
+      "id": "1601090",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.89",
+      "lon": "104.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Semidang Aji",
+      "en": "Semidang Aji",
+      "slug": "semidang-aji-1601081"
+    },
+    "code": {
+      "id": "1601081",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.026",
+      "lon": "103.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601092",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sinar Peninjauan",
+      "en": "Sinar Peninjauan",
+      "slug": "sinar-peninjauan-1601092"
+    },
+    "code": {
+      "id": "1601092",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.941",
+      "lon": "104.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sosoh Buay Rayap",
+      "en": "Sosoh Buay Rayap",
+      "slug": "sosoh-buay-rayap-1601070"
+    },
+    "code": {
+      "id": "1601070",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.208",
+      "lon": "104.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ulu Ogan",
+      "en": "Ulu Ogan",
+      "slug": "ulu-ogan-1601082"
+    },
+    "code": {
+      "id": "1601082",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu",
+        "en": "Ogan Komering Ulu",
+        "slug": "ogan-komering-ulu-1601"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-4.188",
+      "lon": "103.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

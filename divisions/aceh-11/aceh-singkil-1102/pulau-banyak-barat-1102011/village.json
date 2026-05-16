@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1102011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Asantola",
+      "en": "Asantola",
+      "slug": "asantola-1102011001"
+    },
+    "code": {
+      "id": "1102011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102011",
+      "level": 3,
+      "name": {
+        "local": "Pulau Banyak Barat",
+        "en": "Pulau Banyak Barat",
+        "slug": "pulau-banyak-barat-1102011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      },
+      {
+        "id": "1102011",
+        "level": 3,
+        "name": {
+          "local": "Pulau Banyak Barat",
+          "en": "Pulau Banyak Barat",
+          "slug": "pulau-banyak-barat-1102011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24792"
+    ],
+    "geo": {
+      "lat": "2.192",
+      "lon": "97.195"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Haloban",
+      "en": "Haloban",
+      "slug": "haloban-1102011003"
+    },
+    "code": {
+      "id": "1102011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102011",
+      "level": 3,
+      "name": {
+        "local": "Pulau Banyak Barat",
+        "en": "Pulau Banyak Barat",
+        "slug": "pulau-banyak-barat-1102011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      },
+      {
+        "id": "1102011",
+        "level": 3,
+        "name": {
+          "local": "Pulau Banyak Barat",
+          "en": "Pulau Banyak Barat",
+          "slug": "pulau-banyak-barat-1102011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24792"
+    ],
+    "geo": {
+      "lat": "2.138",
+      "lon": "97.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suka Makmur",
+      "en": "Suka Makmur",
+      "slug": "suka-makmur-1102011004"
+    },
+    "code": {
+      "id": "1102011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102011",
+      "level": 3,
+      "name": {
+        "local": "Pulau Banyak Barat",
+        "en": "Pulau Banyak Barat",
+        "slug": "pulau-banyak-barat-1102011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      },
+      {
+        "id": "1102011",
+        "level": 3,
+        "name": {
+          "local": "Pulau Banyak Barat",
+          "en": "Pulau Banyak Barat",
+          "slug": "pulau-banyak-barat-1102011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24792"
+    ],
+    "geo": {
+      "lat": "2.181",
+      "lon": "97.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1102011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ujung Sialit",
+      "en": "Ujung Sialit",
+      "slug": "ujung-sialit-1102011002"
+    },
+    "code": {
+      "id": "1102011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1102011",
+      "level": 3,
+      "name": {
+        "local": "Pulau Banyak Barat",
+        "en": "Pulau Banyak Barat",
+        "slug": "pulau-banyak-barat-1102011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Singkil",
+          "en": "Aceh Singkil",
+          "slug": "aceh-singkil-1102"
+        }
+      },
+      {
+        "id": "1102011",
+        "level": 3,
+        "name": {
+          "local": "Pulau Banyak Barat",
+          "en": "Pulau Banyak Barat",
+          "slug": "pulau-banyak-barat-1102011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24792"
+    ],
+    "geo": {
+      "lat": "2.218",
+      "lon": "97.29"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

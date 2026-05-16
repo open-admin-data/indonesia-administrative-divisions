@@ -1,0 +1,56 @@
+{
+  "id": "7501051",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wonosari",
+    "en": "Wonosari",
+    "slug": "wonosari-7501051"
+  },
+  "code": {
+    "id": "7501051",
+    "iso": null
+  },
+  "parent": {
+    "id": "7501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Boalemo",
+      "en": "Boalemo",
+      "slug": "boalemo-7501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Boalemo",
+        "en": "Boalemo",
+        "slug": "boalemo-7501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.711",
+    "lon": "122.393"
+  },
+  "metadata": {},
+  "source": {}
+}

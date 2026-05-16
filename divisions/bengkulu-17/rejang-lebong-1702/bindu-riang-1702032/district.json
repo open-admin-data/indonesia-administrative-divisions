@@ -1,0 +1,56 @@
+{
+  "id": "1702032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bindu Riang",
+    "en": "Bindu Riang",
+    "slug": "bindu-riang-1702032"
+  },
+  "code": {
+    "id": "1702032",
+    "iso": null
+  },
+  "parent": {
+    "id": "1702",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rejang Lebong",
+      "en": "Rejang Lebong",
+      "slug": "rejang-lebong-1702"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rejang Lebong",
+        "en": "Rejang Lebong",
+        "slug": "rejang-lebong-1702"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.444",
+    "lon": "102.75"
+  },
+  "metadata": {},
+  "source": {}
+}

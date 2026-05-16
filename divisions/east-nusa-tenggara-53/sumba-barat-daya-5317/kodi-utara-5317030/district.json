@@ -1,0 +1,56 @@
+{
+  "id": "5317030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kodi Utara",
+    "en": "Kodi Utara",
+    "slug": "kodi-utara-5317030"
+  },
+  "code": {
+    "id": "5317030",
+    "iso": null
+  },
+  "parent": {
+    "id": "5317",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sumba Barat Daya",
+      "en": "Sumba Barat Daya",
+      "slug": "sumba-barat-daya-5317"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sumba Barat Daya",
+        "en": "Sumba Barat Daya",
+        "slug": "sumba-barat-daya-5317"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.489",
+    "lon": "119.05"
+  },
+  "metadata": {},
+  "source": {}
+}

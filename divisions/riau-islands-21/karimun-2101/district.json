@@ -1,0 +1,674 @@
+[
+  {
+    "id": "2101024",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Belat",
+      "en": "Belat",
+      "slug": "belat-2101024"
+    },
+    "code": {
+      "id": "2101024",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.805",
+      "lon": "103.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buru",
+      "en": "Buru",
+      "slug": "buru-2101031"
+    },
+    "code": {
+      "id": "2101031",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.891",
+      "lon": "103.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Durai",
+      "en": "Durai",
+      "slug": "durai-2101011"
+    },
+    "code": {
+      "id": "2101011",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.562",
+      "lon": "103.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karimun",
+      "en": "Karimun",
+      "slug": "karimun-2101030"
+    },
+    "code": {
+      "id": "2101030",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.955",
+      "lon": "103.415"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kundur",
+      "en": "Kundur",
+      "slug": "kundur-2101020"
+    },
+    "code": {
+      "id": "2101020",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.692",
+      "lon": "103.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kundur Barat",
+      "en": "Kundur Barat",
+      "slug": "kundur-barat-2101022"
+    },
+    "code": {
+      "id": "2101022",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.79",
+      "lon": "103.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kundur Utara",
+      "en": "Kundur Utara",
+      "slug": "kundur-utara-2101021"
+    },
+    "code": {
+      "id": "2101021",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.809",
+      "lon": "103.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meral",
+      "en": "Meral",
+      "slug": "meral-2101032"
+    },
+    "code": {
+      "id": "2101032",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1",
+      "lon": "103.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101034",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meral Barat",
+      "en": "Meral Barat",
+      "slug": "meral-barat-2101034"
+    },
+    "code": {
+      "id": "2101034",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.09",
+      "lon": "103.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Moro",
+      "en": "Moro",
+      "slug": "moro-2101010"
+    },
+    "code": {
+      "id": "2101010",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.803",
+      "lon": "103.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101033",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tebing",
+      "en": "Tebing",
+      "slug": "tebing-2101033"
+    },
+    "code": {
+      "id": "2101033",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.098",
+      "lon": "103.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2101023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ungar",
+      "en": "Ungar",
+      "slug": "ungar-2101023"
+    },
+    "code": {
+      "id": "2101023",
+      "iso": null
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Karimun",
+        "en": "Karimun",
+        "slug": "karimun-2101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Karimun",
+          "en": "Karimun",
+          "slug": "karimun-2101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.647",
+      "lon": "103.527"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

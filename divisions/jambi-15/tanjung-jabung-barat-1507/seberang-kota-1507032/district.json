@@ -1,0 +1,56 @@
+{
+  "id": "1507032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Seberang Kota",
+    "en": "Seberang Kota",
+    "slug": "seberang-kota-1507032"
+  },
+  "code": {
+    "id": "1507032",
+    "iso": null
+  },
+  "parent": {
+    "id": "1507",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanjung Jabung Barat",
+      "en": "Tanjung Jabung Barat",
+      "slug": "tanjung-jabung-barat-1507"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1507",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanjung Jabung Barat",
+        "en": "Tanjung Jabung Barat",
+        "slug": "tanjung-jabung-barat-1507"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.785",
+    "lon": "103.366"
+  },
+  "metadata": {},
+  "source": {}
+}

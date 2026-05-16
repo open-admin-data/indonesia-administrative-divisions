@@ -1,0 +1,56 @@
+{
+  "id": "3573040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Blimbing",
+    "en": "Blimbing",
+    "slug": "blimbing-3573040"
+  },
+  "code": {
+    "id": "3573040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3573",
+    "level": 2,
+    "name": {
+      "local": "Kota Malang",
+      "en": "Malang",
+      "slug": "malang-3573"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3573",
+      "level": 2,
+      "name": {
+        "local": "Kota Malang",
+        "en": "Malang",
+        "slug": "malang-3573"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.955",
+    "lon": "112.65"
+  },
+  "metadata": {},
+  "source": {}
+}

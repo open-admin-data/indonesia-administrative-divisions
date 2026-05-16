@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1703010003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Apoho",
+      "en": "Apoho",
+      "slug": "apoho-1703010003"
+    },
+    "code": {
+      "id": "1703010003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703010",
+      "level": 3,
+      "name": {
+        "local": "Enggano",
+        "en": "Enggano",
+        "slug": "enggano-1703010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703010",
+        "level": 3,
+        "name": {
+          "local": "Enggano",
+          "en": "Enggano",
+          "slug": "enggano-1703010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38687"
+    ],
+    "geo": {
+      "lat": "-5.38",
+      "lon": "102.238"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703010001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banjar Sari",
+      "en": "Banjar Sari",
+      "slug": "banjar-sari-1703010001"
+    },
+    "code": {
+      "id": "1703010001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703010",
+      "level": 3,
+      "name": {
+        "local": "Enggano",
+        "en": "Enggano",
+        "slug": "enggano-1703010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703010",
+        "level": 3,
+        "name": {
+          "local": "Enggano",
+          "en": "Enggano",
+          "slug": "enggano-1703010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38687"
+    ],
+    "geo": {
+      "lat": "-5.325",
+      "lon": "102.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703010005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kaana",
+      "en": "Kaana",
+      "slug": "kaana-1703010005"
+    },
+    "code": {
+      "id": "1703010005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703010",
+      "level": 3,
+      "name": {
+        "local": "Enggano",
+        "en": "Enggano",
+        "slug": "enggano-1703010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703010",
+        "level": 3,
+        "name": {
+          "local": "Enggano",
+          "en": "Enggano",
+          "slug": "enggano-1703010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38687"
+    ],
+    "geo": {
+      "lat": "-5.445",
+      "lon": "102.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703010006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kahyapu",
+      "en": "Kahyapu",
+      "slug": "kahyapu-1703010006"
+    },
+    "code": {
+      "id": "1703010006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703010",
+      "level": 3,
+      "name": {
+        "local": "Enggano",
+        "en": "Enggano",
+        "slug": "enggano-1703010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703010",
+        "level": 3,
+        "name": {
+          "local": "Enggano",
+          "en": "Enggano",
+          "slug": "enggano-1703010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38687"
+    ],
+    "geo": {
+      "lat": "-5.423",
+      "lon": "102.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703010004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Malakoni",
+      "en": "Malakoni",
+      "slug": "malakoni-1703010004"
+    },
+    "code": {
+      "id": "1703010004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703010",
+      "level": 3,
+      "name": {
+        "local": "Enggano",
+        "en": "Enggano",
+        "slug": "enggano-1703010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703010",
+        "level": 3,
+        "name": {
+          "local": "Enggano",
+          "en": "Enggano",
+          "slug": "enggano-1703010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38687"
+    ],
+    "geo": {
+      "lat": "-5.405",
+      "lon": "102.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1703010002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Meok",
+      "en": "Meok",
+      "slug": "meok-1703010002"
+    },
+    "code": {
+      "id": "1703010002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1703010",
+      "level": 3,
+      "name": {
+        "local": "Enggano",
+        "en": "Enggano",
+        "slug": "enggano-1703010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1703",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkulu Utara",
+          "en": "Bengkulu Utara",
+          "slug": "bengkulu-utara-1703"
+        }
+      },
+      {
+        "id": "1703010",
+        "level": 3,
+        "name": {
+          "local": "Enggano",
+          "en": "Enggano",
+          "slug": "enggano-1703010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38687"
+    ],
+    "geo": {
+      "lat": "-5.376",
+      "lon": "102.186"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

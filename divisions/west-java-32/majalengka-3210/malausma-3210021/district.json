@@ -1,0 +1,56 @@
+{
+  "id": "3210021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malausma",
+    "en": "Malausma",
+    "slug": "malausma-3210021"
+  },
+  "code": {
+    "id": "3210021",
+    "iso": null
+  },
+  "parent": {
+    "id": "3210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Majalengka",
+      "en": "Majalengka",
+      "slug": "majalengka-3210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Majalengka",
+        "en": "Majalengka",
+        "slug": "majalengka-3210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.035",
+    "lon": "108.24"
+  },
+  "metadata": {},
+  "source": {}
+}

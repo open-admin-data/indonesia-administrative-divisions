@@ -1,0 +1,56 @@
+{
+  "id": "1223050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kualuh Selatan",
+    "en": "Kualuh Selatan",
+    "slug": "kualuh-selatan-1223050"
+  },
+  "code": {
+    "id": "1223050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1223",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Labuhan Batu Utara",
+      "en": "Labuhan Batu Utara",
+      "slug": "labuhan-batu-utara-1223"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1223",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Utara",
+        "en": "Labuhan Batu Utara",
+        "slug": "labuhan-batu-utara-1223"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.443",
+    "lon": "99.694"
+  },
+  "metadata": {},
+  "source": {}
+}

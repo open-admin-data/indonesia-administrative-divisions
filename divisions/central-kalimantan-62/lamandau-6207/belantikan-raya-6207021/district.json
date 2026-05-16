@@ -1,0 +1,56 @@
+{
+  "id": "6207021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belantikan Raya",
+    "en": "Belantikan Raya",
+    "slug": "belantikan-raya-6207021"
+  },
+  "code": {
+    "id": "6207021",
+    "iso": null
+  },
+  "parent": {
+    "id": "6207",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lamandau",
+      "en": "Lamandau",
+      "slug": "lamandau-6207"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    },
+    {
+      "id": "6207",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lamandau",
+        "en": "Lamandau",
+        "slug": "lamandau-6207"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.658",
+    "lon": "111.438"
+  },
+  "metadata": {},
+  "source": {}
+}

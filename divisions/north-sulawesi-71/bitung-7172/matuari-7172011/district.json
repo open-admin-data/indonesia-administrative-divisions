@@ -1,0 +1,56 @@
+{
+  "id": "7172011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Matuari",
+    "en": "Matuari",
+    "slug": "matuari-7172011"
+  },
+  "code": {
+    "id": "7172011",
+    "iso": null
+  },
+  "parent": {
+    "id": "7172",
+    "level": 2,
+    "name": {
+      "local": "Kota Bitung",
+      "en": "Bitung",
+      "slug": "bitung-7172"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7172",
+      "level": 2,
+      "name": {
+        "local": "Kota Bitung",
+        "en": "Bitung",
+        "slug": "bitung-7172"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.43",
+    "lon": "125.11"
+  },
+  "metadata": {},
+  "source": {}
+}

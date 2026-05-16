@@ -1,0 +1,782 @@
+[
+  {
+    "id": "1601140006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Air Gading",
+      "en": "Air Gading",
+      "slug": "air-gading-1601140006"
+    },
+    "code": {
+      "id": "1601140006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.122",
+      "lon": "104.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batu Kuning",
+      "en": "Batu Kuning",
+      "slug": "batu-kuning-1601140008"
+    },
+    "code": {
+      "id": "1601140008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.101",
+      "lon": "104.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Batu Putih",
+      "en": "Batu Putih",
+      "slug": "batu-putih-1601140001"
+    },
+    "code": {
+      "id": "1601140001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.163",
+      "lon": "104.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Agung",
+      "en": "Karang Agung",
+      "slug": "karang-agung-1601140009"
+    },
+    "code": {
+      "id": "1601140009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.091",
+      "lon": "104.106"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Endah",
+      "en": "Karang Endah",
+      "slug": "karang-endah-1601140010"
+    },
+    "code": {
+      "id": "1601140010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.064",
+      "lon": "104.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Laya",
+      "en": "Laya",
+      "slug": "laya-1601140002"
+    },
+    "code": {
+      "id": "1601140002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.15",
+      "lon": "104.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pusar",
+      "en": "Pusar",
+      "slug": "pusar-1601140007"
+    },
+    "code": {
+      "id": "1601140007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.131",
+      "lon": "104.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Saung Naga",
+      "en": "Saung Naga",
+      "slug": "saung-naga-1601140003"
+    },
+    "code": {
+      "id": "1601140003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.141",
+      "lon": "104.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Suka Maju",
+      "en": "Suka Maju",
+      "slug": "suka-maju-1601140012"
+    },
+    "code": {
+      "id": "1601140012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.178",
+      "lon": "104.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talang Jawa",
+      "en": "Talang Jawa",
+      "slug": "talang-jawa-1601140005"
+    },
+    "code": {
+      "id": "1601140005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.126",
+      "lon": "104.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Agung",
+      "en": "Tanjung Agung",
+      "slug": "tanjung-agung-1601140004"
+    },
+    "code": {
+      "id": "1601140004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.138",
+      "lon": "104.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1601140011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Karang",
+      "en": "Tanjung Karang",
+      "slug": "tanjung-karang-1601140011"
+    },
+    "code": {
+      "id": "1601140011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1601140",
+      "level": 3,
+      "name": {
+        "local": "Batu Raja Barat",
+        "en": "Batu Raja Barat",
+        "slug": "batu-raja-barat-1601140"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1601",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu",
+          "en": "Ogan Komering Ulu",
+          "slug": "ogan-komering-ulu-1601"
+        }
+      },
+      {
+        "id": "1601140",
+        "level": 3,
+        "name": {
+          "local": "Batu Raja Barat",
+          "en": "Batu Raja Barat",
+          "slug": "batu-raja-barat-1601140"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32122"
+    ],
+    "geo": {
+      "lat": "-4.054",
+      "lon": "104.115"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "id": "5320020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Hawu Mehara",
+      "en": "Hawu Mehara",
+      "slug": "hawu-mehara-5320020"
+    },
+    "code": {
+      "id": "5320020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.576",
+      "lon": "121.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5320010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Raijua",
+      "en": "Raijua",
+      "slug": "raijua-5320010"
+    },
+    "code": {
+      "id": "5320010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.714",
+      "lon": "121.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5320040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabu Barat",
+      "en": "Sabu Barat",
+      "slug": "sabu-barat-5320040"
+    },
+    "code": {
+      "id": "5320040",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.508",
+      "lon": "121.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5320030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabu Liae",
+      "en": "Sabu Liae",
+      "slug": "sabu-liae-5320030"
+    },
+    "code": {
+      "id": "5320030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.584",
+      "lon": "121.871"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5320050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabu Tengah",
+      "en": "Sabu Tengah",
+      "slug": "sabu-tengah-5320050"
+    },
+    "code": {
+      "id": "5320050",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.489",
+      "lon": "121.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5320060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sabu Timur",
+      "en": "Sabu Timur",
+      "slug": "sabu-timur-5320060"
+    },
+    "code": {
+      "id": "5320060",
+      "iso": null
+    },
+    "parent": {
+      "id": "5320",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sabu Raijua",
+        "en": "Sabu Raijua",
+        "slug": "sabu-raijua-5320"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5320",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sabu Raijua",
+          "en": "Sabu Raijua",
+          "slug": "sabu-raijua-5320"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-10.502",
+      "lon": "121.971"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "id": "3308040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Salam",
+    "en": "Salam",
+    "slug": "salam-3308040"
+  },
+  "code": {
+    "id": "3308040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3308",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Magelang",
+      "en": "Magelang",
+      "slug": "magelang-3308"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3308",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Magelang",
+        "en": "Magelang",
+        "slug": "magelang-3308"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.62",
+    "lon": "110.301"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3325090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Subah",
+    "en": "Subah",
+    "slug": "subah-3325090"
+  },
+  "code": {
+    "id": "3325090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3325",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Batang",
+      "en": "Batang",
+      "slug": "batang-3325"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Batang",
+        "en": "Batang",
+        "slug": "batang-3325"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.963",
+    "lon": "109.872"
+  },
+  "metadata": {},
+  "source": {}
+}

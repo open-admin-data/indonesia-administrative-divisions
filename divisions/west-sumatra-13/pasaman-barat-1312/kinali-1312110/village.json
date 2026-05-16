@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1312110001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Katiagan",
+      "en": "Katiagan",
+      "slug": "katiagan-1312110001"
+    },
+    "code": {
+      "id": "1312110001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312110",
+      "level": 3,
+      "name": {
+        "local": "Kinali",
+        "en": "Kinali",
+        "slug": "kinali-1312110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312110",
+        "level": 3,
+        "name": {
+          "local": "Kinali",
+          "en": "Kinali",
+          "slug": "kinali-1312110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26567"
+    ],
+    "geo": {
+      "lat": "-0.152",
+      "lon": "99.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1312110002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kinali",
+      "en": "Kinali",
+      "slug": "kinali-1312110002"
+    },
+    "code": {
+      "id": "1312110002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1312110",
+      "level": 3,
+      "name": {
+        "local": "Kinali",
+        "en": "Kinali",
+        "slug": "kinali-1312110"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pasaman Barat",
+          "en": "Pasaman Barat",
+          "slug": "pasaman-barat-1312"
+        }
+      },
+      {
+        "id": "1312110",
+        "level": 3,
+        "name": {
+          "local": "Kinali",
+          "en": "Kinali",
+          "slug": "kinali-1312110"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "26567"
+    ],
+    "geo": {
+      "lat": "-0.037",
+      "lon": "99.947"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,327 @@
+[
+  {
+    "id": "7504013001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bulotalangi",
+      "en": "Bulotalangi",
+      "slug": "bulotalangi-7504013001"
+    },
+    "code": {
+      "id": "7504013001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7504013",
+      "level": 3,
+      "name": {
+        "local": "Bulango Timur",
+        "en": "Bulango Timur",
+        "slug": "bulango-timur-7504013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bone Bolango",
+          "en": "Bone Bolango",
+          "slug": "bone-bolango-7504"
+        }
+      },
+      {
+        "id": "7504013",
+        "level": 3,
+        "name": {
+          "local": "Bulango Timur",
+          "en": "Bulango Timur",
+          "slug": "bulango-timur-7504013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96563"
+    ],
+    "geo": {
+      "lat": "0.602",
+      "lon": "123.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7504013002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bulotalangi Barat",
+      "en": "Bulotalangi Barat",
+      "slug": "bulotalangi-barat-7504013002"
+    },
+    "code": {
+      "id": "7504013002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7504013",
+      "level": 3,
+      "name": {
+        "local": "Bulango Timur",
+        "en": "Bulango Timur",
+        "slug": "bulango-timur-7504013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bone Bolango",
+          "en": "Bone Bolango",
+          "slug": "bone-bolango-7504"
+        }
+      },
+      {
+        "id": "7504013",
+        "level": 3,
+        "name": {
+          "local": "Bulango Timur",
+          "en": "Bulango Timur",
+          "slug": "bulango-timur-7504013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96563"
+    ],
+    "geo": {
+      "lat": "0.602",
+      "lon": "123.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7504013003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bulotalangi Timur",
+      "en": "Bulotalangi Timur",
+      "slug": "bulotalangi-timur-7504013003"
+    },
+    "code": {
+      "id": "7504013003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7504013",
+      "level": 3,
+      "name": {
+        "local": "Bulango Timur",
+        "en": "Bulango Timur",
+        "slug": "bulango-timur-7504013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bone Bolango",
+          "en": "Bone Bolango",
+          "slug": "bone-bolango-7504"
+        }
+      },
+      {
+        "id": "7504013",
+        "level": 3,
+        "name": {
+          "local": "Bulango Timur",
+          "en": "Bulango Timur",
+          "slug": "bulango-timur-7504013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96563"
+    ],
+    "geo": {
+      "lat": "0.613",
+      "lon": "123.115"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7504013005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Popodu",
+      "en": "Popodu",
+      "slug": "popodu-7504013005"
+    },
+    "code": {
+      "id": "7504013005",
+      "iso": null
+    },
+    "parent": {
+      "id": "7504013",
+      "level": 3,
+      "name": {
+        "local": "Bulango Timur",
+        "en": "Bulango Timur",
+        "slug": "bulango-timur-7504013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bone Bolango",
+          "en": "Bone Bolango",
+          "slug": "bone-bolango-7504"
+        }
+      },
+      {
+        "id": "7504013",
+        "level": 3,
+        "name": {
+          "local": "Bulango Timur",
+          "en": "Bulango Timur",
+          "slug": "bulango-timur-7504013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96563"
+    ],
+    "geo": {
+      "lat": "0.604",
+      "lon": "123.083"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7504013004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Toluwaya",
+      "en": "Toluwaya",
+      "slug": "toluwaya-7504013004"
+    },
+    "code": {
+      "id": "7504013004",
+      "iso": null
+    },
+    "parent": {
+      "id": "7504013",
+      "level": 3,
+      "name": {
+        "local": "Bulango Timur",
+        "en": "Bulango Timur",
+        "slug": "bulango-timur-7504013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7504",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bone Bolango",
+          "en": "Bone Bolango",
+          "slug": "bone-bolango-7504"
+        }
+      },
+      {
+        "id": "7504013",
+        "level": 3,
+        "name": {
+          "local": "Bulango Timur",
+          "en": "Bulango Timur",
+          "slug": "bulango-timur-7504013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96563"
+    ],
+    "geo": {
+      "lat": "0.6",
+      "lon": "123.086"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

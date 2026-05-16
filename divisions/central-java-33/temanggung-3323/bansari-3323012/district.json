@@ -1,0 +1,56 @@
+{
+  "id": "3323012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bansari",
+    "en": "Bansari",
+    "slug": "bansari-3323012"
+  },
+  "code": {
+    "id": "3323012",
+    "iso": null
+  },
+  "parent": {
+    "id": "3323",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Temanggung",
+      "en": "Temanggung",
+      "slug": "temanggung-3323"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3323",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Temanggung",
+        "en": "Temanggung",
+        "slug": "temanggung-3323"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.285",
+    "lon": "110.043"
+  },
+  "metadata": {},
+  "source": {}
+}

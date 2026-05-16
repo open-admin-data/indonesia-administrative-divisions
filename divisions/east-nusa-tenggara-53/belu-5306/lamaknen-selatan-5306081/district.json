@@ -1,0 +1,56 @@
+{
+  "id": "5306081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lamaknen Selatan",
+    "en": "Lamaknen Selatan",
+    "slug": "lamaknen-selatan-5306081"
+  },
+  "code": {
+    "id": "5306081",
+    "iso": null
+  },
+  "parent": {
+    "id": "5306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belu",
+      "en": "Belu",
+      "slug": "belu-5306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belu",
+        "en": "Belu",
+        "slug": "belu-5306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.151",
+    "lon": "125.111"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6409020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Waru",
+    "en": "Waru",
+    "slug": "waru-6409020"
+  },
+  "code": {
+    "id": "6409020",
+    "iso": null
+  },
+  "parent": {
+    "id": "6409",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Penajam Paser Utara",
+      "en": "Penajam Paser Utara",
+      "slug": "penajam-paser-utara-6409"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6409",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Penajam Paser Utara",
+        "en": "Penajam Paser Utara",
+        "slug": "penajam-paser-utara-6409"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.316",
+    "lon": "116.494"
+  },
+  "metadata": {},
+  "source": {}
+}

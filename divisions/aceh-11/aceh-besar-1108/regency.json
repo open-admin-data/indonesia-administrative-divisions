@@ -1,0 +1,48 @@
+{
+  "id": "1108",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Aceh Besar",
+    "en": "Aceh Besar",
+    "slug": "aceh-besar-1108"
+  },
+  "code": {
+    "id": "1108",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 23,
+    "village": 604
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.076",
+    "lon": "97.303"
+  },
+  "metadata": {},
+  "source": {}
+}

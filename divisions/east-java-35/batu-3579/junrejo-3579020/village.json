@@ -1,0 +1,327 @@
+[
+  {
+    "id": "3579020005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Beji",
+      "en": "Beji",
+      "slug": "beji-3579020005"
+    },
+    "code": {
+      "id": "3579020005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579020",
+      "level": 3,
+      "name": {
+        "local": "Junrejo",
+        "en": "Junrejo",
+        "slug": "junrejo-3579020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      },
+      {
+        "id": "3579020",
+        "level": 3,
+        "name": {
+          "local": "Junrejo",
+          "en": "Junrejo",
+          "slug": "junrejo-3579020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65321"
+    ],
+    "geo": {
+      "lat": "-7.896",
+      "lon": "112.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3579020007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dadaprejo",
+      "en": "Dadaprejo",
+      "slug": "dadaprejo-3579020007"
+    },
+    "code": {
+      "id": "3579020007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579020",
+      "level": 3,
+      "name": {
+        "local": "Junrejo",
+        "en": "Junrejo",
+        "slug": "junrejo-3579020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      },
+      {
+        "id": "3579020",
+        "level": 3,
+        "name": {
+          "local": "Junrejo",
+          "en": "Junrejo",
+          "slug": "junrejo-3579020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65321"
+    ],
+    "geo": {
+      "lat": "-7.91",
+      "lon": "112.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3579020002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Junrejo",
+      "en": "Junrejo",
+      "slug": "junrejo-3579020002"
+    },
+    "code": {
+      "id": "3579020002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579020",
+      "level": 3,
+      "name": {
+        "local": "Junrejo",
+        "en": "Junrejo",
+        "slug": "junrejo-3579020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      },
+      {
+        "id": "3579020",
+        "level": 3,
+        "name": {
+          "local": "Junrejo",
+          "en": "Junrejo",
+          "slug": "junrejo-3579020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65321"
+    ],
+    "geo": {
+      "lat": "-7.911",
+      "lon": "112.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3579020003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mojorejo",
+      "en": "Mojorejo",
+      "slug": "mojorejo-3579020003"
+    },
+    "code": {
+      "id": "3579020003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579020",
+      "level": 3,
+      "name": {
+        "local": "Junrejo",
+        "en": "Junrejo",
+        "slug": "junrejo-3579020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      },
+      {
+        "id": "3579020",
+        "level": 3,
+        "name": {
+          "local": "Junrejo",
+          "en": "Junrejo",
+          "slug": "junrejo-3579020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65321"
+    ],
+    "geo": {
+      "lat": "-7.902",
+      "lon": "112.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3579020004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Torongrejo",
+      "en": "Torongrejo",
+      "slug": "torongrejo-3579020004"
+    },
+    "code": {
+      "id": "3579020004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3579020",
+      "level": 3,
+      "name": {
+        "local": "Junrejo",
+        "en": "Junrejo",
+        "slug": "junrejo-3579020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3579",
+        "level": 2,
+        "name": {
+          "local": "Kota Batu",
+          "en": "Batu",
+          "slug": "batu-3579"
+        }
+      },
+      {
+        "id": "3579020",
+        "level": 3,
+        "name": {
+          "local": "Junrejo",
+          "en": "Junrejo",
+          "slug": "junrejo-3579020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "65321"
+    ],
+    "geo": {
+      "lat": "-7.887",
+      "lon": "112.557"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

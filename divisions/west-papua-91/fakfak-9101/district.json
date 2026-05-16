@@ -1,0 +1,954 @@
+[
+  {
+    "id": "9101084",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Arguni",
+      "en": "Arguni",
+      "slug": "arguni-9101084"
+    },
+    "code": {
+      "id": "9101084",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.645",
+      "lon": "132.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101083",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bomberay",
+      "en": "Bomberay",
+      "slug": "bomberay-9101083"
+    },
+    "code": {
+      "id": "9101083",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.914",
+      "lon": "133.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fakfak",
+      "en": "Fakfak",
+      "slug": "fakfak-9101060"
+    },
+    "code": {
+      "id": "9101060",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.912",
+      "lon": "132.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fakfak Barat",
+      "en": "Fakfak Barat",
+      "slug": "fakfak-barat-9101070"
+    },
+    "code": {
+      "id": "9101070",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.898",
+      "lon": "132.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fakfak Tengah",
+      "en": "Fakfak Tengah",
+      "slug": "fakfak-tengah-9101061"
+    },
+    "code": {
+      "id": "9101061",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.891",
+      "lon": "132.357"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fakfak Timur",
+      "en": "Fakfak Timur",
+      "slug": "fakfak-timur-9101050"
+    },
+    "code": {
+      "id": "9101050",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.062",
+      "lon": "132.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fakfak Timur Tengah",
+      "en": "Fakfak Timur Tengah",
+      "slug": "fakfak-timur-tengah-9101052"
+    },
+    "code": {
+      "id": "9101052",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.029",
+      "lon": "132.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101086",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Furwagi",
+      "en": "Furwagi",
+      "slug": "furwagi-9101086"
+    },
+    "code": {
+      "id": "9101086",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.731",
+      "lon": "132.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karas",
+      "en": "Karas",
+      "slug": "karas-9101051"
+    },
+    "code": {
+      "id": "9101051",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.476",
+      "lon": "132.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101087",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kayauni",
+      "en": "Kayauni",
+      "slug": "kayauni-9101087"
+    },
+    "code": {
+      "id": "9101087",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.722",
+      "lon": "132.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kokas",
+      "en": "Kokas",
+      "slug": "kokas-9101080"
+    },
+    "code": {
+      "id": "9101080",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.846",
+      "lon": "132.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kramongmongga",
+      "en": "Kramongmongga",
+      "slug": "kramongmongga-9101082"
+    },
+    "code": {
+      "id": "9101082",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.745",
+      "lon": "132.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101085",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mbahamdandara",
+      "en": "Mbahamdandara",
+      "slug": "mbahamdandara-9101085"
+    },
+    "code": {
+      "id": "9101085",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.996",
+      "lon": "132.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101062",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pariwari",
+      "en": "Pariwari",
+      "slug": "pariwari-9101062"
+    },
+    "code": {
+      "id": "9101062",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.927",
+      "lon": "132.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Patipi",
+      "en": "Teluk Patipi",
+      "slug": "teluk-patipi-9101081"
+    },
+    "code": {
+      "id": "9101081",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.743",
+      "lon": "132.14"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101088",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tomage",
+      "en": "Tomage",
+      "slug": "tomage-9101088"
+    },
+    "code": {
+      "id": "9101088",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.659",
+      "lon": "133.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9101071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wartutin",
+      "en": "Wartutin",
+      "slug": "wartutin-9101071"
+    },
+    "code": {
+      "id": "9101071",
+      "iso": null
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Fakfak",
+        "en": "Fakfak",
+        "slug": "fakfak-9101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Fakfak",
+          "en": "Fakfak",
+          "slug": "fakfak-9101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.891",
+      "lon": "132.147"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

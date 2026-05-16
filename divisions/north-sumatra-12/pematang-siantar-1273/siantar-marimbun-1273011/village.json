@@ -1,0 +1,392 @@
+[
+  {
+    "id": "1273011006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marihat Jaya",
+      "en": "Marihat Jaya",
+      "slug": "marihat-jaya-1273011006"
+    },
+    "code": {
+      "id": "1273011006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1273011",
+      "level": 3,
+      "name": {
+        "local": "Siantar Marimbun",
+        "en": "Siantar Marimbun",
+        "slug": "siantar-marimbun-1273011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1273",
+        "level": 2,
+        "name": {
+          "local": "Kota Pematang Siantar",
+          "en": "Pematang Siantar",
+          "slug": "pematang-siantar-1273"
+        }
+      },
+      {
+        "id": "1273011",
+        "level": 3,
+        "name": {
+          "local": "Siantar Marimbun",
+          "en": "Siantar Marimbun",
+          "slug": "siantar-marimbun-1273011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21127"
+    ],
+    "geo": {
+      "lat": "2.934",
+      "lon": "99.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1273011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Naga Huta",
+      "en": "Naga Huta",
+      "slug": "naga-huta-1273011002"
+    },
+    "code": {
+      "id": "1273011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1273011",
+      "level": 3,
+      "name": {
+        "local": "Siantar Marimbun",
+        "en": "Siantar Marimbun",
+        "slug": "siantar-marimbun-1273011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1273",
+        "level": 2,
+        "name": {
+          "local": "Kota Pematang Siantar",
+          "en": "Pematang Siantar",
+          "slug": "pematang-siantar-1273"
+        }
+      },
+      {
+        "id": "1273011",
+        "level": 3,
+        "name": {
+          "local": "Siantar Marimbun",
+          "en": "Siantar Marimbun",
+          "slug": "siantar-marimbun-1273011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21127"
+    ],
+    "geo": {
+      "lat": "2.933",
+      "lon": "99.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1273011005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nagahuta Timur",
+      "en": "Nagahuta Timur",
+      "slug": "nagahuta-timur-1273011005"
+    },
+    "code": {
+      "id": "1273011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1273011",
+      "level": 3,
+      "name": {
+        "local": "Siantar Marimbun",
+        "en": "Siantar Marimbun",
+        "slug": "siantar-marimbun-1273011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1273",
+        "level": 2,
+        "name": {
+          "local": "Kota Pematang Siantar",
+          "en": "Pematang Siantar",
+          "slug": "pematang-siantar-1273"
+        }
+      },
+      {
+        "id": "1273011",
+        "level": 3,
+        "name": {
+          "local": "Siantar Marimbun",
+          "en": "Siantar Marimbun",
+          "slug": "siantar-marimbun-1273011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21127"
+    ],
+    "geo": {
+      "lat": "2.938",
+      "lon": "99.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1273011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pematang Marihat",
+      "en": "Pematang Marihat",
+      "slug": "pematang-marihat-1273011003"
+    },
+    "code": {
+      "id": "1273011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1273011",
+      "level": 3,
+      "name": {
+        "local": "Siantar Marimbun",
+        "en": "Siantar Marimbun",
+        "slug": "siantar-marimbun-1273011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1273",
+        "level": 2,
+        "name": {
+          "local": "Kota Pematang Siantar",
+          "en": "Pematang Siantar",
+          "slug": "pematang-siantar-1273"
+        }
+      },
+      {
+        "id": "1273011",
+        "level": 3,
+        "name": {
+          "local": "Siantar Marimbun",
+          "en": "Siantar Marimbun",
+          "slug": "siantar-marimbun-1273011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21127"
+    ],
+    "geo": {
+      "lat": "2.928",
+      "lon": "99.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1273011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simarimbun",
+      "en": "Simarimbun",
+      "slug": "simarimbun-1273011001"
+    },
+    "code": {
+      "id": "1273011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1273011",
+      "level": 3,
+      "name": {
+        "local": "Siantar Marimbun",
+        "en": "Siantar Marimbun",
+        "slug": "siantar-marimbun-1273011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1273",
+        "level": 2,
+        "name": {
+          "local": "Kota Pematang Siantar",
+          "en": "Pematang Siantar",
+          "slug": "pematang-siantar-1273"
+        }
+      },
+      {
+        "id": "1273011",
+        "level": 3,
+        "name": {
+          "local": "Siantar Marimbun",
+          "en": "Siantar Marimbun",
+          "slug": "siantar-marimbun-1273011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21127"
+    ],
+    "geo": {
+      "lat": "2.899",
+      "lon": "99.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1273011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tong Marimbun",
+      "en": "Tong Marimbun",
+      "slug": "tong-marimbun-1273011004"
+    },
+    "code": {
+      "id": "1273011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1273011",
+      "level": 3,
+      "name": {
+        "local": "Siantar Marimbun",
+        "en": "Siantar Marimbun",
+        "slug": "siantar-marimbun-1273011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1273",
+        "level": 2,
+        "name": {
+          "local": "Kota Pematang Siantar",
+          "en": "Pematang Siantar",
+          "slug": "pematang-siantar-1273"
+        }
+      },
+      {
+        "id": "1273011",
+        "level": 3,
+        "name": {
+          "local": "Siantar Marimbun",
+          "en": "Siantar Marimbun",
+          "slug": "siantar-marimbun-1273011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21127"
+    ],
+    "geo": {
+      "lat": "2.918",
+      "lon": "99.049"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

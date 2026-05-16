@@ -1,0 +1,56 @@
+{
+  "id": "5318070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Wolowae",
+    "en": "Wolowae",
+    "slug": "wolowae-5318070"
+  },
+  "code": {
+    "id": "5318070",
+    "iso": null
+  },
+  "parent": {
+    "id": "5318",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nagekeo",
+      "en": "Nagekeo",
+      "slug": "nagekeo-5318"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5318",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nagekeo",
+        "en": "Nagekeo",
+        "slug": "nagekeo-5318"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.627",
+    "lon": "121.437"
+  },
+  "metadata": {},
+  "source": {}
+}

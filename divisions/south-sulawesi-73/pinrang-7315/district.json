@@ -1,0 +1,674 @@
+[
+  {
+    "id": "7315071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batulappa",
+      "en": "Batulappa",
+      "slug": "batulappa-7315071"
+    },
+    "code": {
+      "id": "7315071",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.587",
+      "lon": "119.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cempa",
+      "en": "Cempa",
+      "slug": "cempa-7315060"
+    },
+    "code": {
+      "id": "7315060",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.731",
+      "lon": "119.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Duampanua",
+      "en": "Duampanua",
+      "slug": "duampanua-7315070"
+    },
+    "code": {
+      "id": "7315070",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.642",
+      "lon": "119.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lanrisang",
+      "en": "Lanrisang",
+      "slug": "lanrisang-7315021"
+    },
+    "code": {
+      "id": "7315021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.883",
+      "lon": "119.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lembang",
+      "en": "Lembang",
+      "slug": "lembang-7315080"
+    },
+    "code": {
+      "id": "7315080",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.416",
+      "lon": "119.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mattiro Bulu",
+      "en": "Mattiro Bulu",
+      "slug": "mattiro-bulu-7315030"
+    },
+    "code": {
+      "id": "7315030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.871",
+      "lon": "119.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mattirosompe",
+      "en": "Mattirosompe",
+      "slug": "mattirosompe-7315020"
+    },
+    "code": {
+      "id": "7315020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.808",
+      "lon": "119.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paleteang",
+      "en": "Paleteang",
+      "slug": "paleteang-7315041"
+    },
+    "code": {
+      "id": "7315041",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.775",
+      "lon": "119.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Patampanua",
+      "en": "Patampanua",
+      "slug": "patampanua-7315050"
+    },
+    "code": {
+      "id": "7315050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.715",
+      "lon": "119.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Suppa",
+      "en": "Suppa",
+      "slug": "suppa-7315010"
+    },
+    "code": {
+      "id": "7315010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.977",
+      "lon": "119.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tiroang",
+      "en": "Tiroang",
+      "slug": "tiroang-7315042"
+    },
+    "code": {
+      "id": "7315042",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.811",
+      "lon": "119.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7315040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Watang Sawitto",
+      "en": "Watang Sawitto",
+      "slug": "watang-sawitto-7315040"
+    },
+    "code": {
+      "id": "7315040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pinrang",
+        "en": "Pinrang",
+        "slug": "pinrang-7315"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Selatan",
+          "en": "South Sulawesi",
+          "slug": "south-sulawesi-73"
+        }
+      },
+      {
+        "id": "7315",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pinrang",
+          "en": "Pinrang",
+          "slug": "pinrang-7315"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.81",
+      "lon": "119.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

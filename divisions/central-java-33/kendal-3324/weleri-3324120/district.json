@@ -1,0 +1,56 @@
+{
+  "id": "3324120",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Weleri",
+    "en": "Weleri",
+    "slug": "weleri-3324120"
+  },
+  "code": {
+    "id": "3324120",
+    "iso": null
+  },
+  "parent": {
+    "id": "3324",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kendal",
+      "en": "Kendal",
+      "slug": "kendal-3324"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3324",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kendal",
+        "en": "Kendal",
+        "slug": "kendal-3324"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.987",
+    "lon": "110.07"
+  },
+  "metadata": {},
+  "source": {}
+}

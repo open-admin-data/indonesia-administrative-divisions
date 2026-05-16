@@ -1,0 +1,48 @@
+{
+  "id": "1374",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Padang Panjang",
+    "en": "Padang Panjang",
+    "slug": "padang-panjang-1374"
+  },
+  "code": {
+    "id": "1374",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "Sumatera Barat",
+      "en": "West Sumatra",
+      "slug": "west-sumatra-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 2,
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.462",
+    "lon": "100.39"
+  },
+  "metadata": {},
+  "source": {}
+}

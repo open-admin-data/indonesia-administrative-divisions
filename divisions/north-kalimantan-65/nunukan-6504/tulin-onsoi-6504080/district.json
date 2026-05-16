@@ -1,0 +1,56 @@
+{
+  "id": "6504080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tulin Onsoi",
+    "en": "Tulin Onsoi",
+    "slug": "tulin-onsoi-6504080"
+  },
+  "code": {
+    "id": "6504080",
+    "iso": null
+  },
+  "parent": {
+    "id": "6504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nunukan",
+      "en": "Nunukan",
+      "slug": "nunukan-6504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Utara",
+        "en": "North Kalimantan",
+        "slug": "north-kalimantan-65"
+      }
+    },
+    {
+      "id": "6504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nunukan",
+        "en": "Nunukan",
+        "slug": "nunukan-6504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.156",
+    "lon": "116.908"
+  },
+  "metadata": {},
+  "source": {}
+}

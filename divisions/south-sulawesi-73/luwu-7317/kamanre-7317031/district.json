@@ -1,0 +1,56 @@
+{
+  "id": "7317031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kamanre",
+    "en": "Kamanre",
+    "slug": "kamanre-7317031"
+  },
+  "code": {
+    "id": "7317031",
+    "iso": null
+  },
+  "parent": {
+    "id": "7317",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Luwu",
+      "en": "Luwu",
+      "slug": "luwu-7317"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7317",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu",
+        "en": "Luwu",
+        "slug": "luwu-7317"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.316",
+    "lon": "120.341"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6107210",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ketungau Hulu",
+    "en": "Ketungau Hulu",
+    "slug": "ketungau-hulu-6107210"
+  },
+  "code": {
+    "id": "6107210",
+    "iso": null
+  },
+  "parent": {
+    "id": "6107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sintang",
+      "en": "Sintang",
+      "slug": "sintang-6107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sintang",
+        "en": "Sintang",
+        "slug": "sintang-6107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.868",
+    "lon": "111.068"
+  },
+  "metadata": {},
+  "source": {}
+}

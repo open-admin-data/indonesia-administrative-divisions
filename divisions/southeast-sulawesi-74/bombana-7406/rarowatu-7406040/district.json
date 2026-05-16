@@ -1,0 +1,56 @@
+{
+  "id": "7406040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Rarowatu",
+    "en": "Rarowatu",
+    "slug": "rarowatu-7406040"
+  },
+  "code": {
+    "id": "7406040",
+    "iso": null
+  },
+  "parent": {
+    "id": "7406",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bombana",
+      "en": "Bombana",
+      "slug": "bombana-7406"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7406",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bombana",
+        "en": "Bombana",
+        "slug": "bombana-7406"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.721",
+    "lon": "121.899"
+  },
+  "metadata": {},
+  "source": {}
+}

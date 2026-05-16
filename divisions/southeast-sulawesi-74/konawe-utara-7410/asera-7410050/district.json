@@ -1,0 +1,56 @@
+{
+  "id": "7410050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Asera",
+    "en": "Asera",
+    "slug": "asera-7410050"
+  },
+  "code": {
+    "id": "7410050",
+    "iso": null
+  },
+  "parent": {
+    "id": "7410",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Konawe Utara",
+      "en": "Konawe Utara",
+      "slug": "konawe-utara-7410"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Konawe Utara",
+        "en": "Konawe Utara",
+        "slug": "konawe-utara-7410"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.372",
+    "lon": "121.811"
+  },
+  "metadata": {},
+  "source": {}
+}

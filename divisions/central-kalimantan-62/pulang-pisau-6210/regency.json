@@ -1,0 +1,48 @@
+{
+  "id": "6210",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Pulang Pisau",
+    "en": "Pulang Pisau",
+    "slug": "pulang-pisau-6210"
+  },
+  "code": {
+    "id": "6210",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Tengah",
+      "en": "Central Kalimantan",
+      "slug": "central-kalimantan-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 96
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.127",
+    "lon": "113.844"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "1407071002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kembang Damai",
+      "en": "Kembang Damai",
+      "slug": "kembang-damai-1407071002"
+    },
+    "code": {
+      "id": "1407071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407071",
+      "level": 3,
+      "name": {
+        "local": "Pagaran Tapah Darussalam",
+        "en": "Pagaran Tapah Darussalam",
+        "slug": "pagaran-tapah-darussalam-1407071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rokan Hulu",
+          "en": "Rokan Hulu",
+          "slug": "rokan-hulu-1407"
+        }
+      },
+      {
+        "id": "1407071",
+        "level": 3,
+        "name": {
+          "local": "Pagaran Tapah Darussalam",
+          "en": "Pagaran Tapah Darussalam",
+          "slug": "pagaran-tapah-darussalam-1407071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28568"
+    ],
+    "geo": {
+      "lat": "0.792",
+      "lon": "100.614"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1407071001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pagaran Tapah",
+      "en": "Pagaran Tapah",
+      "slug": "pagaran-tapah-1407071001"
+    },
+    "code": {
+      "id": "1407071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407071",
+      "level": 3,
+      "name": {
+        "local": "Pagaran Tapah Darussalam",
+        "en": "Pagaran Tapah Darussalam",
+        "slug": "pagaran-tapah-darussalam-1407071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rokan Hulu",
+          "en": "Rokan Hulu",
+          "slug": "rokan-hulu-1407"
+        }
+      },
+      {
+        "id": "1407071",
+        "level": 3,
+        "name": {
+          "local": "Pagaran Tapah Darussalam",
+          "en": "Pagaran Tapah Darussalam",
+          "slug": "pagaran-tapah-darussalam-1407071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28568"
+    ],
+    "geo": {
+      "lat": "0.75",
+      "lon": "100.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1407071005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sangkir Indah",
+      "en": "Sangkir Indah",
+      "slug": "sangkir-indah-1407071005"
+    },
+    "code": {
+      "id": "1407071005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1407071",
+      "level": 3,
+      "name": {
+        "local": "Pagaran Tapah Darussalam",
+        "en": "Pagaran Tapah Darussalam",
+        "slug": "pagaran-tapah-darussalam-1407071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "local": "Riau",
+          "en": "Riau",
+          "slug": "riau-14"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Rokan Hulu",
+          "en": "Rokan Hulu",
+          "slug": "rokan-hulu-1407"
+        }
+      },
+      {
+        "id": "1407071",
+        "level": 3,
+        "name": {
+          "local": "Pagaran Tapah Darussalam",
+          "en": "Pagaran Tapah Darussalam",
+          "slug": "pagaran-tapah-darussalam-1407071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "28568"
+    ],
+    "geo": {
+      "lat": "0.783",
+      "lon": "100.546"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

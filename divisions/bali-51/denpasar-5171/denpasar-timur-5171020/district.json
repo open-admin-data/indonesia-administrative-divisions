@@ -1,0 +1,56 @@
+{
+  "id": "5171020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Denpasar Timur",
+    "en": "Denpasar Timur",
+    "slug": "denpasar-timur-5171020"
+  },
+  "code": {
+    "id": "5171020",
+    "iso": null
+  },
+  "parent": {
+    "id": "5171",
+    "level": 2,
+    "name": {
+      "local": "Kota Denpasar",
+      "en": "Denpasar",
+      "slug": "denpasar-5171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "Bali",
+        "en": "Bali",
+        "slug": "bali-51"
+      }
+    },
+    {
+      "id": "5171",
+      "level": 2,
+      "name": {
+        "local": "Kota Denpasar",
+        "en": "Denpasar",
+        "slug": "denpasar-5171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.634",
+    "lon": "115.247"
+  },
+  "metadata": {},
+  "source": {}
+}

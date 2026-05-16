@@ -1,0 +1,506 @@
+[
+  {
+    "id": "1116051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Darul Hikmah",
+      "en": "Darul Hikmah",
+      "slug": "darul-hikmah-1116051"
+    },
+    "code": {
+      "id": "1116051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.912",
+      "lon": "95.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Indra Jaya",
+      "en": "Indra Jaya",
+      "slug": "indra-jaya-1116061"
+    },
+    "code": {
+      "id": "1116061",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.014",
+      "lon": "95.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jaya",
+      "en": "Jaya",
+      "slug": "jaya-1116060"
+    },
+    "code": {
+      "id": "1116060",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 34
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.152",
+      "lon": "95.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Krueng Sabee",
+      "en": "Krueng Sabee",
+      "slug": "krueng-sabee-1116030"
+    },
+    "code": {
+      "id": "1116030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.771",
+      "lon": "95.781"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Panga",
+      "en": "Panga",
+      "slug": "panga-1116020"
+    },
+    "code": {
+      "id": "1116020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.622",
+      "lon": "95.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasie Raya",
+      "en": "Pasie Raya",
+      "slug": "pasie-raya-1116011"
+    },
+    "code": {
+      "id": "1116011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.613",
+      "lon": "95.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sampoiniet",
+      "en": "Sampoiniet",
+      "slug": "sampoiniet-1116050"
+    },
+    "code": {
+      "id": "1116050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.936",
+      "lon": "95.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Setia Bakti",
+      "en": "Setia Bakti",
+      "slug": "setia-bakti-1116040"
+    },
+    "code": {
+      "id": "1116040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.837",
+      "lon": "95.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1116010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teunom",
+      "en": "Teunom",
+      "slug": "teunom-1116010"
+    },
+    "code": {
+      "id": "1116010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "Aceh",
+          "en": "Aceh",
+          "slug": "aceh-11"
+        }
+      },
+      {
+        "id": "1116",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Aceh Jaya",
+          "en": "Aceh Jaya",
+          "slug": "aceh-jaya-1116"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.499",
+      "lon": "95.855"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

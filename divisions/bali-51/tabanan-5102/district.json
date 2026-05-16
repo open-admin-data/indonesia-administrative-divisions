@@ -1,0 +1,562 @@
+[
+  {
+    "id": "5102060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Baturiti",
+      "en": "Baturiti",
+      "slug": "baturiti-5102060"
+    },
+    "code": {
+      "id": "5102060",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.346",
+      "lon": "115.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kediri",
+      "en": "Kediri",
+      "slug": "kediri-5102040"
+    },
+    "code": {
+      "id": "5102040",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.575",
+      "lon": "115.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kerambitan",
+      "en": "Kerambitan",
+      "slug": "kerambitan-5102020"
+    },
+    "code": {
+      "id": "5102020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.527",
+      "lon": "115.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marga",
+      "en": "Marga",
+      "slug": "marga-5102050"
+    },
+    "code": {
+      "id": "5102050",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.451",
+      "lon": "115.178"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Penebel",
+      "en": "Penebel",
+      "slug": "penebel-5102070"
+    },
+    "code": {
+      "id": "5102070",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.408",
+      "lon": "115.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pupuan",
+      "en": "Pupuan",
+      "slug": "pupuan-5102080"
+    },
+    "code": {
+      "id": "5102080",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.368",
+      "lon": "115.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selemadeg",
+      "en": "Selemadeg",
+      "slug": "selemadeg-5102010"
+    },
+    "code": {
+      "id": "5102010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.443",
+      "lon": "115.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selemadeg Barat",
+      "en": "Selemadeg Barat",
+      "slug": "selemadeg-barat-5102012"
+    },
+    "code": {
+      "id": "5102012",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.455",
+      "lon": "114.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Selemadeg Timur",
+      "en": "Selemadeg Timur",
+      "slug": "selemadeg-timur-5102011"
+    },
+    "code": {
+      "id": "5102011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.469",
+      "lon": "115.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5102030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tabanan",
+      "en": "Tabanan",
+      "slug": "tabanan-5102030"
+    },
+    "code": {
+      "id": "5102030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabanan",
+        "en": "Tabanan",
+        "slug": "tabanan-5102"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Tabanan",
+          "en": "Tabanan",
+          "slug": "tabanan-5102"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.517",
+      "lon": "115.109"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

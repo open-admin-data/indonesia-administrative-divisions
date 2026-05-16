@@ -1,0 +1,56 @@
+{
+  "id": "7311110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Barebbo",
+    "en": "Barebbo",
+    "slug": "barebbo-7311110"
+  },
+  "code": {
+    "id": "7311110",
+    "iso": null
+  },
+  "parent": {
+    "id": "7311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bone",
+      "en": "Bone",
+      "slug": "bone-7311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bone",
+        "en": "Bone",
+        "slug": "bone-7311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.6",
+    "lon": "120.296"
+  },
+  "metadata": {},
+  "source": {}
+}

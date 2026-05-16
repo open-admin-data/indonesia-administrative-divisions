@@ -1,0 +1,457 @@
+[
+  {
+    "id": "1609032002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anyar",
+      "en": "Anyar",
+      "slug": "anyar-1609032002"
+    },
+    "code": {
+      "id": "1609032002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609032",
+      "level": 3,
+      "name": {
+        "local": "Buay Pemuka Bangsa Raja",
+        "en": "Buay Pemuka Bangsa Raja",
+        "slug": "buay-pemuka-bangsa-raja-1609032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu Timur",
+          "en": "Ogan Komering Ulu Timur",
+          "slug": "ogan-komering-ulu-timur-1609"
+        }
+      },
+      {
+        "id": "1609032",
+        "level": 3,
+        "name": {
+          "local": "Buay Pemuka Bangsa Raja",
+          "en": "Buay Pemuka Bangsa Raja",
+          "slug": "buay-pemuka-bangsa-raja-1609032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "-4.145",
+      "lon": "104.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609032006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Muncak Kabau",
+      "en": "Muncak Kabau",
+      "slug": "muncak-kabau-1609032006"
+    },
+    "code": {
+      "id": "1609032006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609032",
+      "level": 3,
+      "name": {
+        "local": "Buay Pemuka Bangsa Raja",
+        "en": "Buay Pemuka Bangsa Raja",
+        "slug": "buay-pemuka-bangsa-raja-1609032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu Timur",
+          "en": "Ogan Komering Ulu Timur",
+          "slug": "ogan-komering-ulu-timur-1609"
+        }
+      },
+      {
+        "id": "1609032",
+        "level": 3,
+        "name": {
+          "local": "Buay Pemuka Bangsa Raja",
+          "en": "Buay Pemuka Bangsa Raja",
+          "slug": "buay-pemuka-bangsa-raja-1609032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "-4.189",
+      "lon": "104.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609032003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pandan Sari Ii",
+      "en": "Pandan Sari Ii",
+      "slug": "pandan-sari-ii-1609032003"
+    },
+    "code": {
+      "id": "1609032003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609032",
+      "level": 3,
+      "name": {
+        "local": "Buay Pemuka Bangsa Raja",
+        "en": "Buay Pemuka Bangsa Raja",
+        "slug": "buay-pemuka-bangsa-raja-1609032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu Timur",
+          "en": "Ogan Komering Ulu Timur",
+          "slug": "ogan-komering-ulu-timur-1609"
+        }
+      },
+      {
+        "id": "1609032",
+        "level": 3,
+        "name": {
+          "local": "Buay Pemuka Bangsa Raja",
+          "en": "Buay Pemuka Bangsa Raja",
+          "slug": "buay-pemuka-bangsa-raja-1609032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "-4.126",
+      "lon": "104.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609032004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Rawa Sari",
+      "en": "Rawa Sari",
+      "slug": "rawa-sari-1609032004"
+    },
+    "code": {
+      "id": "1609032004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609032",
+      "level": 3,
+      "name": {
+        "local": "Buay Pemuka Bangsa Raja",
+        "en": "Buay Pemuka Bangsa Raja",
+        "slug": "buay-pemuka-bangsa-raja-1609032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu Timur",
+          "en": "Ogan Komering Ulu Timur",
+          "slug": "ogan-komering-ulu-timur-1609"
+        }
+      },
+      {
+        "id": "1609032",
+        "level": 3,
+        "name": {
+          "local": "Buay Pemuka Bangsa Raja",
+          "en": "Buay Pemuka Bangsa Raja",
+          "slug": "buay-pemuka-bangsa-raja-1609032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "-4.136",
+      "lon": "104.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609032007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sri Bulan",
+      "en": "Sri Bulan",
+      "slug": "sri-bulan-1609032007"
+    },
+    "code": {
+      "id": "1609032007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609032",
+      "level": 3,
+      "name": {
+        "local": "Buay Pemuka Bangsa Raja",
+        "en": "Buay Pemuka Bangsa Raja",
+        "slug": "buay-pemuka-bangsa-raja-1609032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu Timur",
+          "en": "Ogan Komering Ulu Timur",
+          "slug": "ogan-komering-ulu-timur-1609"
+        }
+      },
+      {
+        "id": "1609032",
+        "level": 3,
+        "name": {
+          "local": "Buay Pemuka Bangsa Raja",
+          "en": "Buay Pemuka Bangsa Raja",
+          "slug": "buay-pemuka-bangsa-raja-1609032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "-4.188",
+      "lon": "104.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609032001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sri Bunga",
+      "en": "Sri Bunga",
+      "slug": "sri-bunga-1609032001"
+    },
+    "code": {
+      "id": "1609032001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609032",
+      "level": 3,
+      "name": {
+        "local": "Buay Pemuka Bangsa Raja",
+        "en": "Buay Pemuka Bangsa Raja",
+        "slug": "buay-pemuka-bangsa-raja-1609032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu Timur",
+          "en": "Ogan Komering Ulu Timur",
+          "slug": "ogan-komering-ulu-timur-1609"
+        }
+      },
+      {
+        "id": "1609032",
+        "level": 3,
+        "name": {
+          "local": "Buay Pemuka Bangsa Raja",
+          "en": "Buay Pemuka Bangsa Raja",
+          "slug": "buay-pemuka-bangsa-raja-1609032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "-4.114",
+      "lon": "104.467"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1609032005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Surya Menang",
+      "en": "Surya Menang",
+      "slug": "surya-menang-1609032005"
+    },
+    "code": {
+      "id": "1609032005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1609032",
+      "level": 3,
+      "name": {
+        "local": "Buay Pemuka Bangsa Raja",
+        "en": "Buay Pemuka Bangsa Raja",
+        "slug": "buay-pemuka-bangsa-raja-1609032"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "16",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Selatan",
+          "en": "South Sumatra",
+          "slug": "south-sumatra-16"
+        }
+      },
+      {
+        "id": "1609",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ogan Komering Ulu Timur",
+          "en": "Ogan Komering Ulu Timur",
+          "slug": "ogan-komering-ulu-timur-1609"
+        }
+      },
+      {
+        "id": "1609032",
+        "level": 3,
+        "name": {
+          "local": "Buay Pemuka Bangsa Raja",
+          "en": "Buay Pemuka Bangsa Raja",
+          "slug": "buay-pemuka-bangsa-raja-1609032"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "32364"
+    ],
+    "geo": {
+      "lat": "-4.154",
+      "lon": "104.49"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

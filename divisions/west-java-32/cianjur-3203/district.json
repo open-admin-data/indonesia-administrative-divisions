@@ -1,0 +1,1794 @@
+[
+  {
+    "id": "3203010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Agrabinta",
+      "en": "Agrabinta",
+      "slug": "agrabinta-3203010"
+    },
+    "code": {
+      "id": "3203010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.382",
+      "lon": "106.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203160",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bojongpicung",
+      "en": "Bojongpicung",
+      "slug": "bojongpicung-3203160"
+    },
+    "code": {
+      "id": "3203160",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.881",
+      "lon": "107.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Campaka",
+      "en": "Campaka",
+      "slug": "campaka-3203110"
+    },
+    "code": {
+      "id": "3203110",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.003",
+      "lon": "107.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203111",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Campaka Mulya",
+      "en": "Campaka Mulya",
+      "slug": "campaka-mulya-3203111"
+    },
+    "code": {
+      "id": "3203111",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.072",
+      "lon": "107.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203200",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cianjur",
+      "en": "Cianjur",
+      "slug": "cianjur-3203200"
+    },
+    "code": {
+      "id": "3203200",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.814",
+      "lon": "107.125"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203120",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibeber",
+      "en": "Cibeber",
+      "slug": "cibeber-3203120"
+    },
+    "code": {
+      "id": "3203120",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.941",
+      "lon": "107.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cibinong",
+      "en": "Cibinong",
+      "slug": "cibinong-3203050"
+    },
+    "code": {
+      "id": "3203050",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.323",
+      "lon": "107.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cidaun",
+      "en": "Cidaun",
+      "slug": "cidaun-3203030"
+    },
+    "code": {
+      "id": "3203030",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.379",
+      "lon": "107.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cijati",
+      "en": "Cijati",
+      "slug": "cijati-3203071"
+    },
+    "code": {
+      "id": "3203071",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.288",
+      "lon": "107.017"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikadu",
+      "en": "Cikadu",
+      "slug": "cikadu-3203051"
+    },
+    "code": {
+      "id": "3203051",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.314",
+      "lon": "107.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203240",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cikalongkulon",
+      "en": "Cikalongkulon",
+      "slug": "cikalongkulon-3203240"
+    },
+    "code": {
+      "id": "3203240",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 18
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.671",
+      "lon": "107.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203140",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cilaku",
+      "en": "Cilaku",
+      "slug": "cilaku-3203140"
+    },
+    "code": {
+      "id": "3203140",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.869",
+      "lon": "107.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203221",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cipanas",
+      "en": "Cipanas",
+      "slug": "cipanas-3203221"
+    },
+    "code": {
+      "id": "3203221",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.722",
+      "lon": "107.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203170",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ciranjang",
+      "en": "Ciranjang",
+      "slug": "ciranjang-3203170"
+    },
+    "code": {
+      "id": "3203170",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.811",
+      "lon": "107.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203210",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Cugenang",
+      "en": "Cugenang",
+      "slug": "cugenang-3203210"
+    },
+    "code": {
+      "id": "3203210",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.806",
+      "lon": "107.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203131",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Gekbrong",
+      "en": "Gekbrong",
+      "slug": "gekbrong-3203131"
+    },
+    "code": {
+      "id": "3203131",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.859",
+      "lon": "107.042"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203161",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Haurwangi",
+      "en": "Haurwangi",
+      "slug": "haurwangi-3203161"
+    },
+    "code": {
+      "id": "3203161",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.845",
+      "lon": "107.316"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kadupandak",
+      "en": "Kadupandak",
+      "slug": "kadupandak-3203070"
+    },
+    "code": {
+      "id": "3203070",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.211",
+      "lon": "107.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203190",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Karangtengah",
+      "en": "Karangtengah",
+      "slug": "karangtengah-3203190"
+    },
+    "code": {
+      "id": "3203190",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.804",
+      "lon": "107.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Leles",
+      "en": "Leles",
+      "slug": "leles-3203011"
+    },
+    "code": {
+      "id": "3203011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.34",
+      "lon": "107.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203180",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mande",
+      "en": "Mande",
+      "slug": "mande-3203180"
+    },
+    "code": {
+      "id": "3203180",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.757",
+      "lon": "107.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Naringgul",
+      "en": "Naringgul",
+      "slug": "naringgul-3203040"
+    },
+    "code": {
+      "id": "3203040",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.344",
+      "lon": "107.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203220",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pacet",
+      "en": "Pacet",
+      "slug": "pacet-3203220"
+    },
+    "code": {
+      "id": "3203220",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.739",
+      "lon": "107.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pagelaran",
+      "en": "Pagelaran",
+      "slug": "pagelaran-3203100"
+    },
+    "code": {
+      "id": "3203100",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.16",
+      "lon": "107.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pasirkuda",
+      "en": "Pasirkuda",
+      "slug": "pasirkuda-3203061"
+    },
+    "code": {
+      "id": "3203061",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.211",
+      "lon": "107.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sindangbarang",
+      "en": "Sindangbarang",
+      "slug": "sindangbarang-3203020"
+    },
+    "code": {
+      "id": "3203020",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.425",
+      "lon": "107.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203150",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukaluyu",
+      "en": "Sukaluyu",
+      "slug": "sukaluyu-3203150"
+    },
+    "code": {
+      "id": "3203150",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.825",
+      "lon": "107.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukanagara",
+      "en": "Sukanagara",
+      "slug": "sukanagara-3203090"
+    },
+    "code": {
+      "id": "3203090",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.103",
+      "lon": "107.09"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203230",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sukaresmi",
+      "en": "Sukaresmi",
+      "slug": "sukaresmi-3203230"
+    },
+    "code": {
+      "id": "3203230",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.716",
+      "lon": "107.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Takokak",
+      "en": "Takokak",
+      "slug": "takokak-3203080"
+    },
+    "code": {
+      "id": "3203080",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.115",
+      "lon": "106.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tanggeung",
+      "en": "Tanggeung",
+      "slug": "tanggeung-3203060"
+    },
+    "code": {
+      "id": "3203060",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-7.255",
+      "lon": "107.127"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3203130",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Warungkondang",
+      "en": "Warungkondang",
+      "slug": "warungkondang-3203130"
+    },
+    "code": {
+      "id": "3203130",
+      "iso": null
+    },
+    "parent": {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cianjur",
+        "en": "Cianjur",
+        "slug": "cianjur-3203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3203",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Cianjur",
+          "en": "Cianjur",
+          "slug": "cianjur-3203"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-6.857",
+      "lon": "107.055"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

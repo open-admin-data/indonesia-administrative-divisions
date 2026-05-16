@@ -1,0 +1,56 @@
+{
+  "id": "1114040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kota Kuala Simpang",
+    "en": "Kota Kuala Simpang",
+    "slug": "kota-kuala-simpang-1114040"
+  },
+  "code": {
+    "id": "1114040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1114",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tamiang",
+      "en": "Aceh Tamiang",
+      "slug": "aceh-tamiang-1114"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1114",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tamiang",
+        "en": "Aceh Tamiang",
+        "slug": "aceh-tamiang-1114"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.286",
+    "lon": "98.064"
+  },
+  "metadata": {},
+  "source": {}
+}

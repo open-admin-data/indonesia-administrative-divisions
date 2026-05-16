@@ -1,0 +1,56 @@
+{
+  "id": "3510060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Cluring",
+    "en": "Cluring",
+    "slug": "cluring-3510060"
+  },
+  "code": {
+    "id": "3510060",
+    "iso": null
+  },
+  "parent": {
+    "id": "3510",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banyuwangi",
+      "en": "Banyuwangi",
+      "slug": "banyuwangi-3510"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3510",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banyuwangi",
+        "en": "Banyuwangi",
+        "slug": "banyuwangi-3510"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.435",
+    "lon": "114.236"
+  },
+  "metadata": {},
+  "source": {}
+}

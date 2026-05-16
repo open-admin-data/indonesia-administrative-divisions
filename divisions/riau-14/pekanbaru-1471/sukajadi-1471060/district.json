@@ -1,0 +1,56 @@
+{
+  "id": "1471060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sukajadi",
+    "en": "Sukajadi",
+    "slug": "sukajadi-1471060"
+  },
+  "code": {
+    "id": "1471060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1471",
+    "level": 2,
+    "name": {
+      "local": "Kota Pekanbaru",
+      "en": "Pekanbaru",
+      "slug": "pekanbaru-1471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1471",
+      "level": 2,
+      "name": {
+        "local": "Kota Pekanbaru",
+        "en": "Pekanbaru",
+        "slug": "pekanbaru-1471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.517",
+    "lon": "101.438"
+  },
+  "metadata": {},
+  "source": {}
+}

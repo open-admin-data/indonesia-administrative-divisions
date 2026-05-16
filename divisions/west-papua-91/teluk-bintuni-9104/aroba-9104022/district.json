@@ -1,0 +1,56 @@
+{
+  "id": "9104022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aroba",
+    "en": "Aroba",
+    "slug": "aroba-9104022"
+  },
+  "code": {
+    "id": "9104022",
+    "iso": null
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Teluk Bintuni",
+      "en": "Teluk Bintuni",
+      "slug": "teluk-bintuni-9104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Teluk Bintuni",
+        "en": "Teluk Bintuni",
+        "slug": "teluk-bintuni-9104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.717",
+    "lon": "133.476"
+  },
+  "metadata": {},
+  "source": {}
+}

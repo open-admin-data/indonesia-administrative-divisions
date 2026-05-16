@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3403040008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Giripanggung",
+      "en": "Giripanggung",
+      "slug": "giripanggung-3403040008"
+    },
+    "code": {
+      "id": "3403040008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3403040",
+      "level": 3,
+      "name": {
+        "local": "Tepus",
+        "en": "Tepus",
+        "slug": "tepus-3403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gunung Kidul",
+          "en": "Gunung Kidul",
+          "slug": "gunung-kidul-3403"
+        }
+      },
+      {
+        "id": "3403040",
+        "level": 3,
+        "name": {
+          "local": "Tepus",
+          "en": "Tepus",
+          "slug": "tepus-3403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55881"
+    ],
+    "geo": {
+      "lat": "-8.104",
+      "lon": "110.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3403040007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Purwodadi",
+      "en": "Purwodadi",
+      "slug": "purwodadi-3403040007"
+    },
+    "code": {
+      "id": "3403040007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3403040",
+      "level": 3,
+      "name": {
+        "local": "Tepus",
+        "en": "Tepus",
+        "slug": "tepus-3403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gunung Kidul",
+          "en": "Gunung Kidul",
+          "slug": "gunung-kidul-3403"
+        }
+      },
+      {
+        "id": "3403040",
+        "level": 3,
+        "name": {
+          "local": "Tepus",
+          "en": "Tepus",
+          "slug": "tepus-3403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55881"
+    ],
+    "geo": {
+      "lat": "-8.162",
+      "lon": "110.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3403040005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidoharjo",
+      "en": "Sidoharjo",
+      "slug": "sidoharjo-3403040005"
+    },
+    "code": {
+      "id": "3403040005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3403040",
+      "level": 3,
+      "name": {
+        "local": "Tepus",
+        "en": "Tepus",
+        "slug": "tepus-3403040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "34",
+        "level": 1,
+        "name": {
+          "local": "Di Yogyakarta",
+          "en": "Yogyakarta",
+          "slug": "yogyakarta-34"
+        }
+      },
+      {
+        "id": "3403",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Gunung Kidul",
+          "en": "Gunung Kidul",
+          "slug": "gunung-kidul-3403"
+        }
+      },
+      {
+        "id": "3403040",
+        "level": 3,
+        "name": {
+          "local": "Tepus",
+          "en": "Tepus",
+          "slug": "tepus-3403040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55881"
+    ],
+    "geo": {
+      "lat": "-8.118",
+      "lon": "110.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

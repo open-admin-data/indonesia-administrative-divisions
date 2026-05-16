@@ -1,0 +1,1586 @@
+[
+  {
+    "id": "1208",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Asahan",
+      "en": "Asahan",
+      "slug": "asahan-1208"
+    },
+    "code": {
+      "id": "1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 25,
+      "village": 204
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.965",
+      "lon": "98.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1219",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Batu Bara",
+      "en": "Batu Bara",
+      "slug": "batu-bara-1219"
+    },
+    "code": {
+      "id": "1219",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 151
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.172",
+      "lon": "99.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1276",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Binjai",
+      "en": "Binjai",
+      "slug": "binjai-1276"
+    },
+    "code": {
+      "id": "1276",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.328",
+      "lon": "99.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1210",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Dairi",
+      "en": "Dairi",
+      "slug": "dairi-1210"
+    },
+    "code": {
+      "id": "1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.07",
+      "lon": "99.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1212",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Deli Serdang",
+      "en": "Deli Serdang",
+      "slug": "deli-serdang-1212"
+    },
+    "code": {
+      "id": "1212",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 22,
+      "village": 394
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.332",
+      "lon": "99.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1278",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Gunungsitoli",
+      "en": "Gunungsitoli",
+      "slug": "gunungsitoli-1278"
+    },
+    "code": {
+      "id": "1278",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 101
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.283",
+      "lon": "97.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1215",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Humbang Hasundutan",
+      "en": "Humbang Hasundutan",
+      "slug": "humbang-hasundutan-1215"
+    },
+    "code": {
+      "id": "1215",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 154
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.541",
+      "lon": "98.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1211",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Karo",
+      "en": "Karo",
+      "slug": "karo-1211"
+    },
+    "code": {
+      "id": "1211",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 269
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.748",
+      "lon": "98.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1207",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Labuhan Batu",
+      "en": "Labuhan Batu",
+      "slug": "labuhan-batu-1207"
+    },
+    "code": {
+      "id": "1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 98
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.551",
+      "lon": "98.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Labuhan Batu Selatan",
+      "en": "Labuhan Batu Selatan",
+      "slug": "labuhan-batu-selatan-1222"
+    },
+    "code": {
+      "id": "1222",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 54
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.868",
+      "lon": "100.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Labuhan Batu Utara",
+      "en": "Labuhan Batu Utara",
+      "slug": "labuhan-batu-utara-1223"
+    },
+    "code": {
+      "id": "1223",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.563",
+      "lon": "99.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1213",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Langkat",
+      "en": "Langkat",
+      "slug": "langkat-1213"
+    },
+    "code": {
+      "id": "1213",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 23,
+      "village": 277
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.797",
+      "lon": "99.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1202",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Mandailing Natal",
+      "en": "Mandailing Natal",
+      "slug": "mandailing-natal-1202"
+    },
+    "code": {
+      "id": "1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 23,
+      "village": 407
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.022",
+      "lon": "98.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1275",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Medan",
+      "en": "Medan",
+      "slug": "medan-1275"
+    },
+    "code": {
+      "id": "1275",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 21,
+      "village": 151
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.603",
+      "lon": "98.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1201",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Nias",
+      "en": "Nias",
+      "slug": "nias-1201"
+    },
+    "code": {
+      "id": "1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 10,
+      "village": 170
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.685",
+      "lon": "98.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1225",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Nias Barat",
+      "en": "Nias Barat",
+      "slug": "nias-barat-1225"
+    },
+    "code": {
+      "id": "1225",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 105
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.999",
+      "lon": "97.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1214",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Nias Selatan",
+      "en": "Nias Selatan",
+      "slug": "nias-selatan-1214"
+    },
+    "code": {
+      "id": "1214",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 35,
+      "village": 461
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.583",
+      "lon": "97.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1224",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Nias Utara",
+      "en": "Nias Utara",
+      "slug": "nias-utara-1224"
+    },
+    "code": {
+      "id": "1224",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 11,
+      "village": 113
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.389",
+      "lon": "97.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1221",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Padang Lawas",
+      "en": "Padang Lawas",
+      "slug": "padang-lawas-1221"
+    },
+    "code": {
+      "id": "1221",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 304
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.056",
+      "lon": "99.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1220",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Padang Lawas Utara",
+      "en": "Padang Lawas Utara",
+      "slug": "padang-lawas-utara-1220"
+    },
+    "code": {
+      "id": "1220",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 12,
+      "village": 388
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.495",
+      "lon": "99.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1277",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Padangsidimpuan",
+      "en": "Padangsidimpuan",
+      "slug": "padangsidimpuan-1277"
+    },
+    "code": {
+      "id": "1277",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.378",
+      "lon": "99.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1216",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Pakpak Bharat",
+      "en": "Pakpak Bharat",
+      "slug": "pakpak-bharat-1216"
+    },
+    "code": {
+      "id": "1216",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.25",
+      "lon": "98.79"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1273",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Pematang Siantar",
+      "en": "Pematang Siantar",
+      "slug": "pematang-siantar-1273"
+    },
+    "code": {
+      "id": "1273",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 8,
+      "village": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.746",
+      "lon": "98.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1217",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Samosir",
+      "en": "Samosir",
+      "slug": "samosir-1217"
+    },
+    "code": {
+      "id": "1217",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 9,
+      "village": 134
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.56",
+      "lon": "98.722"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1218",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Serdang Bedagai",
+      "en": "Serdang Bedagai",
+      "slug": "serdang-bedagai-1218"
+    },
+    "code": {
+      "id": "1218",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 17,
+      "village": 243
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.491",
+      "lon": "99.126"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1271",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Sibolga",
+      "en": "Sibolga",
+      "slug": "sibolga-1271"
+    },
+    "code": {
+      "id": "1271",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 4,
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.59",
+      "lon": "98.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1209",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Simalungun",
+      "en": "Simalungun",
+      "slug": "simalungun-1209"
+    },
+    "code": {
+      "id": "1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 31,
+      "village": 402
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.988",
+      "lon": "99.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1272",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Tanjung Balai",
+      "en": "Tanjung Balai",
+      "slug": "tanjung-balai-1272"
+    },
+    "code": {
+      "id": "1272",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 6,
+      "village": 31
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.956",
+      "lon": "99.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1203",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tapanuli Selatan",
+      "en": "Tapanuli Selatan",
+      "slug": "tapanuli-selatan-1203"
+    },
+    "code": {
+      "id": "1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 14,
+      "village": 248
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.52",
+      "lon": "99.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1204",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tapanuli Tengah",
+      "en": "Tapanuli Tengah",
+      "slug": "tapanuli-tengah-1204"
+    },
+    "code": {
+      "id": "1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 20,
+      "village": 215
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.242",
+      "lon": "97.65"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1205",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Tapanuli Utara",
+      "en": "Tapanuli Utara",
+      "slug": "tapanuli-utara-1205"
+    },
+    "code": {
+      "id": "1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 15,
+      "village": 252
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.743",
+      "lon": "98.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1274",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kota Tebing Tinggi",
+      "en": "Tebing Tinggi",
+      "slug": "tebing-tinggi-1274"
+    },
+    "code": {
+      "id": "1274",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 5,
+      "village": 35
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.948",
+      "lon": "99.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1206",
+    "level": 2,
+    "level_name": {
+      "local": "Kabupaten/Kota",
+      "en": "Regency/City"
+    },
+    "name": {
+      "local": "Kabupaten Toba Samosir",
+      "en": "Toba Samosir",
+      "slug": "toba-samosir-1206"
+    },
+    "code": {
+      "id": "1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      }
+    ],
+    "children_count": {
+      "district": 16,
+      "village": 244
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.111",
+      "lon": "98.501"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

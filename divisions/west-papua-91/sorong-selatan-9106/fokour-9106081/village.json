@@ -1,0 +1,132 @@
+[
+  {
+    "id": "9106081001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pasir Putih",
+      "en": "Pasir Putih",
+      "slug": "pasir-putih-9106081001"
+    },
+    "code": {
+      "id": "9106081001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9106081",
+      "level": 3,
+      "name": {
+        "local": "Fokour",
+        "en": "Fokour",
+        "slug": "fokour-9106081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong Selatan",
+          "en": "Sorong Selatan",
+          "slug": "sorong-selatan-9106"
+        }
+      },
+      {
+        "id": "9106081",
+        "level": 3,
+        "name": {
+          "local": "Fokour",
+          "en": "Fokour",
+          "slug": "fokour-9106081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98457"
+    ],
+    "geo": {
+      "lat": "-1.17",
+      "lon": "131.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9106081004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wondum",
+      "en": "Wondum",
+      "slug": "wondum-9106081004"
+    },
+    "code": {
+      "id": "9106081004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9106081",
+      "level": 3,
+      "name": {
+        "local": "Fokour",
+        "en": "Fokour",
+        "slug": "fokour-9106081"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9106",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong Selatan",
+          "en": "Sorong Selatan",
+          "slug": "sorong-selatan-9106"
+        }
+      },
+      {
+        "id": "9106081",
+        "level": 3,
+        "name": {
+          "local": "Fokour",
+          "en": "Fokour",
+          "slug": "fokour-9106081"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98457"
+    ],
+    "geo": {
+      "lat": "-1.109",
+      "lon": "132.009"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

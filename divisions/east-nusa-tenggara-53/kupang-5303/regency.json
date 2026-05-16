@@ -1,0 +1,48 @@
+{
+  "id": "5303",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kupang",
+    "en": "Kupang",
+    "slug": "kupang-5303"
+  },
+  "code": {
+    "id": "5303",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 24,
+    "village": 171
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.457",
+    "lon": "124.475"
+  },
+  "metadata": {},
+  "source": {}
+}

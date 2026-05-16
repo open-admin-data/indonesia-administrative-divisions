@@ -1,0 +1,56 @@
+{
+  "id": "2102040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Teluk Bintan",
+    "en": "Teluk Bintan",
+    "slug": "teluk-bintan-2102040"
+  },
+  "code": {
+    "id": "2102040",
+    "iso": null
+  },
+  "parent": {
+    "id": "2102",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bintan",
+      "en": "Bintan",
+      "slug": "bintan-2102"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Riau",
+        "en": "Riau Islands",
+        "slug": "riau-islands-21"
+      }
+    },
+    {
+      "id": "2102",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bintan",
+        "en": "Bintan",
+        "slug": "bintan-2102"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.963",
+    "lon": "104.442"
+  },
+  "metadata": {},
+  "source": {}
+}

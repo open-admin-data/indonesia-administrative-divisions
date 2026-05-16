@@ -1,0 +1,56 @@
+{
+  "id": "5313141",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Reok Barat",
+    "en": "Reok Barat",
+    "slug": "reok-barat-5313141"
+  },
+  "code": {
+    "id": "5313141",
+    "iso": null
+  },
+  "parent": {
+    "id": "5313",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai",
+      "en": "Manggarai",
+      "slug": "manggarai-5313"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5313",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai",
+        "en": "Manggarai",
+        "slug": "manggarai-5313"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.366",
+    "lon": "120.363"
+  },
+  "metadata": {},
+  "source": {}
+}

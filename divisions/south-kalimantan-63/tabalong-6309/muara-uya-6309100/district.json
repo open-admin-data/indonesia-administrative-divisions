@@ -1,0 +1,56 @@
+{
+  "id": "6309100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Uya",
+    "en": "Muara Uya",
+    "slug": "muara-uya-6309100"
+  },
+  "code": {
+    "id": "6309100",
+    "iso": null
+  },
+  "parent": {
+    "id": "6309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tabalong",
+      "en": "Tabalong",
+      "slug": "tabalong-6309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabalong",
+        "en": "Tabalong",
+        "slug": "tabalong-6309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.656",
+    "lon": "115.568"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "7471020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Poasia",
+    "en": "Poasia",
+    "slug": "poasia-7471020"
+  },
+  "code": {
+    "id": "7471020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7471",
+    "level": 2,
+    "name": {
+      "local": "Kota Kendari",
+      "en": "Kendari",
+      "slug": "kendari-7471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7471",
+      "level": 2,
+      "name": {
+        "local": "Kota Kendari",
+        "en": "Kendari",
+        "slug": "kendari-7471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.032",
+    "lon": "122.567"
+  },
+  "metadata": {},
+  "source": {}
+}

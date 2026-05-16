@@ -1,0 +1,56 @@
+{
+  "id": "6401022",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjung Harapan",
+    "en": "Tanjung Harapan",
+    "slug": "tanjung-harapan-6401022"
+  },
+  "code": {
+    "id": "6401022",
+    "iso": null
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Paser",
+      "en": "Paser",
+      "slug": "paser-6401"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Paser",
+        "en": "Paser",
+        "slug": "paser-6401"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.219",
+    "lon": "116.467"
+  },
+  "metadata": {},
+  "source": {}
+}

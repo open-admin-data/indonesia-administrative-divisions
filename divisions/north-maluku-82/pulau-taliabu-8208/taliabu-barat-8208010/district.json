@@ -1,0 +1,56 @@
+{
+  "id": "8208010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Taliabu Barat",
+    "en": "Taliabu Barat",
+    "slug": "taliabu-barat-8208010"
+  },
+  "code": {
+    "id": "8208010",
+    "iso": null
+  },
+  "parent": {
+    "id": "8208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pulau Taliabu",
+      "en": "Pulau Taliabu",
+      "slug": "pulau-taliabu-8208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pulau Taliabu",
+        "en": "Pulau Taliabu",
+        "slug": "pulau-taliabu-8208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.93",
+    "lon": "124.47"
+  },
+  "metadata": {},
+  "source": {}
+}

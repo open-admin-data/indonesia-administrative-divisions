@@ -1,0 +1,56 @@
+{
+  "id": "1311040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau Punjung",
+    "en": "Pulau Punjung",
+    "slug": "pulau-punjung-1311040"
+  },
+  "code": {
+    "id": "1311040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1311",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dharmasraya",
+      "en": "Dharmasraya",
+      "slug": "dharmasraya-1311"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1311",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dharmasraya",
+        "en": "Dharmasraya",
+        "slug": "dharmasraya-1311"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.004",
+    "lon": "101.502"
+  },
+  "metadata": {},
+  "source": {}
+}

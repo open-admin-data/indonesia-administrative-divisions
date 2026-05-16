@@ -1,0 +1,56 @@
+{
+  "id": "7504030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Suwawa",
+    "en": "Suwawa",
+    "slug": "suwawa-7504030"
+  },
+  "code": {
+    "id": "7504030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7504",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bone Bolango",
+      "en": "Bone Bolango",
+      "slug": "bone-bolango-7504"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "Gorontalo",
+        "en": "Gorontalo",
+        "slug": "gorontalo-75"
+      }
+    },
+    {
+      "id": "7504",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bone Bolango",
+        "en": "Bone Bolango",
+        "slug": "bone-bolango-7504"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.571",
+    "lon": "123.179"
+  },
+  "metadata": {},
+  "source": {}
+}

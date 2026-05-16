@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9417052001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kubibkop",
+      "en": "Kubibkop",
+      "slug": "kubibkop-9417052001"
+    },
+    "code": {
+      "id": "9417052001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9417052",
+      "level": 3,
+      "name": {
+        "local": "Oksebang",
+        "en": "Oksebang",
+        "slug": "oksebang-9417052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9417",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pegunungan Bintang",
+          "en": "Pegunungan Bintang",
+          "slug": "pegunungan-bintang-9417"
+        }
+      },
+      {
+        "id": "9417052",
+        "level": 3,
+        "name": {
+          "local": "Oksebang",
+          "en": "Oksebang",
+          "slug": "oksebang-9417052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99574"
+    ],
+    "geo": {
+      "lat": "-4.757",
+      "lon": "140.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9417052004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mangabit",
+      "en": "Mangabit",
+      "slug": "mangabit-9417052004"
+    },
+    "code": {
+      "id": "9417052004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9417052",
+      "level": 3,
+      "name": {
+        "local": "Oksebang",
+        "en": "Oksebang",
+        "slug": "oksebang-9417052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9417",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pegunungan Bintang",
+          "en": "Pegunungan Bintang",
+          "slug": "pegunungan-bintang-9417"
+        }
+      },
+      {
+        "id": "9417052",
+        "level": 3,
+        "name": {
+          "local": "Oksebang",
+          "en": "Oksebang",
+          "slug": "oksebang-9417052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99574"
+    ],
+    "geo": {
+      "lat": "-4.744",
+      "lon": "140.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9417052002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Okano",
+      "en": "Okano",
+      "slug": "okano-9417052002"
+    },
+    "code": {
+      "id": "9417052002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9417052",
+      "level": 3,
+      "name": {
+        "local": "Oksebang",
+        "en": "Oksebang",
+        "slug": "oksebang-9417052"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9417",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pegunungan Bintang",
+          "en": "Pegunungan Bintang",
+          "slug": "pegunungan-bintang-9417"
+        }
+      },
+      {
+        "id": "9417052",
+        "level": 3,
+        "name": {
+          "local": "Oksebang",
+          "en": "Oksebang",
+          "slug": "oksebang-9417052"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99574"
+    ],
+    "geo": {
+      "lat": "-4.761",
+      "lon": "140.734"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

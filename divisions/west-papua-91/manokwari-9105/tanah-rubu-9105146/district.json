@@ -1,0 +1,56 @@
+{
+  "id": "9105146",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanah Rubu",
+    "en": "Tanah Rubu",
+    "slug": "tanah-rubu-9105146"
+  },
+  "code": {
+    "id": "9105146",
+    "iso": null
+  },
+  "parent": {
+    "id": "9105",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manokwari",
+      "en": "Manokwari",
+      "slug": "manokwari-9105"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manokwari",
+        "en": "Manokwari",
+        "slug": "manokwari-9105"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.187",
+    "lon": "134.111"
+  },
+  "metadata": {},
+  "source": {}
+}

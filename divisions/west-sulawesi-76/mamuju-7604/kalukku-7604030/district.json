@@ -1,0 +1,56 @@
+{
+  "id": "7604030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kalukku",
+    "en": "Kalukku",
+    "slug": "kalukku-7604030"
+  },
+  "code": {
+    "id": "7604030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mamuju",
+      "en": "Mamuju",
+      "slug": "mamuju-7604"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Barat",
+        "en": "West Sulawesi",
+        "slug": "west-sulawesi-76"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mamuju",
+        "en": "Mamuju",
+        "slug": "mamuju-7604"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.598",
+    "lon": "119.103"
+  },
+  "metadata": {},
+  "source": {}
+}

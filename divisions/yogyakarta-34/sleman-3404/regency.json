@@ -1,0 +1,48 @@
+{
+  "id": "3404",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Sleman",
+    "en": "Sleman",
+    "slug": "sleman-3404"
+  },
+  "code": {
+    "id": "3404",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "Di Yogyakarta",
+      "en": "Yogyakarta",
+      "slug": "yogyakarta-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "Di Yogyakarta",
+        "en": "Yogyakarta",
+        "slug": "yogyakarta-34"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 86
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.717",
+    "lon": "110.356"
+  },
+  "metadata": {},
+  "source": {}
+}

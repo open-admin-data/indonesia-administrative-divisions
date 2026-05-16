@@ -1,0 +1,56 @@
+{
+  "id": "3513160",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krejengan",
+    "en": "Krejengan",
+    "slug": "krejengan-3513160"
+  },
+  "code": {
+    "id": "3513160",
+    "iso": null
+  },
+  "parent": {
+    "id": "3513",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Probolinggo",
+      "en": "Probolinggo",
+      "slug": "probolinggo-3513"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3513",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Probolinggo",
+        "en": "Probolinggo",
+        "slug": "probolinggo-3513"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.799",
+    "lon": "113.415"
+  },
+  "metadata": {},
+  "source": {}
+}

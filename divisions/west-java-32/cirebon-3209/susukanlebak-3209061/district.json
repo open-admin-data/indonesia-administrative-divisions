@@ -1,0 +1,56 @@
+{
+  "id": "3209061",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Susukanlebak",
+    "en": "Susukanlebak",
+    "slug": "susukanlebak-3209061"
+  },
+  "code": {
+    "id": "3209061",
+    "iso": null
+  },
+  "parent": {
+    "id": "3209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cirebon",
+      "en": "Cirebon",
+      "slug": "cirebon-3209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.857",
+    "lon": "108.632"
+  },
+  "metadata": {},
+  "source": {}
+}

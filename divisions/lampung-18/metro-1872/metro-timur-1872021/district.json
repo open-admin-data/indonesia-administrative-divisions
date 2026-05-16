@@ -1,0 +1,56 @@
+{
+  "id": "1872021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Metro Timur",
+    "en": "Metro Timur",
+    "slug": "metro-timur-1872021"
+  },
+  "code": {
+    "id": "1872021",
+    "iso": null
+  },
+  "parent": {
+    "id": "1872",
+    "level": 2,
+    "name": {
+      "local": "Kota Metro",
+      "en": "Metro",
+      "slug": "metro-1872"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1872",
+      "level": 2,
+      "name": {
+        "local": "Kota Metro",
+        "en": "Metro",
+        "slug": "metro-1872"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.128",
+    "lon": "105.328"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3171050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kebayoran Lama",
+    "en": "Kebayoran Lama",
+    "slug": "kebayoran-lama-3171050"
+  },
+  "code": {
+    "id": "3171050",
+    "iso": null
+  },
+  "parent": {
+    "id": "3171",
+    "level": 2,
+    "name": {
+      "local": "Kota Jakarta Selatan",
+      "en": "Jakarta Selatan",
+      "slug": "jakarta-selatan-3171"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "Dki Jakarta",
+        "en": "Jakarta",
+        "slug": "jakarta-31"
+      }
+    },
+    {
+      "id": "3171",
+      "level": 2,
+      "name": {
+        "local": "Kota Jakarta Selatan",
+        "en": "Jakarta Selatan",
+        "slug": "jakarta-selatan-3171"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.249",
+    "lon": "106.78"
+  },
+  "metadata": {},
+  "source": {}
+}

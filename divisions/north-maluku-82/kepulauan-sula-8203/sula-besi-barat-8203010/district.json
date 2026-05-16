@@ -1,0 +1,56 @@
+{
+  "id": "8203010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sula Besi Barat",
+    "en": "Sula Besi Barat",
+    "slug": "sula-besi-barat-8203010"
+  },
+  "code": {
+    "id": "8203010",
+    "iso": null
+  },
+  "parent": {
+    "id": "8203",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepulauan Sula",
+      "en": "Kepulauan Sula",
+      "slug": "kepulauan-sula-8203"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8203",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepulauan Sula",
+        "en": "Kepulauan Sula",
+        "slug": "kepulauan-sula-8203"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.163",
+    "lon": "125.913"
+  },
+  "metadata": {},
+  "source": {}
+}

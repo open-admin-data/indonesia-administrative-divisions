@@ -1,0 +1,56 @@
+{
+  "id": "1116030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Krueng Sabee",
+    "en": "Krueng Sabee",
+    "slug": "krueng-sabee-1116030"
+  },
+  "code": {
+    "id": "1116030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1116",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Jaya",
+      "en": "Aceh Jaya",
+      "slug": "aceh-jaya-1116"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1116",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Jaya",
+        "en": "Aceh Jaya",
+        "slug": "aceh-jaya-1116"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.771",
+    "lon": "95.781"
+  },
+  "metadata": {},
+  "source": {}
+}

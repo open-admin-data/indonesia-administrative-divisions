@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2103045001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pulau Tiga",
+      "en": "Pulau Tiga",
+      "slug": "pulau-tiga-2103045001"
+    },
+    "code": {
+      "id": "2103045001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103045",
+      "level": 3,
+      "name": {
+        "local": "Pulau Tiga Barat",
+        "en": "Pulau Tiga Barat",
+        "slug": "pulau-tiga-barat-2103045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103045",
+        "level": 3,
+        "name": {
+          "local": "Pulau Tiga Barat",
+          "en": "Pulau Tiga Barat",
+          "slug": "pulau-tiga-barat-2103045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29786"
+    ],
+    "geo": {
+      "lat": "3.684",
+      "lon": "108.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2103045004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Selading",
+      "en": "Selading",
+      "slug": "selading-2103045004"
+    },
+    "code": {
+      "id": "2103045004",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103045",
+      "level": 3,
+      "name": {
+        "local": "Pulau Tiga Barat",
+        "en": "Pulau Tiga Barat",
+        "slug": "pulau-tiga-barat-2103045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103045",
+        "level": 3,
+        "name": {
+          "local": "Pulau Tiga Barat",
+          "en": "Pulau Tiga Barat",
+          "slug": "pulau-tiga-barat-2103045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29786"
+    ],
+    "geo": {
+      "lat": "3.649",
+      "lon": "108.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2103045002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Kumbik Utara",
+      "en": "Tanjung Kumbik Utara",
+      "slug": "tanjung-kumbik-utara-2103045002"
+    },
+    "code": {
+      "id": "2103045002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103045",
+      "level": 3,
+      "name": {
+        "local": "Pulau Tiga Barat",
+        "en": "Pulau Tiga Barat",
+        "slug": "pulau-tiga-barat-2103045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Natuna",
+          "en": "Natuna",
+          "slug": "natuna-2103"
+        }
+      },
+      {
+        "id": "2103045",
+        "level": 3,
+        "name": {
+          "local": "Pulau Tiga Barat",
+          "en": "Pulau Tiga Barat",
+          "slug": "pulau-tiga-barat-2103045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29786"
+    ],
+    "geo": {
+      "lat": "3.682",
+      "lon": "108.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

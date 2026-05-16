@@ -1,0 +1,48 @@
+{
+  "id": "8271",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kota Ternate",
+    "en": "Ternate",
+    "slug": "ternate-8271"
+  },
+  "code": {
+    "id": "8271",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "Maluku Utara",
+      "en": "North Maluku",
+      "slug": "north-maluku-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 8,
+    "village": 77
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.786",
+    "lon": "127.388"
+  },
+  "metadata": {},
+  "source": {}
+}

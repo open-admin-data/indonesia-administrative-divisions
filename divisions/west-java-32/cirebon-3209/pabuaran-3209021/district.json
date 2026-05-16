@@ -1,0 +1,56 @@
+{
+  "id": "3209021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pabuaran",
+    "en": "Pabuaran",
+    "slug": "pabuaran-3209021"
+  },
+  "code": {
+    "id": "3209021",
+    "iso": null
+  },
+  "parent": {
+    "id": "3209",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Cirebon",
+      "en": "Cirebon",
+      "slug": "cirebon-3209"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    },
+    {
+      "id": "3209",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Cirebon",
+        "en": "Cirebon",
+        "slug": "cirebon-3209"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.896",
+    "lon": "108.72"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,197 @@
+[
+  {
+    "id": "9413011005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aiwat",
+      "en": "Aiwat",
+      "slug": "aiwat-9413011005"
+    },
+    "code": {
+      "id": "9413011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413011",
+      "level": 3,
+      "name": {
+        "local": "Subur",
+        "en": "Subur",
+        "slug": "subur-9413011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413011",
+        "level": 3,
+        "name": {
+          "local": "Subur",
+          "en": "Subur",
+          "slug": "subur-9413011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99676"
+    ],
+    "geo": {
+      "lat": "-6.795",
+      "lon": "140.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9413011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bhakti / Wagai",
+      "en": "Bhakti / Wagai",
+      "slug": "bhakti-wagai-9413011003"
+    },
+    "code": {
+      "id": "9413011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413011",
+      "level": 3,
+      "name": {
+        "local": "Subur",
+        "en": "Subur",
+        "slug": "subur-9413011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413011",
+        "level": 3,
+        "name": {
+          "local": "Subur",
+          "en": "Subur",
+          "slug": "subur-9413011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99676"
+    ],
+    "geo": {
+      "lat": "-7.045",
+      "lon": "140.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9413011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kaisa",
+      "en": "Kaisa",
+      "slug": "kaisa-9413011001"
+    },
+    "code": {
+      "id": "9413011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9413011",
+      "level": 3,
+      "name": {
+        "local": "Subur",
+        "en": "Subur",
+        "slug": "subur-9413011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "Papua",
+          "en": "Papua",
+          "slug": "papua-94"
+        }
+      },
+      {
+        "id": "9413",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Boven Digoel",
+          "en": "Boven Digoel",
+          "slug": "boven-digoel-9413"
+        }
+      },
+      {
+        "id": "9413011",
+        "level": 3,
+        "name": {
+          "local": "Subur",
+          "en": "Subur",
+          "slug": "subur-9413011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "99676"
+    ],
+    "geo": {
+      "lat": "-6.742",
+      "lon": "140.555"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

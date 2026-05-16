@@ -1,0 +1,56 @@
+{
+  "id": "7110011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tomini",
+    "en": "Tomini",
+    "slug": "tomini-7110011"
+  },
+  "code": {
+    "id": "7110011",
+    "iso": null
+  },
+  "parent": {
+    "id": "7110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bolaang Mongondow Selatan",
+      "en": "Bolaang Mongondow Selatan",
+      "slug": "bolaang-mongondow-selatan-7110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bolaang Mongondow Selatan",
+        "en": "Bolaang Mongondow Selatan",
+        "slug": "bolaang-mongondow-selatan-7110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.385",
+    "lon": "123.98"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,912 @@
+[
+  {
+    "id": "1805011008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Galih Karangjati",
+      "en": "Galih Karangjati",
+      "slug": "galih-karangjati-1805011008"
+    },
+    "code": {
+      "id": "1805011008",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-4.999",
+      "lon": "104.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gedung Haji",
+      "en": "Gedung Haji",
+      "slug": "gedung-haji-1805011012"
+    },
+    "code": {
+      "id": "1805011012",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.05",
+      "lon": "104.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gedung Harta",
+      "en": "Gedung Harta",
+      "slug": "gedung-harta-1805011009"
+    },
+    "code": {
+      "id": "1805011009",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.029",
+      "lon": "104.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karang Anyar",
+      "en": "Karang Anyar",
+      "slug": "karang-anyar-1805011007"
+    },
+    "code": {
+      "id": "1805011007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.017",
+      "lon": "104.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lingga Pura",
+      "en": "Lingga Pura",
+      "slug": "lingga-pura-1805011002"
+    },
+    "code": {
+      "id": "1805011002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.121",
+      "lon": "104.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marga Jaya",
+      "en": "Marga Jaya",
+      "slug": "marga-jaya-1805011001"
+    },
+    "code": {
+      "id": "1805011001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.119",
+      "lon": "104.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011014",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mekar Harjo",
+      "en": "Mekar Harjo",
+      "slug": "mekar-harjo-1805011014"
+    },
+    "code": {
+      "id": "1805011014",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.066",
+      "lon": "104.84"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Negeri Agung",
+      "en": "Negeri Agung",
+      "slug": "negeri-agung-1805011010"
+    },
+    "code": {
+      "id": "1805011010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.005",
+      "lon": "104.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Negeri Jaya",
+      "en": "Negeri Jaya",
+      "slug": "negeri-jaya-1805011013"
+    },
+    "code": {
+      "id": "1805011013",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.059",
+      "lon": "104.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Negeri Katon",
+      "en": "Negeri Katon",
+      "slug": "negeri-katon-1805011006"
+    },
+    "code": {
+      "id": "1805011006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.028",
+      "lon": "104.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nyukang Harjo",
+      "en": "Nyukang Harjo",
+      "slug": "nyukang-harjo-1805011003"
+    },
+    "code": {
+      "id": "1805011003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.081",
+      "lon": "104.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sidoharjo",
+      "en": "Sidoharjo",
+      "slug": "sidoharjo-1805011004"
+    },
+    "code": {
+      "id": "1805011004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.056",
+      "lon": "104.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Taman Sari",
+      "en": "Taman Sari",
+      "slug": "taman-sari-1805011005"
+    },
+    "code": {
+      "id": "1805011005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-5.045",
+      "lon": "104.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1805011011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Ratu",
+      "en": "Tanjung Ratu",
+      "slug": "tanjung-ratu-1805011011"
+    },
+    "code": {
+      "id": "1805011011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1805011",
+      "level": 3,
+      "name": {
+        "local": "Selagai Lingga",
+        "en": "Selagai Lingga",
+        "slug": "selagai-lingga-1805011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "Lampung",
+          "en": "Lampung",
+          "slug": "lampung-18"
+        }
+      },
+      {
+        "id": "1805",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lampung Tengah",
+          "en": "Lampung Tengah",
+          "slug": "lampung-tengah-1805"
+        }
+      },
+      {
+        "id": "1805011",
+        "level": 3,
+        "name": {
+          "local": "Selagai Lingga",
+          "en": "Selagai Lingga",
+          "slug": "selagai-lingga-1805011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "34283"
+    ],
+    "geo": {
+      "lat": "-4.998",
+      "lon": "104.828"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

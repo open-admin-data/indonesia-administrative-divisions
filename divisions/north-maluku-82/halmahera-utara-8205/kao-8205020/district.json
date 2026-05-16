@@ -1,0 +1,56 @@
+{
+  "id": "8205020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kao",
+    "en": "Kao",
+    "slug": "kao-8205020"
+  },
+  "code": {
+    "id": "8205020",
+    "iso": null
+  },
+  "parent": {
+    "id": "8205",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Halmahera Utara",
+      "en": "Halmahera Utara",
+      "slug": "halmahera-utara-8205"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "Maluku Utara",
+        "en": "North Maluku",
+        "slug": "north-maluku-82"
+      }
+    },
+    {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.216",
+    "lon": "127.897"
+  },
+  "metadata": {},
+  "source": {}
+}

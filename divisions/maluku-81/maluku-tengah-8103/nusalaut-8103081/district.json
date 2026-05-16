@@ -1,0 +1,56 @@
+{
+  "id": "8103081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nusalaut",
+    "en": "Nusalaut",
+    "slug": "nusalaut-8103081"
+  },
+  "code": {
+    "id": "8103081",
+    "iso": null
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Tengah",
+      "en": "Maluku Tengah",
+      "slug": "maluku-tengah-8103"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Tengah",
+        "en": "Maluku Tengah",
+        "slug": "maluku-tengah-8103"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.667",
+    "lon": "128.784"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "9110111",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Aifat Timur Tengah",
+    "en": "Aifat Timur Tengah",
+    "slug": "aifat-timur-tengah-9110111"
+  },
+  "code": {
+    "id": "9110111",
+    "iso": null
+  },
+  "parent": {
+    "id": "9110",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maybrat",
+      "en": "Maybrat",
+      "slug": "maybrat-9110"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "Papua Barat",
+        "en": "West Papua",
+        "slug": "west-papua-91"
+      }
+    },
+    {
+      "id": "9110",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maybrat",
+        "en": "Maybrat",
+        "slug": "maybrat-9110"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.226",
+    "lon": "132.63"
+  },
+  "metadata": {},
+  "source": {}
+}

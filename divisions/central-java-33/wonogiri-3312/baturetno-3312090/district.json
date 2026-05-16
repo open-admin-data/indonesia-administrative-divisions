@@ -1,0 +1,56 @@
+{
+  "id": "3312090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Baturetno",
+    "en": "Baturetno",
+    "slug": "baturetno-3312090"
+  },
+  "code": {
+    "id": "3312090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3312",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Wonogiri",
+      "en": "Wonogiri",
+      "slug": "wonogiri-3312"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Wonogiri",
+        "en": "Wonogiri",
+        "slug": "wonogiri-3312"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.96",
+    "lon": "110.943"
+  },
+  "metadata": {},
+  "source": {}
+}

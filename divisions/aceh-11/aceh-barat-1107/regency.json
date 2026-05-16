@@ -1,0 +1,48 @@
+{
+  "id": "1107",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Aceh Barat",
+    "en": "Aceh Barat",
+    "slug": "aceh-barat-1107"
+  },
+  "code": {
+    "id": "1107",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "Aceh",
+      "en": "Aceh",
+      "slug": "aceh-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 322
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.368",
+    "lon": "95.958"
+  },
+  "metadata": {},
+  "source": {}
+}

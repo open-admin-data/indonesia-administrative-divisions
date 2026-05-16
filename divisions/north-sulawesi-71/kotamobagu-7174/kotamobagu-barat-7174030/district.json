@@ -1,0 +1,56 @@
+{
+  "id": "7174030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kotamobagu Barat",
+    "en": "Kotamobagu Barat",
+    "slug": "kotamobagu-barat-7174030"
+  },
+  "code": {
+    "id": "7174030",
+    "iso": null
+  },
+  "parent": {
+    "id": "7174",
+    "level": 2,
+    "name": {
+      "local": "Kota Kotamobagu",
+      "en": "Kotamobagu",
+      "slug": "kotamobagu-7174"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Utara",
+        "en": "North Sulawesi",
+        "slug": "north-sulawesi-71"
+      }
+    },
+    {
+      "id": "7174",
+      "level": 2,
+      "name": {
+        "local": "Kota Kotamobagu",
+        "en": "Kotamobagu",
+        "slug": "kotamobagu-7174"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.741",
+    "lon": "124.298"
+  },
+  "metadata": {},
+  "source": {}
+}

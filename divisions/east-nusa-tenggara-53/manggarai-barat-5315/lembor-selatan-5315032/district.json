@@ -1,0 +1,56 @@
+{
+  "id": "5315032",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lembor Selatan",
+    "en": "Lembor Selatan",
+    "slug": "lembor-selatan-5315032"
+  },
+  "code": {
+    "id": "5315032",
+    "iso": null
+  },
+  "parent": {
+    "id": "5315",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Manggarai Barat",
+      "en": "Manggarai Barat",
+      "slug": "manggarai-barat-5315"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5315",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Manggarai Barat",
+        "en": "Manggarai Barat",
+        "slug": "manggarai-barat-5315"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.779",
+    "lon": "120.098"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3304020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Purwareja Klampok",
+    "en": "Purwareja Klampok",
+    "slug": "purwareja-klampok-3304020"
+  },
+  "code": {
+    "id": "3304020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3304",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Banjarnegara",
+      "en": "Banjarnegara",
+      "slug": "banjarnegara-3304"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3304",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Banjarnegara",
+        "en": "Banjarnegara",
+        "slug": "banjarnegara-3304"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.485",
+    "lon": "109.446"
+  },
+  "metadata": {},
+  "source": {}
+}

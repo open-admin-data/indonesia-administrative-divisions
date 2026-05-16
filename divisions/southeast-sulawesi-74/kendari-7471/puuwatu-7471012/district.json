@@ -1,0 +1,56 @@
+{
+  "id": "7471012",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Puuwatu",
+    "en": "Puuwatu",
+    "slug": "puuwatu-7471012"
+  },
+  "code": {
+    "id": "7471012",
+    "iso": null
+  },
+  "parent": {
+    "id": "7471",
+    "level": 2,
+    "name": {
+      "local": "Kota Kendari",
+      "en": "Kendari",
+      "slug": "kendari-7471"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7471",
+      "level": 2,
+      "name": {
+        "local": "Kota Kendari",
+        "en": "Kendari",
+        "slug": "kendari-7471"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.968",
+    "lon": "122.475"
+  },
+  "metadata": {},
+  "source": {}
+}

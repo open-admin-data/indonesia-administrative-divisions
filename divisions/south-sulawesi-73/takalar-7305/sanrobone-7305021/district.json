@@ -1,0 +1,56 @@
+{
+  "id": "7305021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sanrobone",
+    "en": "Sanrobone",
+    "slug": "sanrobone-7305021"
+  },
+  "code": {
+    "id": "7305021",
+    "iso": null
+  },
+  "parent": {
+    "id": "7305",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Takalar",
+      "en": "Takalar",
+      "slug": "takalar-7305"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7305",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Takalar",
+        "en": "Takalar",
+        "slug": "takalar-7305"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.433",
+    "lon": "119.392"
+  },
+  "metadata": {},
+  "source": {}
+}

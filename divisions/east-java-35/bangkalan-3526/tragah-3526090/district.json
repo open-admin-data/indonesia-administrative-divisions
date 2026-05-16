@@ -1,0 +1,56 @@
+{
+  "id": "3526090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tragah",
+    "en": "Tragah",
+    "slug": "tragah-3526090"
+  },
+  "code": {
+    "id": "3526090",
+    "iso": null
+  },
+  "parent": {
+    "id": "3526",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bangkalan",
+      "en": "Bangkalan",
+      "slug": "bangkalan-3526"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3526",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bangkalan",
+        "en": "Bangkalan",
+        "slug": "bangkalan-3526"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.099",
+    "lon": "112.822"
+  },
+  "metadata": {},
+  "source": {}
+}

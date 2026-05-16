@@ -1,0 +1,56 @@
+{
+  "id": "5208050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bayan",
+    "en": "Bayan",
+    "slug": "bayan-5208050"
+  },
+  "code": {
+    "id": "5208050",
+    "iso": null
+  },
+  "parent": {
+    "id": "5208",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lombok Utara",
+      "en": "Lombok Utara",
+      "slug": "lombok-utara-5208"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Barat",
+        "en": "West Nusa Tenggara",
+        "slug": "west-nusa-tenggara-52"
+      }
+    },
+    {
+      "id": "5208",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lombok Utara",
+        "en": "Lombok Utara",
+        "slug": "lombok-utara-5208"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.322",
+    "lon": "116.405"
+  },
+  "metadata": {},
+  "source": {}
+}

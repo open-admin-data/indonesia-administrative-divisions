@@ -1,0 +1,56 @@
+{
+  "id": "9414020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Edera",
+    "en": "Edera",
+    "slug": "edera-9414020"
+  },
+  "code": {
+    "id": "9414020",
+    "iso": null
+  },
+  "parent": {
+    "id": "9414",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mappi",
+      "en": "Mappi",
+      "slug": "mappi-9414"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "Papua",
+        "en": "Papua",
+        "slug": "papua-94"
+      }
+    },
+    {
+      "id": "9414",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mappi",
+        "en": "Mappi",
+        "slug": "mappi-9414"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.066",
+    "lon": "139.265"
+  },
+  "metadata": {},
+  "source": {}
+}

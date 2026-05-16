@@ -1,0 +1,56 @@
+{
+  "id": "6372011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Liang Anggang",
+    "en": "Liang Anggang",
+    "slug": "liang-anggang-6372011"
+  },
+  "code": {
+    "id": "6372011",
+    "iso": null
+  },
+  "parent": {
+    "id": "6372",
+    "level": 2,
+    "name": {
+      "local": "Kota Banjar Baru",
+      "en": "Banjar Baru",
+      "slug": "banjar-baru-6372"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6372",
+      "level": 2,
+      "name": {
+        "local": "Kota Banjar Baru",
+        "en": "Banjar Baru",
+        "slug": "banjar-baru-6372"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.442",
+    "lon": "114.734"
+  },
+  "metadata": {},
+  "source": {}
+}

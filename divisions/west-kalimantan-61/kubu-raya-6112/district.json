@@ -1,0 +1,506 @@
+[
+  {
+    "id": "6112010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Batu Ampar",
+      "en": "Batu Ampar",
+      "slug": "batu-ampar-6112010"
+    },
+    "code": {
+      "id": "6112010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.755",
+      "lon": "109.592"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Mandor-b",
+      "en": "Kuala Mandor-b",
+      "slug": "kuala-mandor-b-6112090"
+    },
+    "code": {
+      "id": "6112090",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.117",
+      "lon": "109.497"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kubu",
+      "en": "Kubu",
+      "slug": "kubu-6112030"
+    },
+    "code": {
+      "id": "6112030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 19
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.464",
+      "lon": "109.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rasau Jaya",
+      "en": "Rasau Jaya",
+      "slug": "rasau-jaya-6112060"
+    },
+    "code": {
+      "id": "6112060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.252",
+      "lon": "109.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Ambawang",
+      "en": "Sungai Ambawang",
+      "slug": "sungai-ambawang-6112080"
+    },
+    "code": {
+      "id": "6112080",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.057",
+      "lon": "109.635"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Kakap",
+      "en": "Sungai Kakap",
+      "slug": "sungai-kakap-6112050"
+    },
+    "code": {
+      "id": "6112050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.141",
+      "lon": "109.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Raya",
+      "en": "Sungai Raya",
+      "slug": "sungai-raya-6112070"
+    },
+    "code": {
+      "id": "6112070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.225",
+      "lon": "109.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Telok Pa'kedai",
+      "en": "Telok Pa'kedai",
+      "slug": "telok-pakedai-6112040"
+    },
+    "code": {
+      "id": "6112040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.397",
+      "lon": "109.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6112020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Terentang",
+      "en": "Terentang",
+      "slug": "terentang-6112020"
+    },
+    "code": {
+      "id": "6112020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kubu Raya",
+        "en": "Kubu Raya",
+        "slug": "kubu-raya-6112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6112",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kubu Raya",
+          "en": "Kubu Raya",
+          "slug": "kubu-raya-6112"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-0.371",
+      "lon": "109.719"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

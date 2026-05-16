@@ -1,0 +1,56 @@
+{
+  "id": "1405030",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sungai Apit",
+    "en": "Sungai Apit",
+    "slug": "sungai-apit-1405030"
+  },
+  "code": {
+    "id": "1405030",
+    "iso": null
+  },
+  "parent": {
+    "id": "1405",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten S I A K",
+      "en": "S I A K",
+      "slug": "s-i-a-k-1405"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    },
+    {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten S I A K",
+        "en": "S I A K",
+        "slug": "s-i-a-k-1405"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.922",
+    "lon": "102.498"
+  },
+  "metadata": {},
+  "source": {}
+}

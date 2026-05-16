@@ -1,0 +1,56 @@
+{
+  "id": "7325050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Malili",
+    "en": "Malili",
+    "slug": "malili-7325050"
+  },
+  "code": {
+    "id": "7325050",
+    "iso": null
+  },
+  "parent": {
+    "id": "7325",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Luwu Timur",
+      "en": "Luwu Timur",
+      "slug": "luwu-timur-7325"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    },
+    {
+      "id": "7325",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Luwu Timur",
+        "en": "Luwu Timur",
+        "slug": "luwu-timur-7325"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.675",
+    "lon": "121.15"
+  },
+  "metadata": {},
+  "source": {}
+}

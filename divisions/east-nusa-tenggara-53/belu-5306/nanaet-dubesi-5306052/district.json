@@ -1,0 +1,56 @@
+{
+  "id": "5306052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Nanaet Dubesi",
+    "en": "Nanaet Dubesi",
+    "slug": "nanaet-dubesi-5306052"
+  },
+  "code": {
+    "id": "5306052",
+    "iso": null
+  },
+  "parent": {
+    "id": "5306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Belu",
+      "en": "Belu",
+      "slug": "belu-5306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    },
+    {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Belu",
+        "en": "Belu",
+        "slug": "belu-5306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-9.283",
+    "lon": "124.966"
+  },
+  "metadata": {},
+  "source": {}
+}

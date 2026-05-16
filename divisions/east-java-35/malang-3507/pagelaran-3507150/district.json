@@ -1,0 +1,56 @@
+{
+  "id": "3507150",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagelaran",
+    "en": "Pagelaran",
+    "slug": "pagelaran-3507150"
+  },
+  "code": {
+    "id": "3507150",
+    "iso": null
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Malang",
+      "en": "Malang",
+      "slug": "malang-3507"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Malang",
+        "en": "Malang",
+        "slug": "malang-3507"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.198",
+    "lon": "112.6"
+  },
+  "metadata": {},
+  "source": {}
+}

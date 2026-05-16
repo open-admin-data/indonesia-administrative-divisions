@@ -1,0 +1,56 @@
+{
+  "id": "1109140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Padang Tiji",
+    "en": "Padang Tiji",
+    "slug": "padang-tiji-1109140"
+  },
+  "code": {
+    "id": "1109140",
+    "iso": null
+  },
+  "parent": {
+    "id": "1109",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pidie",
+      "en": "Pidie",
+      "slug": "pidie-1109"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1109",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pidie",
+        "en": "Pidie",
+        "slug": "pidie-1109"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 64
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.347",
+    "lon": "95.819"
+  },
+  "metadata": {},
+  "source": {}
+}

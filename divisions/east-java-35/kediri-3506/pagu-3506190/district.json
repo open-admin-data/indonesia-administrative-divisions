@@ -1,0 +1,56 @@
+{
+  "id": "3506190",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pagu",
+    "en": "Pagu",
+    "slug": "pagu-3506190"
+  },
+  "code": {
+    "id": "3506190",
+    "iso": null
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kediri",
+      "en": "Kediri",
+      "slug": "kediri-3506"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kediri",
+        "en": "Kediri",
+        "slug": "kediri-3506"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.78",
+    "lon": "112.087"
+  },
+  "metadata": {},
+  "source": {}
+}

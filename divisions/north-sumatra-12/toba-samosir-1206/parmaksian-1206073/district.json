@@ -1,0 +1,56 @@
+{
+  "id": "1206073",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Parmaksian",
+    "en": "Parmaksian",
+    "slug": "parmaksian-1206073"
+  },
+  "code": {
+    "id": "1206073",
+    "iso": null
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Toba Samosir",
+      "en": "Toba Samosir",
+      "slug": "toba-samosir-1206"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Toba Samosir",
+        "en": "Toba Samosir",
+        "slug": "toba-samosir-1206"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.489",
+    "lon": "99.193"
+  },
+  "metadata": {},
+  "source": {}
+}

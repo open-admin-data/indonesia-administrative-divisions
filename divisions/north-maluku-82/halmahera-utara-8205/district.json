@@ -1,0 +1,954 @@
+[
+  {
+    "id": "8205050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Galela",
+      "en": "Galela",
+      "slug": "galela-8205050"
+    },
+    "code": {
+      "id": "8205050",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.803",
+      "lon": "127.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Galela Barat",
+      "en": "Galela Barat",
+      "slug": "galela-barat-8205052"
+    },
+    "code": {
+      "id": "8205052",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.835",
+      "lon": "127.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Galela Selatan",
+      "en": "Galela Selatan",
+      "slug": "galela-selatan-8205051"
+    },
+    "code": {
+      "id": "8205051",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.772",
+      "lon": "127.804"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205053",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Galela Utara",
+      "en": "Galela Utara",
+      "slug": "galela-utara-8205053"
+    },
+    "code": {
+      "id": "8205053",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.024",
+      "lon": "127.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kao",
+      "en": "Kao",
+      "slug": "kao-8205020"
+    },
+    "code": {
+      "id": "8205020",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.216",
+      "lon": "127.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kao Barat",
+      "en": "Kao Barat",
+      "slug": "kao-barat-8205021"
+    },
+    "code": {
+      "id": "8205021",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 21
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.334",
+      "lon": "127.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kao Teluk",
+      "en": "Kao Teluk",
+      "slug": "kao-teluk-8205011"
+    },
+    "code": {
+      "id": "8205011",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.976",
+      "lon": "127.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kao Utara",
+      "en": "Kao Utara",
+      "slug": "kao-utara-8205022"
+    },
+    "code": {
+      "id": "8205022",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.373",
+      "lon": "127.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205061",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loloda Kepulauan",
+      "en": "Loloda Kepulauan",
+      "slug": "loloda-kepulauan-8205061"
+    },
+    "code": {
+      "id": "8205061",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.194",
+      "lon": "127.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Loloda Utara",
+      "en": "Loloda Utara",
+      "slug": "loloda-utara-8205060"
+    },
+    "code": {
+      "id": "8205060",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.046",
+      "lon": "127.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malifut",
+      "en": "Malifut",
+      "slug": "malifut-8205010"
+    },
+    "code": {
+      "id": "8205010",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.139",
+      "lon": "127.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tobelo",
+      "en": "Tobelo",
+      "slug": "tobelo-8205040"
+    },
+    "code": {
+      "id": "8205040",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.715",
+      "lon": "127.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tobelo Barat",
+      "en": "Tobelo Barat",
+      "slug": "tobelo-barat-8205031"
+    },
+    "code": {
+      "id": "8205031",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.517",
+      "lon": "127.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tobelo Selatan",
+      "en": "Tobelo Selatan",
+      "slug": "tobelo-selatan-8205030"
+    },
+    "code": {
+      "id": "8205030",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.615",
+      "lon": "127.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tobelo Tengah",
+      "en": "Tobelo Tengah",
+      "slug": "tobelo-tengah-8205041"
+    },
+    "code": {
+      "id": "8205041",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.677",
+      "lon": "127.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tobelo Timur",
+      "en": "Tobelo Timur",
+      "slug": "tobelo-timur-8205032"
+    },
+    "code": {
+      "id": "8205032",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.538",
+      "lon": "128.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tobelo Utara",
+      "en": "Tobelo Utara",
+      "slug": "tobelo-utara-8205042"
+    },
+    "code": {
+      "id": "8205042",
+      "iso": null
+    },
+    "parent": {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Halmahera Utara",
+        "en": "Halmahera Utara",
+        "slug": "halmahera-utara-8205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "Maluku Utara",
+          "en": "North Maluku",
+          "slug": "north-maluku-82"
+        }
+      },
+      {
+        "id": "8205",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Halmahera Utara",
+          "en": "Halmahera Utara",
+          "slug": "halmahera-utara-8205"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.736",
+      "lon": "127.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

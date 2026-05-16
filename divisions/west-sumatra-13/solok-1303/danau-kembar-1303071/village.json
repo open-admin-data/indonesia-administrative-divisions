@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1303071001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampuang Batu Dalam",
+      "en": "Kampuang Batu Dalam",
+      "slug": "kampuang-batu-dalam-1303071001"
+    },
+    "code": {
+      "id": "1303071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303071",
+      "level": 3,
+      "name": {
+        "local": "Danau Kembar",
+        "en": "Danau Kembar",
+        "slug": "danau-kembar-1303071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303071",
+        "level": 3,
+        "name": {
+          "local": "Danau Kembar",
+          "en": "Danau Kembar",
+          "slug": "danau-kembar-1303071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27383"
+    ],
+    "geo": {
+      "lat": "-1.026",
+      "lon": "100.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1303071002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Simpang Tanjuang Nan Iv",
+      "en": "Simpang Tanjuang Nan Iv",
+      "slug": "simpang-tanjuang-nan-iv-1303071002"
+    },
+    "code": {
+      "id": "1303071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1303071",
+      "level": 3,
+      "name": {
+        "local": "Danau Kembar",
+        "en": "Danau Kembar",
+        "slug": "danau-kembar-1303071"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1303",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Solok",
+          "en": "Solok",
+          "slug": "solok-1303"
+        }
+      },
+      {
+        "id": "1303071",
+        "level": 3,
+        "name": {
+          "local": "Danau Kembar",
+          "en": "Danau Kembar",
+          "slug": "danau-kembar-1303071"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27383"
+    ],
+    "geo": {
+      "lat": "-1.069",
+      "lon": "100.676"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

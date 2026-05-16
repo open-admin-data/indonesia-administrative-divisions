@@ -1,0 +1,48 @@
+{
+  "id": "5319",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Manggarai Timur",
+    "en": "Manggarai Timur",
+    "slug": "manggarai-timur-5319"
+  },
+  "code": {
+    "id": "5319",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "Nusa Tenggara Timur",
+      "en": "East Nusa Tenggara",
+      "slug": "east-nusa-tenggara-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "Nusa Tenggara Timur",
+        "en": "East Nusa Tenggara",
+        "slug": "east-nusa-tenggara-53"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 9,
+    "village": 173
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.749",
+    "lon": "120.609"
+  },
+  "metadata": {},
+  "source": {}
+}

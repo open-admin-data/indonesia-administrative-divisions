@@ -1,0 +1,56 @@
+{
+  "id": "1501080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gunung Kerinci",
+    "en": "Gunung Kerinci",
+    "slug": "gunung-kerinci-1501080"
+  },
+  "code": {
+    "id": "1501080",
+    "iso": null
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kerinci",
+      "en": "Kerinci",
+      "slug": "kerinci-1501"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "Jambi",
+        "en": "Jambi",
+        "slug": "jambi-15"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kerinci",
+        "en": "Kerinci",
+        "slug": "kerinci-1501"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.908",
+    "lon": "101.272"
+  },
+  "metadata": {},
+  "source": {}
+}

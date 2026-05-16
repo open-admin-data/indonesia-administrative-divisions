@@ -1,0 +1,56 @@
+{
+  "id": "6107110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Sepauk",
+    "en": "Sepauk",
+    "slug": "sepauk-6107110"
+  },
+  "code": {
+    "id": "6107110",
+    "iso": null
+  },
+  "parent": {
+    "id": "6107",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sintang",
+      "en": "Sintang",
+      "slug": "sintang-6107"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    },
+    {
+      "id": "6107",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sintang",
+        "en": "Sintang",
+        "slug": "sintang-6107"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.122",
+    "lon": "111.199"
+  },
+  "metadata": {},
+  "source": {}
+}

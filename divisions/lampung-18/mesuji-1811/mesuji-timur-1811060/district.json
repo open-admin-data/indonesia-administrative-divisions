@@ -1,0 +1,56 @@
+{
+  "id": "1811060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mesuji Timur",
+    "en": "Mesuji Timur",
+    "slug": "mesuji-timur-1811060"
+  },
+  "code": {
+    "id": "1811060",
+    "iso": null
+  },
+  "parent": {
+    "id": "1811",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mesuji",
+      "en": "Mesuji",
+      "slug": "mesuji-1811"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1811",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mesuji",
+        "en": "Mesuji",
+        "slug": "mesuji-1811"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.07",
+    "lon": "105.414"
+  },
+  "metadata": {},
+  "source": {}
+}

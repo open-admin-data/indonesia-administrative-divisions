@@ -1,0 +1,56 @@
+{
+  "id": "1112011",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lembah Sabil",
+    "en": "Lembah Sabil",
+    "slug": "lembah-sabil-1112011"
+  },
+  "code": {
+    "id": "1112011",
+    "iso": null
+  },
+  "parent": {
+    "id": "1112",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Barat Daya",
+      "en": "Aceh Barat Daya",
+      "slug": "aceh-barat-daya-1112"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1112",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Barat Daya",
+        "en": "Aceh Barat Daya",
+        "slug": "aceh-barat-daya-1112"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.611",
+    "lon": "96.974"
+  },
+  "metadata": {},
+  "source": {}
+}

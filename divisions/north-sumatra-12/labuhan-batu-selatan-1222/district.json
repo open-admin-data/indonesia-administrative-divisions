@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1222050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kampung Rakyat",
+      "en": "Kampung Rakyat",
+      "slug": "kampung-rakyat-1222050"
+    },
+    "code": {
+      "id": "1222050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "2.044",
+      "lon": "100.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kota Pinang",
+      "en": "Kota Pinang",
+      "slug": "kota-pinang-1222030"
+    },
+    "code": {
+      "id": "1222030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.885",
+      "lon": "100.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Silangkitang",
+      "en": "Silangkitang",
+      "slug": "silangkitang-1222040"
+    },
+    "code": {
+      "id": "1222040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.875",
+      "lon": "99.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sungai Kanan",
+      "en": "Sungai Kanan",
+      "slug": "sungai-kanan-1222010"
+    },
+    "code": {
+      "id": "1222010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.727",
+      "lon": "99.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1222020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Torgamba",
+      "en": "Torgamba",
+      "slug": "torgamba-1222020"
+    },
+    "code": {
+      "id": "1222020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1222",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Labuhan Batu Selatan",
+        "en": "Labuhan Batu Selatan",
+        "slug": "labuhan-batu-selatan-1222"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1222",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Selatan",
+          "en": "Labuhan Batu Selatan",
+          "slug": "labuhan-batu-selatan-1222"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.726",
+      "lon": "100.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

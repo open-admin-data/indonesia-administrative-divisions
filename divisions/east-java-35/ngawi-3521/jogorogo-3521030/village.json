@@ -1,0 +1,717 @@
+[
+  {
+    "id": "3521030010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Dawung",
+      "en": "Dawung",
+      "slug": "dawung-3521030010"
+    },
+    "code": {
+      "id": "3521030010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.492",
+      "lon": "111.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Girimulyo",
+      "en": "Girimulyo",
+      "slug": "girimulyo-3521030004"
+    },
+    "code": {
+      "id": "3521030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.564",
+      "lon": "111.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jaten",
+      "en": "Jaten",
+      "slug": "jaten-3521030003"
+    },
+    "code": {
+      "id": "3521030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.55",
+      "lon": "111.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jogorogo",
+      "en": "Jogorogo",
+      "slug": "jogorogo-3521030009"
+    },
+    "code": {
+      "id": "3521030009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.537",
+      "lon": "111.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kletekan",
+      "en": "Kletekan",
+      "slug": "kletekan-3521030002"
+    },
+    "code": {
+      "id": "3521030002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.535",
+      "lon": "111.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Macanan",
+      "en": "Macanan",
+      "slug": "macanan-3521030007"
+    },
+    "code": {
+      "id": "3521030007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.533",
+      "lon": "111.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ngrayudan",
+      "en": "Ngrayudan",
+      "slug": "ngrayudan-3521030005"
+    },
+    "code": {
+      "id": "3521030005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.564",
+      "lon": "111.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Soco",
+      "en": "Soco",
+      "slug": "soco-3521030012"
+    },
+    "code": {
+      "id": "3521030012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.511",
+      "lon": "111.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Talang",
+      "en": "Talang",
+      "slug": "talang-3521030006"
+    },
+    "code": {
+      "id": "3521030006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.548",
+      "lon": "111.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjungsari",
+      "en": "Tanjungsari",
+      "slug": "tanjungsari-3521030011"
+    },
+    "code": {
+      "id": "3521030011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.512",
+      "lon": "111.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3521030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Umbulrejo",
+      "en": "Umbulrejo",
+      "slug": "umbulrejo-3521030001"
+    },
+    "code": {
+      "id": "3521030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3521030",
+      "level": 3,
+      "name": {
+        "local": "Jogorogo",
+        "en": "Jogorogo",
+        "slug": "jogorogo-3521030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3521",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngawi",
+          "en": "Ngawi",
+          "slug": "ngawi-3521"
+        }
+      },
+      {
+        "id": "3521030",
+        "level": 3,
+        "name": {
+          "local": "Jogorogo",
+          "en": "Jogorogo",
+          "slug": "jogorogo-3521030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63262"
+    ],
+    "geo": {
+      "lat": "-7.542",
+      "lon": "111.223"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

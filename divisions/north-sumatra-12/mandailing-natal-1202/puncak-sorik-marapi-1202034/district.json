@@ -1,0 +1,56 @@
+{
+  "id": "1202034",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Puncak Sorik Marapi",
+    "en": "Puncak Sorik Marapi",
+    "slug": "puncak-sorik-marapi-1202034"
+  },
+  "code": {
+    "id": "1202034",
+    "iso": null
+  },
+  "parent": {
+    "id": "1202",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mandailing Natal",
+      "en": "Mandailing Natal",
+      "slug": "mandailing-natal-1202"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mandailing Natal",
+        "en": "Mandailing Natal",
+        "slug": "mandailing-natal-1202"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.688",
+    "lon": "99.576"
+  },
+  "metadata": {},
+  "source": {}
+}

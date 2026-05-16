@@ -1,0 +1,56 @@
+{
+  "id": "1303050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lembah Gumanti",
+    "en": "Lembah Gumanti",
+    "slug": "lembah-gumanti-1303050"
+  },
+  "code": {
+    "id": "1303050",
+    "iso": null
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Solok",
+      "en": "Solok",
+      "slug": "solok-1303"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Solok",
+        "en": "Solok",
+        "slug": "solok-1303"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.087",
+    "lon": "100.819"
+  },
+  "metadata": {},
+  "source": {}
+}

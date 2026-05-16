@@ -1,0 +1,392 @@
+[
+  {
+    "id": "6102080008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Gersik",
+      "en": "Gersik",
+      "slug": "gersik-6102080008"
+    },
+    "code": {
+      "id": "6102080008",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102080",
+      "level": 3,
+      "name": {
+        "local": "Jagoi Babang",
+        "en": "Jagoi Babang",
+        "slug": "jagoi-babang-6102080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      },
+      {
+        "id": "6102080",
+        "level": 3,
+        "name": {
+          "local": "Jagoi Babang",
+          "en": "Jagoi Babang",
+          "slug": "jagoi-babang-6102080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79286"
+    ],
+    "geo": {
+      "lat": "1.385",
+      "lon": "109.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102080004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jagoi",
+      "en": "Jagoi",
+      "slug": "jagoi-6102080004"
+    },
+    "code": {
+      "id": "6102080004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102080",
+      "level": 3,
+      "name": {
+        "local": "Jagoi Babang",
+        "en": "Jagoi Babang",
+        "slug": "jagoi-babang-6102080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      },
+      {
+        "id": "6102080",
+        "level": 3,
+        "name": {
+          "local": "Jagoi Babang",
+          "en": "Jagoi Babang",
+          "slug": "jagoi-babang-6102080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79286"
+    ],
+    "geo": {
+      "lat": "1.312",
+      "lon": "109.843"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102080010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Jagoi Sekida",
+      "en": "Jagoi Sekida",
+      "slug": "jagoi-sekida-6102080010"
+    },
+    "code": {
+      "id": "6102080010",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102080",
+      "level": 3,
+      "name": {
+        "local": "Jagoi Babang",
+        "en": "Jagoi Babang",
+        "slug": "jagoi-babang-6102080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      },
+      {
+        "id": "6102080",
+        "level": 3,
+        "name": {
+          "local": "Jagoi Babang",
+          "en": "Jagoi Babang",
+          "slug": "jagoi-babang-6102080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79286"
+    ],
+    "geo": {
+      "lat": "1.375",
+      "lon": "109.926"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102080005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kumba",
+      "en": "Kumba",
+      "slug": "kumba-6102080005"
+    },
+    "code": {
+      "id": "6102080005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102080",
+      "level": 3,
+      "name": {
+        "local": "Jagoi Babang",
+        "en": "Jagoi Babang",
+        "slug": "jagoi-babang-6102080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      },
+      {
+        "id": "6102080",
+        "level": 3,
+        "name": {
+          "local": "Jagoi Babang",
+          "en": "Jagoi Babang",
+          "slug": "jagoi-babang-6102080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79286"
+    ],
+    "geo": {
+      "lat": "1.377",
+      "lon": "109.735"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102080009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Semunying Jaya",
+      "en": "Semunying Jaya",
+      "slug": "semunying-jaya-6102080009"
+    },
+    "code": {
+      "id": "6102080009",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102080",
+      "level": 3,
+      "name": {
+        "local": "Jagoi Babang",
+        "en": "Jagoi Babang",
+        "slug": "jagoi-babang-6102080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      },
+      {
+        "id": "6102080",
+        "level": 3,
+        "name": {
+          "local": "Jagoi Babang",
+          "en": "Jagoi Babang",
+          "slug": "jagoi-babang-6102080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79286"
+    ],
+    "geo": {
+      "lat": "1.459",
+      "lon": "109.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6102080007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sinar Baru",
+      "en": "Sinar Baru",
+      "slug": "sinar-baru-6102080007"
+    },
+    "code": {
+      "id": "6102080007",
+      "iso": null
+    },
+    "parent": {
+      "id": "6102080",
+      "level": 3,
+      "name": {
+        "local": "Jagoi Babang",
+        "en": "Jagoi Babang",
+        "slug": "jagoi-babang-6102080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6102",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Bengkayang",
+          "en": "Bengkayang",
+          "slug": "bengkayang-6102"
+        }
+      },
+      {
+        "id": "6102080",
+        "level": 3,
+        "name": {
+          "local": "Jagoi Babang",
+          "en": "Jagoi Babang",
+          "slug": "jagoi-babang-6102080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "79286"
+    ],
+    "geo": {
+      "lat": "1.414",
+      "lon": "109.64"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

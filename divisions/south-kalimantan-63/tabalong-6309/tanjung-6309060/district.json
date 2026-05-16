@@ -1,0 +1,56 @@
+{
+  "id": "6309060",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tanjung",
+    "en": "Tanjung",
+    "slug": "tanjung-6309060"
+  },
+  "code": {
+    "id": "6309060",
+    "iso": null
+  },
+  "parent": {
+    "id": "6309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tabalong",
+      "en": "Tabalong",
+      "slug": "tabalong-6309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabalong",
+        "en": "Tabalong",
+        "slug": "tabalong-6309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.097",
+    "lon": "115.377"
+  },
+  "metadata": {},
+  "source": {}
+}

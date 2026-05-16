@@ -1,0 +1,197 @@
+[
+  {
+    "id": "3373030004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalicacing",
+      "en": "Kalicacing",
+      "slug": "kalicacing-3373030004"
+    },
+    "code": {
+      "id": "3373030004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373030",
+      "level": 3,
+      "name": {
+        "local": "Sidomukti",
+        "en": "Sidomukti",
+        "slug": "sidomukti-3373030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373030",
+        "level": 3,
+        "name": {
+          "local": "Sidomukti",
+          "en": "Sidomukti",
+          "slug": "sidomukti-3373030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50721"
+    ],
+    "geo": {
+      "lat": "-7.332",
+      "lon": "110.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373030001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kecandran",
+      "en": "Kecandran",
+      "slug": "kecandran-3373030001"
+    },
+    "code": {
+      "id": "3373030001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373030",
+      "level": 3,
+      "name": {
+        "local": "Sidomukti",
+        "en": "Sidomukti",
+        "slug": "sidomukti-3373030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373030",
+        "level": 3,
+        "name": {
+          "local": "Sidomukti",
+          "en": "Sidomukti",
+          "slug": "sidomukti-3373030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50721"
+    ],
+    "geo": {
+      "lat": "-7.327",
+      "lon": "110.477"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3373030003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mangunsari",
+      "en": "Mangunsari",
+      "slug": "mangunsari-3373030003"
+    },
+    "code": {
+      "id": "3373030003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3373030",
+      "level": 3,
+      "name": {
+        "local": "Sidomukti",
+        "en": "Sidomukti",
+        "slug": "sidomukti-3373030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3373",
+        "level": 2,
+        "name": {
+          "local": "Kota Salatiga",
+          "en": "Salatiga",
+          "slug": "salatiga-3373"
+        }
+      },
+      {
+        "id": "3373030",
+        "level": 3,
+        "name": {
+          "local": "Sidomukti",
+          "en": "Sidomukti",
+          "slug": "sidomukti-3373030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50721"
+    ],
+    "geo": {
+      "lat": "-7.331",
+      "lon": "110.496"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

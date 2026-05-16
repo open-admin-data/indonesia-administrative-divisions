@@ -1,0 +1,56 @@
+{
+  "id": "3306040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bagelen",
+    "en": "Bagelen",
+    "slug": "bagelen-3306040"
+  },
+  "code": {
+    "id": "3306040",
+    "iso": null
+  },
+  "parent": {
+    "id": "3306",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Purworejo",
+      "en": "Purworejo",
+      "slug": "purworejo-3306"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3306",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Purworejo",
+        "en": "Purworejo",
+        "slug": "purworejo-3306"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.818",
+    "lon": "110.044"
+  },
+  "metadata": {},
+  "source": {}
+}

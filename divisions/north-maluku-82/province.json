@@ -1,0 +1,31 @@
+{
+  "id": "82",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Maluku Utara",
+    "en": "North Maluku",
+    "slug": "north-maluku-82"
+  },
+  "code": {
+    "id": "82",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 10,
+    "village": 1155,
+    "district": 116
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.756",
+    "lon": "127.61"
+  },
+  "metadata": {},
+  "source": {}
+}

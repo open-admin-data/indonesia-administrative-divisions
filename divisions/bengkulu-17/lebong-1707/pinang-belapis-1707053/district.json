@@ -1,0 +1,56 @@
+{
+  "id": "1707053",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pinang Belapis",
+    "en": "Pinang Belapis",
+    "slug": "pinang-belapis-1707053"
+  },
+  "code": {
+    "id": "1707053",
+    "iso": null
+  },
+  "parent": {
+    "id": "1707",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lebong",
+      "en": "Lebong",
+      "slug": "lebong-1707"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.911",
+    "lon": "102.084"
+  },
+  "metadata": {},
+  "source": {}
+}

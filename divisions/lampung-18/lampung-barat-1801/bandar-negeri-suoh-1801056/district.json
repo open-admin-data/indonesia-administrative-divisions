@@ -1,0 +1,56 @@
+{
+  "id": "1801056",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bandar Negeri Suoh",
+    "en": "Bandar Negeri Suoh",
+    "slug": "bandar-negeri-suoh-1801056"
+  },
+  "code": {
+    "id": "1801056",
+    "iso": null
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lampung Barat",
+      "en": "Lampung Barat",
+      "slug": "lampung-barat-1801"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lampung Barat",
+        "en": "Lampung Barat",
+        "slug": "lampung-barat-1801"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.233",
+    "lon": "104.323"
+  },
+  "metadata": {},
+  "source": {}
+}

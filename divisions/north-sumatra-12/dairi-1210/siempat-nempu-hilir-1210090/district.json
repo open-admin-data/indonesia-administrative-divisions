@@ -1,0 +1,56 @@
+{
+  "id": "1210090",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Siempat Nempu Hilir",
+    "en": "Siempat Nempu Hilir",
+    "slug": "siempat-nempu-hilir-1210090"
+  },
+  "code": {
+    "id": "1210090",
+    "iso": null
+  },
+  "parent": {
+    "id": "1210",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Dairi",
+      "en": "Dairi",
+      "slug": "dairi-1210"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1210",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Dairi",
+        "en": "Dairi",
+        "slug": "dairi-1210"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "2.888",
+    "lon": "98.058"
+  },
+  "metadata": {},
+  "source": {}
+}

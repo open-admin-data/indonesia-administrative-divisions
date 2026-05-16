@@ -1,0 +1,48 @@
+{
+  "id": "7208",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Parigi Moutong",
+    "en": "Parigi Moutong",
+    "slug": "parigi-moutong-7208"
+  },
+  "code": {
+    "id": "7208",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tengah",
+      "en": "Central Sulawesi",
+      "slug": "central-sulawesi-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tengah",
+        "en": "Central Sulawesi",
+        "slug": "central-sulawesi-72"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 23,
+    "village": 282
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.805",
+    "lon": "120.16"
+  },
+  "metadata": {},
+  "source": {}
+}

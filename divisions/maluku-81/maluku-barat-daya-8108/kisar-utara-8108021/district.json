@@ -1,0 +1,56 @@
+{
+  "id": "8108021",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Kisar Utara",
+    "en": "Kisar Utara",
+    "slug": "kisar-utara-8108021"
+  },
+  "code": {
+    "id": "8108021",
+    "iso": null
+  },
+  "parent": {
+    "id": "8108",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Maluku Barat Daya",
+      "en": "Maluku Barat Daya",
+      "slug": "maluku-barat-daya-8108"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "Maluku",
+        "en": "Maluku",
+        "slug": "maluku-81"
+      }
+    },
+    {
+      "id": "8108",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Maluku Barat Daya",
+        "en": "Maluku Barat Daya",
+        "slug": "maluku-barat-daya-8108"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.032",
+    "lon": "127.181"
+  },
+  "metadata": {},
+  "source": {}
+}

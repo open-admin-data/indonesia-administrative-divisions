@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3305130006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Aditirto",
+      "en": "Aditirto",
+      "slug": "aditirto-3305130006"
+    },
+    "code": {
+      "id": "3305130006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.66",
+      "lon": "109.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Karangpoh",
+      "en": "Karangpoh",
+      "slug": "karangpoh-3305130007"
+    },
+    "code": {
+      "id": "3305130007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.652",
+      "lon": "109.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kebagoran",
+      "en": "Kebagoran",
+      "slug": "kebagoran-3305130010"
+    },
+    "code": {
+      "id": "3305130010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.613",
+      "lon": "109.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kebulusan",
+      "en": "Kebulusan",
+      "slug": "kebulusan-3305130005"
+    },
+    "code": {
+      "id": "3305130005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.669",
+      "lon": "109.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kedawung",
+      "en": "Kedawung",
+      "slug": "kedawung-3305130003"
+    },
+    "code": {
+      "id": "3305130003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.679",
+      "lon": "109.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuwayuhan",
+      "en": "Kuwayuhan",
+      "slug": "kuwayuhan-3305130002"
+    },
+    "code": {
+      "id": "3305130002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.683",
+      "lon": "109.636"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Logede",
+      "en": "Logede",
+      "slug": "logede-3305130001"
+    },
+    "code": {
+      "id": "3305130001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.684",
+      "lon": "109.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pejagoan",
+      "en": "Pejagoan",
+      "slug": "pejagoan-3305130004"
+    },
+    "code": {
+      "id": "3305130004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.62",
+      "lon": "109.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pengaringan",
+      "en": "Pengaringan",
+      "slug": "pengaringan-3305130011"
+    },
+    "code": {
+      "id": "3305130011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.597",
+      "lon": "109.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Peniron",
+      "en": "Peniron",
+      "slug": "peniron-3305130012"
+    },
+    "code": {
+      "id": "3305130012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.579",
+      "lon": "109.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Prigi",
+      "en": "Prigi",
+      "slug": "prigi-3305130009"
+    },
+    "code": {
+      "id": "3305130009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.628",
+      "lon": "109.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3305130013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Watulawang",
+      "en": "Watulawang",
+      "slug": "watulawang-3305130013"
+    },
+    "code": {
+      "id": "3305130013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3305130",
+      "level": 3,
+      "name": {
+        "local": "Pejagoan",
+        "en": "Pejagoan",
+        "slug": "pejagoan-3305130"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "Jawa Tengah",
+          "en": "Central Java",
+          "slug": "central-java-33"
+        }
+      },
+      {
+        "id": "3305",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Kebumen",
+          "en": "Kebumen",
+          "slug": "kebumen-3305"
+        }
+      },
+      {
+        "id": "3305130",
+        "level": 3,
+        "name": {
+          "local": "Pejagoan",
+          "en": "Pejagoan",
+          "slug": "pejagoan-3305130"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "54361"
+    ],
+    "geo": {
+      "lat": "-7.582",
+      "lon": "109.631"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

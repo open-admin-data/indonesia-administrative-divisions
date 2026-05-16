@@ -1,0 +1,56 @@
+{
+  "id": "7411020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lambandia",
+    "en": "Lambandia",
+    "slug": "lambandia-7411020"
+  },
+  "code": {
+    "id": "7411020",
+    "iso": null
+  },
+  "parent": {
+    "id": "7411",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kolaka Timur",
+      "en": "Kolaka Timur",
+      "slug": "kolaka-timur-7411"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7411",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kolaka Timur",
+        "en": "Kolaka Timur",
+        "slug": "kolaka-timur-7411"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.307",
+    "lon": "121.936"
+  },
+  "metadata": {},
+  "source": {}
+}

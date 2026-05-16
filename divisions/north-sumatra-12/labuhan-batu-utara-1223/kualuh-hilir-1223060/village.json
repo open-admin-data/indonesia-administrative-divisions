@@ -1,0 +1,457 @@
+[
+  {
+    "id": "1223060005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kampung Mesjid",
+      "en": "Kampung Mesjid",
+      "slug": "kampung-mesjid-1223060005"
+    },
+    "code": {
+      "id": "1223060005",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223060",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hilir",
+        "en": "Kualuh Hilir",
+        "slug": "kualuh-hilir-1223060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223060",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hilir",
+          "en": "Kualuh Hilir",
+          "slug": "kualuh-hilir-1223060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21774"
+    ],
+    "geo": {
+      "lat": "2.574",
+      "lon": "100.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223060001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuala Bangka",
+      "en": "Kuala Bangka",
+      "slug": "kuala-bangka-1223060001"
+    },
+    "code": {
+      "id": "1223060001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223060",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hilir",
+        "en": "Kualuh Hilir",
+        "slug": "kualuh-hilir-1223060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223060",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hilir",
+          "en": "Kualuh Hilir",
+          "slug": "kualuh-hilir-1223060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21774"
+    ],
+    "geo": {
+      "lat": "2.51",
+      "lon": "99.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223060004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Apung",
+      "en": "Sungai Apung",
+      "slug": "sungai-apung-1223060004"
+    },
+    "code": {
+      "id": "1223060004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223060",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hilir",
+        "en": "Kualuh Hilir",
+        "slug": "kualuh-hilir-1223060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223060",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hilir",
+          "en": "Kualuh Hilir",
+          "slug": "kualuh-hilir-1223060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21774"
+    ],
+    "geo": {
+      "lat": "2.589",
+      "lon": "99.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223060003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Sungai Sentang",
+      "en": "Sungai Sentang",
+      "slug": "sungai-sentang-1223060003"
+    },
+    "code": {
+      "id": "1223060003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223060",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hilir",
+        "en": "Kualuh Hilir",
+        "slug": "kualuh-hilir-1223060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223060",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hilir",
+          "en": "Kualuh Hilir",
+          "slug": "kualuh-hilir-1223060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21774"
+    ],
+    "geo": {
+      "lat": "2.52",
+      "lon": "100.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223060007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung Mangedar",
+      "en": "Tanjung Mangedar",
+      "slug": "tanjung-mangedar-1223060007"
+    },
+    "code": {
+      "id": "1223060007",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223060",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hilir",
+        "en": "Kualuh Hilir",
+        "slug": "kualuh-hilir-1223060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223060",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hilir",
+          "en": "Kualuh Hilir",
+          "slug": "kualuh-hilir-1223060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21774"
+    ],
+    "geo": {
+      "lat": "2.677",
+      "lon": "100.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223060002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Binjai",
+      "en": "Teluk Binjai",
+      "slug": "teluk-binjai-1223060002"
+    },
+    "code": {
+      "id": "1223060002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223060",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hilir",
+        "en": "Kualuh Hilir",
+        "slug": "kualuh-hilir-1223060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223060",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hilir",
+          "en": "Kualuh Hilir",
+          "slug": "kualuh-hilir-1223060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21774"
+    ],
+    "geo": {
+      "lat": "2.555",
+      "lon": "99.919"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1223060006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Teluk Piai",
+      "en": "Teluk Piai",
+      "slug": "teluk-piai-1223060006"
+    },
+    "code": {
+      "id": "1223060006",
+      "iso": null
+    },
+    "parent": {
+      "id": "1223060",
+      "level": 3,
+      "name": {
+        "local": "Kualuh Hilir",
+        "en": "Kualuh Hilir",
+        "slug": "kualuh-hilir-1223060"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "12",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Utara",
+          "en": "North Sumatra",
+          "slug": "north-sumatra-12"
+        }
+      },
+      {
+        "id": "1223",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Labuhan Batu Utara",
+          "en": "Labuhan Batu Utara",
+          "slug": "labuhan-batu-utara-1223"
+        }
+      },
+      {
+        "id": "1223060",
+        "level": 3,
+        "name": {
+          "local": "Kualuh Hilir",
+          "en": "Kualuh Hilir",
+          "slug": "kualuh-hilir-1223060"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21774"
+    ],
+    "geo": {
+      "lat": "2.603",
+      "lon": "100.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

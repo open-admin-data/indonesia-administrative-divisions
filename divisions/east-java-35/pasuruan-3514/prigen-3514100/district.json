@@ -1,0 +1,56 @@
+{
+  "id": "3514100",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Prigen",
+    "en": "Prigen",
+    "slug": "prigen-3514100"
+  },
+  "code": {
+    "id": "3514100",
+    "iso": null
+  },
+  "parent": {
+    "id": "3514",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pasuruan",
+      "en": "Pasuruan",
+      "slug": "pasuruan-3514"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3514",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pasuruan",
+        "en": "Pasuruan",
+        "slug": "pasuruan-3514"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.697",
+    "lon": "112.644"
+  },
+  "metadata": {},
+  "source": {}
+}

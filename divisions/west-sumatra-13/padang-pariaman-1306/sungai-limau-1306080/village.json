@@ -1,0 +1,262 @@
+[
+  {
+    "id": "1306080004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Guguak Kuranji Hilir",
+      "en": "Guguak Kuranji Hilir",
+      "slug": "guguak-kuranji-hilir-1306080004"
+    },
+    "code": {
+      "id": "1306080004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306080",
+      "level": 3,
+      "name": {
+        "local": "Sungai Limau",
+        "en": "Sungai Limau",
+        "slug": "sungai-limau-1306080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306080",
+        "level": 3,
+        "name": {
+          "local": "Sungai Limau",
+          "en": "Sungai Limau",
+          "slug": "sungai-limau-1306080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25561"
+    ],
+    "geo": {
+      "lat": "-0.508",
+      "lon": "100.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306080003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Koto Tinggi Kuranji Hilir",
+      "en": "Koto Tinggi Kuranji Hilir",
+      "slug": "koto-tinggi-kuranji-hilir-1306080003"
+    },
+    "code": {
+      "id": "1306080003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306080",
+      "level": 3,
+      "name": {
+        "local": "Sungai Limau",
+        "en": "Sungai Limau",
+        "slug": "sungai-limau-1306080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306080",
+        "level": 3,
+        "name": {
+          "local": "Sungai Limau",
+          "en": "Sungai Limau",
+          "slug": "sungai-limau-1306080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25561"
+    ],
+    "geo": {
+      "lat": "-0.636",
+      "lon": "100.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306080002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kuranji Hilir",
+      "en": "Kuranji Hilir",
+      "slug": "kuranji-hilir-1306080002"
+    },
+    "code": {
+      "id": "1306080002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306080",
+      "level": 3,
+      "name": {
+        "local": "Sungai Limau",
+        "en": "Sungai Limau",
+        "slug": "sungai-limau-1306080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306080",
+        "level": 3,
+        "name": {
+          "local": "Sungai Limau",
+          "en": "Sungai Limau",
+          "slug": "sungai-limau-1306080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25561"
+    ],
+    "geo": {
+      "lat": "-0.508",
+      "lon": "100.07"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1306080001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pilubang",
+      "en": "Pilubang",
+      "slug": "pilubang-1306080001"
+    },
+    "code": {
+      "id": "1306080001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1306080",
+      "level": 3,
+      "name": {
+        "local": "Sungai Limau",
+        "en": "Sungai Limau",
+        "slug": "sungai-limau-1306080"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "local": "Sumatera Barat",
+          "en": "West Sumatra",
+          "slug": "west-sumatra-13"
+        }
+      },
+      {
+        "id": "1306",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Padang Pariaman",
+          "en": "Padang Pariaman",
+          "slug": "padang-pariaman-1306"
+        }
+      },
+      {
+        "id": "1306080",
+        "level": 3,
+        "name": {
+          "local": "Sungai Limau",
+          "en": "Sungai Limau",
+          "slug": "sungai-limau-1306080"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25561"
+    ],
+    "geo": {
+      "lat": "-0.513",
+      "lon": "100.098"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

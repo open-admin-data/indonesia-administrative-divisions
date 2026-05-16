@@ -1,0 +1,56 @@
+{
+  "id": "1708010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Muara Kemumu",
+    "en": "Muara Kemumu",
+    "slug": "muara-kemumu-1708010"
+  },
+  "code": {
+    "id": "1708010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1708",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Kepahiang",
+      "en": "Kepahiang",
+      "slug": "kepahiang-1708"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1708",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Kepahiang",
+        "en": "Kepahiang",
+        "slug": "kepahiang-1708"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.609",
+    "lon": "102.736"
+  },
+  "metadata": {},
+  "source": {}
+}

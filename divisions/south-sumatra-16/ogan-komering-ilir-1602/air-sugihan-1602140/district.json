@@ -1,0 +1,56 @@
+{
+  "id": "1602140",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Air Sugihan",
+    "en": "Air Sugihan",
+    "slug": "air-sugihan-1602140"
+  },
+  "code": {
+    "id": "1602140",
+    "iso": null
+  },
+  "parent": {
+    "id": "1602",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ilir",
+      "en": "Ogan Komering Ilir",
+      "slug": "ogan-komering-ilir-1602"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ilir",
+        "en": "Ogan Komering Ilir",
+        "slug": "ogan-komering-ilir-1602"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.751",
+    "lon": "105.427"
+  },
+  "metadata": {},
+  "source": {}
+}

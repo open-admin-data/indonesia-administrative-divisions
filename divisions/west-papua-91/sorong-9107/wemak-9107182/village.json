@@ -1,0 +1,392 @@
+[
+  {
+    "id": "9107182005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kamlin",
+      "en": "Kamlin",
+      "slug": "kamlin-9107182005"
+    },
+    "code": {
+      "id": "9107182005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107182",
+      "level": 3,
+      "name": {
+        "local": "Wemak",
+        "en": "Wemak",
+        "slug": "wemak-9107182"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9107"
+        }
+      },
+      {
+        "id": "9107182",
+        "level": 3,
+        "name": {
+          "local": "Wemak",
+          "en": "Wemak",
+          "slug": "wemak-9107182"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98455"
+    ],
+    "geo": {
+      "lat": "-0.876",
+      "lon": "131.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9107182004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Klalin Mos",
+      "en": "Klalin Mos",
+      "slug": "klalin-mos-9107182004"
+    },
+    "code": {
+      "id": "9107182004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107182",
+      "level": 3,
+      "name": {
+        "local": "Wemak",
+        "en": "Wemak",
+        "slug": "wemak-9107182"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9107"
+        }
+      },
+      {
+        "id": "9107182",
+        "level": 3,
+        "name": {
+          "local": "Wemak",
+          "en": "Wemak",
+          "slug": "wemak-9107182"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98455"
+    ],
+    "geo": {
+      "lat": "-1.058",
+      "lon": "131.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9107182002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Klawaren",
+      "en": "Klawaren",
+      "slug": "klawaren-9107182002"
+    },
+    "code": {
+      "id": "9107182002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107182",
+      "level": 3,
+      "name": {
+        "local": "Wemak",
+        "en": "Wemak",
+        "slug": "wemak-9107182"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9107"
+        }
+      },
+      {
+        "id": "9107182",
+        "level": 3,
+        "name": {
+          "local": "Wemak",
+          "en": "Wemak",
+          "slug": "wemak-9107182"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98455"
+    ],
+    "geo": {
+      "lat": "-1.097",
+      "lon": "131.83"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9107182005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kwari",
+      "en": "Kwari",
+      "slug": "kwari-9107182005"
+    },
+    "code": {
+      "id": "9107182005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107182",
+      "level": 3,
+      "name": {
+        "local": "Wemak",
+        "en": "Wemak",
+        "slug": "wemak-9107182"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9107"
+        }
+      },
+      {
+        "id": "9107182",
+        "level": 3,
+        "name": {
+          "local": "Wemak",
+          "en": "Wemak",
+          "slug": "wemak-9107182"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98455"
+    ],
+    "geo": {
+      "lat": "-0.876",
+      "lon": "131.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9107182001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Saluk",
+      "en": "Saluk",
+      "slug": "saluk-9107182001"
+    },
+    "code": {
+      "id": "9107182001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107182",
+      "level": 3,
+      "name": {
+        "local": "Wemak",
+        "en": "Wemak",
+        "slug": "wemak-9107182"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9107"
+        }
+      },
+      {
+        "id": "9107182",
+        "level": 3,
+        "name": {
+          "local": "Wemak",
+          "en": "Wemak",
+          "slug": "wemak-9107182"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98455"
+    ],
+    "geo": {
+      "lat": "-1.084",
+      "lon": "131.751"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9107182003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Woluin",
+      "en": "Woluin",
+      "slug": "woluin-9107182003"
+    },
+    "code": {
+      "id": "9107182003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107182",
+      "level": 3,
+      "name": {
+        "local": "Wemak",
+        "en": "Wemak",
+        "slug": "wemak-9107182"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "Papua Barat",
+          "en": "West Papua",
+          "slug": "west-papua-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sorong",
+          "en": "Sorong",
+          "slug": "sorong-9107"
+        }
+      },
+      {
+        "id": "9107182",
+        "level": 3,
+        "name": {
+          "local": "Wemak",
+          "en": "Wemak",
+          "slug": "wemak-9107182"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "98455"
+    ],
+    "geo": {
+      "lat": null,
+      "lon": null
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

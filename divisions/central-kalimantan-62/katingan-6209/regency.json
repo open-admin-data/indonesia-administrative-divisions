@@ -1,0 +1,48 @@
+{
+  "id": "6209",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Katingan",
+    "en": "Katingan",
+    "slug": "katingan-6209"
+  },
+  "code": {
+    "id": "6209",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Tengah",
+      "en": "Central Kalimantan",
+      "slug": "central-kalimantan-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 13,
+    "village": 157
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.185",
+    "lon": "111.428"
+  },
+  "metadata": {},
+  "source": {}
+}

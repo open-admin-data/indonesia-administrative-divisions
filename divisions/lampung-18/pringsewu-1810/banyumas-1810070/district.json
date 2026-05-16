@@ -1,0 +1,56 @@
+{
+  "id": "1810070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Banyumas",
+    "en": "Banyumas",
+    "slug": "banyumas-1810070"
+  },
+  "code": {
+    "id": "1810070",
+    "iso": null
+  },
+  "parent": {
+    "id": "1810",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pringsewu",
+      "en": "Pringsewu",
+      "slug": "pringsewu-1810"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1810",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pringsewu",
+        "en": "Pringsewu",
+        "slug": "pringsewu-1810"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.291",
+    "lon": "104.909"
+  },
+  "metadata": {},
+  "source": {}
+}

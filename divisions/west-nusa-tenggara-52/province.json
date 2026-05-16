@@ -1,0 +1,31 @@
+{
+  "id": "52",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Nusa Tenggara Barat",
+    "en": "West Nusa Tenggara",
+    "slug": "west-nusa-tenggara-52"
+  },
+  "code": {
+    "id": "52",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 10,
+    "village": 1062,
+    "district": 116
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.581",
+    "lon": "116.11"
+  },
+  "metadata": {},
+  "source": {}
+}

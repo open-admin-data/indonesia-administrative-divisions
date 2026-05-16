@@ -1,0 +1,56 @@
+{
+  "id": "3604260",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Carenang",
+    "en": "Carenang",
+    "slug": "carenang-3604260"
+  },
+  "code": {
+    "id": "3604260",
+    "iso": null
+  },
+  "parent": {
+    "id": "3604",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Serang",
+      "en": "Serang",
+      "slug": "serang-3604"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "Banten",
+        "en": "Banten",
+        "slug": "banten-36"
+      }
+    },
+    {
+      "id": "3604",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Serang",
+        "en": "Serang",
+        "slug": "serang-3604"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-6.087",
+    "lon": "106.322"
+  },
+  "metadata": {},
+  "source": {}
+}

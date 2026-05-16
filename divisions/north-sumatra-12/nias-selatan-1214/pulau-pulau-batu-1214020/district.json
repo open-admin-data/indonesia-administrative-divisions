@@ -1,0 +1,56 @@
+{
+  "id": "1214020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Pulau-pulau Batu",
+    "en": "Pulau-pulau Batu",
+    "slug": "pulau-pulau-batu-1214020"
+  },
+  "code": {
+    "id": "1214020",
+    "iso": null
+  },
+  "parent": {
+    "id": "1214",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nias Selatan",
+      "en": "Nias Selatan",
+      "slug": "nias-selatan-1214"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Utara",
+        "en": "North Sumatra",
+        "slug": "north-sumatra-12"
+      }
+    },
+    {
+      "id": "1214",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nias Selatan",
+        "en": "Nias Selatan",
+        "slug": "nias-selatan-1214"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.048",
+    "lon": "98.314"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "6411050",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Long Apari",
+    "en": "Long Apari",
+    "slug": "long-apari-6411050"
+  },
+  "code": {
+    "id": "6411050",
+    "iso": null
+  },
+  "parent": {
+    "id": "6411",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Mahakam Hulu",
+      "en": "Mahakam Hulu",
+      "slug": "mahakam-hulu-6411"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Timur",
+        "en": "East Kalimantan",
+        "slug": "east-kalimantan-64"
+      }
+    },
+    {
+      "id": "6411",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Mahakam Hulu",
+        "en": "Mahakam Hulu",
+        "slug": "mahakam-hulu-6411"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "1.022",
+    "lon": "114.202"
+  },
+  "metadata": {},
+  "source": {}
+}

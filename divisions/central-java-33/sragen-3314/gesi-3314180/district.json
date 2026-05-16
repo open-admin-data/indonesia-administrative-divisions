@@ -1,0 +1,56 @@
+{
+  "id": "3314180",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Gesi",
+    "en": "Gesi",
+    "slug": "gesi-3314180"
+  },
+  "code": {
+    "id": "3314180",
+    "iso": null
+  },
+  "parent": {
+    "id": "3314",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Sragen",
+      "en": "Sragen",
+      "slug": "sragen-3314"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3314",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Sragen",
+        "en": "Sragen",
+        "slug": "sragen-3314"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.331",
+    "lon": "111.008"
+  },
+  "metadata": {},
+  "source": {}
+}

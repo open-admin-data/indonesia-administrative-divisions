@@ -1,0 +1,48 @@
+{
+  "id": "6212",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Barito Timur",
+    "en": "Barito Timur",
+    "slug": "barito-timur-6212"
+  },
+  "code": {
+    "id": "6212",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Tengah",
+      "en": "Central Kalimantan",
+      "slug": "central-kalimantan-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Tengah",
+        "en": "Central Kalimantan",
+        "slug": "central-kalimantan-62"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 10,
+    "village": 98
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.64",
+    "lon": "114.569"
+  },
+  "metadata": {},
+  "source": {}
+}

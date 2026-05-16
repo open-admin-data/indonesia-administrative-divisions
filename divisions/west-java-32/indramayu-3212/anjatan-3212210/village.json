@@ -1,0 +1,782 @@
+[
+  {
+    "id": "3212210010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjatan",
+      "en": "Anjatan",
+      "slug": "anjatan-3212210010"
+    },
+    "code": {
+      "id": "3212210010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.354",
+      "lon": "107.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210009",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjatan Baru",
+      "en": "Anjatan Baru",
+      "slug": "anjatan-baru-3212210009"
+    },
+    "code": {
+      "id": "3212210009",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.358",
+      "lon": "107.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Anjatan Utara",
+      "en": "Anjatan Utara",
+      "slug": "anjatan-utara-3212210013"
+    },
+    "code": {
+      "id": "3212210013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.339",
+      "lon": "107.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bugis",
+      "en": "Bugis",
+      "slug": "bugis-3212210003"
+    },
+    "code": {
+      "id": "3212210003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.381",
+      "lon": "107.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bugistua",
+      "en": "Bugistua",
+      "slug": "bugistua-3212210002"
+    },
+    "code": {
+      "id": "3212210002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.41",
+      "lon": "107.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cilandak",
+      "en": "Cilandak",
+      "slug": "cilandak-3212210011"
+    },
+    "code": {
+      "id": "3212210011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.361",
+      "lon": "107.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Cilandak Lor",
+      "en": "Cilandak Lor",
+      "slug": "cilandak-lor-3212210012"
+    },
+    "code": {
+      "id": "3212210012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.325",
+      "lon": "107.938"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kopyah",
+      "en": "Kopyah",
+      "slug": "kopyah-3212210008"
+    },
+    "code": {
+      "id": "3212210008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.369",
+      "lon": "107.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210007",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lempuyang",
+      "en": "Lempuyang",
+      "slug": "lempuyang-3212210007"
+    },
+    "code": {
+      "id": "3212210007",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.385",
+      "lon": "107.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Mangunjaya",
+      "en": "Mangunjaya",
+      "slug": "mangunjaya-3212210001"
+    },
+    "code": {
+      "id": "3212210001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.389",
+      "lon": "107.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Salamdarma",
+      "en": "Salamdarma",
+      "slug": "salamdarma-3212210004"
+    },
+    "code": {
+      "id": "3212210004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.401",
+      "lon": "107.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3212210006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Wanguk",
+      "en": "Wanguk",
+      "slug": "wanguk-3212210006"
+    },
+    "code": {
+      "id": "3212210006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3212210",
+      "level": 3,
+      "name": {
+        "local": "Anjatan",
+        "en": "Anjatan",
+        "slug": "anjatan-3212210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "32",
+        "level": 1,
+        "name": {
+          "local": "Jawa Barat",
+          "en": "West Java",
+          "slug": "west-java-32"
+        }
+      },
+      {
+        "id": "3212",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Indramayu",
+          "en": "Indramayu",
+          "slug": "indramayu-3212"
+        }
+      },
+      {
+        "id": "3212210",
+        "level": 3,
+        "name": {
+          "local": "Anjatan",
+          "en": "Anjatan",
+          "slug": "anjatan-3212210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45256"
+    ],
+    "geo": {
+      "lat": "-6.41",
+      "lon": "107.98"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

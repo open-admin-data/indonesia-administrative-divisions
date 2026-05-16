@@ -1,0 +1,48 @@
+{
+  "id": "7415",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Buton Selatan",
+    "en": "Buton Selatan",
+    "slug": "buton-selatan-7415"
+  },
+  "code": {
+    "id": "7415",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Tenggara",
+      "en": "Southeast Sulawesi",
+      "slug": "southeast-sulawesi-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 7,
+    "village": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-5.608",
+    "lon": "122.601"
+  },
+  "metadata": {},
+  "source": {}
+}

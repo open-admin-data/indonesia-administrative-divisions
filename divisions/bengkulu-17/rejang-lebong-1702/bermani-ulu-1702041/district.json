@@ -1,0 +1,56 @@
+{
+  "id": "1702041",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Bermani Ulu",
+    "en": "Bermani Ulu",
+    "slug": "bermani-ulu-1702041"
+  },
+  "code": {
+    "id": "1702041",
+    "iso": null
+  },
+  "parent": {
+    "id": "1702",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Rejang Lebong",
+      "en": "Rejang Lebong",
+      "slug": "rejang-lebong-1702"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "Bengkulu",
+        "en": "Bengkulu",
+        "slug": "bengkulu-17"
+      }
+    },
+    {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Rejang Lebong",
+        "en": "Rejang Lebong",
+        "slug": "rejang-lebong-1702"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.442",
+    "lon": "102.431"
+  },
+  "metadata": {},
+  "source": {}
+}

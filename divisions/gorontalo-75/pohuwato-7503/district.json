@@ -1,0 +1,730 @@
+[
+  {
+    "id": "7503032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Buntulia",
+      "en": "Buntulia",
+      "slug": "buntulia-7503032"
+    },
+    "code": {
+      "id": "7503032",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.702",
+      "lon": "121.983"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Dengilo",
+      "en": "Dengilo",
+      "slug": "dengilo-7503051"
+    },
+    "code": {
+      "id": "7503051",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.712",
+      "lon": "122.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503033",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Duhiadaa",
+      "en": "Duhiadaa",
+      "slug": "duhiadaa-7503033"
+    },
+    "code": {
+      "id": "7503033",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.476",
+      "lon": "121.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lemito",
+      "en": "Lemito",
+      "slug": "lemito-7503020"
+    },
+    "code": {
+      "id": "7503020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.685",
+      "lon": "121.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Marisa",
+      "en": "Marisa",
+      "slug": "marisa-7503030"
+    },
+    "code": {
+      "id": "7503030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.471",
+      "lon": "121.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paguat",
+      "en": "Paguat",
+      "slug": "paguat-7503050"
+    },
+    "code": {
+      "id": "7503050",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.498",
+      "lon": "122.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Patilanggio",
+      "en": "Patilanggio",
+      "slug": "patilanggio-7503031"
+    },
+    "code": {
+      "id": "7503031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.704",
+      "lon": "121.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Popayato",
+      "en": "Popayato",
+      "slug": "popayato-7503010"
+    },
+    "code": {
+      "id": "7503010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.63",
+      "lon": "121.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Popayato Barat",
+      "en": "Popayato Barat",
+      "slug": "popayato-barat-7503011"
+    },
+    "code": {
+      "id": "7503011",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.663",
+      "lon": "121.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Popayato Timur",
+      "en": "Popayato Timur",
+      "slug": "popayato-timur-7503012"
+    },
+    "code": {
+      "id": "7503012",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.654",
+      "lon": "121.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Randangan",
+      "en": "Randangan",
+      "slug": "randangan-7503040"
+    },
+    "code": {
+      "id": "7503040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.511",
+      "lon": "121.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503041",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Taluditi",
+      "en": "Taluditi",
+      "slug": "taluditi-7503041"
+    },
+    "code": {
+      "id": "7503041",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.789",
+      "lon": "121.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7503021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wanggarasi",
+      "en": "Wanggarasi",
+      "slug": "wanggarasi-7503021"
+    },
+    "code": {
+      "id": "7503021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pohuwato",
+        "en": "Pohuwato",
+        "slug": "pohuwato-7503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "local": "Gorontalo",
+          "en": "Gorontalo",
+          "slug": "gorontalo-75"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Pohuwato",
+          "en": "Pohuwato",
+          "slug": "pohuwato-7503"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.682",
+      "lon": "121.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

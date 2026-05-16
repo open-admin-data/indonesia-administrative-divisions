@@ -1,0 +1,197 @@
+[
+  {
+    "id": "5204112002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Ai Mual",
+      "en": "Ai Mual",
+      "slug": "ai-mual-5204112002"
+    },
+    "code": {
+      "id": "5204112002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204112",
+      "level": 3,
+      "name": {
+        "local": "Lantung",
+        "en": "Lantung",
+        "slug": "lantung-5204112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204112",
+        "level": 3,
+        "name": {
+          "local": "Lantung",
+          "en": "Lantung",
+          "slug": "lantung-5204112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84375"
+    ],
+    "geo": {
+      "lat": "-8.733",
+      "lon": "117.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204112003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lantung",
+      "en": "Lantung",
+      "slug": "lantung-5204112003"
+    },
+    "code": {
+      "id": "5204112003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204112",
+      "level": 3,
+      "name": {
+        "local": "Lantung",
+        "en": "Lantung",
+        "slug": "lantung-5204112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204112",
+        "level": 3,
+        "name": {
+          "local": "Lantung",
+          "en": "Lantung",
+          "slug": "lantung-5204112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84375"
+    ],
+    "geo": {
+      "lat": "-8.78",
+      "lon": "117.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204112004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Padesa",
+      "en": "Padesa",
+      "slug": "padesa-5204112004"
+    },
+    "code": {
+      "id": "5204112004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204112",
+      "level": 3,
+      "name": {
+        "local": "Lantung",
+        "en": "Lantung",
+        "slug": "lantung-5204112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204112",
+        "level": 3,
+        "name": {
+          "local": "Lantung",
+          "en": "Lantung",
+          "slug": "lantung-5204112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84375"
+    ],
+    "geo": {
+      "lat": "-8.752",
+      "lon": "117.491"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

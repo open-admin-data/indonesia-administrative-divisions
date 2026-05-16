@@ -1,0 +1,392 @@
+[
+  {
+    "id": "6471050003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baru Ilir",
+      "en": "Baru Ilir",
+      "slug": "baru-ilir-6471050003"
+    },
+    "code": {
+      "id": "6471050003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471050",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Barat",
+        "en": "Balikpapan Barat",
+        "slug": "balikpapan-barat-6471050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471050",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Barat",
+          "en": "Balikpapan Barat",
+          "slug": "balikpapan-barat-6471050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76131"
+    ],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "116.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471050001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baru Tengah",
+      "en": "Baru Tengah",
+      "slug": "baru-tengah-6471050001"
+    },
+    "code": {
+      "id": "6471050001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471050",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Barat",
+        "en": "Balikpapan Barat",
+        "slug": "balikpapan-barat-6471050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471050",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Barat",
+          "en": "Balikpapan Barat",
+          "slug": "balikpapan-barat-6471050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76131"
+    ],
+    "geo": {
+      "lat": "-1.233",
+      "lon": "116.816"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471050005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Baru Ulu",
+      "en": "Baru Ulu",
+      "slug": "baru-ulu-6471050005"
+    },
+    "code": {
+      "id": "6471050005",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471050",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Barat",
+        "en": "Balikpapan Barat",
+        "slug": "balikpapan-barat-6471050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471050",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Barat",
+          "en": "Balikpapan Barat",
+          "slug": "balikpapan-barat-6471050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76131"
+    ],
+    "geo": {
+      "lat": "-1.225",
+      "lon": "116.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471050006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kariangau",
+      "en": "Kariangau",
+      "slug": "kariangau-6471050006"
+    },
+    "code": {
+      "id": "6471050006",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471050",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Barat",
+        "en": "Balikpapan Barat",
+        "slug": "balikpapan-barat-6471050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471050",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Barat",
+          "en": "Balikpapan Barat",
+          "slug": "balikpapan-barat-6471050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76131"
+    ],
+    "geo": {
+      "lat": "-1.099",
+      "lon": "116.82"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471050002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marga Sari",
+      "en": "Marga Sari",
+      "slug": "marga-sari-6471050002"
+    },
+    "code": {
+      "id": "6471050002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471050",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Barat",
+        "en": "Balikpapan Barat",
+        "slug": "balikpapan-barat-6471050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471050",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Barat",
+          "en": "Balikpapan Barat",
+          "slug": "balikpapan-barat-6471050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76131"
+    ],
+    "geo": {
+      "lat": "-1.237",
+      "lon": "116.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6471050004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Margo Mulyo",
+      "en": "Margo Mulyo",
+      "slug": "margo-mulyo-6471050004"
+    },
+    "code": {
+      "id": "6471050004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6471050",
+      "level": 3,
+      "name": {
+        "local": "Balikpapan Barat",
+        "en": "Balikpapan Barat",
+        "slug": "balikpapan-barat-6471050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "64",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Timur",
+          "en": "East Kalimantan",
+          "slug": "east-kalimantan-64"
+        }
+      },
+      {
+        "id": "6471",
+        "level": 2,
+        "name": {
+          "local": "Kota Balikpapan",
+          "en": "Balikpapan",
+          "slug": "balikpapan-6471"
+        }
+      },
+      {
+        "id": "6471050",
+        "level": 3,
+        "name": {
+          "local": "Balikpapan Barat",
+          "en": "Balikpapan Barat",
+          "slug": "balikpapan-barat-6471050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "76131"
+    ],
+    "geo": {
+      "lat": "-1.222",
+      "lon": "116.828"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

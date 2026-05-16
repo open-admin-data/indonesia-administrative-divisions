@@ -1,0 +1,197 @@
+[
+  {
+    "id": "5204121004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Hijrah",
+      "en": "Hijrah",
+      "slug": "hijrah-5204121004"
+    },
+    "code": {
+      "id": "5204121004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204121",
+      "level": 3,
+      "name": {
+        "local": "Lape",
+        "en": "Lape",
+        "slug": "lape-5204121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204121",
+        "level": 3,
+        "name": {
+          "local": "Lape",
+          "en": "Lape",
+          "slug": "lape-5204121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84382"
+    ],
+    "geo": {
+      "lat": "-8.609",
+      "lon": "117.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204121003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Labuan Kuris",
+      "en": "Labuan Kuris",
+      "slug": "labuan-kuris-5204121003"
+    },
+    "code": {
+      "id": "5204121003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204121",
+      "level": 3,
+      "name": {
+        "local": "Lape",
+        "en": "Lape",
+        "slug": "lape-5204121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204121",
+        "level": 3,
+        "name": {
+          "local": "Lape",
+          "en": "Lape",
+          "slug": "lape-5204121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84382"
+    ],
+    "geo": {
+      "lat": "-8.581",
+      "lon": "117.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5204121001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lape",
+      "en": "Lape",
+      "slug": "lape-5204121001"
+    },
+    "code": {
+      "id": "5204121001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204121",
+      "level": 3,
+      "name": {
+        "local": "Lape",
+        "en": "Lape",
+        "slug": "lape-5204121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Barat",
+          "en": "West Nusa Tenggara",
+          "slug": "west-nusa-tenggara-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Sumbawa",
+          "en": "Sumbawa",
+          "slug": "sumbawa-5204"
+        }
+      },
+      {
+        "id": "5204121",
+        "level": 3,
+        "name": {
+          "local": "Lape",
+          "en": "Lape",
+          "slug": "lape-5204121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84382"
+    ],
+    "geo": {
+      "lat": "-8.639",
+      "lon": "117.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

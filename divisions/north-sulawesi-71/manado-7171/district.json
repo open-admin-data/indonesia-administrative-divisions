@@ -1,0 +1,618 @@
+[
+  {
+    "id": "7171053",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bunaken",
+      "en": "Bunaken",
+      "slug": "bunaken-7171053"
+    },
+    "code": {
+      "id": "7171053",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.552",
+      "lon": "124.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171054",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bunaken Kepulauan",
+      "en": "Bunaken Kepulauan",
+      "slug": "bunaken-kepulauan-7171054"
+    },
+    "code": {
+      "id": "7171054",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.622",
+      "lon": "124.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Malalayang",
+      "en": "Malalayang",
+      "slug": "malalayang-7171010"
+    },
+    "code": {
+      "id": "7171010",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.447",
+      "lon": "124.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mapanget",
+      "en": "Mapanget",
+      "slug": "mapanget-7171040"
+    },
+    "code": {
+      "id": "7171040",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.528",
+      "lon": "124.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Paal Dua",
+      "en": "Paal Dua",
+      "slug": "paal-dua-7171032"
+    },
+    "code": {
+      "id": "7171032",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.476",
+      "lon": "124.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sario",
+      "en": "Sario",
+      "slug": "sario-7171020"
+    },
+    "code": {
+      "id": "7171020",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.469",
+      "lon": "124.833"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Singkil",
+      "en": "Singkil",
+      "slug": "singkil-7171051"
+    },
+    "code": {
+      "id": "7171051",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.5",
+      "lon": "124.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tikala",
+      "en": "Tikala",
+      "slug": "tikala-7171031"
+    },
+    "code": {
+      "id": "7171031",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.468",
+      "lon": "124.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Tuminting",
+      "en": "Tuminting",
+      "slug": "tuminting-7171052"
+    },
+    "code": {
+      "id": "7171052",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.511",
+      "lon": "124.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wanea",
+      "en": "Wanea",
+      "slug": "wanea-7171021"
+    },
+    "code": {
+      "id": "7171021",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.457",
+      "lon": "124.847"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7171030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wenang",
+      "en": "Wenang",
+      "slug": "wenang-7171030"
+    },
+    "code": {
+      "id": "7171030",
+      "iso": null
+    },
+    "parent": {
+      "id": "7171",
+      "level": 2,
+      "name": {
+        "local": "Kota Manado",
+        "en": "Manado",
+        "slug": "manado-7171"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "Sulawesi Utara",
+          "en": "North Sulawesi",
+          "slug": "north-sulawesi-71"
+        }
+      },
+      {
+        "id": "7171",
+        "level": 2,
+        "name": {
+          "local": "Kota Manado",
+          "en": "Manado",
+          "slug": "manado-7171"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "1.486",
+      "lon": "124.84"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

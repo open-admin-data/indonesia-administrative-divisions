@@ -1,0 +1,56 @@
+{
+  "id": "1609081",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Belitang Mulya",
+    "en": "Belitang Mulya",
+    "slug": "belitang-mulya-1609081"
+  },
+  "code": {
+    "id": "1609081",
+    "iso": null
+  },
+  "parent": {
+    "id": "1609",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Ogan Komering Ulu Timur",
+      "en": "Ogan Komering Ulu Timur",
+      "slug": "ogan-komering-ulu-timur-1609"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Selatan",
+        "en": "South Sumatra",
+        "slug": "south-sumatra-16"
+      }
+    },
+    {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ogan Komering Ulu Timur",
+        "en": "Ogan Komering Ulu Timur",
+        "slug": "ogan-komering-ulu-timur-1609"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.04",
+    "lon": "104.733"
+  },
+  "metadata": {},
+  "source": {}
+}

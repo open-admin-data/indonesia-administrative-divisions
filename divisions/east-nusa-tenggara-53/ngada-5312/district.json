@@ -1,0 +1,674 @@
+[
+  {
+    "id": "5312010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Aimere",
+      "en": "Aimere",
+      "slug": "aimere-5312010"
+    },
+    "code": {
+      "id": "5312010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.806",
+      "lon": "120.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bajawa",
+      "en": "Bajawa",
+      "slug": "bajawa-5312020"
+    },
+    "code": {
+      "id": "5312020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 20
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.814",
+      "lon": "120.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bajawa Utara",
+      "en": "Bajawa Utara",
+      "slug": "bajawa-utara-5312070"
+    },
+    "code": {
+      "id": "5312070",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.699",
+      "lon": "120.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Golewa",
+      "en": "Golewa",
+      "slug": "golewa-5312030"
+    },
+    "code": {
+      "id": "5312030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.816",
+      "lon": "121.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312032",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Golewa Barat",
+      "en": "Golewa Barat",
+      "slug": "golewa-barat-5312032"
+    },
+    "code": {
+      "id": "5312032",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.808",
+      "lon": "121.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Golewa Selatan",
+      "en": "Golewa Selatan",
+      "slug": "golewa-selatan-5312031"
+    },
+    "code": {
+      "id": "5312031",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.888",
+      "lon": "121.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312012",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Inerie",
+      "en": "Inerie",
+      "slug": "inerie-5312012"
+    },
+    "code": {
+      "id": "5312012",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.913",
+      "lon": "120.949"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jerebuu",
+      "en": "Jerebuu",
+      "slug": "jerebuu-5312011"
+    },
+    "code": {
+      "id": "5312011",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.895",
+      "lon": "121.007"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Riung",
+      "en": "Riung",
+      "slug": "riung-5312080"
+    },
+    "code": {
+      "id": "5312080",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.462",
+      "lon": "121.048"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Riung Barat",
+      "en": "Riung Barat",
+      "slug": "riung-barat-5312081"
+    },
+    "code": {
+      "id": "5312081",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.54",
+      "lon": "120.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Soa",
+      "en": "Soa",
+      "slug": "soa-5312071"
+    },
+    "code": {
+      "id": "5312071",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.705",
+      "lon": "121.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5312082",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Wolomeze",
+      "en": "Wolomeze",
+      "slug": "wolomeze-5312082"
+    },
+    "code": {
+      "id": "5312082",
+      "iso": null
+    },
+    "parent": {
+      "id": "5312",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Ngada",
+        "en": "Ngada",
+        "slug": "ngada-5312"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "Nusa Tenggara Timur",
+          "en": "East Nusa Tenggara",
+          "slug": "east-nusa-tenggara-53"
+        }
+      },
+      {
+        "id": "5312",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Ngada",
+          "en": "Ngada",
+          "slug": "ngada-5312"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.597",
+      "lon": "121.023"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

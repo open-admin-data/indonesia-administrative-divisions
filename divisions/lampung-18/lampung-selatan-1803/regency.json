@@ -1,0 +1,48 @@
+{
+  "id": "1803",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Lampung Selatan",
+    "en": "Lampung Selatan",
+    "slug": "lampung-selatan-1803"
+  },
+  "code": {
+    "id": "1803",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "Lampung",
+      "en": "Lampung",
+      "slug": "lampung-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 260
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.829",
+    "lon": "104.887"
+  },
+  "metadata": {},
+  "source": {}
+}

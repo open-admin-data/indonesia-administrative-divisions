@@ -1,0 +1,56 @@
+{
+  "id": "3522020",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngraho",
+    "en": "Ngraho",
+    "slug": "ngraho-3522020"
+  },
+  "code": {
+    "id": "3522020",
+    "iso": null
+  },
+  "parent": {
+    "id": "3522",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Bojonegoro",
+      "en": "Bojonegoro",
+      "slug": "bojonegoro-3522"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3522",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Bojonegoro",
+        "en": "Bojonegoro",
+        "slug": "bojonegoro-3522"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.256",
+    "lon": "111.54"
+  },
+  "metadata": {},
+  "source": {}
+}

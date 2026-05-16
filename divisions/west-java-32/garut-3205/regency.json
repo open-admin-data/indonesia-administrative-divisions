@@ -1,0 +1,48 @@
+{
+  "id": "3205",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Garut",
+    "en": "Garut",
+    "slug": "garut-3205"
+  },
+  "code": {
+    "id": "3205",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "Jawa Barat",
+      "en": "West Java",
+      "slug": "west-java-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "Jawa Barat",
+        "en": "West Java",
+        "slug": "west-java-32"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 42,
+    "village": 439
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.203",
+    "lon": "107.886"
+  },
+  "metadata": {},
+  "source": {}
+}

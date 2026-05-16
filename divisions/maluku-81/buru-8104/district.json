@@ -1,0 +1,562 @@
+[
+  {
+    "id": "8104030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Air Buaya",
+      "en": "Air Buaya",
+      "slug": "air-buaya-8104030"
+    },
+    "code": {
+      "id": "8104030",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.249",
+      "lon": "126.318"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104023",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bata Bual",
+      "en": "Bata Bual",
+      "slug": "bata-bual-8104023"
+    },
+    "code": {
+      "id": "8104023",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.495",
+      "lon": "127.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Fena Leisela",
+      "en": "Fena Leisela",
+      "slug": "fena-leisela-8104031"
+    },
+    "code": {
+      "id": "8104031",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.264",
+      "lon": "126.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104027",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lilialy",
+      "en": "Lilialy",
+      "slug": "lilialy-8104027"
+    },
+    "code": {
+      "id": "8104027",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.2",
+      "lon": "126.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104026",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lolong Guba",
+      "en": "Lolong Guba",
+      "slug": "lolong-guba-8104026"
+    },
+    "code": {
+      "id": "8104026",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.387",
+      "lon": "126.842"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Namlea",
+      "en": "Namlea",
+      "slug": "namlea-8104020"
+    },
+    "code": {
+      "id": "8104020",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.258",
+      "lon": "127.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104024",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Teluk Kaiely",
+      "en": "Teluk Kaiely",
+      "slug": "teluk-kaiely-8104024"
+    },
+    "code": {
+      "id": "8104024",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.442",
+      "lon": "127.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waeapo",
+      "en": "Waeapo",
+      "slug": "waeapo-8104021"
+    },
+    "code": {
+      "id": "8104021",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.34",
+      "lon": "126.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104025",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waelata",
+      "en": "Waelata",
+      "slug": "waelata-8104025"
+    },
+    "code": {
+      "id": "8104025",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.493",
+      "lon": "126.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8104022",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Waplau",
+      "en": "Waplau",
+      "slug": "waplau-8104022"
+    },
+    "code": {
+      "id": "8104022",
+      "iso": null
+    },
+    "parent": {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Buru",
+        "en": "Buru",
+        "slug": "buru-8104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "Maluku",
+          "en": "Maluku",
+          "slug": "maluku-81"
+        }
+      },
+      {
+        "id": "8104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Buru",
+          "en": "Buru",
+          "slug": "buru-8104"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.163",
+      "lon": "126.78"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,48 @@
+{
+  "id": "6102",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bengkayang",
+    "en": "Bengkayang",
+    "slug": "bengkayang-6102"
+  },
+  "code": {
+    "id": "6102",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "Kalimantan Barat",
+      "en": "West Kalimantan",
+      "slug": "west-kalimantan-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Barat",
+        "en": "West Kalimantan",
+        "slug": "west-kalimantan-61"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 17,
+    "village": 120
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.351",
+    "lon": "108.962"
+  },
+  "metadata": {},
+  "source": {}
+}

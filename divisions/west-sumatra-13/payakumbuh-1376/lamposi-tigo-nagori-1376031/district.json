@@ -1,0 +1,56 @@
+{
+  "id": "1376031",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lamposi Tigo Nagori",
+    "en": "Lamposi Tigo Nagori",
+    "slug": "lamposi-tigo-nagori-1376031"
+  },
+  "code": {
+    "id": "1376031",
+    "iso": null
+  },
+  "parent": {
+    "id": "1376",
+    "level": 2,
+    "name": {
+      "local": "Kota Payakumbuh",
+      "en": "Payakumbuh",
+      "slug": "payakumbuh-1376"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "Sumatera Barat",
+        "en": "West Sumatra",
+        "slug": "west-sumatra-13"
+      }
+    },
+    {
+      "id": "1376",
+      "level": 2,
+      "name": {
+        "local": "Kota Payakumbuh",
+        "en": "Payakumbuh",
+        "slug": "payakumbuh-1376"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-0.206",
+    "lon": "100.606"
+  },
+  "metadata": {},
+  "source": {}
+}

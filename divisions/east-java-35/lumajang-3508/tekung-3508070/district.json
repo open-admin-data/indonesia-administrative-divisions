@@ -1,0 +1,56 @@
+{
+  "id": "3508070",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Tekung",
+    "en": "Tekung",
+    "slug": "tekung-3508070"
+  },
+  "code": {
+    "id": "3508070",
+    "iso": null
+  },
+  "parent": {
+    "id": "3508",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Lumajang",
+      "en": "Lumajang",
+      "slug": "lumajang-3508"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3508",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lumajang",
+        "en": "Lumajang",
+        "slug": "lumajang-3508"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-8.182",
+    "lon": "113.255"
+  },
+  "metadata": {},
+  "source": {}
+}

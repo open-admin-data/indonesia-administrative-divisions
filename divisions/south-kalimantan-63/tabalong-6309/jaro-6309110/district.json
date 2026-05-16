@@ -1,0 +1,56 @@
+{
+  "id": "6309110",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Jaro",
+    "en": "Jaro",
+    "slug": "jaro-6309110"
+  },
+  "code": {
+    "id": "6309110",
+    "iso": null
+  },
+  "parent": {
+    "id": "6309",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tabalong",
+      "en": "Tabalong",
+      "slug": "tabalong-6309"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tabalong",
+        "en": "Tabalong",
+        "slug": "tabalong-6309"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-1.774",
+    "lon": "115.664"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,56 @@
+{
+  "id": "3374010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Mijen",
+    "en": "Mijen",
+    "slug": "mijen-3374010"
+  },
+  "code": {
+    "id": "3374010",
+    "iso": null
+  },
+  "parent": {
+    "id": "3374",
+    "level": 2,
+    "name": {
+      "local": "Kota Semarang",
+      "en": "Semarang",
+      "slug": "semarang-3374"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "Jawa Tengah",
+        "en": "Central Java",
+        "slug": "central-java-33"
+      }
+    },
+    {
+      "id": "3374",
+      "level": 2,
+      "name": {
+        "local": "Kota Semarang",
+        "en": "Semarang",
+        "slug": "semarang-3374"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.059",
+    "lon": "110.317"
+  },
+  "metadata": {},
+  "source": {}
+}

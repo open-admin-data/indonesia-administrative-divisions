@@ -1,0 +1,31 @@
+{
+  "id": "11",
+  "level": 1,
+  "level_name": {
+    "local": "Provinsi",
+    "en": "Province"
+  },
+  "name": {
+    "local": "Aceh",
+    "en": "Aceh",
+    "slug": "aceh-11"
+  },
+  "code": {
+    "id": "11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "regency": 23,
+    "village": 6509,
+    "district": 289
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.571",
+    "lon": "95.341"
+  },
+  "metadata": {},
+  "source": {}
+}

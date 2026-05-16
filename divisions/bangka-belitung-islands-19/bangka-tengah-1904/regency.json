@@ -1,0 +1,48 @@
+{
+  "id": "1904",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Bangka Tengah",
+    "en": "Bangka Tengah",
+    "slug": "bangka-tengah-1904"
+  },
+  "code": {
+    "id": "1904",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "Kepulauan Bangka Belitung",
+      "en": "Bangka Belitung Islands",
+      "slug": "bangka-belitung-islands-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "Kepulauan Bangka Belitung",
+        "en": "Bangka Belitung Islands",
+        "slug": "bangka-belitung-islands-19"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 6,
+    "village": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.515",
+    "lon": "106.416"
+  },
+  "metadata": {},
+  "source": {}
+}

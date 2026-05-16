@@ -1,0 +1,282 @@
+[
+  {
+    "id": "5101021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jembrana",
+      "en": "Jembrana",
+      "slug": "jembrana-5101021"
+    },
+    "code": {
+      "id": "5101021",
+      "iso": null
+    },
+    "parent": {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jembrana",
+        "en": "Jembrana",
+        "slug": "jembrana-5101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jembrana",
+          "en": "Jembrana",
+          "slug": "jembrana-5101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.315",
+      "lon": "114.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5101010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Melaya",
+      "en": "Melaya",
+      "slug": "melaya-5101010"
+    },
+    "code": {
+      "id": "5101010",
+      "iso": null
+    },
+    "parent": {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jembrana",
+        "en": "Jembrana",
+        "slug": "jembrana-5101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jembrana",
+          "en": "Jembrana",
+          "slug": "jembrana-5101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.247",
+      "lon": "114.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5101030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mendoyo",
+      "en": "Mendoyo",
+      "slug": "mendoyo-5101030"
+    },
+    "code": {
+      "id": "5101030",
+      "iso": null
+    },
+    "parent": {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jembrana",
+        "en": "Jembrana",
+        "slug": "jembrana-5101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jembrana",
+          "en": "Jembrana",
+          "slug": "jembrana-5101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.307",
+      "lon": "114.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5101020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Negara",
+      "en": "Negara",
+      "slug": "negara-5101020"
+    },
+    "code": {
+      "id": "5101020",
+      "iso": null
+    },
+    "parent": {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jembrana",
+        "en": "Jembrana",
+        "slug": "jembrana-5101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jembrana",
+          "en": "Jembrana",
+          "slug": "jembrana-5101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.315",
+      "lon": "114.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5101040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pekutatan",
+      "en": "Pekutatan",
+      "slug": "pekutatan-5101040"
+    },
+    "code": {
+      "id": "5101040",
+      "iso": null
+    },
+    "parent": {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Jembrana",
+        "en": "Jembrana",
+        "slug": "jembrana-5101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "Bali",
+          "en": "Bali",
+          "slug": "bali-51"
+        }
+      },
+      {
+        "id": "5101",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Jembrana",
+          "en": "Jembrana",
+          "slug": "jembrana-5101"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-8.401",
+      "lon": "114.869"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

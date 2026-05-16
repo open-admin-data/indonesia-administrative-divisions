@@ -1,0 +1,56 @@
+{
+  "id": "3518080",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Ngronggot",
+    "en": "Ngronggot",
+    "slug": "ngronggot-3518080"
+  },
+  "code": {
+    "id": "3518080",
+    "iso": null
+  },
+  "parent": {
+    "id": "3518",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Nganjuk",
+      "en": "Nganjuk",
+      "slug": "nganjuk-3518"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "Jawa Timur",
+        "en": "East Java",
+        "slug": "east-java-35"
+      }
+    },
+    {
+      "id": "3518",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Nganjuk",
+        "en": "Nganjuk",
+        "slug": "nganjuk-3518"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-7.673",
+    "lon": "112.059"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,652 @@
+[
+  {
+    "id": "3518090011",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Banaran",
+      "en": "Banaran",
+      "slug": "banaran-3518090011"
+    },
+    "code": {
+      "id": "3518090011",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.59",
+      "lon": "112.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Bangsri",
+      "en": "Bangsri",
+      "slug": "bangsri-3518090003"
+    },
+    "code": {
+      "id": "3518090003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.629",
+      "lon": "112.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Juwono",
+      "en": "Juwono",
+      "slug": "juwono-3518090002"
+    },
+    "code": {
+      "id": "3518090002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.636",
+      "lon": "112.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kalianyar",
+      "en": "Kalianyar",
+      "slug": "kalianyar-3518090004"
+    },
+    "code": {
+      "id": "3518090004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.627",
+      "lon": "112.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090010",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Kutorejo",
+      "en": "Kutorejo",
+      "slug": "kutorejo-3518090010"
+    },
+    "code": {
+      "id": "3518090010",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.597",
+      "lon": "112.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090012",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Lambang Kuning",
+      "en": "Lambang Kuning",
+      "slug": "lambang-kuning-3518090012"
+    },
+    "code": {
+      "id": "3518090012",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.588",
+      "lon": "112.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090006",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Nglawak",
+      "en": "Nglawak",
+      "slug": "nglawak-3518090006"
+    },
+    "code": {
+      "id": "3518090006",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.609",
+      "lon": "112.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090013",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pandan Toyo",
+      "en": "Pandan Toyo",
+      "slug": "pandan-toyo-3518090013"
+    },
+    "code": {
+      "id": "3518090013",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.581",
+      "lon": "112.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090005",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tanjung",
+      "en": "Tanjung",
+      "slug": "tanjung-3518090005"
+    },
+    "code": {
+      "id": "3518090005",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.618",
+      "lon": "112.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "3518090008",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Tembarak",
+      "en": "Tembarak",
+      "slug": "tembarak-3518090008"
+    },
+    "code": {
+      "id": "3518090008",
+      "iso": null
+    },
+    "parent": {
+      "id": "3518090",
+      "level": 3,
+      "name": {
+        "local": "Kertosono",
+        "en": "Kertosono",
+        "slug": "kertosono-3518090"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "Jawa Timur",
+          "en": "East Java",
+          "slug": "east-java-35"
+        }
+      },
+      {
+        "id": "3518",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Nganjuk",
+          "en": "Nganjuk",
+          "slug": "nganjuk-3518"
+        }
+      },
+      {
+        "id": "3518090",
+        "level": 3,
+        "name": {
+          "local": "Kertosono",
+          "en": "Kertosono",
+          "slug": "kertosono-3518090"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "64496"
+    ],
+    "geo": {
+      "lat": "-7.605",
+      "lon": "112.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

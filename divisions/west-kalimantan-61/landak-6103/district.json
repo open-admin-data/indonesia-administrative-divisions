@@ -1,0 +1,730 @@
+[
+  {
+    "id": "6103110",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Air Besar",
+      "en": "Air Besar",
+      "slug": "air-besar-6103110"
+    },
+    "code": {
+      "id": "6103110",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.82",
+      "lon": "110.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103081",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Banyuke Hulu",
+      "en": "Banyuke Hulu",
+      "slug": "banyuke-hulu-6103081"
+    },
+    "code": {
+      "id": "6103081",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.648",
+      "lon": "109.546"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Jelimpo",
+      "en": "Jelimpo",
+      "slug": "jelimpo-6103031"
+    },
+    "code": {
+      "id": "6103031",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.37",
+      "lon": "110.109"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103100",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Kuala Behe",
+      "en": "Kuala Behe",
+      "slug": "kuala-behe-6103100"
+    },
+    "code": {
+      "id": "6103100",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.655",
+      "lon": "110.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mandor",
+      "en": "Mandor",
+      "slug": "mandor-6103050"
+    },
+    "code": {
+      "id": "6103050",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.328",
+      "lon": "109.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103070",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Mempawah Hulu",
+      "en": "Mempawah Hulu",
+      "slug": "mempawah-hulu-6103070"
+    },
+    "code": {
+      "id": "6103070",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.627",
+      "lon": "109.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103060",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Menjalin",
+      "en": "Menjalin",
+      "slug": "menjalin-6103060"
+    },
+    "code": {
+      "id": "6103060",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.484",
+      "lon": "109.369"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103080",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Menyuke",
+      "en": "Menyuke",
+      "slug": "menyuke-6103080"
+    },
+    "code": {
+      "id": "6103080",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.603",
+      "lon": "109.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103090",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Meranti",
+      "en": "Meranti",
+      "slug": "meranti-6103090"
+    },
+    "code": {
+      "id": "6103090",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.74",
+      "lon": "109.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Ngabang",
+      "en": "Ngabang",
+      "slug": "ngabang-6103030"
+    },
+    "code": {
+      "id": "6103030",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.326",
+      "lon": "109.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sebangki",
+      "en": "Sebangki",
+      "slug": "sebangki-6103020"
+    },
+    "code": {
+      "id": "6103020",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.144",
+      "lon": "109.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sengah Temila",
+      "en": "Sengah Temila",
+      "slug": "sengah-temila-6103040"
+    },
+    "code": {
+      "id": "6103040",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.327",
+      "lon": "109.671"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6103071",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Sompak",
+      "en": "Sompak",
+      "slug": "sompak-6103071"
+    },
+    "code": {
+      "id": "6103071",
+      "iso": null
+    },
+    "parent": {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Landak",
+        "en": "Landak",
+        "slug": "landak-6103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "Kalimantan Barat",
+          "en": "West Kalimantan",
+          "slug": "west-kalimantan-61"
+        }
+      },
+      {
+        "id": "6103",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Landak",
+          "en": "Landak",
+          "slug": "landak-6103"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "0.507",
+      "lon": "109.498"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

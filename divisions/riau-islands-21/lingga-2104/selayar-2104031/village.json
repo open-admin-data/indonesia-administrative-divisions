@@ -1,0 +1,262 @@
+[
+  {
+    "id": "2104031003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Pantai Harapan",
+      "en": "Pantai Harapan",
+      "slug": "pantai-harapan-2104031003"
+    },
+    "code": {
+      "id": "2104031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104031",
+      "level": 3,
+      "name": {
+        "local": "Selayar",
+        "en": "Selayar",
+        "slug": "selayar-2104031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104031",
+        "level": 3,
+        "name": {
+          "local": "Selayar",
+          "en": "Selayar",
+          "slug": "selayar-2104031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29856"
+    ],
+    "geo": {
+      "lat": "-0.299",
+      "lon": "104.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104031002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Penuba",
+      "en": "Penuba",
+      "slug": "penuba-2104031002"
+    },
+    "code": {
+      "id": "2104031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104031",
+      "level": 3,
+      "name": {
+        "local": "Selayar",
+        "en": "Selayar",
+        "slug": "selayar-2104031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104031",
+        "level": 3,
+        "name": {
+          "local": "Selayar",
+          "en": "Selayar",
+          "slug": "selayar-2104031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29856"
+    ],
+    "geo": {
+      "lat": "-0.299",
+      "lon": "104.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104031004",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Penuba Timur",
+      "en": "Penuba Timur",
+      "slug": "penuba-timur-2104031004"
+    },
+    "code": {
+      "id": "2104031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104031",
+      "level": 3,
+      "name": {
+        "local": "Selayar",
+        "en": "Selayar",
+        "slug": "selayar-2104031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104031",
+        "level": 3,
+        "name": {
+          "local": "Selayar",
+          "en": "Selayar",
+          "slug": "selayar-2104031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29856"
+    ],
+    "geo": {
+      "lat": "-0.299",
+      "lon": "104.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104031001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Selayar",
+      "en": "Selayar",
+      "slug": "selayar-2104031001"
+    },
+    "code": {
+      "id": "2104031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104031",
+      "level": 3,
+      "name": {
+        "local": "Selayar",
+        "en": "Selayar",
+        "slug": "selayar-2104031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104031",
+        "level": 3,
+        "name": {
+          "local": "Selayar",
+          "en": "Selayar",
+          "slug": "selayar-2104031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29856"
+    ],
+    "geo": {
+      "lat": "-0.299",
+      "lon": "104.461"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

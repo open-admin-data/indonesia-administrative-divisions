@@ -1,0 +1,56 @@
+{
+  "id": "1104040",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Babussalam",
+    "en": "Babussalam",
+    "slug": "babussalam-1104040"
+  },
+  "code": {
+    "id": "1104040",
+    "iso": null
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Aceh Tenggara",
+      "en": "Aceh Tenggara",
+      "slug": "aceh-tenggara-1104"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "Aceh",
+        "en": "Aceh",
+        "slug": "aceh-11"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Aceh Tenggara",
+        "en": "Aceh Tenggara",
+        "slug": "aceh-tenggara-1104"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 27
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "3.487",
+    "lon": "97.807"
+  },
+  "metadata": {},
+  "source": {}
+}

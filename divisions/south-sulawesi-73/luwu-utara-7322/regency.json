@@ -1,0 +1,48 @@
+{
+  "id": "7322",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Luwu Utara",
+    "en": "Luwu Utara",
+    "slug": "luwu-utara-7322"
+  },
+  "code": {
+    "id": "7322",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "Sulawesi Selatan",
+      "en": "South Sulawesi",
+      "slug": "south-sulawesi-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Selatan",
+        "en": "South Sulawesi",
+        "slug": "south-sulawesi-73"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 12,
+    "village": 175
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-2.55",
+    "lon": "120.346"
+  },
+  "metadata": {},
+  "source": {}
+}

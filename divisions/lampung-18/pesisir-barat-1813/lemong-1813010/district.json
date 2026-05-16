@@ -1,0 +1,56 @@
+{
+  "id": "1813010",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Lemong",
+    "en": "Lemong",
+    "slug": "lemong-1813010"
+  },
+  "code": {
+    "id": "1813010",
+    "iso": null
+  },
+  "parent": {
+    "id": "1813",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Pesisir Barat",
+      "en": "Pesisir Barat",
+      "slug": "pesisir-barat-1813"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "Lampung",
+        "en": "Lampung",
+        "slug": "lampung-18"
+      }
+    },
+    {
+      "id": "1813",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Pesisir Barat",
+        "en": "Pesisir Barat",
+        "slug": "pesisir-barat-1813"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-4.951",
+    "lon": "103.757"
+  },
+  "metadata": {},
+  "source": {}
+}

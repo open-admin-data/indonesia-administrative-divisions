@@ -1,0 +1,56 @@
+{
+  "id": "6310052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Simpang Empat",
+    "en": "Simpang Empat",
+    "slug": "simpang-empat-6310052"
+  },
+  "code": {
+    "id": "6310052",
+    "iso": null
+  },
+  "parent": {
+    "id": "6310",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Tanah Bumbu",
+      "en": "Tanah Bumbu",
+      "slug": "tanah-bumbu-6310"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "Kalimantan Selatan",
+        "en": "South Kalimantan",
+        "slug": "south-kalimantan-63"
+      }
+    },
+    {
+      "id": "6310",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Tanah Bumbu",
+        "en": "Tanah Bumbu",
+        "slug": "tanah-bumbu-6310"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.297",
+    "lon": "115.97"
+  },
+  "metadata": {},
+  "source": {}
+}

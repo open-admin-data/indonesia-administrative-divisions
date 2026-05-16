@@ -1,0 +1,56 @@
+{
+  "id": "7410052",
+  "level": 3,
+  "level_name": {
+    "local": "Kecamatan",
+    "en": "District"
+  },
+  "name": {
+    "local": "Oheo",
+    "en": "Oheo",
+    "slug": "oheo-7410052"
+  },
+  "code": {
+    "id": "7410052",
+    "iso": null
+  },
+  "parent": {
+    "id": "7410",
+    "level": 2,
+    "name": {
+      "local": "Kabupaten Konawe Utara",
+      "en": "Konawe Utara",
+      "slug": "konawe-utara-7410"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "Sulawesi Tenggara",
+        "en": "Southeast Sulawesi",
+        "slug": "southeast-sulawesi-74"
+      }
+    },
+    {
+      "id": "7410",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Konawe Utara",
+        "en": "Konawe Utara",
+        "slug": "konawe-utara-7410"
+      }
+    }
+  ],
+  "children_count": {
+    "village": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "-3.382",
+    "lon": "122.059"
+  },
+  "metadata": {},
+  "source": {}
+}

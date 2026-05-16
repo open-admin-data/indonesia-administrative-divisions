@@ -1,0 +1,48 @@
+{
+  "id": "1406",
+  "level": 2,
+  "level_name": {
+    "local": "Kabupaten/Kota",
+    "en": "Regency/City"
+  },
+  "name": {
+    "local": "Kabupaten Kampar",
+    "en": "Kampar",
+    "slug": "kampar-1406"
+  },
+  "code": {
+    "id": "1406",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "Riau",
+        "en": "Riau",
+        "slug": "riau-14"
+      }
+    }
+  ],
+  "children_count": {
+    "district": 21,
+    "village": 250
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "0.9",
+    "lon": "100.307"
+  },
+  "metadata": {},
+  "source": {}
+}

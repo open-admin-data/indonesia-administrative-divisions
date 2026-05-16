@@ -1,0 +1,674 @@
+[
+  {
+    "id": "1707051",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Amen",
+      "en": "Amen",
+      "slug": "amen-1707051"
+    },
+    "code": {
+      "id": "1707051",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.127",
+      "lon": "102.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707021",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Bingin Kuning",
+      "en": "Bingin Kuning",
+      "slug": "bingin-kuning-1707021"
+    },
+    "code": {
+      "id": "1707021",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.175",
+      "lon": "102.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707040",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebong Atas",
+      "en": "Lebong Atas",
+      "slug": "lebong-atas-1707040"
+    },
+    "code": {
+      "id": "1707040",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.18",
+      "lon": "102.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707031",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebong Sakti",
+      "en": "Lebong Sakti",
+      "slug": "lebong-sakti-1707031"
+    },
+    "code": {
+      "id": "1707031",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.114",
+      "lon": "102.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707020",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebong Selatan",
+      "en": "Lebong Selatan",
+      "slug": "lebong-selatan-1707020"
+    },
+    "code": {
+      "id": "1707020",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.277",
+      "lon": "102.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707030",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebong Tengah",
+      "en": "Lebong Tengah",
+      "slug": "lebong-tengah-1707030"
+    },
+    "code": {
+      "id": "1707030",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.211",
+      "lon": "102.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707050",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Lebong Utara",
+      "en": "Lebong Utara",
+      "slug": "lebong-utara-1707050"
+    },
+    "code": {
+      "id": "1707050",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.117",
+      "lon": "102.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707042",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pelabai",
+      "en": "Pelabai",
+      "slug": "pelabai-1707042"
+    },
+    "code": {
+      "id": "1707042",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.144",
+      "lon": "102.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707053",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Pinang Belapis",
+      "en": "Pinang Belapis",
+      "slug": "pinang-belapis-1707053"
+    },
+    "code": {
+      "id": "1707053",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-2.911",
+      "lon": "102.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707010",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Rimbo Pengadang",
+      "en": "Rimbo Pengadang",
+      "slug": "rimbo-pengadang-1707010"
+    },
+    "code": {
+      "id": "1707010",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.309",
+      "lon": "102.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707011",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Topos",
+      "en": "Topos",
+      "slug": "topos-1707011"
+    },
+    "code": {
+      "id": "1707011",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.149",
+      "lon": "102.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1707052",
+    "level": 3,
+    "level_name": {
+      "local": "Kecamatan",
+      "en": "District"
+    },
+    "name": {
+      "local": "Uram Jaya",
+      "en": "Uram Jaya",
+      "slug": "uram-jaya-1707052"
+    },
+    "code": {
+      "id": "1707052",
+      "iso": null
+    },
+    "parent": {
+      "id": "1707",
+      "level": 2,
+      "name": {
+        "local": "Kabupaten Lebong",
+        "en": "Lebong",
+        "slug": "lebong-1707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "17",
+        "level": 1,
+        "name": {
+          "local": "Bengkulu",
+          "en": "Bengkulu",
+          "slug": "bengkulu-17"
+        }
+      },
+      {
+        "id": "1707",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lebong",
+          "en": "Lebong",
+          "slug": "lebong-1707"
+        }
+      }
+    ],
+    "children_count": {
+      "village": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "-3.073",
+      "lon": "102.26"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

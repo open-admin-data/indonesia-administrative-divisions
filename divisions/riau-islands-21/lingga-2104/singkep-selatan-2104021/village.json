@@ -1,0 +1,197 @@
+[
+  {
+    "id": "2104021001",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Berhala",
+      "en": "Berhala",
+      "slug": "berhala-2104021001"
+    },
+    "code": {
+      "id": "2104021001",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104021",
+      "level": 3,
+      "name": {
+        "local": "Singkep Selatan",
+        "en": "Singkep Selatan",
+        "slug": "singkep-selatan-2104021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104021",
+        "level": 3,
+        "name": {
+          "local": "Singkep Selatan",
+          "en": "Singkep Selatan",
+          "slug": "singkep-selatan-2104021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29877"
+    ],
+    "geo": {
+      "lat": "-0.773",
+      "lon": "104.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104021002",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Marok Kecil",
+      "en": "Marok Kecil",
+      "slug": "marok-kecil-2104021002"
+    },
+    "code": {
+      "id": "2104021002",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104021",
+      "level": 3,
+      "name": {
+        "local": "Singkep Selatan",
+        "en": "Singkep Selatan",
+        "slug": "singkep-selatan-2104021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104021",
+        "level": 3,
+        "name": {
+          "local": "Singkep Selatan",
+          "en": "Singkep Selatan",
+          "slug": "singkep-selatan-2104021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29877"
+    ],
+    "geo": {
+      "lat": "-0.564",
+      "lon": "104.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "2104021003",
+    "level": 4,
+    "level_name": {
+      "local": "Desa/Kelurahan",
+      "en": "Village"
+    },
+    "name": {
+      "local": "Resang",
+      "en": "Resang",
+      "slug": "resang-2104021003"
+    },
+    "code": {
+      "id": "2104021003",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104021",
+      "level": 3,
+      "name": {
+        "local": "Singkep Selatan",
+        "en": "Singkep Selatan",
+        "slug": "singkep-selatan-2104021"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "Kepulauan Riau",
+          "en": "Riau Islands",
+          "slug": "riau-islands-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "Kabupaten Lingga",
+          "en": "Lingga",
+          "slug": "lingga-2104"
+        }
+      },
+      {
+        "id": "2104021",
+        "level": 3,
+        "name": {
+          "local": "Singkep Selatan",
+          "en": "Singkep Selatan",
+          "slug": "singkep-selatan-2104021"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "29877"
+    ],
+    "geo": {
+      "lat": "-0.473",
+      "lon": "104.426"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]
