@@ -16,9 +16,10 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (village level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/id](https://openadmindata.org/id/) |
 | API | [openadmindata.org/api/id](https://openadmindata.org/api/id/) |
+| Flag | [PNG](https://onlygames.me/flags-png/id/) · [SVG](https://onlygames.me/flags-svg/id/) · [PDF](https://onlygames.me/flags-pdf/id/) |
 | National Anthem | [🎵 Listen & Download Indonesia National Anthem MP3](https://onlygames.me/national-anthems/id/) |
 
 ## Browse by Province
